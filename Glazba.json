@@ -1,0 +1,1690 @@
+[
+  {
+    "type": "blitz",
+    "rarity": "silver",
+    "difficulty": 3,
+    "topic": "Glazba",
+    "question": "S kojim prirodnim satelitom možemo povezati Michaela Jacksona?",
+    "answers": [
+      "Mjesecom",
+      "Mjesec",
+      "Moons",
+      "Moon",
+      "Muns",
+      "Mun",
+      "Mon",
+      "Mons",
+      "Misecom",
+      "Misec"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Glazba",
+    "question": "Violinu koja se 2013.g. na aukciji prodala za 900 000 funti, je Wallace Hartley svirao 1912.g. na kojem brodu?",
+    "answers": [
+      "Titaniku",
+      "Titanik",
+      "Titanicu",
+      "Titanic",
+      "Titanics",
+      "Titaniks"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Glazba",
+    "question": "Koji je član hip-hop grupe Niggaz Wit Attitudes glumio u filmskoj franšizi Triple X (xXx)?",
+    "answers": [
+      "Ice Cube",
+      "Ajs Kjub",
+      "O'Shea Jackson",
+      "Ošea Džekson",
+      "Jackson",
+      "Džekson"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Glazba",
+    "question": "Za koje su glazbalo napisana '4 godišnja doba', ciklus od 4 koncerta Antonija Vivaldija?",
+    "answers": [
+      "Violinu",
+      "Violina",
+      "Viola",
+      "Violu"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Glazba",
+    "question": "Koji se arhaizam za violinu danas koristi kao naziv jednog narodnog instrumenta?",
+    "answers": [
+      "Gusle",
+      "Gusla"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Glazba",
+    "question": "Koji je pjevač grčko-ciparskog podrijetla bio u bendu Wham!?",
+    "answers": [
+      "George Michael",
+      "Džordž Majkl",
+      "Michael",
+      "Majkl",
+      "Georgios Kyriacos Panayiotou"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Glazba",
+    "question": "Koji je bend snimio album 'A Night at the Opera'?",
+    "answers": [
+      "Queen",
+      "Kuin",
+      "Kvin",
+      "Quin"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Glazba",
+    "question": "Tko je pjevač grupe Coldplay?",
+    "answers": [
+      "Chris Martin",
+      "Kris Martin",
+      "Martin",
+      "Christopher Anthony John Martin"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Glazba",
+    "question": "Tko pjeva hit 'Rolling in the Deep'?",
+    "answers": [
+      "Adele",
+      "Adele Laurie Blue Adkins",
+      "Adel"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Glazba",
+    "question": "Tko pjeva pjesmu 'Purple Rain'?",
+    "answers": [
+      "Prince",
+      "Princ",
+      "Prince Roger Nelson",
+      "Princ Rodžer Nelson"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "Glazba",
+    "question": "'Bože pravde' je ime himne koje balkanske države?",
+    "answers": [
+      "Srbija",
+      "Srbije"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Glazba",
+    "question": "Kako se zove pjevačica hita 'Thank U, Next'?",
+    "answers": [
+      "Ariana Grande",
+      "Grande",
+      "Ariana Grande Butera"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Glazba",
+    "question": "Koji instrument svira Elton John?",
+    "answers": [
+      "Klavir"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "rarity": "silver",
+    "difficulty": 1,
+    "topic": "Glazba",
+    "question": "Koje ime Oliver Dragojević ponavlja čak 38 puta u jednoj od svojih pjesama?",
+    "answers": [
+      "Nadalina"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "Glazba",
+    "question": "Koja je najuglednija glazbena nagrada u Republici Hrvatskoj?",
+    "answers": [
+      "Porin"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Glazba",
+    "question": "Koji je bend poznat po pjesmi 'Don't Stop Believin''?",
+    "answers": [
+      "Journey",
+      "Džourni"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "Glazba",
+    "question": "Koji bosanskohercegovački reper potpisuje pjesme 'Prikaze' i 'No sikiriki no'?",
+    "answers": [
+      "Edo Maajka",
+      "Edo Majka",
+      "Maajka",
+      "Majka",
+      "Edin Osmić"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Glazba",
+    "question": "Koji instrument svira Yo-Yo Ma, Amerikanac, kineskog podrijetla, rođen u Parizu?",
+    "answers": [
+      "Čelo",
+      "Violončelo"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Glazba",
+    "question": "Tko je legendarni frontmen Rolling Stonesa?",
+    "answers": [
+      "Mick Jagger",
+      "Mik Džeger",
+      "Jagger",
+      "Džeger",
+      "Michael Philip Jagger"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Glazba",
+    "question": "Koji je kompozitor skladao glazbu za Ratove zvijezda?",
+    "answers": [
+      "John Williams",
+      "Džon Viliams",
+      "Williams",
+      "Viliams",
+      "John Towner Williams"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Glazba",
+    "question": "Koji je njemački skladatelj i orguljaš bio poznat i kao 'Peti Evanđelist'?",
+    "answers": [
+      "Johann Sebastian Bach",
+      "Johan Sebastian Bah",
+      "Johann Bach",
+      "Johan Bah",
+      "Sebastian Bach",
+      "Sebastian Bah",
+      "Bach",
+      "Bah"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Glazba",
+    "question": "Tko pjeva pjesmu 'Flowers', hit iz 2023. godine?",
+    "answers": [
+      "Miley Cyrus",
+      "Majli Sajrus",
+      "Cyrus",
+      "Sajrus",
+      "Miley Ray Cyrus",
+      "Destiny Hope Cyrus"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Glazba",
+    "question": "Tko je bio čuveni bubnjar Beatlesa?",
+    "answers": [
+      "Ringo Starr",
+      "Ringo Star",
+      "Starr",
+      "Star",
+      "Richard Starkey"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Glazba",
+    "question": "Kako se zove pjevačica koja je objavila album 'Future Nostalgia'?",
+    "answers": [
+      "Dua Lipa",
+      "Lipa"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Glazba",
+    "question": "Ako je za bubnjevima Emil Kranjčić, za klavijaturama Damjan Deurić, sa gitarom Andraš Išpan a pjeva Livio Berak, onda smo na koncertu koje grupe?",
+    "answers": [
+      "Divlje Jagode"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Glazba",
+    "question": "Koji je glazbenik imenima svojih albuma dao znakove zbrajanja, množenja, dijeljenja i jednakosti?",
+    "answers": [
+      "Ed Sheeran",
+      "Ed Šeran",
+      "Sheeran",
+      "Šeran",
+      "Edward Christopher Sheeran"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Glazba",
+    "question": "Kako se zove alter ego pjevača Davida Bowieja?",
+    "answers": [
+      "Ziggy Stardust",
+      "Zigi Stardust",
+      "Stardust"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "rarity": "silver",
+    "difficulty": 3,
+    "topic": "Glazba",
+    "question": "Tko je pjevač grupe Radiohead?",
+    "answers": [
+      "Thom Yorke",
+      "Tom Jorke",
+      "Yorke",
+      "Jorke",
+      "Thomas Edward Yorke"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "Glazba",
+    "question": "Bebek, Tifa i Islamović su se izmijenili kao vokalisti koje rock grupe?",
+    "answers": [
+      "Bijelo Dugme",
+      "Bijelog Dugmeta"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Glazba",
+    "question": "Tko je skladao 'Četiri godišnja doba'?",
+    "answers": [
+      "Antonio Vivaldi",
+      "Vivaldi"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Glazba",
+    "question": "Tko pjeva pjesmu 'Wonderwall' iz 1995.?",
+    "answers": [
+      "Oasis",
+      "Oejsis",
+      "Oazis"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Glazba",
+    "question": "Kako zovemo djelo koje sadrži riječi za glazbenu izvedbu kao što je opera, opereta ili mjuzikl?",
+    "answers": [
+      "Libreto"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "Glazba",
+    "question": "Koje glazbalo spominjemo nakon električna, akustična, bas i klasična?",
+    "answers": [
+      "Gitara",
+      "Guitar",
+      "Gitar"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Glazba",
+    "question": "Tko je pjevač grupe Arctic Monkeys?",
+    "answers": [
+      "Alex Turner",
+      "Aleks Turner",
+      "Turner",
+      "Tarner"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Glazba",
+    "question": "Kako se zove album pjevačice Beyoncé iz 2024. godine?",
+    "answers": [
+      "Cowboy Carter",
+      "Covboj Karter",
+      "Kauboj Karter"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Glazba",
+    "question": "Tko je pjevačica hita 'Bad Guy'?",
+    "answers": [
+      "Billie Eilish",
+      "Bili Ajliš",
+      "Eilish",
+      "Ajliš",
+      "Billie Eilish Pirate Baird O'Connell"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Glazba",
+    "question": "Koja je zemlja pobijedila na Euroviziji s pjesmom 'Euphoria'?",
+    "answers": [
+      "Švedska",
+      "Sweden",
+      "Sviden",
+      "Sverige",
+      "Swe"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "Glazba",
+    "question": "Tko pjeva pjesmu 'Poker Face'?",
+    "answers": [
+      "Lady Gaga",
+      "Lejdi Gaga",
+      "Gaga"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "Glazba",
+    "question": "Kontra kojeg grada Dino Dvornik ne želi čuti ništa?",
+    "answers": [
+      "Splita",
+      "Split"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Glazba",
+    "question": "Prije nego je osnovao Foo Fighters, Dave Grohl je bio bubnjar u kojoj grupi?",
+    "answers": [
+      "Nirvani",
+      "Nirvana"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Glazba",
+    "question": "S kojim singlom je debitirala Britney Spears te se odmah vinula na vrhove svjetskih ljestvica?",
+    "answers": [
+      "Baby One More Time",
+      "Bejbi on mor tajm"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Glazba",
+    "question": "Koji je reper poznat i po nadimku 'Slim Shady'?",
+    "answers": [
+      "Eminem",
+      "Marshall Bruce Mathers 3."
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "rarity": "silver",
+    "difficulty": 4,
+    "topic": "Glazba",
+    "question": "Koji je bend 1977. izdao album 'Rumours'?",
+    "answers": [
+      "Fleetwood Mac",
+      "Fletvod Mek"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Glazba",
+    "question": "Koji je reper objavio album 'The College Dropout'?",
+    "answers": [
+      "Kanye West",
+      "Kanjei Vest",
+      "West",
+      "Vest",
+      "Kanye Omari West"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Glazba",
+    "question": "Tko pjeva pjesmu 'Single Ladies' iz 2008.?",
+    "answers": [
+      "Beyonce",
+      "Bions",
+      "Beyonce Giselle Knowles",
+      "Beyonce Knowles"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Glazba",
+    "question": "Pjesme 'Jedan dan' i 'Noćna muzika'  otpjevala je koja hrvatska, vokalno-instrumentalna skupina?",
+    "answers": [
+      "Dubrovački Trubaduri"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Glazba",
+    "question": "Tko pjeva pjesme 'Born to Run', 'Dancing in the Dark' i 'Born in the U.S.A.?",
+    "answers": [
+      "Bruce Springsteen",
+      "Brus Springstin",
+      "Springsteen",
+      "Springstin"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Glazba",
+    "question": "Čije se ime nalazi u imenu prvog albuma Taylor Swift?",
+    "answers": [
+      "Taylor Swift",
+      "Tejlor Svift",
+      "Njeno",
+      "Njezino",
+      "Swift",
+      "Svift"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "Glazba",
+    "question": "Koji je instrument svirao Jimi Hendrix?",
+    "answers": [
+      "Gitara",
+      "Gitaru",
+      "Guitar",
+      "Gitar"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Glazba",
+    "question": "Iz koje zemlje dolazi grupa ABBA?",
+    "answers": [
+      "Švedske",
+      "Švedska"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Glazba",
+    "question": "Tko je otpjevao uvodnu pjesmu hrvatske verzije crtane serije Spužvabob Skockani?",
+    "answers": [
+      "Davor Gobac",
+      "Gobac"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Glazba",
+    "question": "Tko je sa Justinom Bieberom otpjevao pjesmu 'Stay'?",
+    "answers": [
+      "The Kid Laroi",
+      "D Kid Laroi",
+      "Kid Laroi",
+      "Charlton Kenneth Jeffrey Howard",
+      "Laroi"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Glazba",
+    "question": "Koji je instrument svirao Miles Davis?",
+    "answers": [
+      "Trubu",
+      "Truba"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Glazba",
+    "question": "Tko je vokalist grupe Maroon 5?",
+    "answers": [
+      "Adam Levine",
+      "Levine",
+      "Adam Noah Levine"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Glazba",
+    "question": "Koja je pjevačica poznata kao 'Kraljica Soula'?",
+    "answers": [
+      "Aretha Franklin",
+      "Areta Frenklin",
+      "Franklin",
+      "Frenklin",
+      "Aretha Louise Franklin"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Glazba",
+    "question": "Tko pjeva pjesmu 'Vampire' iz 2023.?",
+    "answers": [
+      "Olivia Rodrigo",
+      "Rodrigo",
+      "Olivia Isabel Rodrigo"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Glazba",
+    "question": "Koje ime nosi drugi studijski album pjevačice Madonne?",
+    "answers": [
+      "Like a Virgin",
+      "Lajk a Virdžin"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "rarity": "golden",
+    "difficulty": 5,
+    "topic": "Glazba",
+    "question": "Koji glazbeni instrument u kristalnom izadnju šalje Claude Laurent, Jamesu Madisonu za njegov drugi mandat predsjednika SAD-a?",
+    "answers": [
+      "Flautu",
+      "Flauta"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Glazba",
+    "question": "Koji bend potpisuje pjesmu 'Dancing Queen'?",
+    "answers": [
+      "ABBA",
+      "ABA"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Glazba",
+    "question": "Koji je ženski bend otpjevao pjesmu 'Wannabe'?",
+    "answers": [
+      "Spice Girls",
+      "Spajs Grls"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "Glazba",
+    "question": "Tko pjeva pjesmu 'Shape of You'?",
+    "answers": [
+      "Ed Sheeran",
+      "Ed Šeran",
+      "Sheeran",
+      "Šeran",
+      "Edward Christopher Sheeran"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Glazba",
+    "question": "Što su na pozornici svirali Phil Collins, Lars Ulrich i Ringo Starr?",
+    "answers": [
+      "Bubnjeve",
+      "Bubnjevi",
+      "Bubanj",
+      "Bubnje",
+      "Drums",
+      "Drum",
+      "Drams",
+      "Dram"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Glazba",
+    "question": "Domingo, Carreras i Pavarotti čine skupinu opernih pjevača kojeg imena?",
+    "answers": [
+      "Tri tenora"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Glazba",
+    "question": "Koji je bend objavio album 'Appetite for Destruction'?",
+    "answers": [
+      "Guns N Roses",
+      "Guns Roses",
+      "Gans N Rozes",
+      "Gans Rozes",
+      "Gansi",
+      "Gans",
+      "Guns",
+      "Gunsi"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Glazba",
+    "question": "Pjevačica Stefani Joanne Angelina Germanotta je poznatija pod kojim imenom?",
+    "answers": [
+      "Lady Gaga",
+      "Lejdi Gaga",
+      "Gaga"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Glazba",
+    "question": "Ime koje pjevačice potječe od staronordijskog 'Adalheidis' što znači 'plemenita'?",
+    "answers": [
+      "Adele",
+      "Adel"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Glazba",
+    "question": "'Kost u grlu' je prvi studijski album kojeg srpskog rock sastava?",
+    "answers": [
+      "Riblja čorba"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Glazba",
+    "question": "Koji je bend 1991. objavio album 'Nevermind'?",
+    "answers": [
+      "Nirvana"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "rarity": "platinum",
+    "difficulty": 5,
+    "topic": "Glazba",
+    "question": "Andrea Amati, slavni tvorac violina iz Cremone, 1560. godine pravi 24 violine za kojeg francuskog kralja?",
+    "answers": [
+      "Karlo IX",
+      "Karla 9.",
+      "Karlo 9",
+      "Karla devetog",
+      "Karla IX",
+      "Karla 9",
+      "Charles IX",
+      "Čarls IX",
+      "Charles 9",
+      "Čarls 9",
+      "Charles Maximilien"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Glazba",
+    "question": "Koji instrument svira Saul Hudson, poznatiji kao Slash?",
+    "answers": [
+      "Gitaru",
+      "Gitara",
+      "Električnu gutaru",
+      "Električna gitara"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Glazba",
+    "question": "Tko je skladao glazbu za film 'Kralj lavova' (The Lion King)?",
+    "answers": [
+      "Hans Zimmer",
+      "Hans Cimer",
+      "Zimmer",
+      "Cimer"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Glazba",
+    "question": "Čiji glas ćemo čuti ako slušamo pjesmu 'All I Want for Christmas Is You'?",
+    "answers": [
+      "Mariah Carey",
+      "Maria Keri",
+      "Carey",
+      "Keri"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Glazba",
+    "question": "Koji je instrument svirao Louis Armstrong?",
+    "answers": [
+      "Trubu",
+      "Truba"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Glazba",
+    "question": "Pod kojim umjetničkim imenom je poznatiji reper Calvin Cordozar Broadus, Jr?",
+    "answers": [
+      "Snoop Dogg",
+      "Snup Dog"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "Glazba",
+    "question": "Tko je pjevačica pjesme 'Hips Don't Lie'?",
+    "answers": [
+      "Shakira",
+      "Šakira",
+      "Shakira Isabel Mebarak Ripoll"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Glazba",
+    "question": "U kojem gradu je osnovana pop-rock grupa Silente?",
+    "answers": [
+      "Dubrovniku",
+      "Dubrovnik"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Glazba",
+    "question": "Koji je talijanski grad bio dom obiteljima Amati, Guarneri i Stradivari?",
+    "answers": [
+      "Cremona",
+      "Kremona"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Glazba",
+    "question": "Tko je pjevačica hita 'Houdini' iz 2023.?",
+    "answers": [
+      "Dua Lipa",
+      "Lipa"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Glazba",
+    "question": "Koja je pjevačica poznata po pjesmi 'Genie in a Bottle'?",
+    "answers": [
+      "Christina Aguilera",
+      "Kristina Agiljera",
+      "Aguilera",
+      "Agiljera",
+      "Christina María Aguilera"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Glazba",
+    "question": "Truveri su sjevernjačka verzija kojih južnjačkih pjesnika-glazbenika iz srednjovjekovne francuske?",
+    "answers": [
+      "Trubadura",
+      "Trubaduri"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Glazba",
+    "question": "Tko pjeva pjesmu 'Lose Yourself' iz 2002.?",
+    "answers": [
+      "Eminem",
+      "Marshall Bruce Mathers 3"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Glazba",
+    "question": "Koji je glazbenik srednjeg imena 'Frederick Joseph' poznat i kao 'The Boss'?",
+    "answers": [
+      "Bruce Springsteen",
+      "Brus Springstin",
+      "Springsteen",
+      "Springstin"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Glazba",
+    "question": "Koji je grad rodno mjesto Beatlesa?",
+    "answers": [
+      "Liverpool",
+      "Liverpul"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Glazba",
+    "question": "Kako se zove poznati glazbeni festival koji se održava u pustinji u Kaliforniji?",
+    "answers": [
+      "Coachella",
+      "Koačela"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Glazba",
+    "question": "Tko je bio pjevač grupe 'The Doors' sve do svoje smrti 1971. u Parizu?",
+    "answers": [
+      "Jim Morrison",
+      "Džim Morison",
+      "Morrison",
+      "Morison",
+      "James Douglas Morrison"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "Glazba",
+    "question": "Tko je skladao 'Devetu simfoniju'?",
+    "answers": [
+      "Ludwig van Beethoven",
+      "Ludvig van Betoven",
+      "Beethoven",
+      "Betoven"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Glazba",
+    "question": "Tko pjeva pjesmu 'Watermelon Sugar'?",
+    "answers": [
+      "Harry Styles",
+      "Heri Stajls",
+      "Harry Edward Styles",
+      "Styles",
+      "Stajls"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Glazba",
+    "question": "Koja se pjevačica glazbom počela baviti pod pseudonimom Lizzy Grant a svjetsku slavu stekla pjesmom 'Video Games'?",
+    "answers": [
+      "Lana Del Rey",
+      "Lana Del Rej",
+      "Del Rey",
+      "Del Rej",
+      "Elizabeth Woolridge Grant",
+      "Rey",
+      "Rej"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "rarity": "silver",
+    "difficulty": 4,
+    "topic": "Glazba",
+    "question": "Tko je pjevač i gitarist grupe Foo Fighters?",
+    "answers": [
+      "Dave Grohl",
+      "Dejv Grol",
+      "Grohl",
+      "Grol",
+      "David Eric Grohl"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Glazba",
+    "question": "Koji je pjevač poznat kao 'The Thin White Duke'?",
+    "answers": [
+      "David Bowie",
+      "Dejvid Bovi",
+      "Bowie",
+      "Bovi",
+      "David Robert Jones"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Glazba",
+    "question": "Koji je bend objavio album 'The Dark Side of the Moon'?",
+    "answers": [
+      "Pink Floyd",
+      "Pink Flojd"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Glazba",
+    "question": "Koji bend pjeva 'Sweet Child O' Mine'?",
+    "answers": [
+      "Guns N Roses",
+      "Guns Roses",
+      "Gans n Roses",
+      "Gans Roses",
+      "Gunsi",
+      "Guns",
+      "Gansi",
+      "Gans"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Glazba",
+    "question": "Tko je otpjevao pjesme 'Uptown Funk' i 'Grenade'?",
+    "answers": [
+      "Bruno Mars",
+      "Mars",
+      "Peter Gene Hernandez"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Glazba",
+    "question": "Tko pjeva pjesmu 'Blinding Lights' iz 2020.?",
+    "answers": [
+      "The Weeknd",
+      "D Viknd",
+      "Weeknd",
+      "Vikend",
+      "Weekend"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Glazba",
+    "question": "Koja pjevačica je poznata kao 'Riri'?",
+    "answers": [
+      "Rihanna",
+      "Riena",
+      "Robyn Rihanna Fenty",
+      "Riana"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "Glazba",
+    "question": "'La Marseillaise' je himna koje države?",
+    "answers": [
+      "Francuske",
+      "Francuska"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "Glazba",
+    "question": "Tko je pjevač grupe U2?",
+    "answers": [
+      "Bono Vox",
+      "Bono",
+      "Vox",
+      "Voks",
+      "Paul David Hewson"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "Glazba",
+    "question": "Koji američki pjevač je poznat i kao 'Kralj popa'?",
+    "answers": [
+      "Michael Jackson",
+      "Majkl Džekson",
+      "Jackson",
+      "Džekson",
+      "Michael Joseph Jackson"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Glazba",
+    "question": "Koji je reper suprug pjevačice Beyoncé?",
+    "answers": [
+      "Jay Z",
+      "Džej Zi",
+      "Shawn Corey Carter",
+      "Corey",
+      "Korej",
+      "Carter",
+      "Karter"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Glazba",
+    "question": "Koji je pjevač poznat po pjesmama 'Purple Haze' i 'Hey Joe'?",
+    "answers": [
+      "Jimi Hendrix",
+      "Džimi Hendriks",
+      "Hendrix",
+      "Hendriks",
+      "Johnny Allen Hendrix"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Glazba",
+    "question": "Koja je pjevačica izvela pjesmu 'My Heart Will Go On'?",
+    "answers": [
+      "Celine Dion",
+      "Selin Dion",
+      "Dion",
+      "Céline Marie Claudette Dion"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Glazba",
+    "question": "Koje ime nosi najprodavaniji glazbeni album svih vremena?",
+    "answers": [
+      "Thriller",
+      "Triler"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Glazba",
+    "question": "Bartolomeo Cristofori je talijanski izrađivač glazbala kojemu se pripisuje izum kojeg, danas popularnog glazbenog instrumenta?",
+    "answers": [
+      "Klavira",
+      "Klavir",
+      "Glasovir",
+      "Glasovira",
+      "Piano"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Glazba",
+    "question": "Kako se zove pjevačica grupe Blondie?",
+    "answers": [
+      "Debbie Harry",
+      "Deborah Ann Harry",
+      "Debi Heri",
+      "Deborah En Heri",
+      "Harry",
+      "Heri"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "rarity": "golden",
+    "difficulty": 5,
+    "topic": "Glazba",
+    "question": "Emanuel Schikaneder je napisao libreto za koju operu praizvedenu 30.9.1791.?",
+    "answers": [
+      "Čarobna frula",
+      "Zauberflöte"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "Glazba",
+    "question": "Tko pjeva pjesme 'Shape of You' i 'Thinking Out Loud'?",
+    "answers": [
+      "Ed Sheeran",
+      "Ed Šeran",
+      "Sheeran",
+      "Šeran"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Glazba",
+    "question": "Tko je otpjevao pjesmu 'Imagine' koja se našla i na istoimenom albumu iz 1971.?",
+    "answers": [
+      "John Lennon",
+      "Džon Lenon",
+      "Lennon",
+      "Lenon",
+      "John Winston Lennon"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Glazba",
+    "question": "Koju se ženu, iz ugledne slavonske plemićke obitelji smatra prvom hrvatskom skladateljicom?",
+    "answers": [
+      "Dora Pejačević",
+      "Doru Pejačević",
+      "Pejačević"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Glazba",
+    "question": "Koji je žanr glazbe proslavio Boba Marleya?",
+    "answers": [
+      "Reggae",
+      "Rege",
+      "Regga",
+      "Regge"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "Glazba",
+    "question": "Koji američki skladatelj i dirigent potpisuje napete i zastrašujuće note filma 'Ralje' za koje je dobio i Oscara?",
+    "answers": [
+      "John Williams",
+      "John Towner Williams",
+      "Džon Viliams",
+      "Williams",
+      "Viliams"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Glazba",
+    "question": "Koji bend je osmislio svoj logo po uzoru na hinduističku božicu Kali, koju se većinom prikazuje isplažena jezika?",
+    "answers": [
+      "The Rolling Stones",
+      "Rolling Stones",
+      "Roling Stonsi",
+      "Stonsi",
+      "Stones"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Glazba",
+    "question": "Koji je reper objavio album 'DAMN.' iz 2017.?",
+    "answers": [
+      "Kendrick Lamar",
+      "Lamar",
+      "Kendrick Lamar Duckworth"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Glazba",
+    "question": "Tko je autor glazbe za poznati hrvatski mjuzikl Jalta, Jalta iz 1971.?",
+    "answers": [
+      "Alfi Kabiljo",
+      "Kabiljo"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Glazba",
+    "question": "Tko je bio otac Lise Marie, prve žene Michaela Jacksona?",
+    "answers": [
+      "Elvis Presley",
+      "Elvis Presli",
+      "Presley",
+      "Presli"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "Glazba",
+    "question": "Kako se zove kćer Billyja Raya Cyrusa?",
+    "answers": [
+      "Miley Cyrus",
+      "Miley Ray Cyrus",
+      "Majli Sajrus",
+      "Cyrus",
+      "Sajrus",
+      "Destiny Hope Cyrus",
+      "Miley",
+      "Majli"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Glazba",
+    "question": "Koja pjevačica pjeva pjesme 'Espresso' i 'Nonsense'?",
+    "answers": [
+      "Sabrina Carpenter",
+      "Carpenter",
+      "Sabrina Annlynn Carpenter"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "Glazba",
+    "question": "Tko je bio frontmen grupe Queen?",
+    "answers": [
+      "Freddie Mercury",
+      "Fredi Merkuri",
+      "Mercury",
+      "Merkuri",
+      "Farrokh Bulsara"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Glazba",
+    "question": "Iz kojeg grada dolazi hip-hop grupa Wu-Tang Clan?",
+    "answers": [
+      "New York",
+      "New Yorka",
+      "Nju Jork",
+      "Nju Jorka"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Glazba",
+    "question": "Iz koje rock grupe je nastala rock grupa Bijelo Dugme?",
+    "answers": [
+      "Jutro",
+      "Grupa Jutro",
+      "Rock grupa Jutro"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Glazba",
+    "question": "Koji je bend snimio pjesmu 'Smells Like Teen Spirit'?",
+    "answers": [
+      "Nirvana"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "rarity": "golden",
+    "difficulty": 5,
+    "topic": "Glazba",
+    "question": "Koji je ruski skladatelj iz 19.st napisao operu 'Boris Godunov' i klavirski ciklus 'Slike s izložbe'?",
+    "answers": [
+      "Modest Petrovič Musorgski",
+      "Petrovič Musorgski",
+      "Modest Musorgski",
+      "Musorgski"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Glazba",
+    "question": "Tko je napisao operu 'Čarobna frula'?",
+    "answers": [
+      "Wolfgang Mozart",
+      "Wolfgang Amadeus Mozart",
+      "Volfgang Amadeus Mocart",
+      "Volfgang Mocart",
+      "Mozart",
+      "Mocart"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Glazba",
+    "question": "Tko je osvojio Euroviziju 2024. s pjesmom 'The Code'?",
+    "answers": [
+      "Nemo"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Glazba",
+    "question": "Radnja mjuzikla Jalta, Jalta odvija se za vrijeme konferencije u Jalti, kada su tamo boravili Churchill, Staljin i tko još?",
+    "answers": [
+      "Roosevelt",
+      "Ruzvelt"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Glazba",
+    "question": "Iz koje države dolazi Rihanna?",
+    "answers": [
+      "Barbados"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Glazba",
+    "question": "Koji bend potpisuje pjesmu 'Stairway to Heaven'?",
+    "answers": [
+      "Led Zeppelin",
+      "Led Cepelin"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Glazba",
+    "question": "Koji je glazbenik poznat po hitu 'Rocket Man'?",
+    "answers": [
+      "Elton John",
+      "Elton Džon",
+      "John",
+      "Džon",
+      "Reginald Kenneth Dwight",
+      "Elton Hercules John"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Glazba",
+    "question": "Koja je pjevačica osvojila najviše Grammyja u povijesti, ukupno 35?",
+    "answers": [
+      "Beyonce",
+      "Bions",
+      "Beyonce Giselle Knowles",
+      "Beyonce Knowles"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Glazba",
+    "question": "Koji je ruski skladatelj napisao glazbu za balete Labuđe jezero i Orašar?",
+    "answers": [
+      "Petar Iljič Čajkovski",
+      "Iljič Čajkovski",
+      "Petar Čajkovski",
+      "Čajkovski"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Glazba",
+    "question": "Omotnica s prvog albuma kojeg hrvatskog benda neodoljivo podsjeća na logo Rolling Stonesa?",
+    "answers": [
+      "Prljavo Kazalište",
+      "Prljavog Kazališta"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Glazba",
+    "question": "Kojoj pjevačici pripadaju albumi 'Ray of Light' i 'Rebel Heart'?",
+    "answers": [
+      "Madonna",
+      "Madona",
+      "Madonna Louise Ciccone"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "Glazba",
+    "question": "Koji instrument svira Melissa Viviane Jefferson, poznatija kao Lizzo?",
+    "answers": [
+      "Flautu",
+      "Flauta"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "rarity": "silver",
+    "difficulty": 4,
+    "topic": "Glazba",
+    "question": "Koji bend polaže autorska prava na pjesmu 'Mr. Brightside'?",
+    "answers": [
+      "The Killers",
+      "D Kilers"
+    ],
+    "image": null
+  }
+]

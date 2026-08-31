@@ -1,0 +1,2202 @@
+[
+  {
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "Film",
+    "question": "Koji glumac tumači ulogu zloglasnog pukovnika Hansa Lande u filmu 'Nemilosrdni gadovi' (Inglourious Basterds)?",
+    "answers": [
+      "Christoph Waltz",
+      "Kristof Valtz",
+      "Waltz",
+      "Valtz"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Film",
+    "question": "Koja glumica igra glavnu ulogu u 'La La Landu'?",
+    "answers": [
+      "Emma Stone",
+      "Ema Ston",
+      "Stone",
+      "Ston"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "Film",
+    "question": "U filmu 'Amélie', u kojem dijelu Pariza živi i radi glavna junakinja Amelie Poulain?",
+    "answers": [
+      "Montmartre",
+      "Montmart",
+      "Monmartr",
+      "Monmarte",
+      "Montmartr"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "Film",
+    "question": "Kako se zove dječak iz obitelji McCallister koji ostane 'Sam u kući'?",
+    "answers": [
+      "Kevin"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Film",
+    "question": "Kako se zove grad-planet iz Ratova zvijezda, koji je sjedište Galaktičke Republike?",
+    "answers": [
+      "Coruscant",
+      "Koruskant"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Film",
+    "question": "Koji je film 1994. godine pobijedio 'Pakleni šund' u utrci za najbolji film?",
+    "answers": [
+      "Forrest Gump",
+      "Forest Gamp",
+      "Gump",
+      "Gamp"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Film",
+    "question": "Miro i Pepek su na zaključanom tavanu pronašli kakav top?",
+    "answers": [
+      "Antigravitacijski"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Film",
+    "question": "U filmu iz 1974., koji mali kapetan, brodom trabakulom prevozi ljude na otoke spašavajući ih od fašističkih snaga?",
+    "answers": [
+      "Mikula",
+      "Mikula mali",
+      "Kapetan Mikula mali"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "Film",
+    "question": "Koji film Stevena Spielberga govori o morskom psu ubojici?",
+    "answers": [
+      "Ralje",
+      "Jaws",
+      "Džavs"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Film",
+    "question": "Smogovci su snimljeni po istoimenom romanu kojeg hrvatskog književnika?",
+    "answers": [
+      "Hrvoja Hitreca",
+      "Hrvoje Hitrec",
+      "Hitreca",
+      "Hitrec"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "Film",
+    "question": "Kako se zove zlikovac u prvom od filmova 'Umri muški' (Die Hard)?",
+    "answers": [
+      "Hans Gruber",
+      "Gruber"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Film",
+    "question": "Koji horor film uključuje ukletu videokasetu, koju, tko god pogleda umire za 7 dana?",
+    "answers": [
+      "Krug",
+      "The Ring",
+      "D ring",
+      "Ring"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Film",
+    "question": "Kako se zove lav iz Narnijskih kronika?",
+    "answers": [
+      "Aslan"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Film",
+    "question": "Koje ime Theodore Twombly daje sustavu umjetne inteligencije kojeg kupuje, a kasnije se i zaljubljuje u filmu 'Ona' (Her) ?",
+    "answers": [
+      "Samantha",
+      "Samanta",
+      "Sementa"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Film",
+    "question": "Tko je glumio Hannibala Lectera u filmu 'Kad jaganjci utihnu' (The Silence of the Lambs)?",
+    "answers": [
+      "Anthony Hopkins",
+      "Entoni Hopkins",
+      "Hopkins",
+      "Philip Anthony Hopkins"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "Film",
+    "question": "Ferdo Jurić i Jura Ferdić su glavni protagonisti koje humoristične tv serije?",
+    "answers": [
+      "Zauvijek susjedi"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "Film",
+    "question": "Koji kanadski glumac posuđuje glas Shreku?",
+    "answers": [
+      "Mike Myers",
+      "Majk Maers",
+      "Myers",
+      "Maers"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Film",
+    "question": "Kako se zove robot pratitelj Lukea Skywalkera?",
+    "answers": [
+      "R2 D2",
+      "Artoo Detoo",
+      "Erto Deto"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Film",
+    "question": "U kojoj državi se odvija radnja filma 'Casablanca' iz 1942.?",
+    "answers": [
+      "Maroko",
+      "Maroku",
+      "Morocco",
+      "Moroko"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Film",
+    "question": "Koji je jedini horor film u povijesti koji je osvojio Oscara za najbolji film?",
+    "answers": [
+      "Kad jaganjci utihnu",
+      "The Silence of the Lambs",
+      "Sajlenc of d lembs"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Film",
+    "question": "U kojoj seriji Borisa Dvornika poznamo kao Dimnjačara?",
+    "answers": [
+      "Kapelski Kresovi",
+      "Kresovi"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "rarity": "silver",
+    "difficulty": 2,
+    "topic": "Film",
+    "question": "Neo u 'Matrixu' je zapravo tko, u stvarnom svijetu?",
+    "answers": [
+      "Keanu Reeves",
+      "Keanu Rivs",
+      "Reeves",
+      "Rivs"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "Film",
+    "question": "Kako se zove čuveni špijun s kodnim imenom 007?",
+    "answers": [
+      "James Bond",
+      "Džems Bond",
+      "Bond"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Film",
+    "question": "Kako se zove zli klaun u filmu 'Ono' (It)?",
+    "answers": [
+      "Pennywise",
+      "Penivajs"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Film",
+    "question": "Kako se zove maleni hobit koji treba odnijeti prsten moći na Kletu Goru da ga uništi?",
+    "answers": [
+      "Frodo Baggins",
+      "Frodo Begins",
+      "Frodo"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Film",
+    "question": "Koje je boje sivi kamion u srpskom filmu iz 2004.?",
+    "answers": [
+      "Crvene"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Film",
+    "question": "Koji animirani studio je stvorio 'Priču o igračkama'?",
+    "answers": [
+      "Pixar",
+      "Piksar"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Film",
+    "question": "Kako se zove fiktivni otok na kojem se odvija radnja filma 'Duhovi otoka' (The Banshees of Inisherin)?",
+    "answers": [
+      "Inisherin",
+      "Inišerin"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Film",
+    "question": "Koji redatelj potpisuje vizualno upečatljive filmove 'Grand Budapest Hotel' i 'Asteroid City'?",
+    "answers": [
+      "Wes Anderson",
+      "Ves Anderson",
+      "Wesley Wales Anderson",
+      "Anderson"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Film",
+    "question": "Koji film iz 2018. prati život pjevača Freddieja Mercuryja te grupe Queen?",
+    "answers": [
+      "Bohemian Rhapsody",
+      "Bohemijan Rapsodi"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Film",
+    "question": "Tko je režirao 'Krupnu ribu' (Big Fish)?",
+    "answers": [
+      "Tim Burton",
+      "Burton",
+      "Barton"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Film",
+    "question": "Tko glumi poručnika Petea Mitchella u filmu 'Top Gun: Maverick'?",
+    "answers": [
+      "Tom Cruise",
+      "Tom Kruz",
+      "Cruise",
+      "Kruz"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Film",
+    "question": "U kojem filmu Bill Murray proživljava isti dan iznova?",
+    "answers": [
+      "Beskrajni dan",
+      "Groundhog Day",
+      "Grondhog Dej"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Film",
+    "question": "Koji je film osvojio Oscara za najbolji animirani film 2024.?",
+    "answers": [
+      "Dječak i čaplja",
+      "The Boy and the Heron",
+      "D Boj end d Hiron"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Film",
+    "question": "Kako se zove kraljevstvo iz filma 'Snježno kraljevstvo' (Frozen)?",
+    "answers": [
+      "Arendelle",
+      "Arendel"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Film",
+    "question": "Koji je prvi dugometražni film u povijesti, koji je potpuno napravljen CGI tehnikom?",
+    "answers": [
+      "Priča o igračkama",
+      "Toy Story",
+      "Toj Stori"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Film",
+    "question": "Tko je prva žena koja je osvojila Oscara za najbolju režiju?",
+    "answers": [
+      "Kathryn Bigelow",
+      "Ketrin Biglov",
+      "Bigelow",
+      "Biglov"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "rarity": "golden",
+    "difficulty": 5,
+    "topic": "Film",
+    "question": "Kako se zove legendarni snimatelj koji je osvojio Oscara za filmove 'Blade Runner 2049' i '1917'?",
+    "answers": [
+      "Roger Deakins",
+      "Rodžer Dikins",
+      "Deakins",
+      "Dikins",
+      "Roger Alexander Deakins",
+      "Dekins",
+      "Dakins"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Film",
+    "question": "U kojem filmu pratimo likove po imenu Vincent Vega i Jules Winnfield?",
+    "answers": [
+      "Pakleni šund",
+      "Pulp Fiction",
+      "Pulp Fikšn"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Film",
+    "question": "U filmu 'Ritam ludila' (Whiplash), koji instrument svira ambiciozni student pod pritiskom okrutnog profesora?",
+    "answers": [
+      "Bubnjeve",
+      "Drums"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Film",
+    "question": "Tko je režirao horor film 'Psycho'?",
+    "answers": [
+      "Alfred Hitchcock",
+      "Alfred Hičkok",
+      "Hitchcock",
+      "Hičkok"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Film",
+    "question": "Koji je epski biografski triler osvojio Oscara za najbolji film 2024. godine?",
+    "answers": [
+      "Oppenheimer",
+      "Openhajmer"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Film",
+    "question": "Koja je glumica utjelovila lik Hermione Granger?",
+    "answers": [
+      "Emma Watson",
+      "Ema Vatson",
+      "Watson",
+      "Vatson"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "Film",
+    "question": "Kojem broju ljudi se sudi u filmu o skupini prosvjednika na Demokratskoj nacionalnoj konvenciji 1968. u Chicagu?",
+    "answers": [
+      "7",
+      "Sedam",
+      "Sedmorici",
+      "Seven"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Film",
+    "question": "Kako se zove umjetna inteligencija koja upravlja brodom u Kubrickovoj '2001: Odiseji u svemiru'?",
+    "answers": [
+      "HAL 9000"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Film",
+    "question": "Fiktivni 'Hotel Overlook' je poprište radnje kojeg horor filma Stanleya Kubricka?",
+    "answers": [
+      "Isijavanje",
+      "The Shining",
+      "Šajning"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Film",
+    "question": "Koja je hrvatska dječja tv serija nadahnuta romanom Bijeli Jelen, Vladimira Nazora?",
+    "answers": [
+      "Jelenko"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Film",
+    "question": "Radnja kojeg filma se odvija na fiktivnom mjesecu Pandora u zvjezdanom sustavu Alpha Centauri?",
+    "answers": [
+      "Avatar"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Film",
+    "question": "Film 'Brodolom života' započinje nesrećom kojeg prijevoznog sredstva?",
+    "answers": [
+      "Aviona",
+      "Zrakoplova",
+      "Avion",
+      "Airplane",
+      "Erplejn"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "Film",
+    "question": "U filmu 'Vuk s Wall Streeta', kako se zove tvrtka koju osniva Jordan Belfort?",
+    "answers": [
+      "Stratton Oakmont",
+      "Streton Okmont"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Film",
+    "question": "Koja je glumica osvojila Oscara za film 'Jadnici' (Les Misérables)?",
+    "answers": [
+      "Anne Hathaway",
+      "Ana Hetvej",
+      "Hathaway",
+      "Hetvej"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "rarity": "platinum",
+    "difficulty": 5,
+    "topic": "Film",
+    "question": "U kultnom hororu 'Alien', kako se zove mačka koja preživi napad ksenomorfa na brodu?",
+    "answers": [
+      "Jones",
+      "Jonesy",
+      "Džonsi",
+      "Džoni"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Film",
+    "question": "Tko glumi Ethana Hunta u serijalu 'Nemoguća misija'?",
+    "answers": [
+      "Tom Cruise",
+      "Tom Kruz",
+      "Cruise",
+      "Kruz"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Film",
+    "question": "Kako se zove robot koji u filmu 'Interstellar' pomaže posadi svojom iskrenošću i humorom i sarkazmom?",
+    "answers": [
+      "TARS"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "Film",
+    "question": "Slinky, Bluey, Pluto i Pongo su animirani likovi koji predstavljaju koju životinju u stvarnom svijetu?",
+    "answers": [
+      "Psa",
+      "Pas",
+      "Psi",
+      "Dogs",
+      "Dog",
+      "Pasi",
+      "Kerovi",
+      "Keri"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Film",
+    "question": "U kojoj trilogiji je hobbit Bilbo Baggins, glavni lik?",
+    "answers": [
+      "Hobbit",
+      "Hobit"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Film",
+    "question": "Koji glumac glumi Sherlocka Holmesa u filmovima Guyja Ritchieja?",
+    "answers": [
+      "Robert Downey Jr",
+      "Robert Dovni Junior",
+      "Downey Jr",
+      "Dovni Junior",
+      "Robert John Downey Jr.",
+      "Robert Dovni",
+      "Downey",
+      "Dovni",
+      "Robert Junior",
+      "Robert Džunior",
+      "Dovni Džunior",
+      "Robert Dovni Džunior"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Film",
+    "question": "U filmu 'Matrix', koju boju pilule Neo bira kako bi saznao istinu o svijetu u kojem živi?",
+    "answers": [
+      "Crvenu pilulu",
+      "Crvenu",
+      "Red pill",
+      "Red"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Film",
+    "question": "Tko je režirao 'Isijavanje' (The Shining)?",
+    "answers": [
+      "Stanley Kubrick",
+      "Stenli Kjubrik",
+      "Kubrick",
+      "Kjubrik"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Film",
+    "question": "Tko je utjelovio Nadu, u filmu 'Bitka na Neretvi'?",
+    "answers": [
+      "Milena Dravić",
+      "Dravić"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Film",
+    "question": "Koji glumac tumači lik Iron Mana u Marvelovim filmovima?",
+    "answers": [
+      "Robert Downey Jr.",
+      "Robert Dovnej Junior",
+      "Downey Jr.",
+      "Dovnej Junior",
+      "Downey",
+      "Dovni"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "rarity": "silver",
+    "difficulty": 3,
+    "topic": "Film",
+    "question": "Kako se zove medvjed u filmu 'Knjiga o džungli'?",
+    "answers": [
+      "Baloo",
+      "Balu",
+      "Balo"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Film",
+    "question": "Vozilo XB Falcon Hardtop kojeg proizvođača je vozio Max Rockatansky?",
+    "answers": [
+      "Ford",
+      "Forda"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "Film",
+    "question": "Koji je film poznat po rečenici: 'I'll be back'?",
+    "answers": [
+      "Terminator"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Film",
+    "question": "Koji glumac glumi Thora u Marvelovim filmovima?",
+    "answers": [
+      "Chris Hemsworth",
+      "Kris Hemsvort",
+      "Hemsworth",
+      "Hemsvort"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "Film",
+    "question": "Mowgli, Baloo i Bagheera su protagonisti kojeg Disneyjevog filma?",
+    "answers": [
+      "Knjiga o džungli",
+      "The Jungle Book",
+      "Jungle book",
+      "Džangl bok"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "Film",
+    "question": "Tko je glumio Maximus Decimus Meridiusa u 'Gladijatoru' iz 2000. godine?",
+    "answers": [
+      "Russell Crowe",
+      "Rasel Krov",
+      "Crowe",
+      "Krov",
+      "Crove",
+      "Rusel Crove",
+      "Krou",
+      "Crou",
+      "Rusel Krou",
+      "Rusel Crou"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Film",
+    "question": "Andrija 'Draš' Katalenić, selo, koje?",
+    "answers": [
+      "Gruntovec"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Film",
+    "question": "Koji je prvi dugometražni animirani film Walta Disneyja?",
+    "answers": [
+      "Snjeguljica i sedam patuljak",
+      "Snjeguljica i 7 patuljaka",
+      "Snjeguljica",
+      "Snow White",
+      "Snowwhite",
+      "Snovvajt",
+      "Snov Vajt",
+      "Snow white and the 7 dwarfs",
+      "Snov vajt end d 7 dvarfs",
+      "Snov vajt end d sevn dvarfs",
+      "Snow white and the seven dvarfs"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Film",
+    "question": "Koji mač je Aragorn dobio nakon što je ponovno iskovan od Narsila, kako bi u boj pozvao vojsku mrtvih?",
+    "answers": [
+      "Anduril"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Film",
+    "question": "U Velom Mistu je bio Jozo, u Jelenku je bio Mate, u Prosjacima i sinovima je bio Divac. Kojeg glumca tražimo?",
+    "answers": [
+      "Špiru Guberinu",
+      "Špiro Guberina",
+      "Guberina"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Film",
+    "question": "Kako se zove ubojica iz serijala 'Noć vještica' (Halloween)?",
+    "answers": [
+      "Michael Myers",
+      "Majkl Mejrs",
+      "Myers",
+      "Mejers",
+      "Mjers"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "Film",
+    "question": "U filmu 'Sedam', koji od sedam smrtnih grijeha dolazi posljednji?",
+    "answers": [
+      "Srditost",
+      "Srdžba",
+      "Bijes",
+      "Gnjev",
+      "Wrath",
+      "Vrat"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Film",
+    "question": "Tko glumi glavnu ulogu u filmu 'Elvis' (2022)?",
+    "answers": [
+      "Austin Butler",
+      "Astim Batler",
+      "Butler",
+      "Batler"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Film",
+    "question": "U filmu 'Početak' (Inception), koji predmet služi kao rekvizit Domu Cobbu kako bi znao sanja li?",
+    "answers": [
+      "Zvrk",
+      "Spinning top",
+      "Vrtilica",
+      "Spinner",
+      "Spiner"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Film",
+    "question": "Tko u filmu 'Pobješnjeli Max: Divlja cesta', glumi imperatoricu Furiosu?",
+    "answers": [
+      "Charlize Theron",
+      "Šarliz Teron",
+      "Theron",
+      "Teron"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Film",
+    "question": "Tko je režirao 'Inception' i 'Interstellar'?",
+    "answers": [
+      "Christopher Nolan",
+      "Kristofer Nolan",
+      "Nolan"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Film",
+    "question": "Kako se zove brod u filmu 'Osmi putnik' (Alien)?",
+    "answers": [
+      "Nostromo"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Film",
+    "question": "Koji redatelj stoji iza 'Trilogije dolara', tri špageti-vesterna: 'Za šaku dolara' 'Za dolar više', i 'Dobar, Loš, Zao'?",
+    "answers": [
+      "Sergio Leone",
+      "Serhio Leone",
+      "Leone"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "rarity": "silver",
+    "difficulty": 3,
+    "topic": "Film",
+    "question": "Koji je originalni naziv psihološkog trilera 'Vrtoglavica'?",
+    "answers": [
+      "Vertigo"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Film",
+    "question": "Koji film prati povijest stvaranja Facebooka?",
+    "answers": [
+      "Društvena mreža",
+      "The Social Network",
+      "Sošl Netvork",
+      "Social Network"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Film",
+    "question": "Kako se zove lik kojeg usvajaju ubojice iz filmova 'Vrisak' (Scream)?",
+    "answers": [
+      "Ghostface",
+      "Gostfejs"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Film",
+    "question": "Kako se zove otac Lukea Skywalkera?",
+    "answers": [
+      "Darth Vader",
+      "Dart Vejder",
+      "Anakin Skywalker",
+      "Anakin Skajvoker",
+      "Vader",
+      "Vejder",
+      "Anakin",
+      "Darth"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "Film",
+    "question": "Tko glumi Jacka Dawsona u filmu 'Titanic'?",
+    "answers": [
+      "Leonardo DiCaprio",
+      "Leonardo Dikaprio",
+      "DiCaprio",
+      "Dikaprio"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Film",
+    "question": "Filmovi Ben-Hur, Titanic i Gospodar Prstenova: Povratak Kralja, su zajedno osvojili koliko Oscara?",
+    "answers": [
+      "33",
+      "Trideset tri"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Film",
+    "question": "Koja glumica tumači lik Katniss Everdeen?",
+    "answers": [
+      "Jennifer Lawrence",
+      "Dženifer Lovrenc",
+      "Lawrence",
+      "Lovrenc"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Film",
+    "question": "Tko je režirao 'Dunkirk', Ratni film iz 2017.?",
+    "answers": [
+      "Christopher Nolan",
+      "Kristofer Nolan",
+      "Nolan"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Film",
+    "question": "Koja je glumica utjelovila Maleficent, u istoimenom filmu iz 2014.?",
+    "answers": [
+      "Angelina Jolie",
+      "Anđelina Džoli",
+      "Jolie",
+      "Džoli"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Film",
+    "question": "Partizanski bombaš, Boško Buha je na filmsko platno prenešen od strane kojeg hrvatskog redatelja?",
+    "answers": [
+      "Branka Bauera",
+      "Branko Bauer",
+      "Bauer"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Film",
+    "question": "Tko glumi 'Jokera' u istoimenom filmu iz 2019. godine?",
+    "answers": [
+      "Joaquin Phoenix",
+      "Žoakin Finiks",
+      "Phoenix",
+      "Finiks"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Film",
+    "question": "U kojoj seriji susrećemo Pučanstvo, policajca i trgovca sličica sa svecima?",
+    "answers": [
+      "Velo Misto"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "rarity": "silver",
+    "difficulty": 3,
+    "topic": "Film",
+    "question": "Koja je pjevačica imala glavnu ulogu u filmu 'A Star Is Born' iz 2018.?",
+    "answers": [
+      "Lady Gaga",
+      "Lejdi Gaga",
+      "Gaga"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "rarity": "golden",
+    "difficulty": 5,
+    "topic": "Film",
+    "question": "Koji je američki gluhi glumac dobio oscara za ulogu u filmu 'Coda', igrajući ulogu Franka, gluhog oca obitelji Rossi?",
+    "answers": [
+      "Troy Kotsur",
+      "Troj Kocur",
+      "Kotsur",
+      "Kocur",
+      "Troy Michael Kotsur"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "Film",
+    "question": "Kako se zove izmišljeni grad u kojem živi Batman?",
+    "answers": [
+      "Gotham",
+      "Gotham City",
+      "Gotem"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Film",
+    "question": "Kako se zove zlikovac koji u Bondovu filmu 'Za smrt nema vremena' (No Time to Die) koristi nanorobote kao biološko oružje?",
+    "answers": [
+      "Lyutsifer Safin",
+      "Safin",
+      "Lucifer Safin"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "Film",
+    "question": "U kojem gradu žive 'Prijatelji' (Friends)?",
+    "answers": [
+      "New York",
+      "Nju Jork",
+      "NY",
+      "NYC"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "Film",
+    "question": "Koji je film 1929. prvi osvojio Oscara za najbolji film?",
+    "answers": [
+      "Krila",
+      "Wings",
+      "Vings"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "Film",
+    "question": "Kako se zove hotel u kojem se odvija radnja kultnog horora 'Isijavanje' (The Shining)?",
+    "answers": [
+      "Overlook Hotel",
+      "Hotel Overlook",
+      "Overluk Hotel",
+      "Hotel Overluk",
+      "Overlook",
+      "Overluk"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Film",
+    "question": "Koja glumica tumači lik Barbie u istoimenom filmu iz 2023. godine?",
+    "answers": [
+      "Margot Robbie",
+      "Margot Robi",
+      "Robbie",
+      "Robi"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Film",
+    "question": "Kako se zove fiktivno kraljevstvo u kojem se odvija radnja filma 'Crni Panter' (Black Panthera)?",
+    "answers": [
+      "Wakanda",
+      "Vakanda"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "Film",
+    "question": "Medo, Šilo i Milo dijete su članovi čije družbe?",
+    "answers": [
+      "Pere Kvržice",
+      "Družba Pere Kvržice"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "Film",
+    "question": "Koje robne marke su samovezujuće tenisice iz filma 'Povratak u budućnost 2' ?",
+    "answers": [
+      "Nike",
+      "Nike mag",
+      "Najk"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Film",
+    "question": "Iz koje je zemlje redatelj Bong Joon-ho, redatelj filma 'Parazit'?",
+    "answers": [
+      "Južna Koreja",
+      "Južne Koreje",
+      "South Korea",
+      "Saut Korea"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "rarity": "silver",
+    "difficulty": 4,
+    "topic": "Film",
+    "question": "Kako se zove eksperimentalna svemirska letjelica u filmu 'Interstellar' kojom upravlja Joseph Cooper?",
+    "answers": [
+      "Endurance",
+      "Induranc"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Film",
+    "question": "Tko je režirao 'Pakleni šund' (Pulp Fiction)?",
+    "answers": [
+      "Quentin Tarantino",
+      "Kventin Tarantino",
+      "Tarantino"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "Film",
+    "question": "Kako se preziva bogata obitelj u filmu 'Parazit'?",
+    "answers": [
+      "Park"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Film",
+    "question": "Koliko braće ima Buco Vragec, najmlađi od svih Smogovaca?",
+    "answers": [
+      "5",
+      "Pet"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "Film",
+    "question": "Koji glumac utjelovljuje lik i djelo Indiane Jonesa?",
+    "answers": [
+      "Harrison Ford",
+      "Harison Ford",
+      "Ford"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Film",
+    "question": "Kako se zove najstariji brat obitelji Vragec iz Smogovaca?",
+    "answers": [
+      "Dragec"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Film",
+    "question": "Film 'Dunkirk' govori o evakuaciji savezničkih vojnika iz kojeg rata?",
+    "answers": [
+      "Drugog svjetskog rata",
+      "2. svjetskog rata",
+      "Drugog svjetskog",
+      "2. svjetskog",
+      "2",
+      "drugog",
+      "2 svjetskog",
+      "drugog svjetskog",
+      "2 svj",
+      "Drugog svj"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Film",
+    "question": "Kako se zove fiktivna afrička država iz koje princ Akeem Joffer odlazi u New York u filmu 'Princ otkriva Ameriku' (Coming to America)?",
+    "answers": [
+      "Zamunda"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "Film",
+    "question": "Koji filmski serijal prati boksačku karijeru Roberta Balboe?",
+    "answers": [
+      "Rocky",
+      "Roki"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Film",
+    "question": "Koji je film Ridleyja Scotta inspiriran stvarnim događajima o otmici unuka J. Paula Gettyja?",
+    "answers": [
+      "Sav novac svijeta",
+      "All the Money in the World",
+      "Ol d moni in d vord"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Film",
+    "question": "Kako se zove kći Morticije i Gomeza Addams iz filma 'Obitelji Addams' (The Addams Family)?",
+    "answers": [
+      "Wednesday",
+      "Vednesdej"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "Film",
+    "question": "Koji je glumac posudio glas lavu Mufasi i u originalu i u remakeu 'Kralj Lavova'?",
+    "answers": [
+      "James Earl Jones",
+      "Džejms Erl Džons",
+      "Earl Jones",
+      "Erl Džons",
+      "Jones",
+      "Džons",
+      "James Jones",
+      "Džejms Džons"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Film",
+    "question": "Kondukter Krstić, Miško, Lovac, Brka, Pjevač i ostali, autobusom putuju za koji grad?",
+    "answers": [
+      "Beograd"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Film",
+    "question": "Tko je režirao 'Schindlerovu listu'?",
+    "answers": [
+      "Steven Spielberg",
+      "Stiven Spilberg",
+      "Spielberg",
+      "Spilberg"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Film",
+    "question": "U kojem filmu glume Brad Pitt i Edward Norton kao osnivači jednog tajnog kluba?",
+    "answers": [
+      "Klub boraca",
+      "Fight Club",
+      "Fajt klub"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "Film",
+    "question": "U animiranom filmu 'Coco', kako se zove most koji povezuje svijet živih i svijet mrtvih?",
+    "answers": [
+      "Most od latica nevena",
+      "Marigold bridge"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Film",
+    "question": "U kojem se filmu pojavljuje 'Flux Capacitor'?",
+    "answers": [
+      "Povratak u budućnost",
+      "Back to the Future",
+      "Bek to d fjučr"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Film",
+    "question": "Koji film Martina Scorsesea govori o taksistu iz New Yorka koji pokušava promijeniti svoj život?",
+    "answers": [
+      "Taksist",
+      "Taxi Driver",
+      "Taksi drajver"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Film",
+    "question": "Koja je glumica odigrala ulogu Vivian Ward, poznatiju kao 'Pretty Woman'?",
+    "answers": [
+      "Julia Roberts",
+      "Džulia Roberts",
+      "Roberts"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Film",
+    "question": "Od kojeg je izmišljenog metala napravljen štit Kapetana Amerike?",
+    "answers": [
+      "Vibraniuma",
+      "Vibranium",
+      "Vibranijuma",
+      "Vibranija",
+      "Vibranij"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Film",
+    "question": "Kako se zove brod Kapetana Kuke u Disneyjevoj verziji 'Petra Pana'?",
+    "answers": [
+      "Jolly Roger",
+      "Džoli Rodžer"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "Film",
+    "question": "Kako se zove mitsko biće koje u filmu 'Panov labirint' (Pan's Labyrnth) jede djecu i ima oči na dlanovima?",
+    "answers": [
+      "Blijedi čovjek",
+      "Pale Man",
+      "The Pale Man",
+      "Pejl men"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Film",
+    "question": "Koji glumac igra ulogu tiranina Immortan Joea u filmu 'Pobješnjeli Max: Divlja cesta' (Mad Max: Fury Road)?",
+    "answers": [
+      "Hugh Keays Byrne",
+      "Hug Kis Birn",
+      "Keays Byrne",
+      "Kis Birn",
+      "Byrne",
+      "Birn",
+      "Hugh Byrne",
+      "Hug Birn"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Film",
+    "question": "Koji je glumac utjelovio Charlieja Chaplina u biografskom filmu iz 1992. godine?",
+    "answers": [
+      "Robert Downey Jr",
+      "Robert  Dovni Jr",
+      "Downey Jr",
+      "Dovni jr",
+      "Dovni Junior",
+      "Robert John Downey Jr"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "rarity": "golden",
+    "difficulty": 5,
+    "topic": "Film",
+    "question": "Koji glumac igra svećenika Lankestera koji pokušava istjerati đavla iz djevojčice Regan u klasiku 'Egzorcist'?",
+    "answers": [
+      "Max von Sydow",
+      "Maks von Sidov",
+      "Von Sydow",
+      "Von sidov",
+      "Sydow",
+      "Sidov",
+      "Carl Adolf Max von Sydow"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "Film",
+    "question": "Koji je film iz 1972. ovjekovječen rečenicom 'Piše Hund, ali piše i Mile'?",
+    "answers": [
+      "Vuk samotnjak"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Film",
+    "question": "Kako se zove fiktivni otok na kojem se odvija radnja filma 'Jurassic Park' Stevena Spielberga?",
+    "answers": [
+      "Isla Nublar",
+      "Nublar",
+      "Otok Oblaka",
+      "Otok Nublar"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Film",
+    "question": "Koji je film Alfreda Hitchcocka snimljen kao kadar iz jedne sobe s pogledom na dvorište i okolne zgrade?",
+    "answers": [
+      "Prozor u dvorište",
+      "Rear Window",
+      "Rer Vindov"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Film",
+    "question": "U kojem zatvoru završava Andy Dufresne nakon što ubije svoju suprugu i njenog ljubavnika?",
+    "answers": [
+      "Shawshank",
+      "Zatvor Shawshank",
+      "Šavšank",
+      "Zatvor Šavšank",
+      "U Shawshanku",
+      "U Šavšanku"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "Film",
+    "question": "Koji je glumac utjelovio Jokera u filmu 'Vitez tame'?",
+    "answers": [
+      "Heath Ledger",
+      "Hit Ledžer",
+      "Ledger",
+      "Ledžer"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Film",
+    "question": "Tko glumi Jordana Belforta u filmu 'Vuk s Wall Streeta' (The Wolf of Wall Street)?",
+    "answers": [
+      "Leonardo DiCaprio",
+      "Leonardo Dikaprio",
+      "DiCaprio",
+      "Dikaprio",
+      "Leonardo Wilhelm DiCaprio"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Film",
+    "question": "Tko postaje kralj lavova u istoimenom Disneyjevom crtiću nakon Mufasine tragične smrti te pobjede nad Scarom?",
+    "answers": [
+      "Simba"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Film",
+    "question": "Ako čujemo konduktera da viče 'saperlot' onda je sasvim sigurno da gledamo koji film?",
+    "answers": [
+      "Vlak u snijegu"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Film",
+    "question": "Koji film završava kultnom scenom u kojoj protagonist Truman shvaća da je cijeli njegov život TV show?",
+    "answers": [
+      "Trumanov Show",
+      "Trumanov Šov",
+      "The Truman Show",
+      "D Truman Šov"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Film",
+    "question": "Pavle Čutura 'Paja' i Živadin Jarić 'Jare' protagonisti su koje humoristične tv serije?",
+    "answers": [
+      "Kamiondžije"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Film",
+    "question": "Koji film završava rečenicom: 'Louis, mislim da je ovo početak jednog divnog prijateljstva'?",
+    "answers": [
+      "Casablanca",
+      "Kazablanka"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Film",
+    "question": "Tko tumači ulogu Jamesa Bonda u filmu 'Za smrt nema vremena' (No Time to Die)?",
+    "answers": [
+      "Daniel Craig",
+      "Deniel Krejg",
+      "Craig",
+      "Krejg"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Film",
+    "question": "Tko je režirao kultnu trilogiju 'Kum'?",
+    "answers": [
+      "Francis Ford Coppola",
+      "Francis Ford Kopola",
+      "Coppola",
+      "Kopola"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "Film",
+    "question": "Smogovci su dječja humoristična serija koja prati život koje obitelji?",
+    "answers": [
+      "Vragec",
+      "Obitelji Vragec"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Film",
+    "question": "Koji grad je najbliži velikom vodopadu te staroj tvrđavi iz filma 'Orlovi rano lete'?",
+    "answers": [
+      "Ljubuški"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Film",
+    "question": "Koji je glumac tumačio ulogu Stephena Hawkinga u filmu 'Teorija svega' (The Theory of Everything)?",
+    "answers": [
+      "Eddie Redmayne",
+      "Edi Redmajn",
+      "Redmayne",
+      "Redmajn",
+      "Edward John David Redmayne"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Film",
+    "question": "U filmu Interstellar, 'tik' svakih 1,25 sekundi na Millerovu planetu predstavlja koliko vremena na Zemlji?",
+    "answers": [
+      "1 dan",
+      "24h",
+      "24 sata",
+      "Jedan dan",
+      "1 dan",
+      "1 day",
+      "One day",
+      "On Dej"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Film",
+    "question": "U kojem filmu John Travolta kao Vincent Vega i Uma Thurman kao Mia Wallace plešu kultni ples?",
+    "answers": [
+      "Pakleni šund",
+      "Pulp Fiction",
+      "Pulp Fikšn"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Film",
+    "question": "Koji je slavni redatelj režirao '2001: Odiseja u Svemiru', ali se nikada nije pojavio na dodjeli Oscara da podigne kipić?",
+    "answers": [
+      "Stanley Kubrick",
+      "Stenli Kubrik",
+      "Kubrick",
+      "Kubrik"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Film",
+    "question": "Tko glumi kaskadera Cliffa Bootha u filmu 'Bilo jednom u Hollywoodu' ?",
+    "answers": [
+      "Brad Pitt",
+      "Bred Pit",
+      "Pitt",
+      "Pit"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "Film",
+    "question": "Kako se zove glavni zlikovac u 'Harryju Potteru'?",
+    "answers": [
+      "Lord Voldemort",
+      "Voldemort"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Film",
+    "question": "Koji film Wes Andersona prati radnju u poznatom europskom hotelu?",
+    "answers": [
+      "The Grand Budapest Hotel",
+      "Grand Budapest Hotel",
+      "Grand Budapešt Hotel"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "Film",
+    "question": "Tko je uz Matta Damona napisao scenarij za film 'Good Will Hunting'?",
+    "answers": [
+      "Ben Affleck",
+      "Ben Aflek",
+      "Affleck",
+      "Aflek"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "rarity": "silver",
+    "difficulty": 4,
+    "topic": "Film",
+    "question": "Tko glumi Dianu Prince u filmovima o Wonder Woman iz 2017. i 2020.?",
+    "answers": [
+      "Gal Gadot",
+      "Gal Gadot Varsano",
+      "Gadot"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Film",
+    "question": "Kako se zove planet prekriven pijeskom koji je središte radnje u filmu 'Dina'?",
+    "answers": [
+      "Arrakis",
+      "Arakis"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Film",
+    "question": "Mladog Potrku je glumio Stjepan Puljić. Tko je glumio odraslog Matana?",
+    "answers": [
+      "Rade Serbedžija",
+      "Šerbedžija"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "Film",
+    "question": "Koji glumac je utjelovio lik i djelo kapetana Jacka Sparrowa?",
+    "answers": [
+      "Johnny Depp",
+      "Džoni Dep",
+      "Depp",
+      "Dep"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Film",
+    "question": "Tko je glumio Freddija Mercuryja u filmu Bohemian Rhapsody iz 2018.?",
+    "answers": [
+      "Rami Malek",
+      "Malek"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Film",
+    "question": "Koji je horor film iz 2017. godine proslavio Jordana Peelea kao vrhunskog redatelja horor žanra?",
+    "answers": [
+      "Bježi",
+      "Get out",
+      "Bježi!",
+      "Get Out!"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Film",
+    "question": "Koji film je poznat po 'sceni pod tušem' i ubojstvu Marion Crane?",
+    "answers": [
+      "Psiho",
+      "Psycho"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Film",
+    "question": "Tko je utjelovio Tonija Montanu u filmu 'Lice s ožiljkom' (Scarface) iz 1983.?",
+    "answers": [
+      "Al Pacino",
+      "Al paćino",
+      "Pacino",
+      "Paćino"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Film",
+    "question": "Tko je režirao 'Hrabro srce' (Braveheart)?",
+    "answers": [
+      "Mel Gibson",
+      "Gibson"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Film",
+    "question": "Koji je film poznat po rečenici: 'Life is like a box of chocolates'?",
+    "answers": [
+      "Forrest Gump",
+      "Forest Gamp"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Film",
+    "question": "Koji je film prvi u povijesti zaradio više od 2 milijarde dolara?",
+    "answers": [
+      "Avatar"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Film",
+    "question": "Kako se zove ludi znanstvenik sijede kose iz 'Povratka u budućnost'?",
+    "answers": [
+      "Doc Brown",
+      "Emmett Brown",
+      "Dr. Emmett Brown",
+      "Emmett Lathrop Brown",
+      "Dok Brovn",
+      "Emet brovn",
+      "Emet latrop brovn"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Film",
+    "question": "U kojem filmu Tom Hanks igra čovjeka zarobljenog na pustom otoku nakon avionske nesreće?",
+    "answers": [
+      "Brodolom života",
+      "Cast away",
+      "Kast avej"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Film",
+    "question": "Koje ime nosi fiktivna, supermasivna crna rupa u filmu 'Interstellar'?",
+    "answers": [
+      "Gargantua"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Film",
+    "question": "Koji je vestern Clinta Eastwooda osvojio Oscara za najbolji film, a prati priču ostarjelog revolveraša Munnyja?",
+    "answers": [
+      "Nepomirljivi",
+      "Unforgiven"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Film",
+    "question": "Kako se zove planet s kojeg dolazi Superman?",
+    "answers": [
+      "Krypton",
+      "Kripton"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Film",
+    "question": "Američka televizijska serija 'Prijatelji' (Friends) se na NBC-u prikazivala od 1994. do koje godine?",
+    "answers": [
+      "2004.",
+      "Dvije tisuće četvrta"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Film",
+    "question": "Tko je režirao 'Gladijatora 2'?",
+    "answers": [
+      "Ridley Scott",
+      "Ridli Skot",
+      "Scott",
+      "Skot"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Film",
+    "question": "Koji glumac tumači ulogu detektiva Ricka Deckarda u originalnom filmu 'Istrebljivač' (Blade Runner)?",
+    "answers": [
+      "Harrison Ford",
+      "Harison Ford",
+      "Ford"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "Film",
+    "question": "Koji je film poznat po rečenici: 'E.T. phone home'?",
+    "answers": [
+      "E.T.",
+      "ET",
+      "I Ti",
+      "Iti"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Film",
+    "question": "U kojem filmu iz 2001. igraju George Clooney i Brad Pitt kao pljačkaši kockarnica?",
+    "answers": [
+      "Oceanovih 11",
+      "Oceanovih jedanaest",
+      "Oceans eleven",
+      "Ošens eleven"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Film",
+    "question": "Tko je utjelovio J. Roberta Oppenheimera i dobio Oscara za najboljeg glumca 2024.?",
+    "answers": [
+      "Cillian Murphy",
+      "Kilian Murfi",
+      "Murphy",
+      "Mrfi"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Film",
+    "question": "U filmu 'Joker', u kojoj četvrti New Yorka Arthur Fleck pleše stepenicama, koje su kasnije postale turistička atrakcija?",
+    "answers": [
+      "Bronx",
+      "U Bronxu",
+      "Bronks",
+      "U Bronksu",
+      "Bronxu",
+      "Bronksu"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Film",
+    "question": "Kako se zove planina na koju Frodo mora odnijeti Prsten Moći da bi ga uništio?",
+    "answers": [
+      "Kleta gora",
+      "Mt. Doom",
+      "Mt Doom",
+      "Mountain Doom",
+      "Mont Dum",
+      "Mount Doom"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Film",
+    "question": "U filmu 'Društvo mrtvih pjesnika' (Dead Poets Society), koju latinsku frazu profesor Keating stalno ponavlja učenicima da najbolje iskoriste dan?",
+    "answers": [
+      "Carpe Diem",
+      "Karp diem"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "Film",
+    "question": "U filmu 'Zodiac', koji glumac tumači ulogu karikaturista Roberta Graysmitha koji pokušava pronaći ubojicu?",
+    "answers": [
+      "Jake Gyllenhaal",
+      "Džejk Gilenhal",
+      "Gyllenhaap",
+      "Gilenhal"
+    ],
+    "image": null
+  }
+]

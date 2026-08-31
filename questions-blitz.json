@@ -1,0 +1,5881 @@
+[
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "Godine 1958. komunistički diktator Mao Ce-Tung je naredio istrebljenje koje vrste ptice?",
+    "answers": [
+      "Vrabaca",
+      "Vrapce",
+      "Vrabac"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "U kojoj se situaciji, prema narodnoj mudrosti, najbolje prepoznaje pravi prijatelj?",
+    "answers": [
+      "U nevolji",
+      "Nevolji",
+      "Nevolja"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Koji je košarkaš izjavio 'Promašio sam više od 9000 šuteva u karijeri... I zato uspijevam'?",
+    "answers": [
+      "Michael Jordan",
+      "Majkl Džordan",
+      "Jordan",
+      "Džordan"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Kojeg je francuskog filozofa prosvjetiteljstva proslavila obrana slobode mišljenja, zbog čega mu se često, premda pogrešno, pripisuje misao 'Ne slažem se s onim što govoriš, ali branit ću tvoje pravo da to kažeš'?",
+    "answers": [
+      "Voltaire",
+      "Volter",
+      "François Marie Arouet",
+      "Fransoa Mari Arue",
+      "Arue",
+      "Arouet"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Tijekom koje je svemirske misije nastala slavna rečenica 'Houston, we've had a problem', danas jedna od najpoznatijih fraza u povijesti istraživanja svemira?",
+    "answers": [
+      "Apollo 13",
+      "Apolo 13",
+      "Apollo thirteen",
+      "Apolo trtin",
+      "Apollo trinaest",
+      "Apolo trinaest",
+      "Apollo XII",
+      "Apolo XIII",
+      "Apolo",
+      "Apollo"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Kada dijete ponašanjem ili osobinama jako podsjeća na roditelje, često kažemo da što ne pada daleko od stabla?",
+    "answers": [
+      "Jabuka"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Koji je američki državnik i jedan od tvoraca američke Deklaracije neovisnosti napisao da su 'svi ljudi stvoreni jednaki'?",
+    "answers": [
+      "Thomas Jefferson",
+      "Tomas Džeferson",
+      "Jefferson",
+      "Džeferson"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Kojoj se 'poklonjenoj' životinji ne gleda u zube?",
+    "answers": [
+      "Konju",
+      "Konj",
+      "Hors",
+      "Horse",
+      "Pferd",
+      "Ferd"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Koji je britanski povjesničar upozorio na opasnost vlasti poznatom mišlju 'Moć kvari, a apsolutna moć kvari apsolutno'?",
+    "answers": [
+      "Lord Acton",
+      "Akton",
+      "Acton",
+      "Lord Akton",
+      "Ekton"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Prema narodnoj poslovici, ako negdje ima dima, čega još ondje vjerojatno ima iako to još ne vidimo?",
+    "answers": [
+      "Vatre",
+      "Vatra"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Koji je engleski dramatičar Hamletu stavio u usta jedno od najpoznatijih pitanja svjetske književnosti: 'Biti ili ne biti'?",
+    "answers": [
+      "William Shakespeare",
+      "Vilijam Šekspir",
+      "Shakespeare",
+      "Šekspir"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Uzvik koji danas koristimo kada pronađemo rješenje problema, prema legendi je izgovorio antički znanstvenik Arhimed nakon otkrića povezanog s uzgonom, a on glasi kako?",
+    "answers": [
+      "Eureka",
+      "Jurika",
+      "Hurika",
+      "Heureka"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Strpljenje se često nagrađuje, barem prema poslovici koja kaže 'Tko čeka, taj i ...'?",
+    "answers": [
+      "Dočeka"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Sudeći po narodnoj poslovici, koju radnju bi trebali prvo obaviti pa tek onda nešto reći naglas?",
+    "answers": [
+      "Ispeći",
+      "Ispeci",
+      "Peći",
+      "Peci"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Poslovica koja uspoređuje naše postupke sa sjetvom i žetvom kaže: 'Kako siješ, tako ćeš i...'?",
+    "answers": [
+      "Žeti"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "'Sav je svijet pozornica, a svi muškarci i žene tek glumci' poznata je misao kojeg književnika?",
+    "answers": [
+      "Williama Shakespearea",
+      "Vilijama Šekspira",
+      "Shakespearea",
+      "Šekspira",
+      "Šekspir"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Nadopunite poslovicu koja podsjeća da se znanje i uspjeh rijetko stječu bez truda: 'Bez muke nema...'?",
+    "answers": [
+      "Nauke"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Kakav je, prema poslovici, onaj koji ne vjeruje gladnome?",
+    "answers": [
+      "Sit",
+      "Najeden"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Naglašavajući odgovornost pojedinca za vlastite izbore, francuski je egzistencijalist Jean Paul Sartre tvrdio da je čovjek osuđen na što?",
+    "answers": [
+      "Slobodu",
+      "Sloboda",
+      "Freedom",
+      "Fridom"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Kojem se talijanskom astronomu tradicionalno pripisuju riječi 'Ipak se kreće', navodno izgovorene nakon što je bio prisiljen odreći se svojih astronomskih stajališta?",
+    "answers": [
+      "Galileu Galileiu",
+      "Galileo Galilei",
+      "Galileju",
+      "Galilej",
+      "Galilei",
+      "Galileiu",
+      "Galileji",
+      "Galileiju",
+      "Galileu",
+      "Galileo"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "'Ne pitajte što vaša zemlja može učiniti za vas, pitajte što vi možete učiniti za svoju zemlju.' Koji je američki predsjednik izgovorio te riječi u inauguracijskom govoru 1961.g.?",
+    "answers": [
+      "John F. Kennedy",
+      "Džon F. Kenedi",
+      "John Fitzgerald Kennedy",
+      "Džon Ficgerald Kenedi",
+      "John Kennedy",
+      "Džon Kenedi",
+      "Kennedy",
+      "Kenedi"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Čak i loš događaj ponekad donese nešto korisno ili kako poslovica kaže: 'Svako zlo za neko...'?",
+    "answers": [
+      "Dobro"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Koji je francuski filozof u drami 'Iza zatvorenih vrata' napisao čuvenu rečenicu 'Pakao, to su drugi'?",
+    "answers": [
+      "Jean-Paul Sartre",
+      "Žan Paul Sartr",
+      "Sartre",
+      "Sartr"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Onaj koji se, prema poslovici, najslađe smije, smije se koji po redu?",
+    "answers": [
+      "Zadnji",
+      "Najzadnji",
+      "Last one",
+      "Last",
+      "Posljednji",
+      "Krajnji"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "'Tko je bez grijeha, neka prvi baci kamen' jedna je od najpoznatijih rečenica iz koje svete religijske knjige?",
+    "answers": [
+      "Biblija",
+      "Bible",
+      "Bajbl",
+      "Biblije",
+      "Bibles",
+      "Bajbls"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Koji je rimski državnik i govornik završavao niz svojih govora tvrdnjom da Kartagu treba razoriti, poznatom po latinskoj frazi 'Carthago delenda est'?",
+    "answers": [
+      "Katon Stariji",
+      "Katon",
+      "Caton",
+      "Cato",
+      "Kato"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Nakon Bitke za Britaniju, koji je britanski premijer izrekao znamenitu pohvalu pilotima riječima da 'nikada toliko mnogo ljudi nije dugovalo toliko malom broju'?",
+    "answers": [
+      "Winston Churchill",
+      "Vinston Črčil",
+      "Churchill",
+      "Čurčil",
+      "Črčil"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "'Tko visoko leti nisko...'?",
+    "answers": [
+      "Pada"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Što se, prema poslovici, poznaje po jutru?",
+    "answers": [
+      "Dan",
+      "Day",
+      "Dej"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Koji je grčki matematičar i izumitelj, govoreći o principu poluge, navodno rekao da bi uz odgovarajući oslonac mogao pomaknuti Zemlju?",
+    "answers": [
+      "Arhimed"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Gary Lineker je jednom izjavio 'Nogomet je jednostavna igra: 22 čovjeka trče za loptom 90 minuta, a na kraju uvijek pobijede...' Tko?",
+    "answers": [
+      "Njemci",
+      "Švabe",
+      "Njemačka",
+      "Deutschland",
+      "Germani",
+      "Germany",
+      "Džermani",
+      "Džermani",
+      "Ger",
+      "De",
+      "Njem",
+      "Švabija",
+      "Švabska"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "'Homo homini lupus', odnosno 'Čovjek je čovjeku vuk', potječe još iz antike. Koji ju je rimski komediograf zapisao stoljećima prije nego što ju je proslavio Thomas Hobbes?",
+    "answers": [
+      "Plaut",
+      "Plautus"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Što je, prema poznatoj poslovici, kratko u laži?",
+    "answers": [
+      "Noge",
+      "Noga",
+      "Legs",
+      "Leg"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Koja naizgled bezazlena voda, prema poslovici, 'brege dere'?",
+    "answers": [
+      "Tiha voda",
+      "Tiha"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Sudeći po jednoj poslovici, onaj tko je 'strpljen' taj je i što?",
+    "answers": [
+      "Spašen",
+      "Saved",
+      "Sejvd"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Dovršite poznatu zdravstvenu mudrost: 'Bolje spriječiti nego...'?",
+    "answers": [
+      "Liječiti",
+      "Ličiti"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Dovršite poslovicu koja poručuje da jasni financijski odnosi čuvaju dobre odnose: 'Čist račun, duga...'?",
+    "answers": [
+      "Ljubav",
+      "Love",
+      "Lov"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Poslovica je davno objasnila da kruha nema bez čega?",
+    "answers": [
+      "Motike",
+      "Motika"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "'Spoznaj samoga sebe' bio je jedan od najpoznatijih natpisa povezanih s kojim velikim starogrčkim svetištem i proročištem?",
+    "answers": [
+      "Delfi"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Edward Bulwer-Lytton je bio engleski književnik koji je skovao čuvenu rečenicu prema kojoj je pero moćnije od čega?",
+    "answers": [
+      "Mača",
+      "Mač",
+      "Swords",
+      "Sword",
+      "Svords",
+      "Svord"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Astronaut Neil Armstrong je nakon što je stupio nogom na Mjesec 1969.g. izgovorio jednu od najpoznatijih rečenica 20. stoljeća u kojoj spominje mali korak za čovjeka ali i veliki za koga?",
+    "answers": [
+      "Čovječanstvo",
+      "Humanity",
+      "Hjumeniti",
+      "Humaniti",
+      "Ljudstvo",
+      "Ljude",
+      "People",
+      "Pipl"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Dok mačke nema, tko prema poznatoj poslovici vodi kolo?",
+    "answers": [
+      "Miševi",
+      "Miši",
+      "Miš",
+      "Mouse",
+      "Mouses",
+      "Maus",
+      "Mausi",
+      "Pacovi"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Čime se, prema poslovici, najbolje izbija klin?",
+    "answers": [
+      "Klinom"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "'Ne laje pas zbog sela, nego zbog...' Koga?",
+    "answers": [
+      "Sebe",
+      "Njega"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Koja ćorava životinja nastupa u poslovici u kojoj i ona nađe zrno?",
+    "answers": [
+      "Koka",
+      "Kokoš",
+      "Kokica"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Od kojeg dijela, prema poslovici, riba počinje smrdjeti?",
+    "answers": [
+      "Glave",
+      "Glava",
+      "Head",
+      "Hed"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Koji je francuski kralj, prema predaji, prije Bitke kod Ivryja 1590.g. svojim vojnicima poručio da slijede njegov 'bijeli perjanik' ako izgube svoje zastave?",
+    "answers": [
+      "Henrik IV.",
+      "Henrik 4.",
+      "Henrik četvrti",
+      "Henrik fourth",
+      "Henrik fort",
+      "Henrik 4th",
+      "Henri IV.",
+      "Henri 4.",
+      "Henri četvrti",
+      "Henri fourth",
+      "Henri fort",
+      "Henri 4th"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Kojem se francuskom 'Kralju Suncu', simbolu apsolutne monarhije, tradicionalno pripisuje izreka 'Država, to sam ja'?",
+    "answers": [
+      "Luj XIV.",
+      "Luj 14.",
+      "Luj Bogodani",
+      "Luj Veliki",
+      "Luju",
+      "Louis",
+      "Luis",
+      "Luja",
+      "Louisa",
+      "Luisa",
+      "Luju četrnaestom",
+      "Luj četrnaesti",
+      "Luju 14.",
+      "Luju XIV.",
+      "Luju 14th",
+      "Luj Forteenth",
+      "Luj Fortint"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Koji je američki borac za građanska prava 1963.g. ispred Lincolnova memorijala održao govor koji je u povijest ušao po riječima 'I have a dream'?",
+    "answers": [
+      "Martin Luther King Jr.",
+      "Martin Luther King",
+      "Martin Luter King",
+      "Luther King",
+      "Luter King",
+      "King"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Prema poznatoj narodnoj poslovici, tko rano rani, koliko sreća grabi?",
+    "answers": [
+      "Dvije",
+      "2",
+      "Dvi",
+      "Two",
+      "Tvu",
+      "Zweii",
+      "Zwei",
+      "Cvaj",
+      "Obe",
+      "Obadvi",
+      "Obe dvi"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Nadopunite upozorenje da vanjski sjaj može varati: 'Nije zlato sve što...'",
+    "answers": [
+      "Sja",
+      "Sija",
+      "Sjaji"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "'S kim si, takav si' upozorava na utjecaj čega na čovjeka?",
+    "answers": [
+      "Društva",
+      "Ekipe",
+      "Kompanije"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "'Što me ne ubije, čini me jačim' jedna je od najcitiranijih misli kojeg njemačkog filozofa?",
+    "answers": [
+      "Friedricha Nietzschea",
+      "Fridriha Ničea",
+      "Nietzschea",
+      "Ničea",
+      "Nitčea",
+      "Niečea",
+      "Friedrich Nietzsche",
+      "Fridrih Niče",
+      "Nietzsche",
+      "Niče",
+      "Nitče",
+      "Nieče"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Svi znamo za poslovicu koja kaže da je 'bolje imati vrapca u ruci nego koga na grani?",
+    "answers": [
+      "Goluba",
+      "Golub"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Sudeći prema izreci, u strahu je najveći koji dio tijela?",
+    "answers": [
+      "Oči",
+      "Oko",
+      "Eyes",
+      "Ajs",
+      "Ese",
+      "Aj"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Koji je američki predsjednik tijekom posjeta Zapadnom Berlinu 1963.g. izgovorio čuvene riječi 'Ich bin ein Berliner'?",
+    "answers": [
+      "John F. Kennedy",
+      "Džon F. Kenedi",
+      "John Fitzgerald Kennedy",
+      "Džon Ficgerald Kenedi",
+      "John Kennedy",
+      "Džon Kenedi",
+      "Kennedy",
+      "Kenedi"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Koji je rimski pjesnik zaslužan za poznatu latinsku poruku 'Carpe diem', odnosno 'Iskoristi dan'?",
+    "answers": [
+      "Horacije",
+      "Horatie",
+      "Horatius",
+      "Horacius"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Koja životinja, prema poslovici, često mnogo laje, ali ne grize?",
+    "answers": [
+      "Pas"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Kojoj se utjecajnoj ljubavnici francuskog kralja Luja XV. tradicionalno pripisuje rečenica 'Nakon nas potop'?",
+    "answers": [
+      "Madame de Pompadour",
+      "Madam de Pompador",
+      "Jeanne Antoinette Poisson",
+      "Markiza de Pompadour",
+      "De Pompadour",
+      "DenPompador",
+      "Poisson",
+      "Poizon",
+      "Žane Antoniet Poizon"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Izreka 'Mašta je važnija od znanja' se pripisuje kojem velikom svjetskom znanstveniku?",
+    "answers": [
+      "Albertu Einsteinu",
+      "Albertu Ajnštajnu",
+      "Einstein",
+      "Einsteinu",
+      "Ajnštajnu"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "'Bolje išta nego...' Što?",
+    "answers": [
+      "Ništa"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Koji je britanski premijer u svibnju 1940.g., neposredno nakon preuzimanja dužnosti, govorio o 'krvi, trudu, suzama i znoju'?",
+    "answers": [
+      "Winston Churchill",
+      "Vinston Črčil",
+      "Churchill",
+      "Čurčil",
+      "Črčil"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "'Koliko ljudi, toliko...' Čega, prema poslovici, ima jednako mnogo kao ljudi?",
+    "answers": [
+      "Ćudi"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "'Šampioni nastavljaju igrati sve dok ne naprave kako treba' je poznata izreka koje legendarne američke tenisačice?",
+    "answers": [
+      "Billie Jean King",
+      "Bili Džin King",
+      "Jean King",
+      "Džin King",
+      "King"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Koja se povijesna osoba u Evanđelju po Ivanu obraća Isusu pitanjem 'Što je istina?'",
+    "answers": [
+      "Poncije Pilat",
+      "Pilat",
+      "Pilatus",
+      "Pontius Pilatus",
+      "Poncijus Pilatus",
+      "Pilatu",
+      "Pilatusu"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Koji je francuski kralj navodno smatrao da je Pariz 'vrijedan jedne mise' kada je prelaskom na katoličanstvo učvrstio svoj položaj na prijestolju?",
+    "answers": [
+      "Henrik IV.",
+      "Henrik 4.",
+      "Henrik četvrti",
+      "Henrik fourth",
+      "Henrik fort",
+      "Henrik 4th",
+      "Henri IV.",
+      "Henri 4.",
+      "Henri četvrti",
+      "Henri fourth",
+      "Henri fort",
+      "Henri 4th"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Dovršite poslovicu o složnoj obitelji: 'Gdje čeljad nije bijesna, ni kuća nije...'?",
+    "answers": [
+      "Tijesna",
+      "Tisna"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Ako upitamo engleskog filozofa i državnika s početka 17. stoljeća Francisa Bacona za misao o znanju, sasvim sigurno će nam odgovoriti da je znanje što?",
+    "answers": [
+      "Moć"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Od čega, prema poslovici, glava ne boli?",
+    "answers": [
+      "Viška"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Koji je američki predsjednik 1987.g. pred Brandenburškim vratima pozvao sovjetskog vođu riječima 'Gospodine Gorbačov, srušite ovaj zid!'?",
+    "answers": [
+      "Ronald Reagan",
+      "Ronald Regan",
+      "Reagan",
+      "Regan"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Prema izreci, što vuk može promijeniti, ali svoju ćud navodno nikada?",
+    "answers": [
+      "Dlaku"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Na čemu se, prema poslovici, najbolje poznaju junaci?",
+    "answers": [
+      "Na muci",
+      "Na muki",
+      "Muci",
+      "Muki",
+      "Muka"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Kada kažemo da nešto ne treba procjenjivati samo po vanjštini, upozoravamo da knjigu ne treba suditi po čemu?",
+    "answers": [
+      "Koricama",
+      "Korama",
+      "Kora",
+      "Kore",
+      "Korice"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "S kojim se renesansnim političkim misliocem često povezuje tvrdnja 'Cilj opravdava sredstvo', iako te riječi u tom obliku nije zapisao?",
+    "answers": [
+      "Niccolò Machiavelli",
+      "Nikolo Makijaveli",
+      "Machiavelli",
+      "Makijaveli",
+      "Machiavelliem",
+      "Makijavelijem"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Prema narodnoj poslovici što nemožeš imati ako imaš ovce?",
+    "answers": [
+      "Novce",
+      "Novac",
+      "Pare",
+      "Novaca"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Rimski je vojskovođa Julije Cezar svoju brzu vojnu pobjedu kod Zele 47.g. pr. Kr. opisao čuvenim riječima 'Veni, Vidi, ... ,  što?",
+    "answers": [
+      "Vici",
+      "Pobjedih",
+      "Pobjedi",
+      "Pobjeda"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Koji je francuski filozof u 17. stoljeću svoj sustav potrage za sigurnim znanjem sažeo u znamenitu misao „Mislim, dakle jesam“?",
+    "answers": [
+      "René Descartes",
+      "Descartes",
+      "Rene Dekart",
+      "Dekart",
+      "Deskart",
+      "Dekartes"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Koji je rimski car-filozof u svojim Meditacijama zapisivao misli o samokontroli, dužnosti i prolaznosti života te danas slovi kao jedan od najvećih imena stoicizma?",
+    "answers": [
+      "Marko Aurelije",
+      "Marcus Aurelius",
+      "Markus Aurelius"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Što je, prema narodnoj poslovici, najbolje kovati dok je vruće?",
+    "answers": [
+      "Željezo",
+      "Metal",
+      "Čelik"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Koji je francuski filozof u djelu 'Društveni ugovor' napisao: 'Čovjek je rođen slobodan, a posvuda je u okovima'?",
+    "answers": [
+      "Jean-Jacques Rousseau",
+      "Žan Žak Ruso",
+      "Ruso",
+      "Rusao",
+      "Rusau"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Nadopunite: 'Dok jednom ne smrkne, drugom ne...'?",
+    "answers": [
+      "Svane",
+      "Nesvane",
+      "Ne svane"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Izraz 'Kruha i igara' kritizirao je rimsko društvo koje se zadovoljavalo hranom i zabavom umjesto političkom slobodom. Koji ga je rimski satiričar proslavio?",
+    "answers": [
+      "Juvenal",
+      "Juvenalis"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Što, prema poslovici, gradi kuću, dok je nesloga razgrađuje?",
+    "answers": [
+      "Sloga"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Koji je njemački filozof i ekonomist religiju u jednom poznatom tekstu opisao kao 'opijum naroda'?",
+    "answers": [
+      "Karl Marx",
+      "Karl Marks",
+      "Marx",
+      "Marks"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Prema antičkoj predaji, tko je prelazeći Rubikon 49.g. pr. Kr. izgovorio riječi koje danas poznajemo kao ' 'Kocka je bačena'?",
+    "answers": [
+      "Julije Cezar",
+      "Cezar",
+      "Julius Caesar",
+      "Caesar",
+      "Sezar",
+      "Iulius Caesar",
+      "Julijus Sezar"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Završi poznatu izreku: 'Tko pod drugim jamu kopa, sam u nju...?",
+    "answers": [
+      "Upada",
+      "Pada"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Koji je antički grčki filozof tradicionalno povezan s paradoksalnom izrekom 'Znam da ništa ne znam', kojom se naglašava svijest o granicama vlastitog znanja?",
+    "answers": [
+      "Sokrat",
+      "Socrates",
+      "Sokrates"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Koji je američki predsjednik tijekom Hladnog rata popularizirao poslovicu 'Vjeruj, ali provjeri', koristeći je u razgovorima o nuklearnom razoružanju sa Sovjetskim Savezom?",
+    "answers": [
+      "Ronald Reagan",
+      "Ronald Regan",
+      "Reagan",
+      "Regan",
+      "Rigen"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Koja riječ nedostaje u poslovici koja nas tješi kada nešto napravimo sa zakašnjenjem: 'Bolje ikad nego...'?",
+    "answers": [
+      "Nikad"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Što radi onaj koji po poslovici 'ne skita'?",
+    "answers": [
+      "Pita"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Koji je američki predsjednik u Gettysburškom govoru 1863.g. govorio o vlasti 'naroda, od naroda i za narod'?",
+    "answers": [
+      "Abraham Lincoln",
+      "Abraham Linkoln",
+      "Lincoln",
+      "Linkoln",
+      "Abe",
+      "Ejb"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Koji je američki predsjednik tijekom Velike depresije u inauguracijskom govoru 1933.g. poručio da je 'jedino čega se moramo bojati sam strah'?",
+    "answers": [
+      "Franklin D. Roosevelt",
+      "FDR",
+      "Frenklin D. Ruzvelt",
+      "Franklin Delano Roosevelt",
+      "Frenklin Delano Ruzvelt",
+      "Delano Roosevelt",
+      "Delano Ruzvelt",
+      "Roosevelt",
+      "Ruzvelt"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "'Ne pada snijeg da pokrije brijeg, nego da svaka zvijer pokaže svoj...' Što?",
+    "answers": [
+      "Trag",
+      "Clue",
+      "Klu",
+      "Otisak"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Mudra izreka nam govori da čovjek uči dok je što?",
+    "answers": [
+      "Živ",
+      "Live",
+      "Lajv"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Koji je starogrčki sofist poznat po tvrdnji 'Čovjek je mjera svih stvari'?",
+    "answers": [
+      "Protagora",
+      "Protagoras"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Kada netko pretjeruje oko nečega nevažnog, kažemo da od muhe pravi što?",
+    "answers": [
+      "Slona",
+      "Slon",
+      "Elefant",
+      "Elephant"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Koji je njemački filozof 19. stoljeća kroz svoja djela proslavio provokativnu tvrdnju 'Bog je mrtav'?",
+    "answers": [
+      "Friedrich Nietzsche",
+      "Fridrih Niče",
+      "Nietzsche",
+      "Niče",
+      "Nitče",
+      "Nieče"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Čemu, prema poslovici, leti svaka ptica?",
+    "answers": [
+      "Svome jatu",
+      "Jatu svome",
+      "Jatu"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Koji je američki državnik i znanstvenik u djelu 'Advice to a Young Tradesman' zapisao misao koja je postala poznata kao 'Vrijeme je novac'?",
+    "answers": [
+      "Benjamin Franklin",
+      "Bendžamin Frenklin",
+      "Franklin",
+      "Frenklin"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Koliki se dio krivnje, prema poslovici, prašta onome tko prizna?",
+    "answers": [
+      "Pola",
+      "Half",
+      "50%"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "MisliIzrekeCitati",
+    "question": "Nadopunite narodnu poslovicu: 'Jedna lasta ne čini...', koje godišnje doba?",
+    "answers": [
+      "Proljeće",
+      "Proliće",
+      "Spring"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "Ostalo",
+    "question": "Ako bi se iz 2010.g. vratili u prošlost za točno 500 godina, u kojoj godini bi završili?",
+    "answers": [
+      "1510"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Ostalo",
+    "question": "Ispod kojeg je drveta Buda doživio prosvjetljenje?",
+    "answers": [
+      "Drvo smokve",
+      "Drveta smokve",
+      "Smokve",
+      "Indijske smokve",
+      "Indijska smokva"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Ostalo",
+    "question": "Koja je europska država 2024. godine promijenila datum proslave Božića sa 7. siječnja na 25. prosinca?",
+    "answers": [
+      "Ukrajina"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Sport",
+    "question": "Koliko naslova svjetskog WRC prvaka ukupno imaju legendarni finski rally vozači Juha Kankkunen i Tommi Mäkinen?",
+    "answers": [
+      "8",
+      "Osam"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "FilmGlazba",
+    "question": "Tko je utjelovio Sheldona Coopera u Teoriji Velikog Praska",
+    "answers": [
+      "Jim Parsons",
+      "Džim Parsons",
+      "Parsons"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Znanost",
+    "question": "Koji je kemijski simbol za zlato?",
+    "answers": [
+      "Au"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "Zemljopis",
+    "question": "Koji je glavni grad Italije?",
+    "answers": [
+      "Rim",
+      "Rome",
+      "Rom"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "KnjigaSlika",
+    "question": "Završite niz.. N, Na, No, Ni, Ne, ...?",
+    "answers": [
+      "Na"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "Zemljopis",
+    "question": "Kako se zove najduža rijeka u Africi?",
+    "answers": [
+      "Nil",
+      "Nile"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Ostalo",
+    "question": "Koja je najveća planeta u Sunčevu sustavu?",
+    "answers": [
+      "Jupiter"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Znanost",
+    "question": "Koji je kemijski simbol za natrij?",
+    "answers": [
+      "Na"
+    ],
+    "image": null
+  },
+    {
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "Povijest",
+    "question": "Koje ime nosi mirovni sporazum potpisan između Atine i Sparte 421. godine, kojim se završila prva faza peloponeskog rata",
+    "answers": [
+      "Nikijin mir",
+      "Nikijin",
+      "Nikijski"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "Ostalo",
+    "question": "Koji kviz sa izazivačima i lovcem rado gledamo na HRT-u?",
+    "answers": [
+      "Potjeru",
+      "Potjera"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Znanost",
+    "question": "Kako se zove poučak koji kaže da je a² + b² = c² u pravokutnom trokutu?",
+    "answers": [
+      "Pitagorin poučak",
+      "Pitagorin"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Zemljopis",
+    "question": "Koje more se nalazi između Ancone i Zadra?",
+    "answers": [
+      "Jadransko more",
+      "Jadran",
+      "Jadransko",
+      "Adria",
+      "Adriatic"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "Zemljopis",
+    "question": "Koja država je pretekla Kinu i trenutno ima najveći broj stanovnika na svijetu?",
+    "answers": [
+      "Indija"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Zemljopis",
+    "question": "Kako se zove najviši vrh svijeta?",
+    "answers": [
+      "Mount Everest",
+      "Everest",
+      "Mont Everest"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Povijest",
+    "question": "Koje je godine započeo Prvi svjetski rat?",
+    "answers": [
+      "1914"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Povijest",
+    "question": "Koje je godine započeo Drugi svjetski rat?",
+    "answers": [
+      "1939"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Ostalo",
+    "question": "Kako se zvao grčki Bog mora?",
+    "answers": [
+      "Posejdon",
+      "Poseidon"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Ostalo",
+    "question": "Kako se zvao rimski bog rata?",
+    "answers": [
+      "Mars"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Povijest",
+    "question": "Koje je godine čovjek prvi put sletio na Mjesec?",
+    "answers": [
+      "1969"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Povijest",
+    "question": "Kako se zvao prvi čovjek koji je kročio na Mjesec?",
+    "answers": [
+      "Neil Armstrong",
+      "Armstrong",
+      "Nil Armstrong"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Čijoj svjetlosti je potrebno 8 minuta i 19 sekundi da bi stigla do Zemlje prelazeći udaljenost od 150 milijuna kilometara?",
+    "answers": [
+      "Sunčevoj"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koje je kemijsko ime spoja NaCl?",
+    "answers": [
+      "Natrijev klorid"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "Povijest",
+    "question": "Antun Mihanović je za boravka u Americi pokušao 'prokrčiti put u američku trgovinu jednom od najplemenitijih i najvažnijih proizvoda'. O kojem je napitku riječ?",
+    "answers": [
+      "Vinu",
+      "Vino"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "Zemljopis",
+    "question": "Kako se zove glavni grad Hrvatske?",
+    "answers": [
+      "Zagreb",
+      "Zg"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Zemljopis",
+    "question": "Koja je valuta Europske unije uvedena 1999. godine?",
+    "answers": [
+      "Euro"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koja se mjera koristi za električni otpor?",
+    "answers": [
+      "Ohm",
+      "om"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Znanost",
+    "question": "Kako se zove proces pretvaranja vode u paru?",
+    "answers": [
+      "Isparavanje",
+      "evaporacija"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Zemljopis",
+    "question": "Koji je glavni grad Japana?",
+    "answers": [
+      "Tokio",
+      "Tokijo",
+      "Tokyo"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Znanost",
+    "question": "Kako se zove nobelovac koji je razvio teoriju relativnosti?",
+    "answers": [
+      "Albert Einstein",
+      "Einstein",
+      "Ajnštajn",
+      "Albert Ajnštajn"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Politika",
+    "question": "Koje je godine Hrvatska postala članica Europske unije?",
+    "answers": [
+      "2013",
+      "Dvije tisuće trinaest"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "KnjigaSlika",
+    "question": "Na kojem je brodu kitolovcu kapetan Ahab alfa i omega",
+    "answers": [
+      "Pequod",
+      "Pekod"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kako se zove znanost koja proučava fosile?",
+    "answers": [
+      "Paleontologija"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Znanost",
+    "question": "Kako se zove znanost o nasljednim osobinama organizama?",
+    "answers": [
+      "Genetika"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Zemljopis",
+    "question": "Koji je kontinent površinom najmanji?",
+    "answers": [
+      "Australija",
+      "Australia"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Zemljopis",
+    "question": "Koji je najveći ocean na Zemlji?",
+    "answers": [
+      "Tihi ocean",
+      "Pacifik",
+      "Tihi",
+      "Pacifički"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Ostalo",
+    "question": "Kako se zove prva knjiga Starog zavjeta?",
+    "answers": [
+      "Postanak",
+      "Knjiga Postanka",
+      "Genesis"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "FilmGlazba",
+    "question": "U kojem je gradu nastao rock bend The Beatles?",
+    "answers": [
+      "Liverpool",
+      "Liverpul"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "KnjigaSlika",
+    "question": "Kako se zove autor romana Zločin i kazna?",
+    "answers": [
+      "Fjodor Dostojevski",
+      "Dostojevski"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Znanost",
+    "question": "Koji je kemijski simbol za željezo?",
+    "answers": [
+      "Fe"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "KnjigaSlika",
+    "question": "Kako se zove najpoznatija slika Leonarda da Vincija koja prikazuje ženu tajanstvenog osmijeha?",
+    "answers": [
+      "Mona Lisa",
+      "Giaconda",
+      "Đakonda"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Sport",
+    "question": "Kako se zove domaći nogometni klub iz Splita s crveno-bijelim kvadratićima u grbu?",
+    "answers": [
+      "Hajduk",
+      "HNK Hajduk Split",
+      "Hajduk Split"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Sport",
+    "question": "Koji je NBA klub osvojio najviše naslova prvaka do danas, ukupno 18?",
+    "answers": [
+      "Boston Celtics",
+      "Biston Seltiks",
+      "Boston",
+      "Celtics",
+      "Seltiks"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "Sport",
+    "question": "Kako se zove tenisač iz Srbije s najviše Grand Slam naslova u povijesti muškog tenisa?",
+    "answers": [
+      "Novak Đoković",
+      "Djokovic",
+      "Đoković"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "Ostalo",
+    "question": "Kako se zove Zemljin najveći prirodni satelit?",
+    "answers": [
+      "Mjesec",
+      "Moon"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Povijest",
+    "question": "Koje je godine počeo Domovinski rat u Hrvatskoj?",
+    "answers": [
+      "1991",
+      "91"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Ostalo",
+    "question": "Kako se zvao prvi hrvatski predsjednik nakon osamostaljenja 1991.?",
+    "answers": [
+      "Franjo Tuđman",
+      "Tudman",
+      "Tuđman"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kako se zove kemijski element s atomskim brojem 1?",
+    "answers": [
+      "Vodik",
+      "Hidrogen",
+      "Hydrogen"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Zemljopis",
+    "question": "Kako se zove najveća polarna pustinja na svijetu?",
+    "answers": [
+      "Antarktika",
+      "Antarktika pustinja",
+      "Antarctica"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Zemljopis",
+    "question": "Koji je glavni grad Australije?",
+    "answers": [
+      "Canberra",
+      "Canbera"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kako se zove fundamentalna fizikalna veličina koja predstavlja sposobnost tijela ili sustava da obavi rad ili da izazove promjenu",
+    "answers": [
+      "Energija"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Znanost",
+    "question": "Bijele krvne stanice se dijele na 5 glavnih tipova, neutrofili, eozinofili, bazofili , limfociti i koje još?",
+    "answers": [
+      "Monociti"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koja se Nobelova nagrada ne dodjeljuje u Švedskoj nego u Norveškoj?",
+    "answers": [
+      "Nobelova nagrada za mir",
+      "Nagrada za mir",
+      "Za mir",
+      "Mir"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji je najveći unutarnji organ u ljudskom tijelu?",
+    "answers": [
+      "Jetra"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "Kako se zove proces pri kojem zelene biljke uz pomoć Sunčeve svjetlosti stvaraju šećer iz vode i ugljikova dioksida?",
+    "answers": [
+      "Fotosinteza"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "Povijest",
+    "question": "Kojoj su dinastiji pripadali rimski carevi Vespazijan, Tit i Domicijan?",
+    "answers": [
+      "Flavijevci",
+      "Flavijevskoj",
+      "Flavijevskoj Dinastiji"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koja se mjerna jedinica koristi za frekvenciju?",
+    "answers": [
+      "Hertz",
+      "Herc",
+      "Hz"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Povijest",
+    "question": "Kako se danas zove najpoznatiji rimski amfiteatar u Italiji, izvornog imena Flavijev amfiteatar?",
+    "answers": [
+      "Kolosej",
+      "Koloseum",
+      "Colosseum"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Zemljopis",
+    "question": "Koji je glavni grad Egipta?",
+    "answers": [
+      "Kairo",
+      "Cairo"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Zemljopis",
+    "question": "Koja se rijeka u Beogradu ulijeva u Dunav?",
+    "answers": [
+      "Sava"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Zemljopis",
+    "question": "U koliko glavnih gradova se može uživati u pogledu na rijeku Savu?",
+    "answers": [
+      "3",
+      "tri"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "Znanost",
+    "question": "Ako pričamo o Mitozi, znamo da redom idu Profaza, Prometafaza, Metafaza, Anafaza i koja još faza?",
+    "answers": [
+      "Telofaza"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Ostalo",
+    "question": "Koji je američki predsjednik potpisao Proglas o emancipaciji robova 1863. godine?",
+    "answers": [
+      "Abraham Lincoln",
+      "Abraham Linkoln",
+      "Lincoln",
+      "Linkoln"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Ostalo",
+    "question": "Koji je američki predsjednik bio na vlasti tijekom većine Drugog svjetskog rata (do 1945.)?",
+    "answers": [
+      "Franklin Delano Roosevelt",
+      "Franklin Roosevelt",
+      "Frenklin Ruzvelt",
+      "FDR",
+      "Roosevelt",
+      "Ruzvelt"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Povijest",
+    "question": "Kako se zvala poznata egipatska kraljica koja je imala vezu s Markom Antonijem?",
+    "answers": [
+      "Kleopatra",
+      "Cleopatra"
+    ],
+    "image": null
+  },
+    {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Povijest",
+    "question": "10. siječnja 49.g. pr.n e. Julije Cezar prelazi rijeku Rubikon izgovarajući koju poznatu rečenicu?",
+    "answers": [
+      "Kocka je bačena",
+      "Alea iacta est"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Zemljopis",
+    "question": "Koji je glavni grad Turske?",
+    "answers": [
+      "Ankara"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Politika",
+    "question": "Kako se zove poznati francuski general i državnik koji je vodio Francusku u Drugom svjetskom ratu te bio 1. predsjednik  pete republike?",
+    "answers": [
+      "Charles de Gaulle",
+      "Čarls degaul",
+      "De Gaulle",
+      "Gaul"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Zemljopis",
+    "question": "Koja se planina smatra svetom u grčkoj mitologiji kao prebivalište bogova?",
+    "answers": [
+      "Olimp",
+      "Olymp"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Ostalo",
+    "question": "Kako se zvala nordijska božica ljubavi i ljepote?",
+    "answers": [
+      "Freja",
+      "Freyja"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Ostalo",
+    "question": "Koji je vrhovni bog nordijske mitologije koji vlada Asgardom?",
+    "answers": [
+      "Odin"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Znanost",
+    "question": "Koji je kemijski simbol za kisik?",
+    "answers": [
+      "O"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "U fizici, proces prelaska tvari iz čvrstog u plinovito stanje bez prethodnog prijelaza u tekuće se zove kako?",
+    "answers": [
+      "Sublimacija"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Povijest",
+    "question": "Kako se zvao najpoznatiji rimski vojskovođa koji je sa svojom 13. legijom prešao rijeku Rubikon?",
+    "answers": [
+      "Gaj Julije Cezar",
+      "Julius Caesar",
+      "Julije Cezar",
+      "Cezar"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Povijest",
+    "question": "Kako se zove rat između Atene i Sparte koji je trajao gotovo 30 godina?",
+    "answers": [
+      "Peloponeski rat",
+      "Peloponeski"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Što probija zrakoplov kada prijeđe brzinu zvuka?",
+    "answers": [
+      "Zvučni zid"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Povijest",
+    "question": "Kako se zove legendarni vođa Huna koji je napadao Rim i Europu u 5. stoljeću?",
+    "answers": [
+      "Atila",
+      "Atilla",
+      "Bič Božji",
+      "Atila Bič Božji"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kako se zove jedinica za električnu struju u SI sustavu (Système International d'Unités)?",
+    "answers": [
+      "Amper",
+      "Ampere",
+      "A"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Zemljopis",
+    "question": "Koja država ima glavni grad Buenos Aires?",
+    "answers": [
+      "Argentina"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Zemljopis",
+    "question": "Koji je kontinent poznat po rijeci Amazoni?",
+    "answers": [
+      "Južna Amerika",
+      "Latinska Amerika",
+      "South America",
+      "Saud Amerika"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Ostalo",
+    "question": "Kako se zove planet na kojem se nalazi planina Olympus Mons, najveći vulkan u Sunčevu sustavu?",
+    "answers": [
+      "Mars"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kako se zove instrument kojim se mjeri atmosferski tlak?",
+    "answers": [
+      "Barometar"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "KnjigaSlika",
+    "question": "Kako se zove autor romana 'Na Drini ćuprija'?",
+    "answers": [
+      "Ivo Andrić",
+      "Andrić"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Zemljopis",
+    "question": "U kojem gradu se nalazi Šehidsko mezarje Kovači i većina suvremene povijesti BiH?",
+    "answers": [
+      "Sarajevo"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Povijest",
+    "question": "Kako se zvao srednjovjekovni bosanski kralj poznat po naslovu 'Kralj Bosne i Primorja'?",
+    "answers": [
+      "Tvrtko I",
+      "Tvrtko",
+      "Tvrtko Kotromanić"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "KnjigaSlika",
+    "question": "Kako se zove poznat hrvatski književnik koji je napisao djelo 'Gospoda Glembajevi'?",
+    "answers": [
+      "Miroslav Krleža",
+      "Krleža"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Povijest",
+    "question": "Kako se zove filozof iz antičke Grčke koji je napisao djela 'Država' i 'Zakoni'?",
+    "answers": [
+      "Platon"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "KnjigaSlika",
+    "question": "Kako se zove poznato Shakespeareovo djelo o danskom princu koji sumnja u ubojstvo svog oca?",
+    "answers": [
+      "Hamlet"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "KnjigaSlika",
+    "question": "Kako se zove umjetnički pravac kojem pripada slikar Vincent van Gogh?",
+    "answers": [
+      "Postimpresionizam",
+      "post-impresionizam"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "KnjigaSlika",
+    "question": "Kako se zove slika Edvarda Muncha koja prikazuje lik koji vrišti na mostu?",
+    "answers": [
+      "Krik",
+      "Skrik",
+      "Vrisak"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "KnjigaSlika",
+    "question": "Koji je slikar naslikao 'Guernicu' kao reakciju na bombardiranje tijekom Španjolskog građanskog rata?",
+    "answers": [
+      "Pablo Picasso",
+      "Pablo Pikaso",
+      "Picasso",
+      "Pikaso"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "KnjigaSlika",
+    "question": "Koji grad je povezan mostom Mehmed-paše Sokolovića, najpoznatijeg po romanu 'Na Drini ćuprija'?",
+    "answers": [
+      "Višegrad"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Ostalo",
+    "question": "Koja je najveća katedrala u Parizu koja je djelomično stradala u požaru 2019. godine?",
+    "answers": [
+      "Notre Dame",
+      "Noterdam",
+      "Notre Dam"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FilmGlazba",
+    "question": "Kako se zove popularni TV kviz znanja koji vodi Tarik Filipović na hrvatskoj verziji?",
+    "answers": [
+      "Tko želi biti milijunaš",
+      "Milijunaš"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Sport",
+    "question": "Kako se zove grad domaćin ljetnih Olimpijskih igara 2012. godine?",
+    "answers": [
+      "London"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Sport",
+    "question": "Koja država je osvojila Svjetsko prvenstvo u nogometu 2018. godine?",
+    "answers": [
+      "Francuska",
+      "France"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Znanost",
+    "question": "Kako se zove druga faza stanične diobe, koja slijedi nakon mitoze",
+    "answers": [
+      "Citokineza"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Sport",
+    "question": "Koja je nogometna reprezentacija osvojila Svjetsko prvenstvo 1998. godine?",
+    "answers": [
+      "Francuska",
+      "France"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Sport",
+    "question": "Koje je godine Hrvatska prvi put nastupila kao samostalna reprezentacija na Svjetskom nogometnom prvenstvu?",
+    "answers": [
+      "1998"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Sport",
+    "question": "Kako se zove poznati američki košarkaš koji je šest puta osvojio naslov NBA prvaka s Chicago Bullsima?",
+    "answers": [
+      "Michael Jordan",
+      "Majkl Džordan",
+      "Jordan",
+      "Džordan"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "FloraFauna",
+    "question": "Biljke koje se oprašuju uz pomoć insekata nazivamo kako?",
+    "answers": [
+      "Entomofilne biljke",
+      "Entomofilne"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "Koji je najveći sisavac na Zemlji?",
+    "answers": [
+      "Plavi kit",
+      "kit",
+      "Blue whale",
+      "Plavetni Kit",
+      "Blu Vejl"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kako se zove dio stanice u kojem se nalazi genetski materijal u obliku DNA kod eukariota?",
+    "answers": [
+      "Jezgra",
+      "stanična jezgra",
+      "nucleus",
+      "Nukleus"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kako se zove poznata teorija koja opisuje nastanak i širenje svemira iz izuzetno guste točke?",
+    "answers": [
+      "Veliki prasak",
+      "Big Bang",
+      "Velikog Praska",
+      "Big Beng"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Ostalo",
+    "question": "Kako se zove galaksija u kojoj se nalazi Sunčev sustav?",
+    "answers": [
+      "Mliječna staza",
+      "Milky Way",
+      "Milki Vej",
+      "Mliječni Put"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "Zemljopis",
+    "question": "Kako se zove glavni grad Slovenije?",
+    "answers": [
+      "Ljubljana"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "Zemljopis",
+    "question": "Kako se zove glavni grad Srbije?",
+    "answers": [
+      "Beograd"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "Zemljopis",
+    "question": "Kako se zove glavni grad Bosne i Hercegovine?",
+    "answers": [
+      "Sarajevo"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Zemljopis",
+    "question": "Kako se zove najveće jezero u Hrvatskoj?",
+    "answers": [
+      "Vransko"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Povijest",
+    "question": "Kako se zove međunarodna organizacija osnovana 1945. radi održavanja svjetskog mira i sigurnosti?",
+    "answers": [
+      "Ujedinjeni narodi",
+      "UN",
+      "United Nations"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Ostalo",
+    "question": "Kako se zove najpoznatiji dokument koji počinje riječima 'Mi, narodi Ujedinjenih naroda'?",
+    "answers": [
+      "Povelja Ujedinjenih naroda",
+      "Povelja UN",
+      "UN Charter",
+      "Povelja UN-a",
+      "Povelja"
+      
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Povijest",
+    "question": "Kako se zove rat između SAD-a i Sjevernog Vijetnama u drugoj polovici 20. stoljeća?",
+    "answers": [
+      "Vijetnamski rat",
+      "Rat u Vijetnamu"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Povijest",
+    "question": "Kako se zvala vojno-politička kriza između SAD-a i SSSR-a 1962. zbog raketa na Kubi?",
+    "answers": [
+      "Kubanska kriza",
+      "Kubanska raketna kriza"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FilmGlazba",
+    "question": "Kako se zove poznata rock grupa koju čine članovi Brian May, Roger Taylor i John Deacon uz karizmatičnog frontmena Freddieja Mercuryja?",
+    "answers": [
+      "Queen",
+      "Kuin"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FilmGlazba",
+    "question": "Kako se zove najpoznatiji album skupine Pink Floyd iz 1973. godine?",
+    "answers": [
+      "The Dark Side of the Moon",
+      "Dark Side of the Moon",
+      "Tamna strana Mjeseca"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Povijest",
+    "question": "Koje ime dijele majka Aleksandra Velikog i četverogodišnje razdoblje u antičkoj Grčkoj",
+    "answers": [
+      "Olimpijada"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "FilmGlazba",
+    "question": "Kako se zove pjevač koji je osvojio Euroviziju 2021. s pjesmom 'Zitti e buoni' kao dio benda Måneskin?",
+    "answers": [
+      "Damiano David",
+      "Damiano",
+      "David"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FilmGlazba",
+    "question": "Koji je glazbeni žanr najviše povezan s bendom Metallica?",
+    "answers": [
+      "Heavy metal",
+      "Hevi Metal"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FilmGlazba",
+    "question": "Kako se zove popularni TV serijal o učitelju kemije koji postaje proizvođač metamfetamina?",
+    "answers": [
+      "Breaking Bad",
+      "Na putu prema dolje",
+      "Brejking Bed"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FilmGlazba",
+    "question": "Kako se zove serija smještena u fiktivnim krajolicima Westerosa, temeljena na knjigama Georgea R. R. Martina?",
+    "answers": [
+      "Igra prijestolja",
+      "Game of Thrones"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "KnjigaSlika",
+    "question": "Kako se zove tvorac lika Sherlocka Holmesa?",
+    "answers": [
+      "Arthur Conan Doyle",
+      "Artur Konan Dojl",
+      "Conan Doyle",
+      "Konan Dojl",
+      "Doyle",
+      "Dojl"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "KnjigaSlika",
+    "question": "Kako se zove roman Georgea Orwella o totalitarnoj državi u kojoj je 'Veliki Brat' stalno prisutan?",
+    "answers": [
+      "1984"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "KnjigaSlika",
+    "question": "U kojem se gradu nalazi svjetski poznati muzej Louvre?",
+    "answers": [
+      "Pariz",
+      "Paris"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Zemljopis",
+    "question": "Kako se zove najveći otok na svijetu koji nije kontinent?",
+    "answers": [
+      "Grenland",
+      "Greenland"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Znanost",
+    "question": "Kako se zove proces u kemiji u kojem se oksidacijski broj elementa smanjuje?",
+    "answers": [
+      "Redukcija"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Zemljopis",
+    "question": "Kako se zove čvrsto tijelo koje nastaje kristalizacijom magme u unutrašnjosti Zemlje?",
+    "answers": [
+      "Magmatska stijena",
+      "Magmatska",
+      "Magma"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kako se zove fizikalna veličina definirana kao rad po jedinici vremena?",
+    "answers": [
+      "Snaga",
+      "Power"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koja je SI jedinica za snagu?",
+    "answers": [
+      "Watt",
+      "Vat",
+      "W"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "Ostalo",
+    "question": "Kako se zove religijska knjiga kršćana koja se sastoji od Starog i Novog zavjeta?",
+    "answers": [
+      "Biblija"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "Ostalo",
+    "question": "Kako se zove sveta knjiga Islama?",
+    "answers": [
+      "Kuran",
+      "Kur'an",
+      "Quran"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Ostalo",
+    "question": "Kako se zove sveta knjiga Judaizma koja obuhvaća Petoknjižje?",
+    "answers": [
+      "Tora",
+      "Torah"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Povijest",
+    "question": "Kako se zove grčki filozof koji je bio učitelj Aleksandra Makedonskog?",
+    "answers": [
+      "Aristotel"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kako se zove matematički broj približno jednak 3,14159?",
+    "answers": [
+      "Pi",
+      "π",
+      "Pi broj",
+      "Ludolfov",
+      "Ludolfov broj",
+      "Pi br",
+      "Ludolfov br"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "KnjigaSlika",
+    "question": "Kako se zove vrsta rečenice koja završava upitnikom?",
+    "answers": [
+      "Upitna rečenica",
+      "upitna"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji je matematički pojam definiran kao razlika između najveće i najmanje vrijednosti skupa podataka?",
+    "answers": [
+      "Raspon",
+      "Range",
+      "Rendž"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "KnjigaSlika",
+    "question": "Kako se zove književna vrsta u stihovima koja najčešće izražava osjećaje i raspoloženja?",
+    "answers": [
+      "Lirika",
+      "Lirička pjesma",
+      "Lirička"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "KnjigaSlika",
+    "question": "Kako se zove književna vrsta u kojoj se u središtu radnje nalazi junak u sukobu s društvom ili sudbinom, najčešće s tragičnim završetkom?",
+    "answers": [
+      "Tragedija",
+      "Tragedy",
+      "Tradžedi"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Ostalo",
+    "question": "Ako pričamo o 4 nebeske kineske životinje, spomenuti ćemo Tigra, Zmaja, Pticu i koga još?",
+    "answers": [
+      "Kornjaču"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "KnjigaSlika",
+    "question": "Kako se zove književna vrsta koja izruguje društvene pojave, često kroz komiku?",
+    "answers": [
+      "Satira"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "KnjigaSlika",
+    "question": "Kako se zove poznati roman J. R. R. Tolkiena o hobitu koji nosi Prsten moći?",
+    "answers": [
+      "Gospodar prstenova",
+      "Lord of the Rings"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FilmGlazba",
+    "question": "Kako se zove škola čarobnjaštva koju pohađa Harry Potter?",
+    "answers": [
+      "Hogwarts",
+      "Hogvarts",
+      "Hogwarts School"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FilmGlazba",
+    "question": "Kako se zove serija o znanstveniku s visokim IQ-om po imenu Sheldon Cooper?",
+    "answers": [
+      "The Big Bang Theory",
+      "Teorija velikog praska",
+      "Big Bang",
+      "Big Beng",
+      "Veliki Prasak",
+      "Velikog Praska"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "FilmGlazba",
+    "question": "Kako se zove nagrada Američke filmske akademije za najbolji film godine?",
+    "answers": [
+      "Oscar",
+      "Oscars",
+      "Oskar"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Sport",
+    "question": "Kako se zove najpoznatija europska nogometna klupska liga koju organizira UEFA?",
+    "answers": [
+      "Liga prvaka",
+      "UEFA Champions League",
+      "Champions League",
+      "Liga Šampiona",
+      "Čempions Lig"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Sport",
+    "question": "Kako se zove najpoznatiji automobilistički sportski ciklus utrka s bolidima s jednim sjedalom?",
+    "answers": [
+      "Formula 1",
+      "F1"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Sport",
+    "question": "Kako se zove najpoznatija biciklistička utrka koja se održava u Francuskoj?",
+    "answers": [
+      "Tour de France",
+      "Tur de franc"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Sport",
+    "question": "Koji klub je poznat pod nadimkom 'Stara dama'?",
+    "answers": [
+      "Juventus"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Sport",
+    "question": "Koji je proslavljeni hrvatski košarkaš nosio nadimak 'Košarkaši Mozart'?",
+    "answers": [
+      "Dražen Petrović",
+      "Petrović"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "Sport",
+    "question": "Kako se zove hrvatski nogometni izbornik koji je vodio reprezentaciju do srebra na SP 2018. i bronce na SP 2022.?",
+    "answers": [
+      "Zlatko Dalić",
+      "Dalić"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "Sport",
+    "question": "Koji se hrvatski nogometaš proslavio kao kapetan reprezentacije na SP-u 2018. i osvajanjem Zlatne lopte iste godine?",
+    "answers": [
+      "Luka Modrić",
+      "Modrić"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kako se zove pojam u fizici koji opisuje maksimalnu brzinu širenja elektromagnetskih valova u svemiru?",
+    "answers": [
+      "Brzina svjetlosti",
+      "Speed of light"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kako se zove matematički skup brojeva koji uključuje i realne i imaginarne brojeve?",
+    "answers": [
+      "Kompleksni brojevi",
+      "Kompleksni"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Znanost",
+    "question": "Koju vrijednost ima Konjukcija ako su obje varijable istinite?",
+    "answers": [
+      "1",
+      "Jedan",
+      "One",
+      "I"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "KnjigaSlika",
+    "question": "Kako se na engleskom jeziku kaže poslovica 'Bolje spriječiti nego liječiti'?",
+    "answers": [
+      "Prevention is better than cure",
+      "Better save than cure",
+      "Beter sejv dan kjur"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "KnjigaSlika",
+    "question": "Koji je latinski izraz za 'sve prolazi'?",
+    "answers": [
+      "Omnia transit",
+      "Omnia transeunt"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "KnjigaSlika",
+    "question": "Koji je latinski izraz za 'Mislim, dakle jesam'?",
+    "answers": [
+      "Cogito ergo sum",
+      "Kogito ergo sum"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "KnjigaSlika",
+    "question": "Kako se zove francuski izraz za 'ljubav prema životu' koji se često koristi u umjetnosti?",
+    "answers": [
+      "Joie de vivre",
+      "Žoi de vivre"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "Zemljopis",
+    "question": "Kako se zove glavni grad Rusije?",
+    "answers": [
+      "Moskva",
+      "Moscow",
+      "Moskov"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Znanost",
+    "question": "Koja grana biologije proučava funkcije živih organizama, organa, tkiva, stanica i molekula?",
+    "answers": [
+      "Fiziologija"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "KnjigaSlika",
+    "question": "Koji je službeni jezik u Brazilu?",
+    "answers": [
+      "Portugalski",
+      "Portugalski jezik",
+      "Portuguese",
+      "Portugiz"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Povijest",
+    "question": "Zbog kojeg su ženskog imena grci zaratili sa Trojom?",
+    "answers": [
+      "Helena",
+      "Helene",
+      "Helenom"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "U Međunarodnom sustavu jedinica, koja se mjera koristi za količinu tvari?",
+    "answers": [
+      "Mol"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Povijest",
+    "question": "Kako se zove poznati francuski vojskovođa koji se proglasio carem početkom 19. stoljeća?",
+    "answers": [
+      "Napoleon Bonaparte",
+      "Napoleon",
+      "Napoleon 1."
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Povijest",
+    "question": "Koje je skupno ime za niz oružanih sukoba u kojima je sudjelovao Napoleon protiv koalicije europskih sila (1799.–1815.)?",
+    "answers": [
+      "Napoleonski ratovi",
+      "Napoleonovi ratovi",
+      "Napoleonski",
+      "Napoleonovi",
+      "Napoleons"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Povijest",
+    "question": "Kako se zove poznata bitka iz 1815. u kojoj je Napoleon konačno poražen?",
+    "answers": [
+      "Bitka kod Waterlooa",
+      "Waterloo",
+      "Vaterlo",
+      "Vaterloa",
+      "Waterlooa"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "Sport",
+    "question": "Do kojeg se planinskog vrha u Saveznoj državi Colorado vozi poznata brdska utrka u automobilizmu koja nosi kraticu PPIHC?",
+    "answers": [
+      "Pikes Peak",
+      "Pajks Pik"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Sport",
+    "question": "Kako se zove poznati rally vozač iz Finske, višestruki svjetski prvak u WRC-u iz '86 i '87 te '91 i '93?",
+    "answers": [
+      "Juha Kankkunen",
+      "Kankkunen",
+      "Kankunen"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "KnjigaSlika",
+    "question": "Kako počinje čuveni monolog iz Shakespeareove tragedije Hamlet koji završava s '..., pitanje je sad.'?",
+    "answers": [
+      "Biti ili ne biti",
+      "To be or not to be"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "KnjigaSlika",
+    "question": "U kojem je romanu glavni lik kapetan Ahab opsjednut lovom na jednog kita?",
+    "answers": [
+      "Moby Dick",
+      "Mobi dik"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kako se zove matematički pojam za neprekidnu liniju koja spaja beskonačno mnogo točaka bez samopresijecanja i često se koristi za prikaz funkcije?",
+    "answers": [
+      "Krivulja",
+      "Funkcijska krivulja"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Znanost",
+    "question": "Kako se kaže za broj koji je djeljiv samo s 1 i samim sobom?",
+    "answers": [
+      "Prost broj",
+      "Prosti"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Znanost",
+    "question": "Kako se zove najpoznatiji algoritam za pronalazak najkraćeg puta u grafu koji je osmislio nizozemski informatičar Edsger Dijkstra?",
+    "answers": [
+      "Dijkstrin algoritam",
+      "Dijkstra",
+      "Dijkstrin"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kako se zove prva faza diobe jezgre tjelesnih stanica, koja slijedi nakon interfaze?",
+    "answers": [
+      "Mitoza"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Znanost",
+    "question": "Kako se zove podjela stanice u kojoj nastaju spolne stanice s polovičnim brojem kromosoma?",
+    "answers": [
+      "Mejoza"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Ostalo",
+    "question": "Koja je službena valuta u Švicarskoj?",
+    "answers": [
+      "Švicarski franak",
+      "Franak",
+      "CHF",
+      "Frank"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Ostalo",
+    "question": "Koja je službena valuta u Japanu?",
+    "answers": [
+      "Jen",
+      "Yen",
+      "Japanski Jen",
+      "Japanski Yen",
+      "JPY"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "KnjigaSlika",
+    "question": "Kako se zove poznati američki pisac znanstvene fantastike autor romana '1984' i 'Životinjska farma'?",
+    "answers": [
+      "George Orwell",
+      "Orwell",
+      "Gorg Orvel",
+      "Orvel"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "KnjigaSlika",
+    "question": "Kako se zove termin u književnosti za skrivenu poruku ili značenje ispod površinske radnje djela?",
+    "answers": [
+      "Alegorija"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "KnjigaSlika",
+    "question": "Kako se naziva umjetnički stil u kojem se naglašava osjećaj, fantazija i subjektivnost, karakterističan za 19. stoljeće?",
+    "answers": [
+      "Romantizam"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Povijest",
+    "question": "Koje je godine izbio Prvi svjetski rat?",
+    "answers": [
+      "1914"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Povijest",
+    "question": "Koje je godine završio Prvi svjetski rat?",
+    "answers": [
+      "1918"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Povijest",
+    "question": "Koje je godine završio Drugi svjetski rat?",
+    "answers": [
+      "1945"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Povijest",
+    "question": "Koje kodno ime je dano savezničkom iskrcavanju vojske u Normandiji 6. lipnja 1944.?",
+    "answers": [
+      "Dan D",
+      "D Dan",
+      "D-Day"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Ostalo",
+    "question": "Koji je američki predsjednik potpisao sporazum u Daytonu kojim je okončan rat u BiH?",
+    "answers": [
+      "Bill Clinton",
+      "Clinton",
+      "Bil Klinton",
+      "Klinton"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Povijest",
+    "question": "Kako se zove sporazum kojim je 1995. godine formalno završen rat u Bosni i Hercegovini?",
+    "answers": [
+      "Daytonski sporazum",
+      "Dayton",
+      "Dejtonski sporazum",
+      "Dejton",
+      "Dejtonski",
+      "Daytonski"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Zemljopis",
+    "question": "Kako se zove rijeka koja, prije no što se ulije u Savu, teče kroz Žepče, Zenicu i Doboj?",
+    "answers": [
+      "Bosna"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Zemljopis",
+    "question": "Kako se zove glavni grad Španjolske?",
+    "answers": [
+      "Madrid"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Zemljopis",
+    "question": "Kako se zove glavni grad Portugala?",
+    "answers": [
+      "Lisabon",
+      "Lisbon"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Sport",
+    "question": "Kako se zove sport u kojem se natjecatelji bore u ringu koristeći udarce rukama sa specijalnim rukavicama?",
+    "answers": [
+      "Boks",
+      "Boxing",
+      "Boksing"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Sport",
+    "question": "Kako se zove olimpijski sport u kojem se koriste sablja ili floret?",
+    "answers": [
+      "Mačevanje"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Sport",
+    "question": "Koji je sport poznat po izrazima kao što su birdie, eagle i bogey?",
+    "answers": [
+      "Golf"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Sport",
+    "question": "Kako se zove sport u kojem jedna momčad kližući po ledu pokušava ubaciti pak u protivnički gol?",
+    "answers": [
+      "Hokej na ledu",
+      "Hokej"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FilmGlazba",
+    "question": "Kako se zove popularna serija o mafijaškom bossu iz New Jerseyja, Tonyju Sopranu?",
+    "answers": [
+      "The Sopranos",
+      "Sopranos",
+      "Obitelj Soprano",
+      "Soprano"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FilmGlazba",
+    "question": "Kako se zove serija o kriminalističkom odjelu u Miamiju gdje je glavni lik forenzičar i serijski ubojica?",
+    "answers": [
+      "Dexter",
+      "Dekster"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FilmGlazba",
+    "question": "Kako se zove američka televizijska serija koju su zajedno osmislili i režirali Larry David i Jerry Seinfeld?",
+    "answers": [
+      "Seinfeld",
+      "Seinfild"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FilmGlazba",
+    "question": "Koja je zemlja rodno mjesto grupe ABBA?",
+    "answers": [
+      "Švedska",
+      "Sweden",
+      "Sviden"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "FilmGlazba",
+    "question": "Kako se zove nagrada za najbolji album godine koju dodjeljuje američka glazbena akademija?",
+    "answers": [
+      "Grammy",
+      "Gremi",
+      "Grammy Award",
+      "Grammys",
+      "Gremis"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FilmGlazba",
+    "question": "Kako se zove nagrada koja se dodjeljuje za odličja u televizijskoj industriji u SAD-u?",
+    "answers": [
+      "Emmy",
+      "Emi",
+      "Emmy Award",
+      "Emmys",
+      "Emis"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FilmGlazba",
+    "question": "Kako se zove nagrada za kazališna postignuća na Broadwayu?",
+    "answers": [
+      "Tony",
+      "Toni",
+      "Tony Award",
+      "Tonis",
+      "Tonnys"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Ostalo",
+    "question": "Kako se zove zbirka himana, zahvala i molbi upućenih Bogu u stihovima u obliku knjige koja je sastavni dio Biblije?",
+    "answers": [
+      "Psalmi",
+      "Knjiga psalama",
+      "Psalama"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Ostalo",
+    "question": "Kako se zove poznata biblijska knjiga koja opisuje apokaliptične vizije i kraj vremena?",
+    "answers": [
+      "Otkrivenje",
+      "Apokalipsa",
+      "Knjiga Otkrivenja",
+      "Otkrivenja"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Znanost",
+    "question": "Kako se zove poznata teorija u biologiji koja objašnjava razvoj vrsta putem prirodne selekcije?",
+    "answers": [
+      "Teorija evolucije",
+      "Evolucija",
+      "Darwinova teorija",
+      "Evolution",
+      "Evolušn"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kako se zove britanski prirodoslovac koji je formulirao teoriju prirodne selekcije tj. evolucije?",
+    "answers": [
+      "Charles Darwin",
+      "Čarls Darvin",
+      "Darwin",
+      "Darvin"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kako se zove pojava kada se svjetlosna zraka lomi pri prolasku kroz različite optičke gustoće i zbog toga nam se čini da je štap u vodi slomljen?",
+    "answers": [
+      "Refrakcija",
+      "Lom svjetlosti"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kako se zove pojava širenja valova kao svjetlosti ili zvuka, pri prolasku kroz uski otvor ili oko prepreke?",
+    "answers": [
+      "Difrakcija",
+      "Ogib svjetlosti",
+      "Ogib"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kako se zove mjerna jedinica za tlak koja iznosi jedan Newtona po kvadratnom metru?",
+    "answers": [
+      "Pascal",
+      "Paskal",
+      "Pa"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kako se zove teorija u matematici koja se bavi vjerojatnostima i slučajnim događajima?",
+    "answers": [
+      "Teorija vjerojatnosti",
+      "Vjerojatnosti"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kako se zove matematička konstanta koja opisuje omjer opsega kruga i njegova promjera?",
+    "answers": [
+      "Pi",
+      "π"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Znanost",
+    "question": "Kako se zove hipotetska čestica koja se u kvantnoj kromodinamici smatra nositeljem jake nuklearne sile?",
+    "answers": [
+      "Gluon"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Znanost",
+    "question": "Kako se zove pojam u kvantnoj mehanici za sustav u kojem su dvije čestice povezane na način da mjerenje jedne trenutačno utječe na stanje druge?",
+    "answers": [
+      "Spregnutost",
+      "Kvantna spregnutost",
+      "Entanglement"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Znanost",
+    "question": "Kako se zove poznati misaoni eksperiment o mački koja je istovremeno živa i mrtva dok ne otvorimo kutiju?",
+    "answers": [
+      "Schrodingerova mačka",
+      "Šrodingerova mačka",
+      "Schrodinger's cat"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Ostalo",
+    "question": "Kako se zove pojam iz ekonomije koji opisuje opći rast cijena u gospodarstvu?",
+    "answers": [
+      "Inflacija"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Sport",
+    "question": "Kako se zove auto-moto utrka izdržljivosti koja traje 24 sata i vozi se u Francuskoj?",
+    "answers": [
+      "24 sata Le Mansa",
+      "Le Mans",
+      "24h Le Mans"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Zemljopis",
+    "question": "Koji je glavni grad Kanade?",
+    "answers": [
+      "Ottawa",
+      "Otava"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "Zemljopis",
+    "question": "Koja se država prostire po kontinentima Europi i Aziji, a ima glavni grad Moskvu?",
+    "answers": [
+      "Rusija",
+      "Russia"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "Zemljopis",
+    "question": "Koji je glavni grad Poljske?",
+    "answers": [
+      "Varšava",
+      "Warszawa",
+      "Warsaw"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "Zemljopis",
+    "question": "Koji je glavni grad Nizozemske?",
+    "answers": [
+      "Amsterdam"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "Zemljopis",
+    "question": "Koji je glavni grad Norveške?",
+    "answers": [
+      "Oslo"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Zemljopis",
+    "question": "Kako se zove najveće jezero u Italiji, ujedno i 34. po veličini u Europi?",
+    "answers": [
+      "Jezero Garda",
+      "Lago di Garda",
+      "Garda"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Zemljopis",
+    "question": "Kako se zove najviši vrh svih alpskih planina?",
+    "answers": [
+      "Mont Blanc",
+      "Monblan",
+      "Mont Blan",
+      "Blanc",
+      "Blan"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Zemljopis",
+    "question": "Koja je najduža rijeka u Europi?",
+    "answers": [
+      "Volga"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "Zemljopis",
+    "question": "Koji je glavni grad Švedske?",
+    "answers": [
+      "Stockholm",
+      "Štokholm"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "Zemljopis",
+    "question": "Koji je glavni grad Finske?",
+    "answers": [
+      "Helsinki"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "Zemljopis",
+    "question": "Koji je glavni grad Grčke?",
+    "answers": [
+      "Atena",
+      "Athens"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "Povijest",
+    "question": "Prema kineskoj predaji, kojeg se vladara smatra da je vladao od 2697. pr. Kr. do 2597. pr. Kr. za kojeg se vjeruje da je izumitelj kompasa, kalendara i pisanja?",
+    "answers": [
+      "Žuti Car",
+      "Žutog Cara",
+      "Huangdi"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "Zemljopis",
+    "question": "Koji je glavni grad Irske?",
+    "answers": [
+      "Dublin",
+      "Dablin"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Zemljopis",
+    "question": "Kako se zove pustinja koja pokriva veći dio sjeverne Afrike?",
+    "answers": [
+      "Sahara"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Zemljopis",
+    "question": "Koja planina je najviši vrh Afrike?",
+    "answers": [
+      "Kilimandžaro",
+      "Kilimanjaro"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Zemljopis",
+    "question": "Kako se zove poznato svjetsko čudo u Jordanu, grad uklesan u stijenu?",
+    "answers": [
+      "Petra"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Zemljopis",
+    "question": "Kako se zove drevni grad u današnjem Iraku, čije ime dolazi iz hebrjeske riječi 'Bābel'?",
+    "answers": [
+      "Babilon",
+      "Babylon"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Zemljopis",
+    "question": "Koja se rijeka smatra svetom u hinduizmu i protječe kroz Indiju?",
+    "answers": [
+      "Ganges",
+      "Ganga"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Zemljopis",
+    "question": "Koji je najveći grad u Turskoj po broju stanovnika, iako nije glavni grad?",
+    "answers": [
+      "Istanbul"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Zemljopis",
+    "question": "Kako se zove planina na kojoj se, prema Bibliji, Noina arka zaustavila nakon potopa?",
+    "answers": [
+      "Ararat",
+      "Planina Ararat"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Ostalo",
+    "question": "Kako se zove grčki bog podzemlja?",
+    "answers": [
+      "Had",
+      "Hades"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Ostalo",
+    "question": "Kako se zove grčka božica mudrosti i ratne taktike?",
+    "answers": [
+      "Atena",
+      "Athena"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Ostalo",
+    "question": "Kako se zove grčki bog vina i zabave?",
+    "answers": [
+      "Dioniz",
+      "Dionysos",
+      "Dionysus"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Ostalo",
+    "question": "Kako se zove nordijski bog groma?",
+    "answers": [
+      "Thor",
+      "Tor"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Ostalo",
+    "question": "Kako se zove nordijska zmija-čudovište koja obuhvaća svijet i neprijatelj je boga Thora?",
+    "answers": [
+      "Jormungand",
+      "Jormungandr"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Ostalo",
+    "question": "Kako se zove drevni egipatski bog s glavom sokola, bog neba i kraljevske moći?",
+    "answers": [
+      "Horus"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Ostalo",
+    "question": "Kako se zove egipatska božica plodnosti, majčinstva i magije, supruga Ozirisa?",
+    "answers": [
+      "Izida",
+      "Isis"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Ostalo",
+    "question": "Kako se zove egipatski bog sa glavom šakala, zaštitnik balzamiranja i zagrobnog života?",
+    "answers": [
+      "Anubis"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Ostalo",
+    "question": "Kako se nazivaju velike monumentalne grobnice faraona u Egiptu trokutastog oblika?",
+    "answers": [
+      "Piramide"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Povijest",
+    "question": "Koje ime nosi kineska dinastija koja je izgradila veći dio Kineskog zida i prva uvela carsku titulu 'Huangdi'?",
+    "answers": [
+      "Dinastija Qin",
+      "Qin",
+      "Quin",
+      "Kvin"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Ostalo",
+    "question": "Kako se zove kineski filozof čija učenja čine temelj konfucijanizma?",
+    "answers": [
+      "Konfucije",
+      "Confucius"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "Ostalo",
+    "question": "Kako se zove sveti grad budizma u kojem je Buda navodno doživio prosvjetljenje?",
+    "answers": [
+      "Bodh Gaya",
+      "Bodhgaya",
+      "Bodigaja",
+      "Bodi Gaja"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Ostalo",
+    "question": "Koji je sveti grad islama u kojem se nalazi Kaaba/Ćaba?",
+    "answers": [
+      "Meka",
+      "Mecca",
+      "Mekka"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Ostalo",
+    "question": "Koji je sveti grad kršćanstva i judaizma u kojem se nalazi Bazilika Svetog Groba i Zid plača?",
+    "answers": [
+      "Jeruzalem",
+      "Jerusalem"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Ostalo",
+    "question": "Ako bi upitali američku novinarku Mignon McLaughlin o ljubavi, rekla bi da je jedan plus jedan beskonačno, a dva minus jedan koliko?",
+    "answers": [
+      "Nula",
+      "0"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Ostalo",
+    "question": "Kako se zove najpoznatiji američki burzovni indeks koji sadrži 30 velikih industrijskih dionica?",
+    "answers": [
+      "Dow Jones",
+      "Dov Džons",
+      "Dow Jones Industrial Average",
+      "DJIA"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Ostalo",
+    "question": "Kako se zove najveća burza dionica po tržišnoj kapitalizaciji u SAD-u smještena u New Yorku?",
+    "answers": [
+      "NYSE",
+      "New York Stock Exchange",
+      "Nju Jork Stok Eksčendž"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Ostalo",
+    "question": "Koje se gorivo, dobiveno iz fosilnih izvora, najčešće koristi u automobilima s unutarnjim izgaranjem?",
+    "answers": [
+      "Benzin"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Znanost",
+    "question": "Koji je kemijski simbol za srebro?",
+    "answers": [
+      "Ag"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Znanost",
+    "question": "Koji je kemijski simbol za kalij?",
+    "answers": [
+      "K"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FilmGlazba",
+    "question": "Kako se punim imenom i prezimenom zove glavni lik serije 'House M.D.' koji je genijalan, ali ciničan liječnik?",
+    "answers": [
+      "Gregory House",
+      "Gregori Haus"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FilmGlazba",
+    "question": "Kako se zove serija o FBI agentima Foxu Mulderu i Danu Scully-u koji istražuju neobjašnjive fenomene?",
+    "answers": [
+      "X Files",
+      "X-Files",
+      "The X-Files",
+      "Dosjei X"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "FilmGlazba",
+    "question": "Kako se zove animirana serija o obitelji iz Springfieda čiji je otac Homer?",
+    "answers": [
+      "Simpsoni",
+      "The Simpsons"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FilmGlazba",
+    "question": "Kako se zove animirana serija o dječaku genijalcu s velikom glavom i laboratorijem u svojoj sobi?",
+    "answers": [
+      "Dexterov laboratorij",
+      "Dexter's Laboratory"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FilmGlazba",
+    "question": "Koji je američki glumac utjelovio lik Rockyja Balboe u filmskom serijalu 'Rocky'?",
+    "answers": [
+      "Sylvester Stallone",
+      "Silvestar Stalone",
+      "Stallone"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FilmGlazba",
+    "question": "Kako se zove glumac koji je utjelovio originalnog Indianu Jonesa?",
+    "answers": [
+      "Harrison Ford",
+      "Harison Ford",
+      "Ford"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FilmGlazba",
+    "question": "Kako se zove filmska franšiza o hakeru Neo i borbi protiv strojeva u simuliranoj stvarnosti?",
+    "answers": [
+      "Matrix",
+      "Matriks",
+      "The Matrix",
+      "Matriks"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FilmGlazba",
+    "question": "Koji je redatelj snimio filmove 'Pulp Fiction' i 'Kill Bill'?",
+    "answers": [
+      "Quentin Tarantino",
+      "Kventin Tarantino",
+      "Tarantino"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FilmGlazba",
+    "question": "Koji je redatelj snimio trilogiju 'Gospodar prstenova'?",
+    "answers": [
+      "Peter Jackson",
+      "Piter Džekson",
+      "Jackson",
+      "Džekson"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FilmGlazba",
+    "question": "Koje umjetničko ime nosi pjevač grupe U2?",
+    "answers": [
+      "Bono Vox",
+      "Bono",
+      "Bono Voks",
+      "Bono Voks"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FilmGlazba",
+    "question": "Kako se zove legendarna britanska rock grupa čiji su članovi Mick Jagger i Keith Richards?",
+    "answers": [
+      "The Rolling Stones",
+      "Rolling Stones",
+      "Roling Stons",
+      "Roling Stons"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "FilmGlazba",
+    "question": "Kako se zove glazbeni festival koji se svake godine održava u blizini malog mjesta Piltona u Engleskoj?",
+    "answers": [
+      "Glastonbury",
+      "Glastonburi",
+      "Glastonbury Festival"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "FilmGlazba", 
+    "question": "Kako se zove najpoznatiji jazz saksofonist koji je snimio album 'A Love Supreme'?",
+    "answers": [
+      "John Coltrane",
+      "Džon Koltren",
+      "Coltrane",
+      "Koltren"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FilmGlazba",
+    "question": "Kako se zove američka pjevačica poznata po albumu 'Like a Virgin'?",
+    "answers": [
+      "Madonna",
+      "Madona"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "FilmGlazba",
+    "question": "Kako se zove hrvatski festival zabavne glazbe koji se tradicionalno održava u Splitu?",
+    "answers": [
+      "Splitski festival",
+      "Splitski"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FilmGlazba",
+    "question": "Kako se zove pjesma s kojom je ABBA pobijedila na Euroviziji 1974. godine?",
+    "answers": [
+      "Waterloo",
+      "Vaterlo"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Zemljopis",
+    "question": "Koji je glavni grad Meksika?",
+    "answers": [
+      "Ciudad de México",
+      "Mexico City",
+      "Siudad de Meksiko",
+      "Meksiko Siti"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Zemljopis",
+    "question": "Koji je glavni grad Argentine?",
+    "answers": [
+      "Buenos Aires"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Zemljopis",
+    "question": "Koji je glavni grad Čilea?",
+    "answers": [
+      "Santiago",
+      "Santiago de Chile"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Zemljopis",
+    "question": "Koji je glavni grad Južnoafričke Republike? (dovoljno je navesti jedan od službenih)",
+    "answers": [
+      "Cape Town",
+      "Kejp Tovn"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "Kako se zove morska životinja koja može mijenjati boju kože i ima osam krakova?",
+    "answers": [
+      "Hobotnica"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FloraFauna", 
+    "question": "Kako se naziva najveći kopneni mesožder na svijetu?",
+    "answers": [
+      "Polarni medvjed",
+      "Polar bear",
+      "Polar ber"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Ostalo",
+    "question": "Kako se zove brzina iznad koje se let zrakoplova smatra nadzvučnim?",
+    "answers": [
+      "Nadzvučna brzina",
+      "Nadzvučna"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Znanost",
+    "question": "Kako se naziva visokoenergetska svemirska pojava koja nastaje kolapsom masivne zvijezde ili sudarom neutronskih zvijezda?",
+    "answers": [
+      "Gamma bljesak",
+      "Gama bljesak",
+      "Gamma-ray",
+      "GRB",
+      "Gama Rej"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Ostalo",
+    "question": "Koja galaksija je udaljena 2,5 milijuna svjetlosnih godina od nas",
+    "answers": [
+      "Andromeda"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Znanost",
+    "question": "Kako se naziva pojava zakrivljenja prostor-vremena uzrokovana masom i energijom, prema općoj teoriji relativnosti?",
+    "answers": [
+      "Gravitacija"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "Ostalo",
+    "question": "Kako se naziva područje oko crne rupe iz kojeg više ništa, pa ni svjetlost, ne može pobjeći?",
+    "answers": [
+      "Horizont događaja",
+      "Događajni obzor",
+      "Obzor događaja",
+      "Event Horizont"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Ostalo",
+    "question": "Koji planet se zbog gustog oblaka CO2 i efekta staklenika smatra najtoplijim u Sunčevu sustavu?",
+    "answers": [
+      "Venera",
+      "Venus"
+    ],
+    "image": null
+  },
+    {
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "Znanost",
+    "question": "Koji pojam opisuje podjelu cjeline na dva međusobno isključiva dijela, a najčešće se koristi u logici, filozofiji, botanici i lingvistici?",
+    "answers": [
+      "Dihotomija"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Ostalo",
+    "question": "Koji planet je poznat po svojim prstenovima građenim od leda i stijena?",
+    "answers": [
+      "Saturn"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Ostalo",
+    "question": "Koji planet ima najviše potvrđenih prirodnih satelita u Sunčevu sustavu?",
+    "answers": [
+      "Jupiter"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kako se zove geometrijsko tijelo koje ima šest kvadratnih strana?",
+    "answers": [
+      "Kocka"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kako se naziva poligonalni oblik s osam stranica?",
+    "answers": [
+      "Oktogon",
+      "Osmerokut"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Znanost",
+    "question": "Kako se naziva matematička funkcija koja je inverzna prirodnom logaritmu?",
+    "answers": [
+      "Eksponencijalna funkcija",
+      "Eksponencijalna"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "Znanost",
+    "question": "Kako se naziva operacija računanja površine ispod krivulje?",
+    "answers": [
+      "Integracija"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Znanost",
+    "question": "Kako se naziva operacija računanja brzine promjene funkcije u jednoj točki?",
+    "answers": [
+      "Derivacija"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koja znanost sustavno proučava i istražuje stare materijalne ostatke s ciljem rekonstrukcije cjelokupnog života čovječanstva?",
+    "answers": [
+      "Arheologija"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "Kako se naziva grana biologije koja proučava životinje?",
+    "answers": [
+      "Zoologija"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "Kako se naziva grana biologije koja proučava biljke?",
+    "answers": [
+      "Botanika"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kako se naziva nauka o građi i funkciji ljudskog tijela?",
+    "answers": [
+      "Anatomija"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kako se naziva medicinska specijalnost koja se bavi bolestima srca i krvnih žila?",
+    "answers": [
+      "Kardiologija"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kako se zove krvna žila koja odvodi krv iz srca prema tijelu?",
+    "answers": [
+      "Aorta"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kako se naziva organ u kojem se probavljaju ugljikohidrati, bjelančevine i masti, a koji proizvodi inzulin?",
+    "answers": [
+      "Gušterača",
+      "Pankreas"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kako se naziva organ u kojem se vrši filtracija krvi i nastaje mokraća?",
+    "answers": [
+      "Bubreg"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "FloraFauna",
+    "question": "Koji napitak dobijemo od prženih i mljevenih zrna biljke koja dolazi iz porodice broćevki?",
+    "answers": [
+      "Kava",
+      "Kavu",
+      "Kafu",
+      "Kafa",
+      "Coffee",
+      "Kofi"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Ostalo",
+    "question": "Kako se zove francuski desert od jaja, mlijeka, šećera i karamele, poznat po glatkoj teksturi?",
+    "answers": [
+      "Creme brulee",
+      "Krem Brule"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Ostalo",
+    "question": "Kako se zove tradicionalno talijansko jelo od tankog tijesta, rajčice, sira i raznih dodataka?",
+    "answers": [
+      "Pizza",
+      "Pica"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Ostalo",
+    "question": "Kako se zove tradicionalno japansko jelo od riže, sirove ribe i algi?",
+    "answers": [
+      "Sushi",
+      "Suši"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Ostalo",
+    "question": "Kako se zove popularno meksičko jelo od tortilje punjene mesom, povrćem i umakom?",
+    "answers": [
+      "Taco",
+      "Tacos",
+      "Tako",
+      "Takos"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "KnjigaSlika",
+    "question": "Kako se naziva serija knjiga o dječaku čarobnjaku koje je napisala J. K. Rowling?",
+    "answers": [
+      "Harry Potter",
+      "Heri Poter"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "KnjigaSlika",
+    "question": "Kako se naziva roman Lava Nikolajeviča Tolstoja koji opisuje život ruskog plemstva u vrijeme Napoleonovih ratova?",
+    "answers": [
+      "Rat i mir"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "KnjigaSlika",
+    "question": "Kako se naziva roman Fjodora Dostojevskog o studentu Raskoljnikovu koji počini ubojstvo iz ideje o nadčovjeku?",
+    "answers": [
+      "Zločin i kazna"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "KnjigaSlika",
+    "question": "Kako se naziva roman Gabriela Garcíje Márqueza kojim je populariziran pojam magičnog realizma?",
+    "answers": [
+      "Sto godina samoće"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "KnjigaSlika",
+    "question": "Kako se zove britanski pisac koji je stvorio lik Jamesa Bonda?",
+    "answers": [
+      "Ian Fleming",
+      "Fleming"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "KnjigaSlika", 
+    "question": "Kako se zove roman Mary Shelley o znanstveniku koji stvara čudovište od dijelova ljudskih tijela?",
+    "answers": [
+      "Frankenstein",
+      "Frankenštajn"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Ostalo",
+    "question": "Koji je američki predsjednik poznat po frazi 'Ask not what your country can do for you'?",
+    "answers": [
+      "John F. Kennedy",
+      "Džon Kenedi",
+      "Kennedy",
+      "Kenedi",
+      "JFK"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Ostalo",
+    "question": "Koji je američki predsjednik bio ujedno i glavni zapovjednik snaga Unije tijekom Američkog građanskog rata?",
+    "answers": [
+      "Abraham Lincoln",
+      "Lincoln"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Ostalo",
+    "question": "Koji je američki predsjednik jedini obnašao dužnost više od dva mandata?",
+    "answers": [
+      "Franklin Delano Roosevelt",
+      "Franklin Roosevelt",
+      "Frenklin Ruzvelt",
+      "Ruzvelt"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Ostalo",
+    "question": "Koji se američki predsjednik suočio s aferom Watergate i dao ostavku?",
+    "answers": [
+      "Richard Nixon",
+      "Ričard Nikson",
+      "Nixon",
+      "Nikson"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Ostalo",
+    "question": "Kako se naziva politički sustav u kojem je sva vlast u rukama jednog vladara koji tu vlast nasljeđuje?",
+    "answers": [
+      "Monarhija"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Ostalo",
+    "question": "Kako se naziva politički sustav u kojem vlast proizlazi iz naroda putem izbora i predstavnika?",
+    "answers": [
+      "Demokracija"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Ostalo",
+    "question": "Kako se naziva sustav u kojem država posjeduje sredstva za proizvodnju, a cilj je društvena jednakost?",
+    "answers": [
+      "Socijalizam"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Ostalo",
+    "question": "Kako se naziva ideologija koja zagovara ukidanje privatnog vlasništva i klasnih razlika?",
+    "answers": [
+      "Komunizam"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Ostalo",
+    "question": "Kako se naziva ideologija koja zagovara ekstremni nacionalizam i autoritarnu vlast, često uz kult vođe?",
+    "answers": [
+      "Fašizam"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Povijest",
+    "question": "Koji se rat naziva i 'Veliki rat' i odvijao se od 1914. do 1918.?",
+    "answers": [
+      "Prvi svjetski rat",
+      "Prvi svjetski",
+      "1. svjetski",
+      "1. svjetski rat",
+      "WW1",
+      "WW 1"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Povijest",
+    "question": "Koji se rat odvijao između 1939. i 1945. i uključivao većinu svjetskih sila?",
+    "answers": [
+      "Drugi svjetski rat",
+      "Drugi svjetski",
+      "2. svjetski",
+      "2. svjetski rat",
+      "WW2",
+      "WW 2"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Povijest",
+    "question": "Kako se zvala operacija Trećeg Reicha s invazijom na SSSR 1941. godine?",
+    "answers": [
+      "Operacija Barbarossa",
+      "Barbarossa"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Povijest",
+    "question": "Kako se zove najveća tenkovska bitka u povijesti, vođena 1943. između njemačkih i sovjetskih snaga?",
+    "answers": [
+      "Bitka kod Kurska",
+      "Kursk"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Povijest",
+    "question": "Kako se naziva razdoblje napetosti između SAD-a i SSSR-a nakon Drugog svjetskog rata bez direktnog velikog vojnog sukoba?",
+    "answers": [
+      "Hladni rat",
+      "Cold War",
+      "Cold Var"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Ostalo",
+    "question": "Kako se naziva vojni savez kojeg su 1949. osnovale zapadne države uključujući SAD, Kanadu i zapadnoeuropske zemlje?",
+    "answers": [
+      "NATO",
+      "Sjevernoatlantski savez",
+      "Sjevernoatlantski",
+      "Northatlantic",
+      "Nortatlantik"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Povijest",
+    "question": "Kako se zvao komunistički vojno-politički savez istočnoeuropskih država na čelu sa SSSR-om osnovan 1955.?",
+    "answers": [
+      "Varšavski pakt",
+      "Warszawski pakt"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Zemljopis",
+    "question": "Kako se zove poznati grad na obali Nila u kojem se nalazi Keopsova piramida?",
+    "answers": [
+      "Kairo",
+      "Cairo"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Povijest",
+    "question": "Kako se naziva združena država Slovenaca, Hrvata i Srba osnovana 1918. prije preimenovanja u Kraljevinu Jugoslaviju?",
+    "answers": [
+      "Država SHS",
+      "Država Slovenaca, Hrvata i Srba",
+      "SHS",
+      "Kraljevina SHS"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Povijest",
+    "question": "Kako se zove poznati hrvatski ban iz 19. stoljeća koji je provodio ilirski pokret i uveo hrvatski jezik kao službeni?",
+    "answers": [
+      "Ban Jelačić",
+      "Ban Josip Jelačić",
+      "Josip Jelačić",
+      "Jelačić"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "KnjigaSlika",
+    "question": "Kako se zove veliki hrvatski pjesnik i pisac, autor 'Horvatske domovine' iz 19. stoljeća?",
+    "answers": [
+      "Antun Mihanović",
+      "Mihanović"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "KnjigaSlika",
+    "question": "Kako se zove poznati bosanskohercegovački pjesnik i pisac, autor romana 'Derviš i smrt'?",
+    "answers": [
+      "Meša Selimović",
+      "Mehmed Meša Selimović",
+      "Selimović"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "KnjigaSlika",
+    "question": "Kako se naziva tradicionalna pjesnička forma iz japanske književnosti s 5-7-5 slogova?",
+    "answers": [
+      "Haiku"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Sport",
+    "question": "Kako se naziva najviši rang engleskog nogometa koji je osnovan 1992.?",
+    "answers": [
+      "Premier League",
+      "Premjer Lig",
+      "Premiership",
+      "Premjeršip"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Sport",
+    "question": "Koji je klub iz Münchena višestruki prvak Njemačke i osvajač Lige prvaka?",
+    "answers": [
+      "Bayern München",
+      "Bayern Munich",
+      "Bayern"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Sport",
+    "question": "Kako se naziva utrka Formule 1 koja se vozi ulicama Monte Carla?",
+    "answers": [
+      "Velika nagrada Monaka",
+      "Monaco Grand Prix"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Sport",
+    "question": "Kako se naziva talijanska staza Formule 1 poznata kao 'Hram brzine'?",
+    "answers": [
+      "Monza",
+      "Autodromo Nazionale Monza"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Sport",
+    "question": "Kako se naziva popularni reli koji se vozi po snijegu i ledu u Švedskoj?",
+    "answers": [
+      "Rally Sweden",
+      "Švedski reli"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Ostalo", 
+    "question": "Koji je njemački proizvođač automobila poznat po modelima 911 i Cayenne?",
+    "answers": [
+      "Porsche",
+      "Porše"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Ostalo",
+    "question": "Koji njemački proizvođač automobila ima slogan 'Vorsprung durch Technik'?",
+    "answers": [
+      "Audi"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Ostalo",
+    "question": "Koji proizvođač automobila stoji iza modela Golf, Passat i Polo?",
+    "answers": [
+      "Volkswagen",
+      "VW",
+      "Wv"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Ostalo",
+    "question": "Kako se naziva mjera ubrzanja koja se često koristi u auto-moto svijetu, izmjerena kao omjer sile i mase?",
+    "answers": [
+      "G sila",
+      "G force"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Ostalo",
+    "question": "Koji je američki brend motocikala kultan među bikerima, poznat po modelu Sportster?",
+    "answers": [
+      "Harley Davidson",
+      "Harli Dejvidson",
+      "Harley",
+      "Harli"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Ostalo",
+    "question": "Kako se naziva zaštitna metalna konstrukcija u utrkama koja štiti vozača pri prevrtanju vozila?",
+    "answers": [
+      "Roll cage",
+      "Zaštitni kavez",
+      "Rol Kejdž"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Ostalo",
+    "question": "Nije 'što? sve što sja.",
+    "answers": [
+      "Zlato"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Ostalo",
+    "question": "Kako glasi izreka koja kaže da je bolje djelovati odmah nego kasnije rješavati posljedice?",
+    "answers": [
+      "Bolje spriječiti nego liječiti"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Ostalo",
+    "question": "U kojoj se poslanici Korinćanima nalazi poznati citat o ljubavi 'Ljubav je strpljiva, ljubav je dobrostiva'?",
+    "answers": [
+      "Prvoj",
+      "1.",
+      "U prvoj",
+      "U 1.",
+      "U prvoj poslanici",
+      "1st",
+      "First",
+      "Frst"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "Ostalo",
+    "question": "Kako se naziva misaoni eksperiment filozofa Zenaona o strijeli koja nikada ne stiže do cilja?",
+    "answers": [
+      "Zenonov paradoks"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Ostalo",
+    "question": "Kako se naziva teorija etike koja tvrdi da je moralno ono što donosi najveću sreću najvećem broju ljudi?",
+    "answers": [
+      "Utilitarizam"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "Znanost",
+    "question": "Kako se naziva filozofska metoda koja putem pitanja i odgovora iz sugovornika izvlači 'pravu istinu'?",
+    "answers": [
+      "Majeutika"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Znanost",
+    "question": "Kako se naziva ogranak filozofije koji se bavi pitanjima lijepog, umjetnosti i ukusa?",
+    "answers": [
+      "Estetika"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kako se naziva znanost o ispravnom zaključivanju?",
+    "answers": [
+      "Logika"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Znanost",
+    "question": "Kako se naziva područje filozofije koje se bavi pitanjima postojanja, bića i stvarnosti?",
+    "answers": [
+      "Ontologija"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kako se naziva znanstvena disciplina koja proučava strukturu, povijest i procese na Zemljinoj kori?",
+    "answers": [
+      "Geologija"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kako se naziva znanstvena disciplina koja proučava atmosferu i vremenske prilike?",
+    "answers": [
+      "Meteorologija"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Znanost",
+    "question": "Kako se naziva skala koja mjeri jačinu potresa prema štetama na objektima i percepciji ljudi?",
+    "answers": [
+      "Mercallijeva ljestvica",
+      "Marcelijeva ljestvica",
+      "Marcelijeva",
+      "Mercalli",
+      "Merkelijeva",
+      "Merkeli"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kako se zove skala koja mjeri magnitudu potresa na temelju oslobođene energije?",
+    "answers": [
+      "Richterova ljestvica",
+      "Rihterova ljestvica",
+      "Richterova",
+      "Rihterova"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kako se zove instrument kojim se mjeri jačina potresa?",
+    "answers": [
+      "Seizmograf"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Zemljopis",
+    "question": "Kako se naziva linija koja spaja mjesta s istom nadmorskom visinom na karti?",
+    "answers": [
+      "Izohipsa"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Zemljopis", 
+    "question": "Kako se naziva linija koja spaja mjesta s istim tlakom na karti?",
+    "answers": [
+      "Izobara"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Zemljopis",
+    "question": "Kako se naziva linija koja spaja mjesta s jednakom temperaturom na karti?",
+    "answers": [
+      "Izoterma"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Zemljopis",
+    "question": "Kako se naziva umjetnost pravljenja karata na kojima možemo pronaći razne toponime?",
+    "answers": [
+      "Kartografija"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Zemljopis",
+    "question": "Kako se naziva kut između sjevera i smjera kretanja, mjeri se u stupnjevima?",
+    "answers": [
+      "Azimut"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Zemljopis",
+    "question": "Kako se naziva instrument koji se koristi za utvrđivanje smjera prema magnetskom sjeveru?",
+    "answers": [
+      "Kompas"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Ostalo",
+    "question": "Kako se naziva aparatić koji mjeri broj otkucaja srca, često korišten u sportu?",
+    "answers": [
+      "Pulsmetar"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Ostalo",
+    "question": "Kako se naziva proces prilagodbe organizma na veće nadmorske visine i manjak kisika?",
+    "answers": [
+      "Aklimatizacija"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Ostalo",
+    "question": "Kako se naziva stanje organizma uslijed gubitka tekućine i elektrolita zbog znojenja i nedostatka vode?",
+    "answers": [
+      "Dehidracija",
+      "Dehidriranost",
+      "Dehydration",
+      "Dehidrejšn"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Ostalo",
+    "question": "Kako se naziva opasnost u planini kada se velika masa snijega odvoji i sklizne niz padinu?",
+    "answers": [
+      "Lavina"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Ostalo",
+    "question": "Koji se talijanski izraz koristi za planinarski dom ili sklonište u Alpama?",
+    "answers": [
+      "Refuge",
+      "Refugio",
+      "Refuđio"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Ostalo",
+    "question": "Kako se zove proces trošenja stijena i tla uslijed djelovanja vode, vjetra i leda?",
+    "answers": [
+      "Erozija"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Ostalo",
+    "question": "Kako se naziva proces taloženja čestica pod utjecajem sile kroz tekućinu?",
+    "answers": [
+      "Sedimentacija"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "Ostalo",
+    "question": "Kako se zove monoteistička religija koju je osnovao prorok Muhamed u 7. stoljeću?",
+    "answers": [
+      "Islam"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "Ostalo",
+    "question": "Kako se zove monoteistička religija utemeljena na Starom i Novom zavjetu?",
+    "answers": [
+      "Kršćanstvo",
+      "kršćanstvo"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Ostalo",
+    "question": "Kako se zove religija čiji su sveti tekstovi Vede i koja priznaje mnoge bogove poput Višne i Šive?",
+    "answers": [
+      "Hinduizam"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Ostalo",
+    "question": "Kako se zove religija koju je utemeljio Siddhartha Gautama, usmjerena na put prosvjetljenja i nirvane?",
+    "answers": [
+      "Budizam"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Ostalo",
+    "question": "Kako se zove religija židovskog naroda utemeljena na Petoknjižju?",
+    "answers": [
+      "Judaizam"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Ostalo",
+    "question": "Kako se zove pojam u kršćanstvu koji označava tri osobe u jednom Bogu: Oca, Sina i Duha Svetoga?",
+    "answers": [
+      "Presveto Trojstvo",
+      "Trojstvo",
+      "Sveto Trojstvo"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Ostalo",
+    "question": "Kako se zove poznata muslimanska sveta knjiga otkrivena Muhamedu?",
+    "answers": [
+      "Kur'an",
+      "Kuran",
+      "Qur'an"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Ostalo",
+    "question": "Kako se zove židovski blagdan kojim se slavi izlazak Izraelaca iz Egipta?",
+    "answers": [
+      "Pesah",
+      "Pasha"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "Ostalo",
+    "question": "Kako se naziva blagdan u kršćanstvu kojim se slavi uskrsnuće Isusa Krista?",
+    "answers": [
+      "Uskrs",
+      "Vazam",
+      "Easter"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Ostalo",
+    "question": "Kako se naziva blagdan u islamu kojim se završava mjesec posta ramazana?",
+    "answers": [
+      "Ramazanski bajram",
+      "Eid al-Fitr",
+      "Ramazan"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Ostalo",
+    "question": "Kako se naziva blagdan u islamu kojim se obilježava žrtva Abrahamova?",
+    "answers": [
+      "Kurban-bajram",
+      "Eid al-Adha",
+      "Kurban Bajram"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Povijest",
+    "question": "Kako se zove najpoznatiji rimski put koji je povezivao Rim s jugom Italije i koji je simbol rimskog cestovnog sustava?",
+    "answers": [
+      "Via Appia",
+      "Apijeva cesta",
+      "Vija Apija",
+      "Via Apija"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Povijest",
+    "question": "Kako se naziva razdoblje rimskog mira od oko 27. pr. Kr. do 180. po. Kr., kada je carstvo bilo relativno stabilno?",
+    "answers": [
+      "Pax Romana",
+      "Paks Romana"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Povijest",
+    "question": "Koji je rimski car legalizirao kršćanstvo Milanskim ediktom 313. godine?",
+    "answers": [
+      "Konstantin Veliki",
+      "Konstantin"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Povijest",
+    "question": "Koji je rimski car podijelio Carstvo na istočni i zapadni dio 395. godine?",
+    "answers": [
+      "Teodozije I",
+      "Teodozije Veliki",
+      "Teodezije"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Povijest",
+    "question": "Kako se zove legendarni vođa Kartažana koji je preko Alpa doveo slonove da napadne Rim?",
+    "answers": [
+      "Hanibal",
+      "Hannibal"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Povijest",
+    "question": "Kako se zovu ratovi između Rima i Kartage vođeni od 264. do 146. pr. Kr.?",
+    "answers": [
+      "Punski ratovi",
+      "Punski"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Povijest", 
+    "question": "Kako se zove čovjek za kojeg se kaže da je 'otac povijesti' i koji je napisao djelo 'Povijesti'?",
+    "answers": [
+      "Herodot"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "Povijest",
+    "question": "Kako se zove grčki povjesničar koji je opisao Peloponeski rat?",
+    "answers": [
+      "Tukidid",
+      "Thukydides",
+      "Thucydides"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Znanost",
+    "question": "Kako se naziva znanost koja proučava stara pisma urezana u kamen, metal ili glinu?",
+    "answers": [
+      "Epigrafika"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "KnjigaSlika",
+    "question": "Kako se naziva papir od biljke koji su koristili stari Egipćani za pisanje?",
+    "answers": [
+      "Papirus",
+      "Papyrus"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "KnjigaSlika",
+    "question": "Kako se zove pismo koje su koristili Sumerani i drugi narodi Mezopotamije?",
+    "answers": [
+      "Klinopis",
+      "Klinasto pismo",
+      "Klinovo pismo",
+      "Klinasto",
+      "Klinčano",
+      "Klinovo"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "KnjigaSlika",
+    "question": "Kako se naziva pismo starog Egipta koje se sastoji od slikovnih znakova?",
+    "answers": [
+      "Hijeroglifi",
+      "hijeroglifsko pismo",
+      "Hierogliphes"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "KnjigaSlika",
+    "question": "Kako se zove ploča pronađena u Egiptu koja je pomogla u dešifriranju hijeroglifa jer ima tekst na tri pisma?",
+    "answers": [
+      "Rosettski kamen",
+      "Rosetta Stone",
+      "Rosetski kamen",
+      "Rosetska",
+      "Rosettska"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FilmGlazba",
+    "question": "Kako se naziva kazališna umjetnost u kojoj glumci izvode radnju uz unaprijed zapisane melodije i pjesme, često s velikim orkestrom?",
+    "answers": [
+      "Opera"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "FilmGlazba",
+    "question": "Kako se naziva kraća glazbena scenska forma s više govora i manje pjevanja?",
+    "answers": [
+      "Opereta"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FilmGlazba",
+    "question": "Kako se naziva glazbeni oblik za orkestar s više stavaka, nastao u klasicizmu, npr. djela Mozarta i Beethovena?",
+    "answers": [
+      "Simfonija"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FilmGlazba",
+    "question": "Kako se naziva glazbeno djelo za solistički instrument i orkestar, često u tri stavka?",
+    "answers": [
+      "Koncert"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "KnjigaSlika",
+    "question": "Kako se naziva slika ili skulptura koja prikazuje osobu od ramena naviše?",
+    "answers": [
+      "Portret"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "KnjigaSlika",
+    "question": "Kako se naziva slika krajolika, najčešće prirodnog prizora poput planina, šuma ili rijeka?",
+    "answers": [
+      "Pejzaž",
+      "landscape"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "Ostalo",
+    "question": "Tko pod drugim jamu kopa, sam u nju.. što?",
+    "answers": [
+      "Upada"
+    ],
+    "image": null
+  }
+]

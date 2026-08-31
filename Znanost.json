@@ -1,0 +1,7040 @@
+[
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kako nazivamo izvedenu mjernu jedinicu koja iznosi milijardu herca?",
+    "answers": [
+      "Gigaherc",
+      "Gigahertz"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "rarity": "legendary",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji je danski astronom sagradio zvjezdarnice Uraniborg i Stjerneborg?",
+    "answers": [
+      "Tycho Brahe",
+      "Tajko Brahe",
+      "Tajko Brah",
+      "Brahe",
+      "Brah"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Spojem kisika i kojeg još plina nastaje čista voda?",
+    "answers": [
+      "Vodika",
+      "Vodik",
+      "Vodikom",
+      "Hidrogenom",
+      "Hidrogen",
+      "Hydrogenom",
+      "Hydrogen",
+      "Hydrogens",
+      "Hidrogens",
+      "Hidrodžen",
+      "Hidrodženom",
+      "Hidrodžens"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji kemijski element čini čak 65% ukupne mase ljudskog tijela?",
+    "answers": [
+      "Kisik",
+      "Oxygen",
+      "Oksidžen",
+      "Oksigen",
+      "O",
+      "Kiseonik"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji je instrument za uvećane slike bliskih predmeta izumio nizozemac Zacharias Janssen?",
+    "answers": [
+      "Mikroskop",
+      "Microscop",
+      "Microskop",
+      "Sitnozor"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koga je časopis 'Time' proglasio osobom 20-og stoljeća?",
+    "answers": [
+      "Alberta Einsteina",
+      "Albert Einstein",
+      "Alberta Ajnštajna",
+      "Albert Ajnštajn",
+      "Einsteina",
+      "Einstein",
+      "Ajnštajna",
+      "Ajnštajn"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji se britanski fizičar te jedan od najsvestranijih znanstvenika 17-og stoljeća rodio na britanskom otoku Wight?",
+    "answers": [
+      "Robert Hooke",
+      "Robert Hok",
+      "Robert Huk",
+      "Hooke",
+      "Hok",
+      "Huk"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Tko je promatrao pad jabuke s drveta u svom vrtu u Woolsthorpeu?",
+    "answers": [
+      "Isaac Newton",
+      "Isak Njutn",
+      "Newton",
+      "Njutn"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Po kojem je austrijskom fizičaru nazvana mjerna oznaka koju koristimo za brzinu kretanja objekta u odnosu na brzinu zvuka?",
+    "answers": [
+      "Ernestu Machu",
+      "Ernestu Mahu",
+      "Ernest Mach",
+      "Ernest Mah",
+      "Machu",
+      "Mahu",
+      "Mach",
+      "Mah"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Tko je 1864.g. kroz svoje jednadžbe napravio matematički model ponašanja elektromagnetskog zračenja?",
+    "answers": [
+      "James Clerk Maxwell",
+      "Clerk Maxwell",
+      "Maxwell",
+      "Džejms Klerk Maksvel",
+      "Klerk Maksvel",
+      "Maksvel",
+      "James Maxwell",
+      "Džejms Maksvel"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kojom kraticom označavamo kemijski element Bor?",
+    "answers": [
+      "B"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Od kojeg je kemijskog elementa građeno gotovo 75% od ukupne mase Sunca?",
+    "answers": [
+      "Vodika",
+      "Vodik",
+      "Vodikom",
+      "Hidrogenom",
+      "Hidrogen",
+      "Hydrogenom",
+      "Hydrogen",
+      "Hydrogens",
+      "Hidrogens",
+      "Hidrodžen",
+      "Hidrodženom",
+      "Hidrodžens"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kako nazivamo tehniku za prijenos tekstovnih poruka na daljinu s pomoću signalnih kodova?",
+    "answers": [
+      "Telegrafija",
+      "Telegraphy",
+      "Telegrafi",
+      "Telegraphie",
+      "Telegrafie"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Isaac Newton je na temelju dinamike i triju zakona kojeg njemačkog astronoma, ustanovio zakon opće gravitacije?",
+    "answers": [
+      "Johannesa Keplera",
+      "Johannes Kepler",
+      "Johanesa Keplera",
+      "Johanes Kepler",
+      "Kepler",
+      "Keplera"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Po kojem simbolu prepoznajemo da se radi o kemijskom elementu heliju?",
+    "answers": [
+      "He",
+      "Ha e"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Po kojem se njemačkom kemičaru i rudarskom inženjeru naziva postupak vađenja sumpora iz teško dostupnih podzemnih ležišta sumpora?",
+    "answers": [
+      "Hermanu Fraschu",
+      "Herman Frasch",
+      "Hermanu Frahu",
+      "Herman Frah",
+      "Hermanu Frašu",
+      "Herman Fraš",
+      "Fraschu",
+      "Frasch",
+      "Frahu",
+      "Frašu"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Atomi koji imaju jednak broj protona a različit broj neutrona se nazivaju kako?",
+    "answers": [
+      "Izotopi",
+      "Isotops",
+      "Izotops",
+      "Isotop",
+      "Izotop"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Pod kojim imenom poznajemo regiju prostor vremena u kojem je velika masa zbijena u malu točku čija je gravitacijska akceleracija ili sila toliko jaka da joj ništa, niti čestice pa čak ni svjetlost ne može pobjeći?",
+    "answers": [
+      "Crna Rupa",
+      "Black Hole",
+      "Blek Hol",
+      "Crne Rupe",
+      "Black Holes",
+      "Blek Hols"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji je plin bez boje, mirisa i okusa najjednostavniji ugljikovodik i glavni sastojak prirodnog plina?",
+    "answers": [
+      "Metan",
+      "Methan",
+      "Methane",
+      "Metane",
+      "CH4"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Tko je 1777.g. prvi spoznao elementaru prirodu sumpora?",
+    "answers": [
+      "Antoine Lavoisier",
+      "Antoan Lavojzije",
+      "Lavoisier",
+      "Lavozje",
+      "Lavozije",
+      "Lavojzije"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Američki fotograf Arthur Sasse je najviše ostao upamćen po fotografiji iz 1951.g. koja prikazuje kojeg znanstvenika s isplaženim jezikom?",
+    "answers": [
+      "Alberta Einsteina",
+      "Albert Einstein",
+      "Alberta Ajnštajna",
+      "Albert Ajnštajn",
+      "Einsteina",
+      "Einstein",
+      "Ajnštajna",
+      "Ajnštajn"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji je kemijski element otkrila Marie Curie a dobio je ime po državi u kojoj je rođena?",
+    "answers": [
+      "Polonij",
+      "Po"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Zbog udisanja kojeg kemijskog elementa čovjekov glas zvuči smiješno, poput crtanog lika?",
+    "answers": [
+      "Helija",
+      "Helij",
+      "Heliuma",
+      "Helium",
+      "Helijuma",
+      "Helijum"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Simbol mu je Sr, atomska masa 87,62, atomski broj 38, zove se Stroncij a sve ovo nebi znali da ga nije otkrio koji znanstvenik?",
+    "answers": [
+      "Humphry Davy",
+      "Hampri Dejvi",
+      "Hamfri Dejvi",
+      "Davy",
+      "Dejvi"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji je kemijski element svojom atomskom masom, najbliži Ludolfovu broju?",
+    "answers": [
+      "Helij",
+      "Helium",
+      "Helijum",
+      "He"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kako nazivamo oblik magnetizma kod kojeg određeni materijali mogu postati trajni magneti?",
+    "answers": [
+      "Feromagnetizam",
+      "Ferromagnetism",
+      "Feromagnetizm"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koju medalju znanstvenicima dodjeljuje Britansko Kraljevsko Društvo, a ona je ujedno njihovo najstarije i najcjenjenije priznanje?",
+    "answers": [
+      "Copleyevu Medalju",
+      "Copleyeva Medalja",
+      "Copleys Medal",
+      "Copley Medal",
+      "Copleyevu",
+      "Copleyeva",
+      "Copleys",
+      "Copley",
+      "Koplejeva",
+      "Koplejevu",
+      "Koplejs",
+      "Koplej"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kako zovemo prostor opremljen za izvođenje znanstvenih pokusa, istraživanja i mjerenja?",
+    "answers": [
+      "Laboratorij",
+      "Laboratory",
+      "Laboratori"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Iznad kojeg je jezera, na međi triju država, 1900.g. izveden prvi let cepelinom?",
+    "answers": [
+      "Bodenskog jezera",
+      "Bodensko",
+      "Bodenskog",
+      "Bodensee",
+      "Lac de Constance",
+      "Lak de Konstanc",
+      "Bodenze",
+      "Boden",
+      "Bodenze"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Razvoj koje grane fizike je počeo pokusima Ørsteda i Faradaya, a proširio se radovima Maxwella?",
+    "answers": [
+      "Elektromagnetizam",
+      "Elektro magnetizam",
+      "Electromagnetism",
+      "Electro magnetism"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Tko je 1800.g. konstruirao prvi galvanski članak, preteču današnjih baterija?",
+    "answers": [
+      "Alessandro Volta",
+      "Volta"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "'Ključem za svemir', Nikola Tesla je smatrao brojeve 3, 6 i koji još?",
+    "answers": [
+      "9",
+      "Devet",
+      "IX",
+      "Nine",
+      "Najn",
+      "Noin",
+      "Nojn"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Simbol 'Na' predstavlja koji kemijski element?",
+    "answers": [
+      "Natrij",
+      "Natrium"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kojeg je talijanskog fizičara, Napoleon 1810.g. proglasio grofom?",
+    "answers": [
+      "Alessandra Voltu",
+      "Alessandro Volta",
+      "Voltu",
+      "Volta"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Etin, propin i butin su svi redom koji ugljikovodici?",
+    "answers": [
+      "Alkini",
+      "Alcyne",
+      "Alkine",
+      "Alkin",
+      "Alcyn",
+      "Alcynes",
+      "Alkynes",
+      "Alkines"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koja se pirotehnička smjesa smatra prvim eksplozivom a nastala je u Kini?",
+    "answers": [
+      "Barut",
+      "Gunpowder",
+      "Gun powder",
+      "Ganpovder",
+      "Gan povder",
+      "Black powder",
+      "Blackpowder",
+      "Blek povder",
+      "Blekpovder"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Što je Epicentar na površini, to je kakav 'centar' u unutrašnjosti Zemlje?",
+    "answers": [
+      "Hipocentar",
+      "Hipo",
+      "Hypo"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Iz koje je temeljne prirodne znanosti britansko - Novozelandski znanstvenik Ernest Rutherford dobio Nobelovu nagradu?",
+    "answers": [
+      "Kemije",
+      "Kemija",
+      "Chemistry",
+      "Kemistry"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koju mjernu jedinicu iz međunarodnog sustava koristimo za frekvenciju?",
+    "answers": [
+      "Herc",
+      "Hertz"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kojem se škotskom kemičaru pripisuje otkriće i izolacija dušika?",
+    "answers": [
+      "Danielu Rutherfordu",
+      "Daniel Rutherford",
+      "Danijelu Ruterfordu",
+      "Danijel Ruterford",
+      "Rutherfordu",
+      "Rutherford",
+      "Ruterfordu",
+      "Ruterford"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koje je drago kamenje zapravo zeleno obojeni oblik minerala berila?",
+    "answers": [
+      "Smaragd",
+      "Smaragdus"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "rarity": "silver",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kako nazivamo promjenu frekvencije valova pri relativnom gibanju njihova izvora ili promatrača? Ovaj efekt svoju primjenu nalazi u ultrazvuku, a možemo ga primijetiti i kod sirena hitnih službi koje pri približavanju zvuče višeg tona nego pri udaljavanju.",
+    "answers": [
+      "Dopplerov efekt",
+      "Dopplerov",
+      "Doplerov",
+      "Dopplers",
+      "Doplers",
+      "Doppler",
+      "Dopler",
+      "Doppler effect"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kojim imenom nazivamo pozitivno nabijene ione?",
+    "answers": [
+      "Kationi",
+      "Kations"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji pojam u klasičnoj fizici označava prazan prostor bez bilo kakve materije ili fizikalnih polja?",
+    "answers": [
+      "Vakuum",
+      "Vacuum",
+      "Vakum",
+      "Vacum"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji se broj u Morseovoj abecedi skriva iza 5 crta?",
+    "answers": [
+      "0",
+      "Nula",
+      "Zero",
+      "Ziro"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji je satelitski navigacijski sustav Europa razvila kao odgovor na američki GPS?",
+    "answers": [
+      "Galileo"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Metan je prvi član alkana, a koji je prvi član alkena?",
+    "answers": [
+      "Eten",
+      "Etilen",
+      "Ethen",
+      "Ethilen",
+      "Etene",
+      "Etenes",
+      "Ethenes"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Po kojem fizičaru ime nosi medalja koja se u Italiji dodjeljuje kao nagrada za doprinose u fizici?",
+    "answers": [
+      "Carlu Matteucciju",
+      "Karlu Mateućiju",
+      "Carlo Matteucci",
+      "Karlo Mateući",
+      "Matteucciju",
+      "Matteucci",
+      "Mateućiju",
+      "Mateući"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koju međunarodnu mjernu jedinicu koristimo za snagu?",
+    "answers": [
+      "Vat",
+      "Wat",
+      "Watt"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji kemijski element poznajemo po simbolu 'C'?",
+    "answers": [
+      "Ugljik",
+      "Carbon",
+      "Karbon"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji kemijski element poznamo po simbolu 'Li'?",
+    "answers": [
+      "Litij",
+      "Litium",
+      "Lithium",
+      "Litijum"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kako nazivamo kvantno svojstvo elementarne čestice koje predstavlja njezin unutarnji kutni moment?",
+    "answers": [
+      "Spin"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Dok je trajao Osamdesetogodišnji rat, skoro cijeli svoj život je proživio koji talijanski astronom i matematičar?",
+    "answers": [
+      "Galileo Galilei",
+      "Galileo Galileji",
+      "Galilei",
+      "Galileji"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koju kraticu koristimo za metal Litij?",
+    "answers": [
+      "Li"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji kemijski element, atomskog broja 5,  mi poznajemo pod istim imenom kao i jednu vrstu drveća?",
+    "answers": [
+      "Bor",
+      "B",
+      "Boraks"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "rarity": "golden",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "'Berlinsko društvo cara Wilhelma' bilo je njemačko znanstveno društvo koje danas, kao najveća njemačka znanstvena organizacija, djeluje pod imenom kojeg njemačkog nobelovca?",
+    "answers": [
+      "Maxa Plancka",
+      "Max Planck",
+      "Maksa Planka",
+      "Maks Plank",
+      "Plancka",
+      "Planck",
+      "Planka",
+      "Plank",
+      "Plancks",
+      "Planks"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Po kojem je njemačkom fizičaru nazvana mjerna jedinica za frekvenciju?",
+    "answers": [
+      "Heinrichu Hertzu",
+      "Heinrich Hertz",
+      "Hajnrihu Hercu",
+      "Hajnrih Herc",
+      "Hertzu",
+      "Hertz",
+      "Hercu",
+      "Herc"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Prva atomska bomba ikad detonirana, eksplodirala je na području koje američke savezne države?",
+    "answers": [
+      "New Mexico",
+      "Nju Meksiko",
+      "New Meksiko"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "U koji oblik voda prelazi kada se živa na termometru spušta ispod 0 stupnjeva?",
+    "answers": [
+      "Led",
+      "Ledeni",
+      "Ledeno",
+      "Kruti",
+      "Kruto",
+      "Ice",
+      "Ajs"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Prva hidroelektrana na svijetu, ona na slapovima Niagare, prvu je struju isporučila kojem gradu udaljenom oko 40 kilometara od nje?",
+    "answers": [
+      "Buffalu",
+      "Buffalo",
+      "Bufalu",
+      "Bufalo",
+      "Bafalu",
+      "Bafalo"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Paracelsus se smatra ocem koje znanosti koja proučava djelovanje kemikalija na živi organizam?",
+    "answers": [
+      "Toksikologije",
+      "Toksikologija",
+      "Toxicology",
+      "Toksikolodži",
+      "Toksikolođi",
+      "Toxicologys",
+      "Toksikolodžis"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji organski kemijski spoj ima formulu C2H6?",
+    "answers": [
+      "Etan",
+      "Ethane",
+      "Etane",
+      "Ethan"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kemijske elemente sa simbolima Na, Mg, K, Ca, Sr i Ba otkrio je koji engleski znanstvenik, jedan od utemeljitelja elektrokemije?",
+    "answers": [
+      "Humphry Davy",
+      "Hampri Dejvi",
+      "Hamfri Dejvi",
+      "Davy",
+      "Dejvi"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Tko je s pomoću elektrolize 1807.g. otkrio kalij i natrij?",
+    "answers": [
+      "Humphry Davy",
+      "Hampri Dejvi",
+      "Hamfri Dejvi",
+      "Davy",
+      "Dejvi"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kakav zid je 1947.g. prvi u povijesti probio Chuck Yeagar?",
+    "answers": [
+      "Zvučni",
+      "Zvuk",
+      "Sounds",
+      "Saunds",
+      "Sound",
+      "Saund"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koje ime nosi nepokretni dio generatora?",
+    "answers": [
+      "Stator"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kada govorimo o morskim mijenama, spuštanje razine mora nazivamo kako?",
+    "answers": [
+      "Oseka"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "U ime koje znanstvenice je radioaktivni mineral sklodovskit dobio ime?",
+    "answers": [
+      "Marie Curie",
+      "Mari Kiri",
+      "Mari Kuri",
+      "Mari Kjuri",
+      "Curie",
+      "Kiri",
+      "Kuri",
+      "Kjuri",
+      "Marije Kiri",
+      "Marije Curie",
+      "Maria Curi"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji metal u periodnom sustavu elemenata predstavlja simbol Be?",
+    "answers": [
+      "Berilij",
+      "Berilium",
+      "Berilijum"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Roman 'Proces stoljeća' kojeg je napisao hrvatski znanstvenik i književnik Ivan Supek prati proces protiv kojeg američkog fizičara?",
+    "answers": [
+      "Roberta Oppenheimera",
+      "Robert Oppenheimer",
+      "Roberta Openhajmera",
+      "Openhajmer",
+      "Oppenheimer",
+      "Openhajmers",
+      "Oppenheimers"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koju medalju dodjeljuje Londonsko Kraljevsko Društvo znanstvenicima za izvanredna postignuća na području kemije?",
+    "answers": [
+      "Davy Medalju",
+      "Davy Medalja",
+      "Davy",
+      "Dejvi Medalja",
+      "Dejvi",
+      "Devyjevu",
+      "Dejvyjeva",
+      "Devys",
+      "Dejvis",
+      "Dejvijevu",
+      "Dejvijeva",
+      "Davy Medal",
+      "Dejvi Medal"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Formulom C4H8 prikazujemo koji ugljikovodik?",
+    "answers": [
+      "Buten",
+      "Butene"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji je talijanski fizičar i inženjer prvi uspio poslati radio signal preko Atlantskog oceana?",
+    "answers": [
+      "Guglielmo Marconi",
+      "Guljelmo Markoni",
+      "Marconi",
+      "Markoni"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Tijekom operacije Epsilon, od 10 njemačkih znanstvenika koje su saveznici zarobili u 2. svjetskom ratu, njih koliko je imalo Nobelovu nagradu u kolekciji?",
+    "answers": [
+      "3",
+      "Tri",
+      "Troje",
+      "Trojica",
+      "III",
+      "Three",
+      "Tre",
+      "Drei",
+      "Draj"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "U kojoj se periodi tj redu, na periodnom sustavu elemenata nalazi fosfor?",
+    "answers": [
+      "Trećoj",
+      "Tri",
+      "Treća",
+      "III",
+      "3.",
+      "3",
+      "Third",
+      "3 rd",
+      "3rd",
+      "3oj",
+      "3 oj",
+      "Trećem",
+      "Trećemu",
+      "Three",
+      "Tre"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koja dva slova označavaju bozone koji prenose slabu nuklearnu silu?",
+    "answers": [
+      "W Z",
+      "Z W",
+      "WZ",
+      "ZW",
+      "W i Z",
+      "Z i W",
+      "Wiz",
+      "Ziw"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koje slovo u fizici predstavlja prijeđeni put?",
+    "answers": [
+      "S"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji je kemijski element ime dobio po arapskoj riječi buraq ili perzijskoj riječi burah, koje označavaju mineral boraks?",
+    "answers": [
+      "Bor"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Negativno nabijene elementarne čestice koje kruže oko jezgre atoma se zovu kako?",
+    "answers": [
+      "Elektroni",
+      "Elektron",
+      "Electroni",
+      "Electrons",
+      "Elektrons"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koja dva slova koristimo za kraticu Herca, mjerne jedinice za frekvenciju?",
+    "answers": [
+      "Hz",
+      "Haze",
+      "Ha ze"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Hiparh ih je opisao 850, Ptolomej 1022, Al Sufi 1018, Ulug Beg 992, Kepler 1005  a sve su to redom koje 'stvari' na nebu?",
+    "answers": [
+      "Zvijezde",
+      "Zvijezda",
+      "Stars",
+      "Star"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "'EPR paradoks' je misaoni pokus kvantne mehanike nazvan po prvim slovima prezimena Borisa Podolskog, Nathana Rosena i koga još?",
+    "answers": [
+      "Alberta Einsteina",
+      "Albert Einstein",
+      "Alberta Ajnštajna",
+      "Albert Ajnštajn",
+      "Einsteina",
+      "Einstein",
+      "Ajnštajna",
+      "Ajnštajn"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Čije njihalo, koje je dokazalo rotaciju Zemlje, je prvi put napravljeno u Pantheonu u Parizu, a danas se nalazi u muzejima diljem svijeta?",
+    "answers": [
+      "Leona Faucaulta",
+      "Leon Faucault",
+      "Faucaultovo",
+      "Faucault",
+      "Fakoovo",
+      "Fakovo",
+      "Fakoevo",
+      "Fako",
+      "Fakolt",
+      "Fakoltovo",
+      "Fakolts",
+      "Faucaultovo",
+      "Fakos"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji nukleon zajedno sa neutronom čini gotovo svu vidljivu masu u svemiru?",
+    "answers": [
+      "Proton",
+      "Protoni"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Za rad na polju kvantne elektrodinamike, Nobelovu nagradu za fiziku 1965.g. dobili su Julian Schwinger, Sin-Itiro Tomonaga i koji utjecajni američki fizičar?",
+    "answers": [
+      "Richard Feynman",
+      "Ričard Fejman",
+      "Ričard Fajnmen",
+      "Feynman",
+      "Fejman",
+      "Fajnmen",
+      "Fejnmen"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji je britanski znanstvenik predložio temperaturu tališta leda kao nultu točku termometarske ljestvice?",
+    "answers": [
+      "Robert Hooke",
+      "Robert Hok",
+      "Robert Huk",
+      "Hooke",
+      "Hok",
+      "Huk"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Pod kojim imenom poznajemo neutralne čestice u jezgri atoma?",
+    "answers": [
+      "Neutroni",
+      "Neutrons",
+      "Neutron"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "rarity": "platinum",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "'The Italian navigator has landed in the new world' je povijesna rečenica kojom je Arthur Compton kodiranom porukom obavijestio Franklina D. Roosevelta da je koji talijanski znanstvenik uspostavio prvi samoodrživi nuklearni reaktor?",
+    "answers": [
+      "Enrico Fermi",
+      "Enriko Fermi",
+      "Fermi"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Tko je davne 1669.g. tragajući za kamenom mudraca, slučajno otkrio fosfor?",
+    "answers": [
+      "Henning Brand",
+      "Hening Brend",
+      "Brand",
+      "Brend"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kako u fizici nazivamo uređaj koji se podražajima određene frekvencije može dovesti u stanje titranja?",
+    "answers": [
+      "Rezonator"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kojim stručnim pojmom opisujemo proces u kojem se molekule ili atomi zadržavaju na površini neke tvari, bez prodiranja u njezinu unutrašnjost?",
+    "answers": [
+      "Adsorpcija",
+      "Adsorption",
+      "Adsorpšn"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji je znanstvenik, radeći na tajnom Projektu Manhattan, koristio kodno ime Nicholas Baker?",
+    "answers": [
+      "Niels Bohr",
+      "Nils Bor",
+      "Bohr",
+      "Bor"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji je britanski teorijski fizičar zbog paralize mišića s okolinom pričao pomoću računalnog sintetizatora glasa?",
+    "answers": [
+      "Stephen Hawking",
+      "Stiven Hovking",
+      "Stefen Hovking",
+      "Hawking",
+      "Hovking",
+      "Havking",
+      "Hoking",
+      "Hokins"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji bozon prenosi jaku nuklearnu silu?",
+    "answers": [
+      "Gluon"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kako bi opisao sličnost protona i neutrona u jakoj nuklearnoj interakciji, izospin je 1932.g. formulirao koji znanstvenik?",
+    "answers": [
+      "Werner Heisenberg",
+      "Verner Hajsenberg",
+      "Heisenberg",
+      "Hajsenberg"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koje je kodno ime nosila operacija Saveznika u kojoj je u blizini Cambridgea bilo zatočeno deset njemačkih znanstvenika za koje se sumnjalo da rade na njemačkoj atomskoj bombi?",
+    "answers": [
+      "Epsilon"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji je kemijski element atomskog broja 111 ime dobio po Wilhelmu Rontgenu?",
+    "answers": [
+      "Roentgenij",
+      "Rentgenij",
+      "Rengenij"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kako se označava akceleracija (ubrzanje) u formulama?",
+    "answers": [
+      "A"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koje se slovo u Morseovoj abecedi sastoji od jedne crte?",
+    "answers": [
+      "T",
+      "Te"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kako nazivamo izvedenu mjernu jedinicu koja iznosi 1000 herca?",
+    "answers": [
+      "Kiloherc",
+      "Kilohertz"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koja je električki nabijena čestica (atom ili molekula) nastala gubitkom ili primanjem elektrona?",
+    "answers": [
+      "Ion",
+      "Ijon",
+      "Ions",
+      "Ioni"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Formulom C3H4 prikazujemo koji ugljikovodik?",
+    "answers": [
+      "Propin",
+      "Propyne",
+      "Propine",
+      "Alilen",
+      "Metilacetilen"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji je prvi otkriveni kemijski element koji nije bio poznat od antičkih vremena? Otkrio ga je 1669.g. njemački alkemičar Hennig Brand",
+    "answers": [
+      "Fosfor",
+      "Phosporus",
+      "Fosforus"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji kemijski pribor poznajemo pod imenom Bunsenov i Mekerov?",
+    "answers": [
+      "Plamenik",
+      "Plemenik",
+      "Plamen",
+      "Plemen"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koja je znanstvenica osvojila Nobelovu nagradu i za fiziku i za kemiju?",
+    "answers": [
+      "Marie Curie",
+      "Mari Kiri",
+      "Mari Kuri",
+      "Mari Kjuri",
+      "Curie",
+      "Kiri",
+      "Kuri",
+      "Kjuri",
+      "Maria Curie"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koju međunarodnu mjernu jedinicu koristimo za aktivnost radioaktivnog izvora?",
+    "answers": [
+      "Becquerel",
+      "Bekerel",
+      "Bq"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji je aromatski ugljikovodik prvi izdvojio Michael Faraday 1825.g.?",
+    "answers": [
+      "Benzen"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "U kojem se stoljeću rodio talijanski znanstvenik Enrico Fermi?",
+    "answers": [
+      "20.st",
+      "20-om",
+      "20om",
+      "Dvateseto",
+      "Dvadesetom",
+      "Twentieth",
+      "Twenty",
+      "Twentith",
+      "Tventith",
+      "Tventijet",
+      "Tventi",
+      "XX.",
+      "Dvadeset",
+      "20",
+      "Dvaestom",
+      "Dvaest",
+      "20th",
+      "20-th"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Po kojem je astronomu ime dobio svemirski teleskop lansiran u Zemljinu orbitu 1990.g. a njegove visokokvalitetne slike su donijele revoluciju u modernu astronomiju?",
+    "answers": [
+      "Edwinu Hubbleu",
+      "Edwin Hubble",
+      "Edvinu Hablu",
+      "Edvin Habl",
+      "Hubbleu",
+      "Hubble",
+      "Hablu",
+      "Habl",
+      "Hublu",
+      "Hubl"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Ptolomejev geocentrični sustav je opstao sve do 16-og stoljeća kada ga zamjenjuje čiji heliocentrični sustav?",
+    "answers": [
+      "Kopernikov",
+      "Kopernik",
+      "Copernicus",
+      "Copernicusov",
+      "Copernicuses",
+      "Kopernikus",
+      "Kopernikusov",
+      "Kopernikuses"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "U kojem je austrijskom gradu rođen nobelovac Erwin Schrodinger?",
+    "answers": [
+      "Beču",
+      "Beč",
+      "Vienna",
+      "Vieni",
+      "Vijena",
+      "Vijeni",
+      "Vienni",
+      "Wien",
+      "Vien",
+      "Vijen",
+      "Dunaj"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Toranj Wardenclyff je poznat po kojem znanstveniku?",
+    "answers": [
+      "Nikoli Tesli",
+      "Nikola Tesla",
+      "Tesla",
+      "Tesli",
+      "Teslas"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji kemijski element poznamo po kratici 'S'?",
+    "answers": [
+      "Sumpor",
+      "Sulfur",
+      "Sulphur"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kojim bi stručnim pojmom jedan kemičar mogao opisati proces u kojem netko na slamku unosi tekućinu u sebe?",
+    "answers": [
+      "Apsorpcija",
+      "Absorption",
+      "Apsorpcijom",
+      "Absorpšn"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Tko je bio učitelj i voditelj čuvenog britanskog znanstvenika Michaela Faradaya?",
+    "answers": [
+      "Humphry Davy",
+      "Hampri Dejvi",
+      "Hamfri Dejvi",
+      "Davy",
+      "Dejvi"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji je kemijski element nazvan po talijanskom znanstveniku Enricu Fermiju?",
+    "answers": [
+      "Fermij",
+      "Fermium",
+      "Fermijum",
+      "Fm"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji kemijski element tražimo ako znamo da ga je prvi proizveo Paracelsus, prvi definirao Cavendish a ime mu dao Lavoisier?",
+    "answers": [
+      "Vodik",
+      "Hydrogen",
+      "Hidrogen"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Po kojem je znanstveniku nazvano 'njihalo' (kolijevka) koje se sastoji od 5 ili više metalnih kuglica koje u nizu, vise o niti te čije vanjske kuglice prenose silu jedna na drugu, preko onih u sredini?",
+    "answers": [
+      "Isaacu Newtonu",
+      "Isaku Njutnu",
+      "Isaac Newton",
+      "Isak Njutn",
+      "Newton",
+      "Njutn",
+      "Newtonu",
+      "Njutnu"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji je grčki filozof bio učitelj Aleksandra Velikog?",
+    "answers": [
+      "Aristotel",
+      "Aristoteles"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji kemijski element tražimo ako je na periodnom sustavu okružen redom: s desna sumporom, s lijeva silicijem, iznad dušikom a ispod arsenom?",
+    "answers": [
+      "Fosfor",
+      "Phosporus",
+      "Fosforus",
+      "P"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Bar ste jednom koristili termos bocu, no jeste li se ikada zapitali tko ju je izumio? Taj izum se pripisuje jednom škotskom kemičaru a i drugo ime te posude se ponekad naziva po njegovu prezimenu. On je tko?",
+    "answers": [
+      "James Dewar",
+      "Džejms Devar",
+      "Džejms Devor",
+      "Dewar",
+      "Devor",
+      "Devar"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koja znanstvena disciplina proučava strukturu, građu i međudjelovanja atoma?",
+    "answers": [
+      "Atomistika"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji se znanstvenik našao na novčanici od 20 britanskih funti koje su printane od 1991.g. do 2001.g.?",
+    "answers": [
+      "Michael Faraday",
+      "Majkel Faradey",
+      "Mihael Faradey",
+      "Faraday",
+      "Faradej"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "U kojem je stoljeću rođen austrijski znanstvenik Erwin Schrodinger?",
+    "answers": [
+      "19.st",
+      "19-om",
+      "19om",
+      "Devetnaestom",
+      "19",
+      "XIX",
+      "Nineteen",
+      "Najntin",
+      "Nineteens",
+      "Najntins",
+      "19-o",
+      "19o",
+      "Devetnaest",
+      "19st",
+      "19stoljeće",
+      "19stoljeću",
+      "19th",
+      "19-th"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "rarity": "silver",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koja fizička pojava nastaje kada vanjska periodična sila pobudi sustav na titranje frekvencijom koja se podudara s njegovom vlastitom frekvencijom, što rezultira naglim porastom amplitude titranja?",
+    "answers": [
+      "Rezonancija",
+      "Resonance",
+      "Rezonanc"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kako se zove tvar koja u vodi, ili drugom otapalu provodi električnu struju jer se raspada na nabijene čestice koje se zovu ioni?",
+    "answers": [
+      "Elektrolit",
+      "Elektroliti"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Prvi ga je proizveo Paracelsus, no isti taj element u tekućem i krutom stanju prvi je dobio škotski kemičar James Dewar. O kojem je kemijskom elementu riječ?",
+    "answers": [
+      "Vodiku",
+      "Vodik",
+      "Hidrogenu",
+      "Hidrogen",
+      "Hydrogen",
+      "Hydrogens",
+      "Hajdrodžen",
+      "Hidrodžen",
+      "Hidrodženu"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "U kojem je talijanskom gradu rođen i pokopan fizičar Alessandro Volta?",
+    "answers": [
+      "Como",
+      "Comu",
+      "Comou",
+      "Komo",
+      "Komu",
+      "Komou",
+      "Comos",
+      "Komos"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kakve frekvencije su do 1943.g. smatrane izumom Guglielma Marconija, a od te godine su sva prava na njih pripisana Nikoli Tesli?",
+    "answers": [
+      "Radiofrekvencije",
+      "Radiofrequencies",
+      "Radiofrekvencis",
+      "Radio",
+      "Radijo"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koja međunarodna mjerna jedinica pokazuje jakost električne struje?",
+    "answers": [
+      "Ampere",
+      "Amper"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji je njemački fizičar dobio Nobelovu nagradu 1932.g. za 'stvaranje kvantne mehanike' te 'principa neodređenosti'?",
+    "answers": [
+      "Werner Heisenberg",
+      "Verner Hajsenberg",
+      "Heisenberg",
+      "Hajsenberg"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji je Irski kemičar i fizičar prvi izolirao metilni alkohol i aceton?",
+    "answers": [
+      "Robert Boyle",
+      "Robert Bojl",
+      "Boyle",
+      "Bojl"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Izumitelj električnog telegrafa je koji amerikanac, ujedno i slikar?",
+    "answers": [
+      "Samuel Morse",
+      "Samuel Mors",
+      "Morse",
+      "Mors"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Prva termonuklearna odnosno 'hidrogenska' bomba koristila je fuziju izotopa kojeg kemijskog elementa?",
+    "answers": [
+      "Vodika",
+      "Vodik",
+      "Vodikom",
+      "Hidrogenom",
+      "Hidrogen",
+      "Hydrogenom",
+      "Hydrogen",
+      "Hydrogens",
+      "Hidrogens",
+      "Hidrodžen",
+      "Hidrodženom",
+      "Hidrodžens"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji je znanstvenik s Novog Zelanda otkrio česticu protona?",
+    "answers": [
+      "Ernest Rutherford",
+      "Ernest Ruterford",
+      "Ernest Rutford",
+      "Rutherford",
+      "Ruterford",
+      "Rutford"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kuhinjska sol se sastoji od klora i kojeg još elementa?",
+    "answers": [
+      "Natrija",
+      "Natrij",
+      "Natriuma",
+      "Natrijuma",
+      "Na"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kojim skupnim imenom nazivamo 4 najveća Jupiterova mjeseca, Iju Ganimeda, Europu i Kalistu?",
+    "answers": [
+      "Galilejanski mjeseci",
+      "Galilejanski",
+      "Galilejski",
+      "Galilejan",
+      "Galilean",
+      "Galileans"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Heisenberg, Hund i Van der Waerden su utemeljili poznati krug fizike u kojem njemačkom gradu?",
+    "answers": [
+      "Leipzigu",
+      "Leipzig",
+      "Lajpcigu",
+      "Lajpcig"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Bez teorija kojeg bi znanstvenika, GPS navigacija bila znatno netočnija?",
+    "answers": [
+      "Alberta Einsteina",
+      "Albert Einstein",
+      "Alberta Ajnštajna",
+      "Albert Ajnštajn",
+      "Einsteina",
+      "Einstein",
+      "Ajnštajna",
+      "Ajnštajn"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "U fizici, kojim slovom označavamo mehanički 'rad'?",
+    "answers": [
+      "W",
+      "Ve",
+      "We"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Prvi seizmograf u povijest zvao se 'Di Dong Ji', što u prijevodu znači 'Uređaj za opažanje micanja zemlje' a sastavio ga je koji kineski znanstvenik?",
+    "answers": [
+      "Zhang Heng",
+      "Nan Jang",
+      "Nanyang",
+      "Džang Heng",
+      "Zang Heng",
+      "Žang Heng",
+      "Nanjang"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Po kojoj je povijesnoj Grčkoj regiji ime dobio kemijski element sa atomskim brojem 12?",
+    "answers": [
+      "Magneziji",
+      "Magnezija",
+      "Magnesii",
+      "Magnesia",
+      "Magnesium",
+      "Magnesiumu",
+      "Magneziju",
+      "Magnezijumu"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Fermioni su vrsta subatomskih čestica koje grade svu nama poznatu materiju, a ime su dobili po kojem znanstveniku?",
+    "answers": [
+      "Enricu Fermiju",
+      "Enrico Fermi",
+      "Enriku Fermiju",
+      "Enriko Fermi",
+      "Fermiju",
+      "Fermi",
+      "Fermis"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koja je znanstvenica 1922.g. postala prva žena članica francuske Académie de médecine?",
+    "answers": [
+      "Marie Curie",
+      "Mari Kiri",
+      "Mari Kuri",
+      "Mari Kjuri",
+      "Curie",
+      "Kiri",
+      "Kuri",
+      "Kjuri",
+      "Maria Curie"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji je znanstvenik otkrio kemijske elemente barij i kalcij?",
+    "answers": [
+      "Humphry Davy",
+      "Hampri Dejvi",
+      "Hamfri Dejvi",
+      "Davy",
+      "Dejvi"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koje slovo Morseova koda dobijemo kada otipkamo redom: jednu točku, dvije crte, jednu točku?",
+    "answers": [
+      "P",
+      "Pe"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "rarity": "silver",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koja je električki neutralna čestica sastavljena od dva ili više atoma povezanih jakim kemijskim vezama?",
+    "answers": [
+      "Molekula",
+      "Molecul",
+      "Molekul"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koje slovo u periodnom sustavu elemenata predstavlja fosfor?",
+    "answers": [
+      "P"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kojim slovom označavamo broj neutrona u atomskoj jezgri?",
+    "answers": [
+      "N",
+      "Na"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "James Clerk Maxwell je sve zakonitosti elektromagnetizma sažeo u koliko jednadžbi?",
+    "answers": [
+      "4",
+      "Četiri",
+      "Četri",
+      "Four",
+      "For",
+      "IV"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Brdovito područje na Mjesecu, u blizini kojeg je sletjela letjelica Apolla 16 nosi ime po kojem francuskom filozofu i matematičaru?",
+    "answers": [
+      "Renea Descartesa",
+      "Rene Descartes",
+      "Rene Deskart",
+      "Rene Dekart",
+      "Descartesa",
+      "Dekart",
+      "Dekarta",
+      "Renea Dekarta"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji je znanstvenik svirao violinu, na kojoj je ugravirano 'Lina', a koja se 2025.g. na aukciji prodala za nevjerojatnih 860 000 funti?",
+    "answers": [
+      "Albert Einstein",
+      "Albert Ajnštajn",
+      "Einstein",
+      "Ajnštajn"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "11, 12, 19, 20, 38 i dopunski broj 56... ne ne, ovo nisu brojevi sa lota već atomski brojevi kemijskih elemenata koje je otkrio koji čuveni britanac?",
+    "answers": [
+      "Humphry Davy",
+      "Hampri Dejvi",
+      "Hamfri Dejvi",
+      "Davy",
+      "Dejvi"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Tko je svoja prva astronomska otkrića objavio 1610. u djelu 'Vjesnik Zviježđa' (Siderius Nuncius)?",
+    "answers": [
+      "Galileo Galilei",
+      "Galilei",
+      "Galileji"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kojim malim slovom u fizici uvijek označavamo 'vrijeme'?",
+    "answers": [
+      "T",
+      "Te"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Za vrijeme kojeg se ruskog cara u Varšavi rodila velika znanstvenica i dobitnica dvije Nobelove nagrade, Marie Curie?",
+    "answers": [
+      "Aleksandra II.",
+      "Aleksandar II.",
+      "Aleksandra 2.",
+      "Aleksandar 2.",
+      "Aleksandra drugog",
+      "Aleksandar drugi",
+      "Aleksandar second",
+      "Aleksandar seknd",
+      "Aleksandar the second",
+      "Aleksandar d seknd",
+      "Alexandra II.",
+      "Alexandar II.",
+      "Alexandra 2.",
+      "Alexandar 2.",
+      "Alexandra drugog",
+      "Alexandar drugi",
+      "Alexandar second",
+      "Alexandar seknd",
+      "Alexandar the second",
+      "Alexandar d seknd",
+      "Aleksandar dva",
+      "Aleksandar two",
+      "Alexandar dva",
+      "Alexandar two",
+      "Aleksandar tu",
+      "Alexandar tu"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Protoni i neutroni tvore jezgru, a elektroni omotač koje čestice?",
+    "answers": [
+      "Atom",
+      "Atoma",
+      "Atomu",
+      "Atomi",
+      "Atoms"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kojim imenom nazivamo negativno nabijene ione?",
+    "answers": [
+      "Anioni",
+      "Anions"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koliko Keplerovih zakona o gibanju planeta poznajemo danas?",
+    "answers": [
+      "3",
+      "Tri",
+      "Three",
+      "Tre",
+      "III",
+      "Drei",
+      "Draj"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Trokut kojeg francuskog matematičara, filozofa i pisca možemo pronaći u binomnom poučku?",
+    "answers": [
+      "Blaisea Pascala",
+      "Blaise Pascal",
+      "Pascala",
+      "Pascal",
+      "Paskala",
+      "Paskal"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Na prvoj slici koju je Wilhelm Rontgen snimio pomoću X Zraka vidimo ruku i na ruci što?",
+    "answers": [
+      "Prsten",
+      "Ring"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koje ime dijele najsmrtonosniji planinski vrh na svijetu i druga misija NASA-inog svemirskog teleskopa Kepler?",
+    "answers": [
+      "K2",
+      "Ka2",
+      "K 2",
+      "Ka dva",
+      "Ka 2",
+      "KII",
+      "K II",
+      "Ka II",
+      "Ka2",
+      "Kadva",
+      "KaII"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji alotrop kisika čini molekula sa 3 atoma tog kemijskog elementa?",
+    "answers": [
+      "Ozon",
+      "Ozons"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koje ime nosi dio generatora koji se okreće?",
+    "answers": [
+      "Rotor"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji je kemijski element, milijun puta radioaktivniji od uranija, 1898.g. otkrio bračni par Curie?",
+    "answers": [
+      "Radij",
+      "Radijum",
+      "Radium",
+      "Ra"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koju međunarodnu mjernu jedinicu koristimo za mjerenje električnog napona?",
+    "answers": [
+      "Volt",
+      "Volta"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koja tvar u kemijskim reakcijama otpušta vodikove ione?",
+    "answers": [
+      "Kiselina",
+      "Acid",
+      "Esid",
+      "Ecid",
+      "Asid",
+      "Kiseline"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kako se zove međunarodni pokret znanstvenika koji se bore za nuklearno razoružanje, pokrenut 1957.g. u Kanadi te koji je 1995.g. dobio Nobelovu nagradu za mir?”",
+    "answers": [
+      "Pugwash",
+      "Pugvaš",
+      "Pagvaš"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Pod kojim imenom poznajemo sustav plemićkih naslova u Ujedinjenom Kraljevstvu koji se sastoji od 5 stupnjeva: vojvoda, markiz, grof, vikont i barun?",
+    "answers": [
+      "Perstvo",
+      "Perstva",
+      "Perovi",
+      "Peerage",
+      "Piredž",
+      "Pireg"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koju je riječ Robert Hooke predložio za osnovnu strukturnu i funkcionalnu jedinicu svih poznatih organizama?",
+    "answers": [
+      "Stanica",
+      "Stanicu",
+      "Cell",
+      "Sel",
+      "Cells",
+      "Sels",
+      "Ćeliju",
+      "Ćelija"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Složene čestice sastavljenje od 3 kvarka, poput protona i neutrona, nazivamo kako?",
+    "answers": [
+      "Barioni",
+      "Barion",
+      "Barions"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Čija mačka je, ako pogledamo u kutiju, ili živa ili mrtva a nikako i živa i mrtva?",
+    "answers": [
+      "Schrodingerova",
+      "Šrodingerova",
+      "Schrodingers",
+      "Šrodingers"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji je astrološki prikaz položaja Sunca, Mjeseca i planeta u trenutku nečijeg rođenja, Johannes Kepler pisao za brojne velikaše?",
+    "answers": [
+      "Horoskop",
+      "Horoscope",
+      "Horoscop"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "U kojem se gradu nalazi fontana koja uprizoruje glavu Alberta Einsteina koja izlazi iz puževe kućice koja se dalje, nalazi na raketi?",
+    "answers": [
+      "Ulm",
+      "Ulmu"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "rarity": "golden",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Odazivajući se na telegramsko pitanje njujorškog rabina Herberta S. Goldsteina, 1929.g. 'Vjerujete li vi u Boga? Stop. Odgovorite mi u 50 riječi', Albert Einstein odgovara 'Ja vjerujem u...' čijeg boga?",
+    "answers": [
+      "Spinozinog",
+      "Spinoza",
+      "Spinozas"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji se znanstvenik, židovskog podrijetla, nalazio na novčanici od 5 funta stare izraelske valute?",
+    "answers": [
+      "Albert Einstein",
+      "Albert Ajnštajn",
+      "Einstein",
+      "Ajnštajn"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Prema svojstvima, periodni sustav elemenata se dijeli na polumetale, nemetale i što još?",
+    "answers": [
+      "Metale",
+      "Metal",
+      "Metals"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Po kojem britanskom znanstveniku ime nosi zatvoreni prostor u koji ne prodire elektromagnetsko polje?",
+    "answers": [
+      "Michaelu Faradayu",
+      "Majkelu Faradeju",
+      "Mihaelu Faradeju",
+      "Michael Faraday",
+      "Majkl Faradej",
+      "Mihael Faradej",
+      "Faradayju",
+      "Faraday",
+      "Faradays",
+      "Faradeju",
+      "Faradej",
+      "Faradejs"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koja se tehnologija prijenosa zvuka, podataka ili signala pomoću elektromagnetskih valova nekada nazivala 'krugoval'?",
+    "answers": [
+      "Radio",
+      "Radijo"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji je Danski fizičar 1825.g. prvi u povijesti izdvojio kemijski element Aluminij iz oksida?",
+    "answers": [
+      "Hans Christian Ørsted",
+      "Hans Kristijan Ersted",
+      "Hans Ørsted",
+      "Christian Ørsted",
+      "Hans Ersted",
+      "Kristijan Ersted",
+      "Ørsted",
+      "Ersted"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Godine 1807., u jeku velikih britansko-francuskih ratnih sukoba, 'Institut de France' dodijelio je britancu Humphryju Davyju nagradu od 3000 franaka za njegov rad na području elektriciteta i galvanizma a sve to, vjerovali ili ne, pod čijim pokroviteljstvom?",
+    "answers": [
+      "Napoleonovim",
+      "Napoleons",
+      "Napolions",
+      "Napoleon",
+      "Bonaparte",
+      "Bonapartes",
+      "Bonpart",
+      "Bonapart",
+      "Napoleonskim",
+      "Napoleonski"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koje se slovo u Morseovoj abecedi sastoji od tri crte?",
+    "answers": [
+      "O"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koja tvar u kemijskoj reakciji prima vodikove ione?",
+    "answers": [
+      "Baza",
+      "Base",
+      "Bejs",
+      "Baze",
+      "Bejz",
+      "Bases",
+      "Bejzs"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koju pojavu definiramo kao mehanički val nastao vibracijom tijela koji se širi kroz zrak, vodu ili druge tvari?",
+    "answers": [
+      "Zvuk",
+      "Sound",
+      "Saund"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Glavni sastojak većine računalnih čipova je koji kemijski element, ujedno i odličan poluvodič?",
+    "answers": [
+      "Silicij",
+      "Silicon",
+      "Silikon",
+      "Silicium",
+      "Silicijum"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji je britanac napisao znanstveni bestseller 'Kratka povijest vremena' (A Brief History of Time)?",
+    "answers": [
+      "Stephen Hawking",
+      "Stiven Hovking",
+      "Stefen Hovking",
+      "Hawking",
+      "Hovking",
+      "Havking"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Up, Down, Charm, Strange, Top i Bottom su elementarne čestice koje skupno nazivamo kako?",
+    "answers": [
+      "Kvarkovi",
+      "Kvark",
+      "Quarks",
+      "Quark",
+      "Kvarks"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koje se slovo u Morseovoj abecedi sastoji od tri točke?",
+    "answers": [
+      "S",
+      "Es"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Izbjegavajući 'ultraljubičastu katastrofu' Max Planck 1900.g. uvodi koji pojam u svijet fizike?",
+    "answers": [
+      "Kvant",
+      "Quantum",
+      "Kvantum",
+      "Quant"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Unutar kojeg se prostora za eksploataciju prirodnih sirovina koristila Davyjeva svjetiljka?",
+    "answers": [
+      "Rudnika",
+      "Rudniku",
+      "Rudnik",
+      "Mine",
+      "Majn",
+      "Mines",
+      "Majns",
+      "Pit",
+      "Pits"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji je najveći Saturnov mjesec?",
+    "answers": [
+      "Titan"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koju stilsku figuru možemo prepoznati u frazama 'privlačno odbijanje' i 'konačna beskonačnost'?",
+    "answers": [
+      "Oksimoron"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Prezime kojeg znanstvenika na našem jeziku možemo doslovno prevesti kao 'jedan kamen'?",
+    "answers": [
+      "Alberta Einsteina",
+      "Albert Einstein",
+      "Alberta Ajnštajna",
+      "Albert Ajnštajn",
+      "Einsteina",
+      "Einstein",
+      "Ajnštajna",
+      "Ajnštajn"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Pod kojim su još nazivom poznate rendgenske zrake?",
+    "answers": [
+      "X Zrake",
+      "Iks Zrake",
+      "X",
+      "X  Rays",
+      "X Ray",
+      "Xrays",
+      "Xray",
+      "X Rejs",
+      "X Rej",
+      "Xrejs",
+      "Xrej",
+      "Xrey",
+      "Xreys",
+      "Xzrake",
+      "Ikszrake"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Iz koje je temeljne grane znanosti Werner Heisenberg dobio Nobela?",
+    "answers": [
+      "Fizike",
+      "Fizika",
+      "Physics",
+      "Fiziks",
+      "Physic",
+      "Fizik",
+      "Fizičke",
+      "Fizička"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "U kojem je gradu rođen James Clerk Maxwell, škotski fizičar i matematičar?",
+    "answers": [
+      "Edinburgh",
+      "Edinburg",
+      "Edinburghu",
+      "Edinburgu",
+      "Edinburghs",
+      "Edinburgs"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koju međunarodnu mjernu jedinicu koristimo za jačinu svjetlosti?",
+    "answers": [
+      "Kandela",
+      "Kandelu",
+      "Candelu",
+      "Candela"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "U Periodnom sustavu elemenata postoji 18 skupina tj. stupaca i koliko perioda tj. redova?",
+    "answers": [
+      "7",
+      "Sedam",
+      "Seven",
+      "VII",
+      "Sevn"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koje subatomske čestice prenose jaku nuklearnu silu između protona i neutrona u atomskoj jezgri?",
+    "answers": [
+      "Pioni",
+      "Pion",
+      "Pions",
+      "Pijoni",
+      "Pijon",
+      "Pijons"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koje ime koristimo za polarnu svjetlost na južnom dijelu Zemljine polutke?",
+    "answers": [
+      "Aurora Australis"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji je kemičar prvi dokazao da je voda spoj kisika i vodika?",
+    "answers": [
+      "Antoine Lavoisier",
+      "Antoan Lavozije",
+      "Lavoisier",
+      "Lavozije"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji je francuski matematičar i astronom, autor djela Nebeska mehanika, od Napoleona dobio titulu Markiza?",
+    "answers": [
+      "Pierre Simon Laplace",
+      "Pjer Simon Laplas",
+      "Laplace",
+      "Laplas",
+      "Laplac",
+      "Leplec"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kako nazivamo vrstu zvuka čija frekvencija ne prelazi 20 Hz?",
+    "answers": [
+      "Infrazvuk",
+      "Infrasound",
+      "Infrasaund"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Dioksid kojeg kemijskog elementa čini gotovo 60% mase kontinenata te oko 48% oceanske kore?",
+    "answers": [
+      "Silicija",
+      "Silicij",
+      "Siliciuma",
+      "Silicium",
+      "Silicon",
+      "Silikon"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kako su se prezivali znanstvenici, otac i sin, koji su Nobelovu nagradu iz fizike dobili u razmaku od 53 godine?",
+    "answers": [
+      "Bohr",
+      "Bor"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koja elektrokemijska reakcija razlaže ili razgrađuje elektrolite djelovanjem električne struje?",
+    "answers": [
+      "Elektroliza",
+      "Electrolise",
+      "Elektrolize"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kako joj tepaju, 'Najinteligentnija fotografija ikad uslikana' je ona sa 29 svjetskih znanstvenika koji poziraju fotografu na 5. Solvayevoj konferenciji održanoj 1927.g. Ako danas gledate tu sliku i znate koliko nobelovaca vidite na slici, onda vam je jasno zašto joj tako i tepaju. Koji je to broj nobelovaca na njoj?",
+    "answers": [
+      "17",
+      "Sedamanest",
+      "XVII",
+      "Sedamnest",
+      "Seventeen",
+      "Seventin"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Pozitivno nabijene čestice u jezgri atoma zovemo kako?",
+    "answers": [
+      "Protoni",
+      "Proton",
+      "Protons"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Na području koje se današnje talijanske regije rodio Leonardo da Vinci?",
+    "answers": [
+      "Toskane",
+      "Toskana",
+      "Toscane",
+      "Toscana"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji se broj u Morseovoj abecedi skriva iza 5 točki?",
+    "answers": [
+      "5",
+      "Pet",
+      "Five",
+      "Fajv",
+      "V"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji je njemački astronom ustanovio gibanje planeta po elipsama?",
+    "answers": [
+      "Johannes Kepler",
+      "Joanes Kepler",
+      "Kepler"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kojim se zajedničkim nazivom zovu subatomske čestice koje grade svu poznatu materiju?",
+    "answers": [
+      "Fermioni",
+      "Fermion"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koja se mjerna jedinica iz SI sustava koristi za mjerenje radioaktivnosti?",
+    "answers": [
+      "Becquerel",
+      "Bekerel",
+      "Bq",
+      "Bekerelova",
+      "Becquerels"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koje se slovo u Morseovoj abecedi sastoji od dvije točke?",
+    "answers": [
+      "I"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koju kraticu koristimo za kemijski element Neon?",
+    "answers": [
+      "Ne"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koju međunarodnu mjernu jedinicu koristimo za induktivitet?",
+    "answers": [
+      "Henri"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "U periodnom sustavu elemenata, koji se plin nalazi pod rednim brojem 2?",
+    "answers": [
+      "Helij",
+      "Helijum",
+      "Helium"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "U kojem se mjestu u blizini Gospića rodio svjetski poznati znanstvenik Nikola Tesla?",
+    "answers": [
+      "Smiljan",
+      "Smiljanu",
+      "Smiljans"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kojim slovom označavamo 'silu' u fizici?",
+    "answers": [
+      "F",
+      "Ef"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Tko je bila prva žena koja je dobila Nobelovu nagradu?",
+    "answers": [
+      "Marie Curie",
+      "Mari Kiri",
+      "Mari Kuri",
+      "Mari Kjuri",
+      "Curie",
+      "Kiri",
+      "Kuri",
+      "Maria Curie",
+      "Kjuri"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji zajednički naziv koristimo za protone i neutrone?",
+    "answers": [
+      "Nukleoni",
+      "Nukleon"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji je Platonov učenik osnova Peripatičku filozofsku školu?",
+    "answers": [
+      "Aristotel",
+      "Aristoteles"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Glavica žigice sastoji se od smjese kalijeva klorata, antimonova sulfida, staklenog praha i ljepila. Dok je površina kutije žigica, tj. onaj dio o koji se tare glavica pri paljenju, prekrivena smjesom antimonova sulfida, ljepila i kojeg još kemijskog elementa, u crvenom izdanju?",
+    "answers": [
+      "Fosfora",
+      "Fosfor",
+      "Phospor",
+      "Phosphor",
+      "Phospora"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji stroj mehaničku energiju pretvara u električnu?",
+    "answers": [
+      "Generator"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "U kojem je zviježđu Johannes Kepler 1604.g. promatrao posljednju supernovu iz naše galaksije, tada vidljivu golim okom?",
+    "answers": [
+      "Zmijonosac",
+      "Zmijonoscu",
+      "Nosač Zmije",
+      "Nosaču Zmije",
+      "Ophiuchus",
+      "Ophiuchusu",
+      "Ofijukusu",
+      "Ofijukus"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "'Za njegovo otkriće valne prirode elektrona' koji je francuski fizičar 1929.g. dobio Nobelovu nagradu iz fizike?",
+    "answers": [
+      "Louis de Broglie",
+      "Broglie",
+      "De Broglie",
+      "Louis Broglie",
+      "Luis da Broj",
+      "Luj da Broj",
+      "Broj",
+      "Da Broj",
+      "De Broj",
+      "Luis de Broj",
+      "Luj de Broj",
+      "Luis Broj",
+      "Luj Broj"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Tko je 1921.g. dobio Nobelovu nagradu iz fizike za otkriće zakona o fotoelektričnom efektu?",
+    "answers": [
+      "Albert Einstein",
+      "Albert Ajnštajn",
+      "Einstein",
+      "Ajnštajn"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "'Za njegove zasluge u unaprijeđenju fizike koje je postigao otkrićem energetskog kvanta' je rečenica koja stoji kao razlog dobivanja Nobelove medalje iz fizike kojeg njemqčkog znanstvenika?",
+    "answers": [
+      "Maxa Plancka",
+      "Max Planck",
+      "Maksa Planka",
+      "Maks Plank",
+      "Plancka",
+      "Planck",
+      "Planka",
+      "Plank",
+      "Plancks",
+      "Planks"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "U kojem se gradu rodio Albert Einstein?",
+    "answers": [
+      "Ulmu",
+      "Ulm"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koja se međunarodna mjerna jedinica koristi za električni kapacitet?",
+    "answers": [
+      "Farad"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koja granica u astrofizici označava najveću moguću masu bijelog patuljka, približno 1,39 puta veću od mase Sunca?",
+    "answers": [
+      "Chandrasekharova granica",
+      "Chandrasekharova",
+      "Kandrasekarova",
+      "Kandrasekar",
+      "Chandrasekhars limit",
+      "Čandrasekars limit",
+      "Čandrasekars",
+      "Čandrasekarova"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Na kojem se sveučilištu nalazi Lucasova katedra, prestižna organizacijska jedinica za matematiku i fiziku na kojoj su predavali Newton, Dirac i Hawking?",
+    "answers": [
+      "Cambridgeu",
+      "Kembridžu",
+      "Cambridge",
+      "Kembridž"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "U kojoj je katedrali pokopan Sir Isaac Newton?",
+    "answers": [
+      "Westminster Abbey",
+      "Westminsterska Opatija",
+      "Vestimnster Abej",
+      "Westminster",
+      "Vestminster",
+      "Westminsters",
+      "Westminsterska",
+      "Vestminsterska",
+      "Sv Petra",
+      "Svetog Petra",
+      "Sv Petar",
+      "Sveti Petar",
+      "Petar",
+      "Petra",
+      "Peters",
+      "Peter",
+      "Piter",
+      "Piters"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Po kojem je francuskom fizičaru nazvana jedinica za jakost električne struje?",
+    "answers": [
+      "Andre Marie Ampereu",
+      "Andre Marie Ampere",
+      "Ampereu",
+      "Ampere",
+      "Amperu",
+      "Amper"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji je grčki filozof, Leukipov učenik, među prvima tvrdio da je svemir načinjen od mnogo svjetova, od kojih su neki naseljeni?",
+    "answers": [
+      "Demokrit",
+      "Democritus",
+      "Demokritus"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koja europska valuta nosi naziv prema anglosasonskoj jedinici mase?",
+    "answers": [
+      "Funta",
+      "Pound",
+      "Paund",
+      "Pond",
+      "GBP",
+      "£"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kako se zove elektroda kroz koju električna struja teče u smjeru prema vanjskom krugu?",
+    "answers": [
+      "Katoda",
+      "Cathode",
+      "Katode"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "rarity": "silver",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kako nazivamo skupinu subatomskih čestica građenih od kvarkova koje povezuje jaka nuklearna sila?",
+    "answers": [
+      "Hadroni",
+      "Hadrons",
+      "Hadron"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Tko je 1903.g. podijelio Nobelovu nagradu iz fizike sa supružnicima Curie?",
+    "answers": [
+      "Henri Becquerel",
+      "Henri Bekerel",
+      "Becquerel",
+      "Bekerel"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Najslavniji dokaz zemljine rotacije je 1851.g u Panteonu (Pariz) pomoću njihala dokazao koji francuski fizičar?",
+    "answers": [
+      "Leon Faucault",
+      "Leon Fako",
+      "Leon Fakalt",
+      "Fako",
+      "Faucault",
+      "Fakalt"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji je njemački kemičar dobio Nobelovu nagradu za uspješnu sintezu amonijaka?",
+    "answers": [
+      "Fritz Haber",
+      "Fric Haber",
+      "Haber"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji su kemijski element 1898.g. otkrili britanski kemičari Sir William Ramsay i Morris Travers a ime je dobio po grčkoj riječi koja označava 'novo'?",
+    "answers": [
+      "Neon",
+      "Nion"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Tko je 1895.g. otkrio X Zrake?",
+    "answers": [
+      "Wilhelm Rontgen",
+      "Vilem Rongen",
+      "Vilem Rengen",
+      "Rontgen",
+      "Rongen",
+      "Rengen"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Mineral beril u zelenom izdanju zovemo smaragd, u modrom izdanju je akvamarin, a u narančastom ga zovemo kako?",
+    "answers": [
+      "Morganit",
+      "Morganite"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji geometrijski lik predstavlja Maxwell - Helmholtzov sustav boja?",
+    "answers": [
+      "Trokut",
+      "Triangle",
+      "Triangl"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Peripatička škola je svoja učenja temeljila na djelima kojeg grčkog filozofa?",
+    "answers": [
+      "Aristotela",
+      "Aristotel",
+      "Aristotelesa",
+      "Aristoteles"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji kemijski element čini čak 90% od ukupne Jupiterove mase?",
+    "answers": [
+      "Vodik",
+      "Hydrogen",
+      "Hidrogen"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Jornada del Muerto ili Putovanje Mrtvaca je američka pustinja poznata po eksploziji kakve bombe?",
+    "answers": [
+      "Atomske",
+      "Atomic",
+      "Atomik",
+      "Atom",
+      "Atomove",
+      "Atomics",
+      "Atomiks"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Po kojem je kemijskom elementu ime dobila dolina u sjevernoj Kaliforniji, mjesto mnogih poznatih hi-tech kompanija?",
+    "answers": [
+      "Siliciju",
+      "Silicij",
+      "Siliciumu",
+      "Silicium",
+      "Siliconu",
+      "Silikonu",
+      "Silicon",
+      "Silikon"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koje slovo Morseova koda dobijemo kada otipkama redom: jednu crtu, dvije točke, jednu crtu?",
+    "answers": [
+      "X",
+      "Iks"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji je nizozemski astronom 1655.g. otkrio najveći Saturnov mjesec, Titan?",
+    "answers": [
+      "Christiaan Huygens",
+      "Kristijan Hojgens",
+      "Huygens",
+      "Hojgens"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koja je stara mjerna jedinica za radioaktivnost koja se više ne nalazi u SI sustavu?",
+    "answers": [
+      "Curie",
+      "Kiri",
+      "Ci",
+      "Ciri",
+      "Kjuri",
+      "Kuri",
+      "Curies",
+      "Kirijeva",
+      "Kirijska",
+      "Curijska"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji lepton ima negativan električni naboj te je odgovoran za struju i kemijske reakcije?",
+    "answers": [
+      "Elektron",
+      "Electron"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Tko je prvi ugledao četiri najveća jupiterova mjeseca?",
+    "answers": [
+      "Galileo Galilei",
+      "Galilei",
+      "Galileji"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kako nazivamo vrstu zvuka čija frekvencija prelazi 1 GHz?",
+    "answers": [
+      "Hiperzvuk",
+      "Hipersound",
+      "Hipersaund"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Čiji je transformator nastao unutar laboratorija na Sout Fifth Avenue u New Yorku?",
+    "answers": [
+      "Teslin",
+      "Tesla",
+      "Teslas",
+      "Nikolin",
+      "Nikola",
+      "Nikolas"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koju mjernu jedinicu koristimo za tlak a koja, za razliku od Paskala, nije u Međunarodnom sustavu jedinica?",
+    "answers": [
+      "Bar"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji je kralj 1660.g. osnovao 'Kraljevsko društvo za promicanje znanosti' punog imena 'Royal Society of London for improving natural knowledge'?",
+    "answers": [
+      "Charles II.",
+      "Charles 2.",
+      "Charles drugi",
+      "Charles second",
+      "Charles 2nd",
+      "Charles dva",
+      "Charles two",
+      "Čarls II.",
+      "Čarls 2.",
+      "Čarls drugi",
+      "Čarls seknd",
+      "Čarls 2nd",
+      "Čarls dva",
+      "Čarls tu",
+      "Karlo 2.",
+      "Karlo drugi",
+      "Karlo II",
+      "Karlo dva",
+      "Karlo two",
+      "Karlo tu",
+      "Karlo second",
+      "Karlo 2nd",
+      "Karlo seknd",
+      "Charles the second",
+      "Čarls d seknd",
+      "Karlo the second",
+      "Karlo d seknd"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Little Boy je bačen na Hiroshimu, a Fat Man na koji grad?",
+    "answers": [
+      "Nagasaki"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Po kojem je talijanskom fizičaru nazvana jedinica za mjerenje električnog napona?",
+    "answers": [
+      "Alessandru Volti",
+      "Alessandro Volta",
+      "Volti",
+      "Volta"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kemijski element sa simbolom Mg je otkrio koji engleski znanstvenik?",
+    "answers": [
+      "Humphry Davy",
+      "Hampri Dejvi",
+      "Hamfri Dejvi",
+      "Davy",
+      "Dejvi"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koja se tvrtka južnoafričkog izumitelja Elona Muska nalazi u prezimenu izumitelja radija?",
+    "answers": [
+      "Tesla"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Metan, etan, propan i butan su svi redom koji ugljikovodici?",
+    "answers": [
+      "Alkani",
+      "Alcane",
+      "Alkane",
+      "Alkan",
+      "Alcan",
+      "Alcanes",
+      "Alkanes"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "U kojem se talijanskom gradu rodio Galileo Galilei?",
+    "answers": [
+      "Pisi",
+      "Pisa",
+      "Pizi",
+      "Piza"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kako nazivamo spravu za mjerenje smjera i brzine gibanja oblaka?",
+    "answers": [
+      "Nefoskop"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji dio kuće možemo spojiti sa kemijskim spojem NaCl, odnosno Natrijevim Kloridom?",
+    "answers": [
+      "Kuhinju",
+      "Kuhinja",
+      "Kuhinjska",
+      "Kuhinjsko",
+      "Kuhinjski",
+      "Kitchen",
+      "Kičen",
+      "Kitches",
+      "Kičens"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji bozon prenosi elektromagnetsku silu?",
+    "answers": [
+      "Foton",
+      "Photon"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kojem se talijanu pripisuje izrada prvog termoskopa?",
+    "answers": [
+      "Galileu Galileiju",
+      "Galileo Galilei",
+      "Galileiju",
+      "Galileiu",
+      "Galilei",
+      "Galileis"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kako nazivamo agregatno stanje u kojem neka tvar nema stalni oblik ni obujam?",
+    "answers": [
+      "Plinovito",
+      "Plin",
+      "Gas",
+      "Ges"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Simbol 'Mg' predstavlja koji kemijski element?",
+    "answers": [
+      "Magnezij",
+      "Magnesium",
+      "Magnezijum"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Marie Curie je rođena 7. studenog (novembra) 1867.g. u Varšavi ali pod vladavinom kojeg carstva?",
+    "answers": [
+      "Ruskog",
+      "Rusko",
+      "Rusija",
+      "Russia",
+      "Rusia",
+      "Ruskoga",
+      "Russian",
+      "Rusian",
+      "Rašan",
+      "Raša",
+      "Ruaša",
+      "Ruašan"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Zbog kojeg je voća Adam sagriješio, Newton spoznao gravitaciju a Jobs zaradio milijarde?",
+    "answers": [
+      "Jabuke",
+      "Jabuka",
+      "Apple",
+      "Apl",
+      "Apel",
+      "Apples",
+      "Apls",
+      "Apels"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji je fizičar predvodio tim koji je 1942. godine konstruirao prvi funkcionalni nuklearni reaktor, Chicago Pile-1?",
+    "answers": [
+      "Enrico Fermi",
+      "Enriko Fermi",
+      "Fermi"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koja je međunarodna mjerna jedinica ime dobila po Charles Augustinu de Coulombu?",
+    "answers": [
+      "Kulon",
+      "Coulon",
+      "Culon",
+      "Koulon",
+      "Coulomb",
+      "Kulomb",
+      "Koulomb"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji je francuski znanstvenik u 17. stoljeću, koristeći barometar, proučavao promjene atmosferskog tlaka u Parizu?",
+    "answers": [
+      "Blaise Pascal",
+      "Blejz Paskal",
+      "Pascal",
+      "Paskal"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Lavoisier je kisiku dao ime koje je ostalo sve do danas, Oxygen, a dušiku je dao koje ime, koje se danas koristi u Rusiji, Srbiji Francuskoj i nekim drugim zemljama?",
+    "answers": [
+      "Azot",
+      "Azote"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji organski kemijski spoj možemo prepoznati iz formule C3H8?",
+    "answers": [
+      "Propan",
+      "Propane"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji je projekt odnio preko 400 000 japanskih života?",
+    "answers": [
+      "Manhattan",
+      "Menhetn",
+      "Manhatan"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koje godine su dodjeljene prve Nobelove nagrade?",
+    "answers": [
+      "1901",
+      "Tisuću devetsto prve",
+      "Tisuću devetsto jedan",
+      "MCMI",
+      "Nineteen zero one",
+      "Nineteen o one",
+      "Najtin ziro von",
+      "Najtin o von"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji ugljikovodici u hrvatskom nazivlju završavaju na nastavak 'in' a u engleskom 'yne'?",
+    "answers": [
+      "Alkini",
+      "Alcyne",
+      "Alkine",
+      "Alkin",
+      "Alcyn",
+      "Alcynes",
+      "Alkynes",
+      "Alkines"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kako su se prezivala braća Joseph Michel i Jacques Etienne, koji su 1783.g. izumili balon na vrući zrak?",
+    "answers": [
+      "Montgolfier",
+      "Mongolfjer",
+      "Mongolfer"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Nastavite lozu Pascalovih: Martin, Etienne pa onda tko?",
+    "answers": [
+      "Blaise",
+      "Blejz",
+      "Blez",
+      "Bleis"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji se talijanski grad nalazi u imenu Leonarda da Vincija?",
+    "answers": [
+      "Vinci",
+      "Vinći"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koja međunarodna mjerna jedinica mjeri gustoću magnetskog toka?",
+    "answers": [
+      "Tesla"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kojom riječju nazivamo osobu koja posjeduje općenito znanje u mnogim područjima znanosti?",
+    "answers": [
+      "Polihistor",
+      "Polimat",
+      "Mnogoznalac"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji se skup disciplina bavi proučavanjem struktura od 1 do 100 nanometara?",
+    "answers": [
+      "Nanotehnologija",
+      "Nanotehnika",
+      "Nanotechnology",
+      "Nanotehnolođi",
+      "Nanotechnik",
+      "Nanotehnik",
+      "Nanoscience",
+      "Nanoscajenc"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koliko herca odgovara jednoj minuti?",
+    "answers": [
+      "60",
+      "Šesdeset",
+      "Šest deset",
+      "Šestdeset",
+      "Sixty",
+      "Siksti",
+      "LX"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji simbol koristimo za vodik?",
+    "answers": [
+      "H",
+      "Ha"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kojim slovom označavamo Farad, mjernu jedinicu za električni kapacitet?",
+    "answers": [
+      "F",
+      "Ef"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "U fizici, čije je ‘more’ teoretski ispunjeno beskonačnim brojem negativno energetskih elektrona?”",
+    "answers": [
+      "Diracovo More",
+      "Diracovo",
+      "Dirakovo",
+      "Diracs",
+      "Diraks"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji su kemijski element skoro u isto vrijeme otkrili engleski kemičar Joseph Priestly i švedski kemičar Carl Wilhelm Scheele?",
+    "answers": [
+      "Kisik",
+      "Oxygen",
+      "Oksidžen",
+      "Oksigen",
+      "Kiseonik",
+      "O"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kojem se francuskom fizičaru pripisuje izum žiroskopa?",
+    "answers": [
+      "Leon Faucault",
+      "Leonu Faucaultu",
+      "Leon  Fuko",
+      "Leon Fakalt",
+      "Leonu Fakou",
+      "Leonu Fakaltu",
+      "Faucault",
+      "Fako",
+      "Faucaultu",
+      "Fakou",
+      "Fakalt",
+      "Fakaltu"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji instrument koristimo za mjerenje brzine vjetra?",
+    "answers": [
+      "Anemometar",
+      "Anemometer"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji mineral ima temperaturu tališta 3 547⁰C?",
+    "answers": [
+      "Dijamant",
+      "Diamond",
+      "Dajmond"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Nobela iz fizike 'Za otkriće novih produktivnih formi atomske teorije' Paul Dirac 1933.g. dijeli sa kojim fizičarom?",
+    "answers": [
+      "Erwinom Schrodingerom",
+      "Erwin Schrodinger",
+      "Ervinom Šrodingerom",
+      "Ervin Šrodinger",
+      "Schrodingerom",
+      "Schrodinger",
+      "Šrodingerom",
+      "Šrodinger"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koju je nagradu, 1901.g. dobio Wilhelm Rontgen za otkriće rendgenskog zračenja?",
+    "answers": [
+      "Nobelovu",
+      "Nobels",
+      "Nobela",
+      "Nobel"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji je francuski astronom, promatrajući pomrčinu Sunca 1868. godine, u Sunčevoj atmosferi otkrio plin helij?",
+    "answers": [
+      "Pierre Janssen",
+      "Jules Janssen",
+      "Janssen",
+      "Pjer Džensen",
+      "Jul Džensen",
+      "Džensen",
+      "Jensen",
+      "Jansen"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kako nazivamo vrstu zvuka čija je frekvencija viša od 20 kHz?",
+    "answers": [
+      "Ultrazvuk",
+      "Ultrasound",
+      "Ultrasaund"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Paul Dirac i Erwin Schrodinger su 1933.g. zajedno dobili koju nagradu?",
+    "answers": [
+      "Nobelovu",
+      "Nobela",
+      "Nobels",
+      "Nobelsku",
+      "Nobel"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Mohsova ljestvica je niz od 10 minerala poredanih po tvrdoći. Na prvom mjestu nalazi se talk odnosno milovka kao najmekši, a koji se mineral kao najtvrđi nalazi na 10-om mjestu?",
+    "answers": [
+      "Dijamant",
+      "Diamond",
+      "Dajmond"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kojom kraticom označavamo mjernu jedinicu za tlak?",
+    "answers": [
+      "Pa",
+      "Pea",
+      "Pe a"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Elektron, Mion, Tauon te njihove pripadajuće Neutrine svrstavamo u koju podskupinu fermiona?",
+    "answers": [
+      "Leptone",
+      "Leptoni",
+      "Lepton",
+      "Leptons"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Postupak modulacije kod koje se informacija prenosi promjenom frekvencije prijenosnog signala dijeli istu kraticu kao kemijski element atomskog broja 100, a ta kratica je koja?",
+    "answers": [
+      "FM",
+      "Ef em"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kad bismo vrijeme mjerili u hercima, koliko bi herca prošlo u jednoj sekundi?",
+    "answers": [
+      "Jedan",
+      "1",
+      "I",
+      "Jedna",
+      "Jedno",
+      "One",
+      "Van",
+      "Von",
+      "Eine",
+      "Ein",
+      "Ajne",
+      "Ajn",
+      "Ajnc"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Nikola Tesla je rođen u blizini Gospića koji je tada bio pod vladavinom kojeg carstva?",
+    "answers": [
+      "Austrijskog",
+      "Austrija",
+      "Austrijsko",
+      "Austrian",
+      "Austrijan",
+      "Austrians",
+      "Austrijans",
+      "Osterreich",
+      "Osterajh"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kakve zrake bi pomoću Morseova koda napisali kao: crta, dvije točke, crta?",
+    "answers": [
+      "X Zrake",
+      "Iks Zrake",
+      "X",
+      "X  Rays",
+      "X Ray",
+      "Xrays",
+      "Xray",
+      "X Rejs",
+      "X Rej",
+      "Xrejs",
+      "Xrej",
+      "Xzrake",
+      "Ikszrake"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "U međunarodnom sustavu mjernih jedinicia, koja se od njih, sa oznakom N, koristi za silu?",
+    "answers": [
+      "Newton",
+      "Njutn"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kojem je plinu svaka temperatura iznad −252,8 °C prevruća, a svaka ispod −259,16 °C prehladna?”",
+    "answers": [
+      "Vodiku",
+      "Vodikom",
+      "Vodik",
+      "Vodika",
+      "Hidrogenom",
+      "Hidrogen",
+      "Hydrogenom",
+      "Hydrogen",
+      "Hydrogens",
+      "Hidrogens",
+      "Hidrodžen",
+      "Hidrodženom",
+      "Hidrodžens",
+      "Hydrogenu",
+      "Hidrogenu"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Prvu veliku i matematički oblikovanu teoriju gravitacije je u 17-om stoljeću razvio koji engleski znanstvenik?",
+    "answers": [
+      "Isaac Newton",
+      "Isak Njutn",
+      "Izak Njutn",
+      "Newton",
+      "Njutn"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji je talijanski znanstvenik živio od 1564.g. do 1642.g.?",
+    "answers": [
+      "Galileo Galilei",
+      "Galilei"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji kemijski element ima kraticu 'Ne'?",
+    "answers": [
+      "Neon",
+      "Nion"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Na području koje je današnje države rođen Nikola Tesla?",
+    "answers": [
+      "Hrvatske",
+      "Hrvatska",
+      "Hrv",
+      "Cro",
+      "Hr",
+      "Rh",
+      "Croatias",
+      "Croatie",
+      "Croatia",
+      "Kroejše",
+      "Kroejša",
+      "Kroejši",
+      "Hrvatskoj",
+      "Kroacije",
+      "Kroacija"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kako nazivamo kemijske spojeve u kojima je vodik vezan s nekim drugim elementom?",
+    "answers": [
+      "Hidridi",
+      "Hidrid",
+      "Hydride",
+      "Hydrid",
+      "Hajdrid",
+      "Hajdride"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji je britanski kemičar usred Napoleonovih ratova dobio nagradu od samog Napoleona za istraživanja galvanizma?",
+    "answers": [
+      "Humphry Davy",
+      "Hampri Dejvi",
+      "Hamfri Dejvi",
+      "Davy",
+      "Dejvi"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji je švedski kemičar otkrio kemijski element litij?",
+    "answers": [
+      "Johan Arfwedson",
+      "Joan Arfvedson",
+      "Arfwedson",
+      "Arfvedson"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji mineral traje zauvijek u Bondovu filmu iz 1971.g.?",
+    "answers": [
+      "Dijamant",
+      "Diamond",
+      "Dajmond",
+      "Dijamanti",
+      "Diamonds",
+      "Dajmonds"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "'Matematička načela prirodne filozofije' (Philosophiae naturalis principia mathematica) je slavno djelo kojeg engleskog  znanstvenika?",
+    "answers": [
+      "Isaaca Newtona",
+      "Isaac Newton",
+      "Isak Njutn",
+      "Izaka Njutna",
+      "Newtona",
+      "Njutna"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Ocem atomske bome smatra se J. R. Oppenheimer, a ocem hidrogenske bombe se smatra tko?",
+    "answers": [
+      "Edward Teller",
+      "Edvard Teler",
+      "Edvard Taler",
+      "Teller",
+      "Taler",
+      "Teler"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Najvažniji minerali kojeg kemijskog elementa su pirit, sfalerit i halkopirit?",
+    "answers": [
+      "Sumpora",
+      "Sumpir",
+      "Sulfura",
+      "Sulfur",
+      "Sulphura",
+      "Sulphur"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koja je životinja smještena u čeličnu kutiju zajedno s Geigerovim brojačem, bočicom otrova, čekićem i sasvim malim komadićem radioaktivne tvari?",
+    "answers": [
+      "Mačka",
+      "Katze",
+      "Cat",
+      "Ket"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Polarna svjetlost je ime dobila po rimskoj božici svitanja Aurori i kojem grčkom bogu sjevernih vjetrova?",
+    "answers": [
+      "Boreju",
+      "Borej"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji su matematički račun, neovisno jedan o drugome, u isto vrijeme otkrili Isaac Newton i Gottfried Wilhelm Leibniz.",
+    "answers": [
+      "Infinitezimalni"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koje slovo koristimo kao kraticu jedinice koja mjeri jakost električne struje?",
+    "answers": [
+      "A"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji je Saturnov mjesec prvi otkriven?",
+    "answers": [
+      "Titan"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koje slovo Morseova koda dobijemo kada otipkama redom: jednu crtu, jednu točku, jednu crtu, jednu točku?",
+    "answers": [
+      "C",
+      "Ce"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji kemijski element ima atomski broj 1?",
+    "answers": [
+      "Vodik",
+      "Hydrogen",
+      "Hidrogen"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji kemijski element ima atomski broj 3?",
+    "answers": [
+      "Litij",
+      "Litium",
+      "Lithium",
+      "Litijum"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji kemijski element ima simbol F, atomski broj 9 a atomsku masu 18,9984?",
+    "answers": [
+      "Fluor"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji je britanski znanstvenik dokazao da je dijamant alotropska modifikacija ugljika?",
+    "answers": [
+      "Humphry Davy",
+      "Hampri Dejvi",
+      "Hamfri Dejvi",
+      "Davy",
+      "Dejvi"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji bi bozon, da se eksperimentalno otkrije, prenosio gravitacijsku silu?",
+    "answers": [
+      "Graviton"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koju je filozofsku knjigu, napisanu u 10 pojedinačnih dijelova, Aristotel posvetio svom sinu?",
+    "answers": [
+      "Nikomahova etika",
+      "Nikomahovu etiku",
+      "Nikomahova",
+      "Nikomahovu",
+      "Nikomachovu",
+      "Nikomachs",
+      "Nikomach"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kojeg je znanstvenika Rimska inkvizicija 1633.g. proglasila heretikom u njegovoj 70-oj godini života, a da mu se postavi nadgrobni spomenik, dopustila tek 1737.g.?",
+    "answers": [
+      "Galilea Galileija",
+      "Galileo Galilei",
+      "Galileija",
+      "Galileia",
+      "Galilei",
+      "Galileis"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koje slovo koristimo kao oznaku za mjernu jedinicu magnetske indukcije?",
+    "answers": [
+      "T"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Dok su pod operacijom Epsilon u 2. svjetskom ratu Saveznici kao zatočene držali 10 njemačkih znanstvenika kako nebi napravili atomsku bombu, sami su bacili atomske bombe na koje carstvo?",
+    "answers": [
+      "Japansko",
+      "Japan",
+      "Džepens",
+      "Džepen",
+      "Japanese",
+      "Džapanis",
+      "Japaniz",
+      "Japans",
+      "Džepens"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Tko je sastavio dva fizikalna zakona kojima je opisan proces elektrolize?",
+    "answers": [
+      "Michael Faraday",
+      "Majkel Faradey",
+      "Mihael Faradey",
+      "Faraday",
+      "Faradej"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kraticu kojeg kemijskog elementa nalazimo uz imena mineralnih voda za piće, Donata i Mivele?",
+    "answers": [
+      "Mg",
+      "Em ge",
+      "Emge",
+      "Magnezij",
+      "Magnesium",
+      "Magnezijum"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji stručni naziv koristimo za upotrebu ultrazvuka u dijagnostičke svrhe?",
+    "answers": [
+      "Ultrasonografija",
+      "Ehosonografija"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji se bezbojan i zapaljiv ugljikovodik koristi kao gorivo u upaljačima i plinskim bocama?",
+    "answers": [
+      "Butan",
+      "Butane"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Smaragd je zeleni oblik minerala berila, a kako nazivamo njegovu modru inačicu?",
+    "answers": [
+      "Akvamarin",
+      "Aquamarin"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji tehnički naziv koristimo za ester glicerola i dušične kiseline?",
+    "answers": [
+      "Nitroglicerin",
+      "Nitroglycerin"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji se kemijski element nalazi pod rednim brojem 7?",
+    "answers": [
+      "Dušik",
+      "Nitrogen",
+      "Najtrodžen"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koja je danska znanstvena obitelj dobila Nobelovu nagradu iz fizike 1922.g. i 1975.g.?",
+    "answers": [
+      "Bohr",
+      "Bor"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji instrument mjeri električni napon?",
+    "answers": [
+      "Voltmetar"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji je austrijski fizičar opisao pojavu promjene frekvencije valova pri relativnom gibanju izvora i promatrača, kao na primjer, promjena zvuka sirene hitne pomoći dok prolazi pokraj vas?",
+    "answers": [
+      "Christian Doppler",
+      "Kristijan Dopler",
+      "Doppler",
+      "Dopler"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Sa atomskom težinom od 1,00794 koji je najlakši kemijski element?",
+    "answers": [
+      "Vodik",
+      "Hydrogen",
+      "Hidrogen"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Model broda na daljinsko upravljanje pomoću električnih signala je 1898.g. u New Yorku demonstrirao tko?",
+    "answers": [
+      "Nikola Tesla",
+      "Tesla"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Newtonov zakon gravitacije, uvelike je pomogao da se pronađe koji planet?",
+    "answers": [
+      "Neptun"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Po kojem je austrijskom znanstveniku ime dobila temeljna jednadžba kvantne mehanike koja je od 1925.g. pokrenula revolucionarne promjene u većini područja fizike i kemije?",
+    "answers": [
+      "Erwinu Schrodingeru",
+      "Erwin Schrodinger",
+      "Ervinu Šrodingeru",
+      "Ervin Šrodinger",
+      "Schrodingeru",
+      "Schrodinger",
+      "Šrodingeru",
+      "Šrodinger"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji je metal sa 8% od ukupne mase, najzastupljeniji u Zemljinoj kori?",
+    "answers": [
+      "Aluminij",
+      "Aluminium",
+      "Aluminijum",
+      "Al"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji je metal ključan za pohranu energije u današnjim baterijama mobitela i električnih automobila?",
+    "answers": [
+      "Litij",
+      "Litium",
+      "Litijum"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Na području koje je današnje države rođena Marie Curie, dvostruka dobitnica Nobelove nagrade?",
+    "answers": [
+      "Poljskoj",
+      "Poljska",
+      "Poland",
+      "Polend",
+      "Polends",
+      "Polands",
+      "Polskoj",
+      "Pol"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koje popularnije ime koristimo za polarnu svjetlost na sjevernom dijelu Zemljine polutke?",
+    "answers": [
+      "Aurora Borealis"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "U kojoj se periodi tj redu, na periodnom sustavu elemenata nalazi vodik?",
+    "answers": [
+      "Prvom",
+      "Prvi",
+      "Prvog",
+      "Prvomu",
+      "1st",
+      "1 st",
+      "First",
+      "Frst",
+      "1",
+      "I",
+      "1.",
+      "One",
+      "Von"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kojim velikim slovom označavamo 'energiju'?",
+    "answers": [
+      "E"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Znamo da je vodik najlakši kemijski element, no koji se element nalazi odmah iza njega, na drugom mjestu po lakoći, s atomskom masom 4,0026?",
+    "answers": [
+      "Helij",
+      "Helijum",
+      "Helium"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koga tražimo ako znamo da mu je nećak 1925.g. dobio Nobelovu nagradu za fiziku, a unuk tog nećaka bio pionir ultrazvuka?",
+    "answers": [
+      "Heinricha Hertza",
+      "Heinrich Hertz",
+      "Hajnriha Herca",
+      "Hajnrih Herc",
+      "Hertza",
+      "Hertz",
+      "Herca",
+      "Herc"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji je francuski matematičar i fizičar, u Napoleonovo doba, bio guverner Donjeg Egipta?",
+    "answers": [
+      "Joseph Fournier",
+      "Džozef Furnie",
+      "Džozef Furnier",
+      "Jozef Furnie",
+      "Jizef Furnier",
+      "Fournier",
+      "Furnie",
+      "Furnier"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji je Saturnov mjesec Christiaan Huygens otkrio 1655.g.?",
+    "answers": [
+      "Titan"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kako zovemo pojavu proizvodnje istosmjerne električne struje kemijskim putem, odnosno kontaktom dvaju različitih metala uronjenih u elektrolit?",
+    "answers": [
+      "Galvanizam",
+      "Galvanism",
+      "Galvanizm",
+      "Galvanizacija",
+      "Galvanization",
+      "Galvanizejšn"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koja je mjerna jedinica dobila ime po francuskom matematičaru i fizičaru Blaiseu Pascalu?",
+    "answers": [
+      "Paskal",
+      "Pascal",
+      "Pa"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji je kemijski element prvi uočio astronom Pierre Janssen, a ime mu dao znanstvenik Joseph Norman Lockyer?",
+    "answers": [
+      "Helij",
+      "Helijum",
+      "Helium"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kada govorimo o morskim mijenama, dizanje mora zovemo kako?",
+    "answers": [
+      "Plima"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "U prirodi, svaka čestica ima svoju antičesticu, to jest, sva tvar ima svoju, što?",
+    "answers": [
+      "Antitvar"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kako nazivamo kvantni broj kojim se opisuje sličnost i ponašanje čestica unutar jake nuklearne interakcije?",
+    "answers": [
+      "Izospin",
+      "Isospin",
+      "Izotopni spin",
+      "Isotope spin",
+      "Izotop spin"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koja se međunarodna mjerna jedinica definira kao rad obavljen djelovanjem sile od jednog njutna na putu duljine od jednog metra?",
+    "answers": [
+      "Džul",
+      "Joule",
+      "Jul",
+      "Žul",
+      "Đul",
+      "Dzul"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji je prvi planet koji je pronađen matematičkim izračunima umjesto empirijskim promatranjima?",
+    "answers": [
+      "Neptun"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Na kojem je sveučilištu diplomirao, a kasnije i oredavao Isaac Newton?",
+    "answers": [
+      "Cambridge",
+      "Cambridgu",
+      "Cambridgeu",
+      "Kembridž",
+      "Kembridžu"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Mjerna jedinica za tlak je dobila ime po kojem francuskom matematičaru?",
+    "answers": [
+      "Blaiseu Pascalu",
+      "Blaise Pascal",
+      "Pascalu",
+      "Pascal",
+      "Paskalu",
+      "Paskal"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji se radioaktivni mineral još naziva i pithcblende?",
+    "answers": [
+      "Uraninit",
+      "Uraninite",
+      "Urn"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "rarity": "silver",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kako nazivamo točku na Zemljinoj površini iznad žarišta potresa, iz koje se potresni valovi šire u svim smjerovima?",
+    "answers": [
+      "Epicentar"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji trgovački naziv koristimo za skupinu plinova koji su se nekada masovno koristili u rashladnim aparatima poput klima i hladnjaka ali su većinom zabranjeni jer se otkrilo da su otrovni i da oštećuju ozonski omotač?",
+    "answers": [
+      "Freoni",
+      "Freon",
+      "Freons"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji ugljikovodici u hrvatskom nazivlju završavaju na nastavak 'en' a u engleskom 'ene'?",
+    "answers": [
+      "Alkeni",
+      "Alcene",
+      "Alkene",
+      "Alken",
+      "Alcen",
+      "Alcenes",
+      "Alkenes"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji kemijski element poznamo po kratici 'Al'?",
+    "answers": [
+      "Aluminij",
+      "Aluminium"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koje ime nosi drevna vještina preobrazbe neplemenitih metala u plemenite, te težnja za pronalaskom Kamena mudraca odnosno potraga za životnim eliksirom?",
+    "answers": [
+      "Alkemija",
+      "Alchemy",
+      "Alkemi",
+      "Alčemi"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kako nazivamo glavni otpadni proizvod deaminacije aminokiselina u sisavcima?",
+    "answers": [
+      "Urea",
+      "Ureja"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Od atoma kojeg plina su sastavljene molekule ozonskog omotača?",
+    "answers": [
+      "Kisika",
+      "Oxygena",
+      "Oksigena",
+      "Oksidžena",
+      "Kisik",
+      "Oxygen",
+      "Oksidžen",
+      "O2",
+      "O",
+      "Kiseonik"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kako bi neka tvar prešla u plinovito agregatno stanje, iznad kritične vrijednosti treba biti temperatura a ispod što?",
+    "answers": [
+      "Tlak",
+      "Pressure",
+      "Prešur",
+      "Prešure"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koju međunarodnu mjernu jedinicu koristimo za električni otpor?",
+    "answers": [
+      "Om",
+      "Ohm"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Eten, propen i buten su svi redom koji ugljikovodici?",
+    "answers": [
+      "Alkeni",
+      "Alkenes",
+      "Alkene"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koje slovo koristimo kao oznaku za 'masu' tijela?",
+    "answers": [
+      "M",
+      "Em"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji je planet pokazivao odstupanja koja Newtonova gravitacija nije mogla potpuno objasniti, ali ih je kasnije objasnila teorija relativnosti Alberta Einsteina?",
+    "answers": [
+      "Merkur",
+      "Merkura",
+      "Mercury",
+      "Merkuri",
+      "Mercurys",
+      "Merkuris"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koju česticu za negaciju nalazimo u kratici kemijskog elementa pod rednim brojem 10?",
+    "answers": [
+      "Ne"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Mjerna jedinica koja se koristi za električni kapacitet je dobila ime po kojem britanskom znanstveniku?",
+    "answers": [
+      "Michaelu Faradayu",
+      "Majkelu Faradeju",
+      "Mihaelu Faradeju",
+      "Michael Faraday",
+      "Majkl Faradej",
+      "Mihael Faradej",
+      "Faradayju",
+      "Faraday",
+      "Faradays",
+      "Faradeju",
+      "Faradej",
+      "Faradejs"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji je fizičar u povijesti ostao upamćen kao prvi dobitnik Nobelove nagrade za fiziku?",
+    "answers": [
+      "Wilhelm Rontgen",
+      "Vilem Rongen",
+      "Vilem Rengen",
+      "Rontgen",
+      "Rongen",
+      "Rengen"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Zakon inercije, temeljni zakon gibanja te zakon akcije i reakcije skupno nazivamo čijim zakonima?",
+    "answers": [
+      "Newtonovim",
+      "Njutnovim",
+      "Njutunovim",
+      "Newton",
+      "Njutn"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koje su subatomske čestice dobile ime po indijskom fizičaru Satyendra Nath Boseu?",
+    "answers": [
+      "Bozoni",
+      "Bozon",
+      "Boson",
+      "Bosoni",
+      "Bosons",
+      "Bozons"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji se uređaj kao detektor radiovalova nalazio u prvim bežičnim radiotelegrafskim prijemnicima?",
+    "answers": [
+      "Koherer",
+      "Cohere"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji je veliki znanstvenik bio upravitelj britanske kovnice novca Royal Mint te se ozbiljno borio protiv krivotvoritelja novca u London?",
+    "answers": [
+      "Isaac Newton",
+      "Isak Njutn",
+      "Izak Njutn",
+      "Newton",
+      "Njutn"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Ako 1 herc označava 'jedan u sekundi', koliko onda herca označava 'sto u sekundi'?",
+    "answers": [
+      "100",
+      "Sto",
+      "Hundred",
+      "Handred",
+      "C",
+      "Stotinu",
+      "Hundert"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Po kojem je znanstveniku ime dobila mjerna jedinica magnetske indukcije?",
+    "answers": [
+      "Nikoli Tesli",
+      "Nikola Tesla",
+      "Tesli",
+      "Tesla"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Prve tri atomske bombe ikad napravljene nosile su ime Trinity (Trojstvo). Dvije su bačene na Japan a jedna je detonirana na području koje današnje države?",
+    "answers": [
+      "SAD-a",
+      "SAD",
+      "US",
+      "USA",
+      "USA-a",
+      "US-a",
+      "United States",
+      "Junajted Stejts",
+      "Sjedinjene Države",
+      "Sjedinjenih Država",
+      "Americe",
+      "Americas",
+      "Amerikas",
+      "Amerike",
+      "Američke",
+      "Amerika",
+      "Sjedinjene Američke Države",
+      "United States of America",
+      "Junajted Stejts of Amerika"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji je poznati francuski kemičar glavu izgubio u vrijeme Jakobinske revolucije?",
+    "answers": [
+      "Antoine Lavoisier",
+      "Antoan Lavozije",
+      "Lavoisier",
+      "Lavozije"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Od svih do sada otkrivenih egzoplaneta u svemiru, uvjerljivo najviše njih nosi koji službeni prefiks, dobiven po teleskopu koji ih je snimio te jednom njemačkom astronomu?",
+    "answers": [
+      "Kepler",
+      "Keplers",
+      "Keplerov",
+      "Keplerovim"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Tko je prvi razvio opću teoriju relativnosti?",
+    "answers": [
+      "Albert Einstein",
+      "Albert Ajnštajn",
+      "Einstein",
+      "Ajnštajn"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji je astronom pokopan u katedrali u Fromborku u Poljskoj čak dva puta? Prvo 1543.g. a onda ponovno, uz počasti 2010.g.?",
+    "answers": [
+      "Nikola Kopernik",
+      "Kopernik",
+      "Copernicus",
+      "Kopernikus"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Najrasprostranjeniji spoj na Zemlji koji sadrži kisik nalazimo u kojoj tekućini?",
+    "answers": [
+      "Vodi",
+      "Voda",
+      "Water",
+      "Vater",
+      "H2O",
+      "Wasser",
+      "Vaser"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji je fizičar bio direktor tajnog američkog laboratorija u Los Alamosu, koji je nastao u sklopu Programa Manhattan?",
+    "answers": [
+      "Julius Robert Oppenheimer",
+      "Julijus Robert Openhajmer",
+      "Robert Oppenheimer",
+      "Robert Openhajmer",
+      "Oppenheimer",
+      "Openhajmer"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "rarity": "golden",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji je austrijski znanstvenik napisao knjigu 'Što je život?' (What is Life?), u kojoj je govorio kako se zakoni fizike i kemije mogu povezati sa životom i nasljeđivanjem te koja je kasnije postala inspiracijom za pronalazak DNK?",
+    "answers": [
+      "Erwin Schrodinger",
+      "Ervin Šrodinger",
+      "Schrodinger",
+      "Šrodinger"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koju međunarodnu mjernu jedinicu koristimo za električnu vodljivost?",
+    "answers": [
+      "Simens",
+      "Siemens"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Dok bozon prenosi silu, materiju gradi tko?",
+    "answers": [
+      "Fermion",
+      "Fermioni"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kako se zvao nobelovac i suprug Marie Curie?",
+    "answers": [
+      "Pierre",
+      "Pier",
+      "Pjer",
+      "Pijer",
+      "Piere",
+      "Pjere",
+      "Pijere"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Prvi ga je proizveo Paracelsus, no isti taj element u tekućem i krutom stanju prvi je dobio koji škotski kemičar?",
+    "answers": [
+      "James Dewar",
+      "Džejms Devar",
+      "Džejms Devor",
+      "Dewar",
+      "Devor",
+      "Devar"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Ija, Ganimed, Europa i Kalista su mjeseci koji kruže oko kojeg planeta?",
+    "answers": [
+      "Jupitera",
+      "Jupiter",
+      "Jupiters"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koja je univerzalna oznaka za 'brzinu'?",
+    "answers": [
+      "V",
+      "Ve"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji kemijski element ima atomski broj 16?",
+    "answers": [
+      "Sumpor",
+      "Sulfur",
+      "Sulphur"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Za jačinu svjetlosti koristimo kandelu, za svjetlosni tok koristimo lumen a za osvjetljenje što?",
+    "answers": [
+      "Luks",
+      "Lux"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koja vrijednost predstavlja mjeru kiselosti, odnosno lužnatosti vodenih otopina?",
+    "answers": [
+      "pH vrijednost",
+      "pH",
+      "Peha",
+      "Pe ha"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji je američki izumitelj pomogao Samuelu Morseu u izradi abecede od točaka i znakova koji su se kasnije koristili u telegrafu, a dobar njihov raspored učinio je slanje poruka bržima?",
+    "answers": [
+      "Alfred Vail",
+      "Alfred Vejl",
+      "Vail",
+      "Vejl"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Peta Solvayeva konferencija iz 1927.g., okupila je čak 29 svjetskih znanstvenika da raspravljaju o protonima i neutronima. Od njih 29, čak je 17 već bilo, ili su kasnije postali nobelovci, a među tih 29 bila je i jedna žena. Tko je ona?",
+    "answers": [
+      "Marie Curie",
+      "Mari Kiri",
+      "Curie",
+      "Kiri",
+      "Kjuri",
+      "Curi",
+      "Maria Curie"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji se dio ljudskog kostura, uz dvije prekrižene kosti, nalazi na piktogramu koji upozorava na otrovnost?",
+    "answers": [
+      "Lubanja",
+      "Glava",
+      "Head",
+      "Hed",
+      "Skull",
+      "Skul",
+      "Skal"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koje je nacionalnosti bio Isaac Newton?",
+    "answers": [
+      "Engleske",
+      "Englez",
+      "English",
+      "Engliš",
+      "Englands",
+      "England",
+      "Inglend",
+      "Inglends",
+      "Engl",
+      "Eng",
+      "Engleska",
+      "British",
+      "Britiš",
+      "Britanske",
+      "Britanska",
+      "Britanija",
+      "Uks",
+      "Jukejs",
+      "Uk",
+      "Jukej",
+      "Ujedinjeno Kraljevstvo",
+      "Ujedinjenog Kraljevstva",
+      "United Kingdom",
+      "United Kingdoma",
+      "Junajted Kingdoms"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Tko je dobio Nobelovu nagradu 1922.g. za istraživanje strukture i objašnjenje zračenja atoma?",
+    "answers": [
+      "Niels Bohr",
+      "Nils Bor",
+      "Bohr",
+      "Bor"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji kemijski element omogućava rad tranzitora u računalima i mobitelima?",
+    "answers": [
+      "Silicij",
+      "Silicon",
+      "Silikon",
+      "Silicium",
+      "Silicijum"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Hidraulična preša radi na osnovu zakona kojeg francuskog matematičara i fizičara?",
+    "answers": [
+      "Blaisea Pascala",
+      "Blaise Pascal",
+      "Pascala",
+      "Pascal",
+      "Paskala",
+      "Paskal"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koju međunarodnu mjernu jedinicu koristimo za svjetlosni tok?",
+    "answers": [
+      "Lumen"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Prva perioda tj. red, u periodnom sustavu ima samo dva elementa, vodik je jedan a koji je drugi?",
+    "answers": [
+      "Helij",
+      "Helium",
+      "He"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kojem su znanstveniku Milutin i Georgina bili otac i majka?",
+    "answers": [
+      "Nikoli Tesli",
+      "Nikola Tesla",
+      "Tesli",
+      "Tesla",
+      "Teslas"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Na kojem je otoku Tesla sagradio Wardenclyff Tower?",
+    "answers": [
+      "Long Island",
+      "Long Ajlend",
+      "Dugi Otok",
+      "Long Islands",
+      "Long Ajlends",
+      "Dugom Otoku"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "rarity": "golden",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Za vrijeme kojeg cara Svetog Rimskog Carstva, inače velikog zanesenjaka u astronomiju, je Johannes Kepler djelovao na dvoru u Pragu gdje je razvio svoje zakone o gibanju planeta?",
+    "answers": [
+      "Rudolfa II.",
+      "Rudolf II.",
+      "Rudolf 2.",
+      "Rudolf 2",
+      "Rudolfa drugog",
+      "Rudolf drugi",
+      "Rudolfa",
+      "Rudolf",
+      "Rudolf the second",
+      "Rudolf d seknd",
+      "Rudolf 2nd",
+      "Rudolf second",
+      "Rudolf seknd"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kako nazivamo izvedenu mjernu jedinicu koja iznosi bilijun herca?",
+    "answers": [
+      "Teraherc",
+      "Terahertz"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji kemijski element ima najniže vrelište od svih elemenata te vrije na čak -268,9⁰C?",
+    "answers": [
+      "Helij",
+      "Helium",
+      "Helijum"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "TNT je vrlo jak eksploziv, no koje je njegovo puno ime?",
+    "answers": [
+      "Trinitrotoluen",
+      "Trinitrotoluene"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Na kojoj je rijeci izgrađena prva hidroelektrana u Europi?",
+    "answers": [
+      "Krki",
+      "Krka",
+      "Krkas",
+      "Krci"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "U carstvu u kojem je Nikola Tesla rođen, službena zastava je bila u dvije boje, crnoj i kojoj još?",
+    "answers": [
+      "Žutoj",
+      "Žuta",
+      "Yellow",
+      "Jelov",
+      "Gelb"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kako nazivamo izvedenu mjernu jedinicu koja iznosi milijun herca?",
+    "answers": [
+      "Megaherc",
+      "Megahertz"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Zakon inercije je, koji po redu Newtonov zakon?",
+    "answers": [
+      "Prvi",
+      "1.",
+      "First",
+      "Frst",
+      "I.",
+      "1",
+      "One",
+      "Von",
+      "Jedan",
+      "1st"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Castle Bravo je krater a Runite Dome nuklearni sarkofag koji su ostali iza amerikanaca i njihovih nuklearnih testova, a danas su dio koje države?",
+    "answers": [
+      "Maršalovih Otoka",
+      "Maršalovi Otoci",
+      "Marshall Islands",
+      "Maršal Ajlends",
+      "Marsalovi",
+      "Marshalls"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "U kombinaciji sa kojim visoko zapaljivim plinom, plin koji podržava gorenje daje tekućinu koja gasi požare?",
+    "answers": [
+      "Vodikom",
+      "Vodik",
+      "Vodika",
+      "Hidrogenom",
+      "Hidrogen",
+      "Hydrogenom",
+      "Hydrogen",
+      "Hydrogens",
+      "Hidrogens",
+      "Hidrodžen",
+      "Hidrodženom",
+      "Hidrodžens"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kratica RGB predstavlja crvenu, zelenu i koju još boju?",
+    "answers": [
+      "Plavu",
+      "Plava",
+      "Blue",
+      "Blu"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Od koliko se atoma sastoji monoatomski ion?",
+    "answers": [
+      "Jednog",
+      "Jedno",
+      "Jedna",
+      "Jedan",
+      "1",
+      "One",
+      "On",
+      "I",
+      "Jedini"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Rudolfinske Tablice su katalog s podacima o 1005 zvijezda a sastavio ih je koji astronom?",
+    "answers": [
+      "Johannes Kepler",
+      "Johanes Kepler",
+      "Kepler"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Odlukom koje je crkvene institucije, Galileu bilo zabranjeno naučavanje da se Zemlja giba oko sunca i da je ono centar svijeta?",
+    "answers": [
+      "Inkvizicije",
+      "Inkvizicija",
+      "Inquisitio",
+      "Inkvizicio",
+      "Inquisition",
+      "Inkvizišn"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji planet, geocentrični sustav postavlja u središte svega?",
+    "answers": [
+      "Zemlju",
+      "Zemlja",
+      "Earth",
+      "Earths",
+      "Ert",
+      "Erts"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji je znanstvenik otkrio elektromagnetnu indukciju, danas temelj rada generatora i elektrana?",
+    "answers": [
+      "Michael Faraday",
+      "Mihael Faradej",
+      "Majkl Faraday",
+      "Faraday",
+      "Faradej"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "'Za koje carstvo' je Max Planck dobio Nobelovu medalju?",
+    "answers": [
+      "Njemačko",
+      "Njemačka",
+      "Germanys",
+      "Germany",
+      "German",
+      "Džermanis",
+      "Džermani",
+      "Džerman",
+      "Deutschland",
+      "Deutschlands",
+      "Deutsch",
+      "Dojčlands",
+      "Dojčland",
+      "Dojč",
+      "Ger",
+      "De",
+      "Njem"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Postavljanje zakona poluge pripisujemo kojem grčkom matematičaru i izumitelju?",
+    "answers": [
+      "Arhimedu",
+      "Arhimed",
+      "Arkhimedesu",
+      "Arkhimedes",
+      "Archimed",
+      "Archimedu"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Zahvaljujući britanskom sustavu odlikovanja, Isaac Newton ispred svog imena ima titulu sa koja tri slova?",
+    "answers": [
+      "Sir",
+      "Sr"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koju su pojavu spontanog raspadanja nestabilnih atomskih jezgri uz emitiranje zračenja proučavali Wilhelm Röntgen, Henri Becquerel te Marie Curie?",
+    "answers": [
+      "Radioaktivnost",
+      "Radioactivity",
+      "Radioaktiviti",
+      "Radioaktivno",
+      "Radioactive",
+      "Radioaktiv"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koliko nula treba izbrisati jednom nanometru da bi postao jedan metar?",
+    "answers": [
+      "9",
+      "Devet",
+      "Nine",
+      "Najn",
+      "IX"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji je satelitski navigacijski sustav Rusija razvila kao odgovor na američki GPS?",
+    "answers": [
+      "Glonass",
+      "Glonas",
+      "Global Navigation Satellite System"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kojeg liječnika i alkemičara smatramo ocem toksikologije zbog izreke 'Doza čini otrov'?",
+    "answers": [
+      "Paracelsusa",
+      "Paracelsus",
+      "Paracelzusa",
+      "Paracelzus"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Tko se smatra službenim pronalazačem radija?",
+    "answers": [
+      "Nikola Tesla",
+      "Tesla"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji kemijski element čini 21% Zemljine atmosfere ali i 65% ukupne mase ljudskog tijela?",
+    "answers": [
+      "Kisik",
+      "Oxygen",
+      "Oksidžen",
+      "Oksigen",
+      "O",
+      "Kiseonik"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji simbol u periodnom sustavu elemenata predstavlja slovo 'O'?",
+    "answers": [
+      "Kisik",
+      "Oxygen",
+      "Oksidžen",
+      "Oksigen",
+      "O",
+      "Kiseonik"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji je lepton oko 3500 puta teži od elektrona?",
+    "answers": [
+      "Tau"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kojim slovom označavamo ukupan broj protona i neutrona u atomskoj jezgri?",
+    "answers": [
+      "A"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji je najvažniji i najjednostavniji alifatski keton?",
+    "answers": [
+      "Aceton"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Thomas Sutton je 1861.g. snimio prvu fotografiju u boji, a tko je osmislio metodu njena snimanja?",
+    "answers": [
+      "James Clerk Maxwell",
+      "Džejms Klerk Maksvel",
+      "James Maxwell",
+      "Džejms Maksvel",
+      "Clerk Maxwell",
+      "Klerk Maksvel",
+      "Maxwell",
+      "Maksvel"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koju je počasnu titulu, znanstvenik Humphry Davy dobio 1812.g.?",
+    "answers": [
+      "Sir",
+      "Sr"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koliko je Nobelovih nagrada dobila Marie Curie?",
+    "answers": [
+      "2",
+      "Dvije",
+      "Dvi",
+      "Two",
+      "Tu",
+      "Tvo",
+      "Tvu",
+      "Zweii",
+      "Cvaj",
+      "Obe",
+      "Obadvije",
+      "Obadvi",
+      "II"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "U fizici se hadroni dijeli na barione i što još?",
+    "answers": [
+      "Mezone",
+      "Mezons",
+      "Mezoni"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koja boja uz crnu i žutu nedostaje državnoj zastavi pod kojom se rodila Marie Curie?",
+    "answers": [
+      "Bijela",
+      "Bjela",
+      "Bijelo",
+      "White",
+      "Vajt",
+      "Weiss",
+      "Vajs",
+      "Bianco",
+      "Blanco",
+      "Blanc"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "rarity": "silver",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Rijetki mineral Arfvedsonit ime je dobio po švedskom kemičaru koji je ostao upamćen po pronalasku kojeg kemijskog elementa?",
+    "answers": [
+      "Litija",
+      "Litij",
+      "Litiuma",
+      "Litium",
+      "Litijuma",
+      "Litijum"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "U kojem se gradu održavaju Solvayeve konferencije posvećene otvorenim problemima iz fizike i kemije?",
+    "answers": [
+      "Bruxellesu",
+      "Briselu",
+      "Bruxelles",
+      "Brisel",
+      "Brussel",
+      "Brusselu"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji omotač štiti Zemlju od Sunčevog ultraljubičastog zračenja?",
+    "answers": [
+      "Ozonski omotač",
+      "Ozonski",
+      "Ozon",
+      "Ozons"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji kemijski element ima atomski tj. redni broj 4 i atomsku masu 9,0121?",
+    "answers": [
+      "Berilij",
+      "Berilium",
+      "Berilijum"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Pod kojim je imenom poznatije Ptolomejevo znanstveno djelo, sačinjeno od 13 knjiga?",
+    "answers": [
+      "Almagest"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kako nazivamo nestabilni mezon građen od kvarka i antikvarka koji se raspada djelovanjem slabe nuklearne sile?",
+    "answers": [
+      "Kaon",
+      "Kaoni",
+      "Kaons"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Čija se abeceda sastoji od 44 točke i 38 crta?",
+    "answers": [
+      "Morseova",
+      "Morseov",
+      "Morsova",
+      "Morsov",
+      "Morse",
+      "Mors"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Iz koje države potječu izumitelji balona na vrući zrak?",
+    "answers": [
+      "Francuske",
+      "Francuska",
+      "France",
+      "Frenc",
+      "Frankreisch",
+      "Frankrajš",
+      "Fra",
+      "Fr",
+      "Frenč"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kako se zvao mehanički stroj koji je mogao zbarajati i oduzimati velike brojeve a konstruirao ga je Blaise Pascal 1642.g. kako bi olakšao posao svom ocu porezniku?",
+    "answers": [
+      "Pascalina",
+      "Paskalina"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kojeg se američkog fizičara naziva ocem bombi koje je Truman poslao na Japan?",
+    "answers": [
+      "Juliusa Roberta Oppenheimera",
+      "Julius Robert Oppenheimer",
+      "Julijusa Roberta Openhajmera",
+      "Oppenheimer",
+      "Openhajmer",
+      "Oppenheimera",
+      "Openhajmera"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji pojam 1900.g. uvodi Max Planck a označava najmanju količinu energije koju neki sustav može dobiti ili izgubiti?",
+    "answers": [
+      "Kvant",
+      "Quant",
+      "Kuant",
+      "Kuantum",
+      "Quantum",
+      "Kvantum"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji je svemirski teleskop NASA lansirala 2009.g. s ciljem otkrivanja novih egzoplaneta?",
+    "answers": [
+      "Kepler",
+      "Keplera"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji ugljikovodici u hrvatskom nazivlju završavaju na nastavak 'an' a u engleskom ''ane'?",
+    "answers": [
+      "Alkani",
+      "Alcane",
+      "Alkane",
+      "Alkan",
+      "Alcan",
+      "Alcanes",
+      "Alkanes"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji je bankar financirao izgradnju Teslina Tornja na Long Islandu ali je kasnije odustao od projekta?",
+    "answers": [
+      "John Pierpont Morgan",
+      "J. P. Morgan",
+      "Morgan",
+      "John Morgan",
+      "Pieropnt Morgan",
+      "Džon Pirpont Morgan",
+      "Džon Morgan",
+      "Pirpont Morgan",
+      "JP Morgan"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "U kojoj je grani fizike J. C. Maxwell teoretski dokazao da je svjetlost elektromagnetska pojava?",
+    "answers": [
+      "Elektromagnetizam",
+      "Elektro magnetizam",
+      "Elektromagnetizmu",
+      "Elektro magnetizmu",
+      "Electromagnetism",
+      "Electro magnetism"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji kemijski spoj, svoj 'potpis' stavlja kao C4H10",
+    "answers": [
+      "Butan",
+      "Butane"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koju mjernu oznaku koristimo za brzinu kretanja objekta u odnosu na brzinu zvuka?",
+    "answers": [
+      "Mah",
+      "Mach",
+      "Machov broj",
+      "Mahov broj",
+      "Machov",
+      "Mahov"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Po kojem njemačkom mineralogu ime nosi ljestvica od 10 minerala koja se koristi za procjenu relativne tvrdoće drugih minerala i tvari?",
+    "answers": [
+      "Friedrichu Mohsu",
+      "Mohs",
+      "Mohsu",
+      "Fridrihu Mohsu",
+      "Fridrih Mohs",
+      "Friedrich Mohs",
+      "Fridrihu Mosu",
+      "Fridrih Mos",
+      "Mosu",
+      "Mos"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Za koju su temeljnu prirodnu znanost, Nobela dobivali Bohr i Yukawa?",
+    "answers": [
+      "Fizika",
+      "Fizike",
+      "Fizici",
+      "Physics",
+      "Fiziks",
+      "Fisics"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "U kojem se kulturnom, umjetničkom i znanstvenom preporodu koji se pojavio u Europi na prijelazu iz Srednjeg u Novi vijek rodio i živio Leonardo da Vinci?",
+    "answers": [
+      "Renesansi",
+      "Renesansa",
+      "Renaissance",
+      "Renasenc"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koja je univerzalna oznaka za 'snagu'?",
+    "answers": [
+      "P",
+      "Pe"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kojim slovom označavamo broj protona u atomskoj jezgri?",
+    "answers": [
+      "Z",
+      "Ze"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji je znanstvenik poznat po formuli E=mc²?",
+    "answers": [
+      "Albert Einstein",
+      "Albert Ajnštajn",
+      "Einstein",
+      "Ajnštajn"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koju je današnju kompaniju davne 1847.g. osnovao izumitelj dinamo-stroja, trolejbusa, električne lokomotive te električnog dizala?",
+    "answers": [
+      "Siemens",
+      "Simens"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Po kojem je njemačkom fizičaru ime dobio kemijski element koji se prije promjene imena zvao Unununij?",
+    "answers": [
+      "Wilhelmu Rontgenu",
+      "Vilemu Rongenu",
+      "Vilemu Rengenu",
+      "Rontgenu",
+      "Rongenu",
+      "Rengeu",
+      "Wilhelm Rontgen",
+      "Vilem Rongen",
+      "Vilem Rengen",
+      "Rontgen",
+      "Rongen",
+      "Rengen"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji bi troslovni sistem griješio u 'kilometre' da Einstein nije otkrio teoriju relativnosti?",
+    "answers": [
+      "GPS",
+      "Dži Pi Es",
+      "Džipies"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Čiji broj možemo iščitati u imenu poznate fiktivne junakinje, nastale iz pera književnice Astrid Lindgren?",
+    "answers": [
+      "Ludolfov",
+      "Ludolf",
+      "Ludolfs"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji bijeli kristalni prah poznamo po kemijskoj formuli NaHCO3?",
+    "answers": [
+      "Soda bikarbona",
+      "Sodu bikarbonu",
+      "Soda",
+      "Sodu"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji kemijski element tražimo ako je na periodnom sustavu okružen redom: s desna fosforom, s lijeva aluminijem, iznad ugljikom a ispod germanijem?",
+    "answers": [
+      "Silicij",
+      "Silicium",
+      "Silicijum",
+      "Silicon",
+      "Silikon",
+      "Si"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Po kojoj kratici prepoznajemo element Silicij?",
+    "answers": [
+      "Si",
+      "Esi",
+      "Es i"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji je plin Alessandro Volta otkrio na jezeru Maggiore?",
+    "answers": [
+      "Metan",
+      "Methan",
+      "Methane",
+      "Metane",
+      "CH4"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji instrument koristimo za mjerenje jakosti svjetla?",
+    "answers": [
+      "Fotometar",
+      "Svjetlomjer"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "rarity": "platinum",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kako se zvala kuća u Engleskoj u kojoj je bilo zatočeno deset njemačkih znanstvenika za koje su Saveznici tijekom Drugog svjetskog rata sumnjali da rade na nuklearnom oružju za Njemačku?",
+    "answers": [
+      "Farm Hall",
+      "Farm Hal",
+      "Farm Hol"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koja je srpska matematičarka bila prva supruga Alberta Einsteina?",
+    "answers": [
+      "Mileva Marić",
+      "Marić",
+      "Mileva"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji lepton nastaje u gornjim slojevima atmosfere pod utjecajem kozmičkog zračenja?",
+    "answers": [
+      "Mion"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "U kojem je glavnom gradu rođen nobelovac Niels Bohr?",
+    "answers": [
+      "Kopenhagenu",
+      "Kopenhagen",
+      "Copenhagenu",
+      "Copenhagen",
+      "Kobenhavn"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Knjiga 'Skeptični kemičar' uvelike je pomogla da se moderna kemija odvoji od alkemije, a autor joj je koji Irski kemičar?",
+    "answers": [
+      "Robert Boyle",
+      "Robert Bojl",
+      "Boyle",
+      "Bojl"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koju zvijezdu, heliocentrični sustav postavlja u središte svega?",
+    "answers": [
+      "Sunce",
+      "Sun",
+      "San",
+      "Suns",
+      "Sans"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji je talijanski znanstvenik izumio živin barometar i prvi dokazao postojanje atmosferskog tlaka?",
+    "answers": [
+      "Evangelista Torricelli",
+      "Evanđelista Torićeli",
+      "Torricelli",
+      "Torićeli"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Majka je dobila Nobela 1903.g. i 1911.g., kćer je dobila Nobela 1934.g. a dijele koje prezime?",
+    "answers": [
+      "Curie",
+      "Kiri",
+      "Kuri",
+      "Kjuri"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Tko je 1609.g. demonstrirao rad svog teleskopa sa zvonika crkve sv. Marka u Veneciji?",
+    "answers": [
+      "Galileo Galilei",
+      "Galilei",
+      "Galileji"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Ako napišemo 'crta, dvije točke, crta' i spomenemo 'X Zrake' povezali smo američkog izumitelja Morsea sa kojim njemačkim fizičarom?",
+    "answers": [
+      "Rontgenom",
+      "Rontgen",
+      "Rengenom",
+      "Rengen",
+      "Rongenom",
+      "Rongen",
+      "Rontgens",
+      "Rengens",
+      "Rongens"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kojim je kemijskim elementom bio ispunjen prvi konstruirani cepelin?",
+    "answers": [
+      "Vodikom",
+      "Vodik",
+      "Vodika",
+      "Hidrogenom",
+      "Hidrogen",
+      "Hydrogenom",
+      "Hydrogen",
+      "Hydrogens",
+      "Hidrogens",
+      "Hidrodžen",
+      "Hidrodženom",
+      "Hidrodžens"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "U kojoj se periodi tj redu, na periodnom sustavu elemenata nalazi dušik?",
+    "answers": [
+      "Drugom",
+      "Drugi",
+      "Druga",
+      "Drugog",
+      "2.",
+      "2 i",
+      "2i",
+      "Second",
+      "Seknd",
+      "2nd",
+      "2 nd",
+      "2om",
+      "2 om",
+      "II",
+      "2",
+      "Two",
+      "Tvo"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "O kome je govorio Joseph Louis Lagrange kada je izjavio da je Francuskoj trebao jedan trenutak da odrubi tu glavu a da će joj trebati 100 godina da izrodi sličnu?",
+    "answers": [
+      "Antoineu Lavoisieru",
+      "Antoinu Lavoisieru",
+      "Antoanu Lavozijeu",
+      "Lavoisieru",
+      "Lavoisier",
+      "Lavozijeu",
+      "Lavozije",
+      "Antoine Lavoisier",
+      "Antoan Lavozije"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kako se zove elektroda kroz koju električna struja teče u smjeru prema napravi ili elementu?",
+    "answers": [
+      "Anoda",
+      "Anode",
+      "Anod"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Koji poznati britanski znanstvenik, pronalazač kalija i natrija, prezime dijeli s imenom legendarnog gusara koji se pojavljuje i u Piratima s Kariba?",
+    "answers": [
+      "Humphry Davy",
+      "Hampri Dejvi",
+      "Hamfri Dejvi",
+      "Davy",
+      "Dejvi"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Arhimed je starogrčki fizičar, astronom i matematičar poznatiji kao Arhimed iz kojeg grada?",
+    "answers": [
+      "Sirakuze",
+      "Sirakuza",
+      "Syracuze",
+      "Syracuza",
+      "Siracuse",
+      "Siracusa"
+    ],
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Znanost",
+    "question": "Kojem je danskom fizičaru, Zagrebačko Sveučilište 1958.g. dodijelilo počasni doktorat?",
+    "answers": [
+      "Nielsu Bohru",
+      "Niels Bohr",
+      "Bohru",
+      "Bohr",
+      "Boru",
+      "Bor"
+    ],
+    "image": null
+  }
+]
