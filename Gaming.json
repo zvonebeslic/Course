@@ -6,11 +6,10 @@
     "question": "Koji je dizajner videoigara osmislio originalni The Sims i prethodno stvorio SimCity?",
     "answers": [
       "Will Wright",
-      "Vil Rajt",
-      "Wright",
-      "Rajt",
-      "Vrajt"
+      "Simlish",
+      "Naughty Dog"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -20,9 +19,10 @@
     "question": "Koja kompanija razvija i izdaje videoigru Dota 2 te upravlja platformom Steam?",
     "answers": [
       "Valve",
-      "Valve Corporation",
-      "Valv"
+      "Epic Games",
+      "Electronic Arts"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -31,9 +31,11 @@
     "topic": "Gaming",
     "question": "Kako se zove glavna građevina u bazi koju protivnička ekipa mora uništiti kako bi pobijedila u League of Legendsu?",
     "answers": [
+      "Teemo",
       "Nexus",
-      "Neksus"
+      "Ancient"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -42,8 +44,11 @@
     "topic": "Gaming",
     "question": "Kako se zove tvar koja u svijetu videoigre BioShock omogućuje genetske modifikacije i stjecanje nadljudskih sposobnosti?",
     "answers": [
-      "Adam"
+      "Adam",
+      "Zerg",
+      "Rapture"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -52,13 +57,11 @@
     "topic": "Gaming",
     "question": "U kojem se američkom gradu odvija najveći dio radnje prve videoigre Max Payne?",
     "answers": [
+      "Rapture",
       "New York",
-      "Nju Jork",
-      "NYC",
-      "NY",
-      "New Yorku",
-      "Nju Jorku"
+      "Empire Bay"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -67,8 +70,11 @@
     "topic": "Gaming",
     "question": "Kako se u serijalu videoigara Assassin's Creed zove uređaj koji omogućuje korisniku proživljavanje genetskih sjećanja svojih predaka?",
     "answers": [
-      "Animus"
+      "Hidden Blade",
+      "Animus",
+      "Mental"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -77,12 +83,11 @@
     "topic": "Gaming",
     "question": "Kako se zove lovkinja na glave iz serijala Metroid, čije je otkrivanje ženskog identiteta na kraju prve igre postalo jedan od poznatijih ranih obrata u videoigrama?",
     "answers": [
-      "Samus Aran",
-      "Samus",
-      "Semus",
-      "Sejmus",
-      "Sajmus"
+      "Crash Bandicoot",
+      "Lordran",
+      "Samus Aran"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -91,19 +96,11 @@
     "topic": "Gaming",
     "question": "Koja povijesna francuska junakinja ima vlastitu kampanju u videoigri Age of Empires II?",
     "answers": [
-      "Ivana Orleanska",
-      "Joan of Arc",
-      "Jeanne d'Arc",
-      "Žana d'Ark",
-      "Zan of Orlen",
-      "Orleanska",
-      "D arc",
-      "Darc",
-      "Dark",
-      "D ark",
-      "Orleans",
-      "Orlean"
+      "Joe Musashi",
+      "Peter Pepper",
+      "Ivana Orleanska"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -113,8 +110,10 @@
     "question": "Koja je povijesna ličnost postala poznati gaming meme zbog navodne sklonosti korištenju nuklearnog oružja u serijalu videoigara Civilization?",
     "answers": [
       "Gandhi",
-      "Gandi"
+      "Science Victory",
+      "Wonders"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -124,10 +123,10 @@
     "question": "Kako se zove fiktivna britanska arheologinja i pustolovka koja je 1996.g. debitirala kao protagonistica videoigre Tomb Raider?",
     "answers": [
       "Lara Croft",
-      "Lara Kroft",
-      "Croft",
-      "Kroft"
+      "Sarah Kerrigan",
+      "Peter Gunn"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -137,14 +136,10 @@
     "question": "Koja se godina nalazi u naslovu Williamsove arkadne videoigre Robotron?",
     "answers": [
       "2084",
-      "Dvije tisuće osamdeset četvrta",
-      "Dvije hiljade osamdeset crtvrta",
-      "MMLXXIV",
-      "Twenty eighty four",
-      "Tventi ejti for",
-      "84e",
-      "84"
+      "2080",
+      "2081"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -153,8 +148,11 @@
     "topic": "Gaming",
     "question": "Kako se zove izvanzemaljski gospodar i glavni neprijatelj čovječanstva u serijalu videoigara Serious Sam?",
     "answers": [
-      "Mental"
+      "Zagreb",
+      "Mental",
+      "Stone"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -164,9 +162,10 @@
     "question": "Kako se zove plavi jež nevjerojatne brzine koji je početkom 1990-ih postao zaštitno lice kompanije Sega?",
     "answers": [
       "Sonic",
-      "Sonik",
-      "Sonic the Hedgehog"
+      "Sega",
+      "Pikachu"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -175,12 +174,11 @@
     "topic": "Gaming",
     "question": "Kako se zove policajac koji je debitirao kao jedan od protagonista videoigre Resident Evil 2, a poslije postao glavni junak Resident Evila 4?",
     "answers": [
+      "Crash Bandicoot",
       "Leon S. Kennedy",
-      "Leon Kennedy",
-      "Leon Kenedi",
-      "Kennedy",
-      "Kenedi"
+      "Master Chief"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -189,11 +187,11 @@
     "topic": "Gaming",
     "question": "Kako se zove građevina u bazi koju protivnička ekipa mora uništiti kako bi pobijedila u meču videoigre Dota 2?",
     "answers": [
+      "Lina",
       "Ancient",
-      "The Ancient",
-      "Drevna",
-      "Drevni"
+      "Nexus"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -203,15 +201,10 @@
     "question": "Kako se zove kralj zelenih svinja i glavni antagonist u svijetu videoigara Angry Birds?",
     "answers": [
       "King Pig",
-      "Kralj svinja",
-      "King Piggy",
-      "King Pigi",
-      "Kralj pujse",
-      "Kralj krme",
-      "Kralj krmak",
-      "Kralj odojak",
-      "Kralj klempo"
+      "Bowser",
+      "Olly"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -220,10 +213,11 @@
     "topic": "Gaming",
     "question": "Kako se naziva karakteristično skriveno oružje Assassina iz serijala videoigara Assassin's Creed, smješteno uz podlakticu i namijenjeno prikrivenim napadima?",
     "answers": [
+      "Nathan Drake",
       "Hidden Blade",
-      "Hiden Blejd",
-      "Skrivena oštrica"
+      "Animus"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -232,11 +226,11 @@
     "topic": "Gaming",
     "question": "Kako se zove ogromni orao iz svijeta Angry Birdsa kojeg se u originalnoj igri može pozvati posebnom konzervom sardina?",
     "answers": [
+      "The Blues",
       "Mighty Eagle",
-      "Majti Igl",
-      "Moćni orao",
-      "Majgti Igl"
+      "Matilda"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -245,9 +239,11 @@
     "topic": "Gaming",
     "question": "Kako se zove vukodlak, treći član originalnog trojca čudovišta iz arkadne videoigre Rampage?",
     "answers": [
+      "George",
       "Ralph",
-      "Ralf"
+      "Maggie"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -256,13 +252,11 @@
     "topic": "Gaming",
     "question": "Koliko različitih labirinata ima arkadna videoigra Ms. Pac-Man, za razliku od jednog osnovnog labirinta originalnog Pac-Mana?",
     "answers": [
+      "1",
       "4",
-      "Četiri",
-      "Four",
-      "For",
-      "IV",
-      "Četri"
+      "7"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -271,9 +265,11 @@
     "topic": "Gaming",
     "question": "Kako se zove grad u nastavku videoigre Need for Speed iz 2004.g. kojeg igrač istražuje?",
     "answers": [
+      "Tristram",
       "Bayview",
-      "Bejvju"
+      "Vic Viper"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -283,9 +279,10 @@
     "question": "Kako se zove jedna od dviju glavnih suprotstavljenih frakcija u videoigri World of Warcraft, kojoj tradicionalno pripadaju ljudi, patuljci i noćni vilenjaci?",
     "answers": [
       "Alliance",
-      "Alijansa",
-      "Savez"
+      "Horde",
+      "Stormwind"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -294,12 +291,11 @@
     "topic": "Gaming",
     "question": "Kako se zvala kartica koja se kod konzola poput prvog PlayStationa koristila za spremanje napretka u videoigrama?",
     "answers": [
-      "Memory Card",
-      "Memori Kard",
-      "Memorijska",
-      "Memori",
-      "Memory"
+      "Dreamcast",
+      "Neo Geo",
+      "Memory Card"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -309,8 +305,10 @@
     "question": "Koja japanska kompanija proizvodi igraće konzole PlayStation?",
     "answers": [
       "Sony",
-      "Soni"
+      "Microsoft",
+      "Handheld"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -319,8 +317,11 @@
     "topic": "Gaming",
     "question": "Koja je američka gaming kompanija, jedan od pionira industrije videoigara, proizvela legendarnu igraću konzolu modela 2600?",
     "answers": [
+      "Magnavox",
+      "Coleco",
       "Atari"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -330,8 +331,10 @@
     "question": "Kako se zove brat Super Marija brat?",
     "answers": [
       "Luigi",
-      "Luiđi"
+      "Gljiva",
+      "Bowser"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -341,8 +344,10 @@
     "question": "Kako se zove zadani muški lik iz Minecrafta, prepoznatljiv po plavoj majici i ljubičastim hlačama?",
     "answers": [
       "Steve",
-      "Stiv"
+      "Crvene",
+      "Creeper"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -351,10 +356,11 @@
     "topic": "Gaming",
     "question": "Kako se zove izmišljeno bezalkoholno piće iz svijeta Fallouta čije boce i čepovi imaju važnu ulogu u igrama?",
     "answers": [
+      "Valkyr",
       "Nuka Cola",
-      "Nukakola",
-      "Nuka Kola"
+      "Mephisto"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -364,9 +370,10 @@
     "question": "Koja je japanska kompanija razvila arkadnu videoigru Operation Wolf iz 1987.g.?",
     "answers": [
       "Taito",
-      "Teito",
-      "Tajto"
+      "Konami",
+      "Sega"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -375,15 +382,11 @@
     "topic": "Gaming",
     "question": "Kako se zove otok na kojem se odvija velik dio radnje videoigara Angry Birds?",
     "answers": [
+      "Tekken",
       "Piggy Island",
-      "Otok Svinja",
-      "Svinjski otok",
-      "Svinja",
-      "Svinjski",
-      "Piggy",
-      "Pigi",
-      "Pigs"
+      "Wonders"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -392,11 +395,11 @@
     "topic": "Gaming",
     "question": "Kako se igra Minecraft zvala na samom početku razvoja 2009. godine?",
     "answers": [
+      "Japanu",
       "Cave Game",
-      "Kejv Gejm",
-      "Cave",
-      "Kejv"
+      "Tetris"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -406,12 +409,10 @@
     "question": "Kako se zove britanski kapetan iz videoigre Call of Duty: Modern Warfare, prepoznatljiv po brkovima i šeširu?",
     "answers": [
       "Captain Price",
-      "Kapetan Price",
-      "John Price",
-      "Price",
-      "Kapetan Prajs",
-      "Prajs"
+      "Black Ops",
+      "Modern Warfare"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -421,10 +422,10 @@
     "question": "Koliko različitih oblika možemo slagati u igrici Tetris?",
     "answers": [
       "7",
-      "Seven",
-      "Sedam",
-      "VII"
+      "6",
+      "9"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -433,13 +434,11 @@
     "topic": "Gaming",
     "question": "Kako se zove narančasti tobolčar koji je glavni junak serijala videoigara Crash Bandicoot?",
     "answers": [
-      "Crash Bandicoot",
-      "Crash",
-      "Kreš Bandikut",
-      "Kreš",
-      "Kraš",
-      "Kras Bandikot"
+      "Aku Aku",
+      "Gordon Freeman",
+      "Crash Bandicoot"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -448,10 +447,11 @@
     "topic": "Gaming",
     "question": "Kako se zove serijal trkaćih videoigara koji je Electronic Arts pokrenuo 1994.g., a čiji naziv doslovno znači 'potreba za brzinom'?",
     "answers": [
-      "Need for Speed",
-      "NFS",
-      "Nid of Spid"
+      "FIFA",
+      "Battlefield",
+      "Need for Speed"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -460,11 +460,11 @@
     "topic": "Gaming",
     "question": "Kako se zove legendarni vojnik i stručnjak za infiltraciju koji je jedan od glavnih protagonista serijala Metal Gear?",
     "answers": [
+      "Nathan Drake",
       "Solid Snake",
-      "Solid Snejk",
-      "Snake",
-      "Snejk"
+      "Jim Raynor"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -473,12 +473,11 @@
     "topic": "Gaming",
     "question": "U svijetu igara, kako se zove glavni igrivi protagonist Red Dead Redemptiona 2 i jedan od najodanijih članova bande Van der Linde?",
     "answers": [
-      "Arthur Morgan",
-      "Artur Morgan",
-      "Morgan",
-      "Artur Morgan",
-      "Morgen"
+      "John Marston",
+      "Dutch van der Linde",
+      "Arthur Morgan"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -487,12 +486,11 @@
     "topic": "Gaming",
     "question": "Od koliko je kvadratnih blokova napravljen svaki oblik koji se pojavljuje u tetrisu?",
     "answers": [
+      "5",
       "4",
-      "Četiri",
-      "Four",
-      "For",
-      "IV"
+      "6"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -502,11 +500,10 @@
     "question": "Koje geometrijsko tijelo čini osnovne platforme piramide po kojoj se Q*bert kreće u istoimenoj arkadnoj videoigri?",
     "answers": [
       "Kocka",
-      "Kocke",
-      "Kocki",
-      "Cube",
-      "Kjub"
+      "Fygar",
+      "Pooka"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -515,12 +512,11 @@
     "topic": "Gaming",
     "question": "Koliko duhova progoni Pac Mana?",
     "answers": [
-      "4",
-      "Četiri",
-      "Four",
-      "For",
-      "IV"
+      "1",
+      "7",
+      "4"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -529,8 +525,11 @@
     "topic": "Gaming",
     "question": "Koja je gaming kompanija proizvela konzole Mega Drive, Saturn i Dreamcast, a njezin je zaštitni lik Sonic?",
     "answers": [
+      "Sony",
+      "Atari",
       "Sega"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -539,9 +538,11 @@
     "topic": "Gaming",
     "question": "Kako se zove glavni neprijatelj Ninja kornjača protiv kojeg se bore u Konamijevoj arkadnoj videoigri Teenage Mutant Ninja Turtles?",
     "answers": [
-      "Shredder",
-      "Šreder"
+      "Leonardo",
+      "Splinter",
+      "Shredder"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -550,11 +551,11 @@
     "topic": "Gaming",
     "question": "Koje životinje u riječnom dijelu arkadne videoigre Frogger služe kao pokretne platforme, ali povremeno zarone ispod površine?",
     "answers": [
+      "Žabu",
       "Kornjače",
-      "Kornjača",
-      "Turtle",
-      "Turtl"
+      "Svinje"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -563,9 +564,11 @@
     "topic": "Gaming",
     "question": "Kako se zove princeza koju vitez Arthur pokušava spasiti u arkadnoj videoigri Ghosts 'n Goblins?",
     "answers": [
-      "Prin Prin",
-      "Prin"
+      "Vukodlak",
+      "Arthur",
+      "Prin Prin"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -574,8 +577,11 @@
     "topic": "Gaming",
     "question": "Koja je japanska gaming kompanija proizvela konzole Mega Drive i Dreamcast, a njezin je najpoznatiji lik plavi jež Sonic?",
     "answers": [
-      "Sega"
+      "Sega",
+      "Sony",
+      "Atari"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -584,8 +590,11 @@
     "topic": "Gaming",
     "question": "Kako se zove sarkastična umjetna inteligencija koja upravlja Aperture Science laboratorijem i predstavlja glavnog antagonista prve igre Portal?",
     "answers": [
+      "Blinky",
+      "Lordran",
       "Glados"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -594,14 +603,11 @@
     "topic": "Gaming",
     "question": "Kako se zove vjerski kult kojim Joseph Seed upravlja u videoigri Far Cry 5?",
     "answers": [
+      "Peter Pepper",
       "Eden's Gate",
-      "Edens gejt",
-      "Vrata Edena",
-      "Edenova Vrata",
-      "Edenska Vrata",
-      "Gate of Eden",
-      "Gejt of Eden"
+      "Joe Musashi"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -611,9 +617,10 @@
     "question": "Kako se zove posljednji boss originalne videoigre Dark Souls, nekadašnji gospodar svjetlosti?",
     "answers": [
       "Gwyn",
-      "Gvin",
-      "Gven"
+      "Solaire",
+      "Lordran"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -622,11 +629,11 @@
     "topic": "Gaming",
     "question": "Kako se zove zli znanstvenik s velikim slovom N na čelu koji je glavni protivnik Crasha Bandicoota u istoimenoj videoigri?",
     "answers": [
+      "Stormwind",
       "Neo Cortex",
-      "Neo Korteks",
-      "Cortex",
-      "Korteks"
+      "Pooka"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -635,9 +642,11 @@
     "topic": "Gaming",
     "question": "Kojom se titulom naziva igračev lik u videoigri Elden Ring?",
     "answers": [
-      "Tarnished",
-      "Tarnišed"
+      "Terran",
+      "Torrent",
+      "Tarnished"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -647,9 +656,10 @@
     "question": "Kako se zove arkadna videoigra iz 1983.g. u kojoj igrač upravlja naoružanim automobilom opremljenim oružjima poput strojnica i uljnih mrlja?",
     "answers": [
       "Spy Hunter",
-      "Spaj Hanter",
-      "Lovac na špijune"
+      "Out Run",
+      "Galaga"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -659,15 +669,10 @@
     "question": "Koje je godine objavljena videoigra Serious Sam: The First Encounter, prvi veliki međunarodni hit hrvatskog studija Croteam?",
     "answers": [
       "2001",
-      "Dvije i prve",
-      "Dvije tisuće prve",
-      "Prve",
-      "1",
-      "One",
-      "1st",
-      "Dvije hiljade prve",
-      "Dvi iljade prve"
+      "2021",
+      "2006"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -676,10 +681,11 @@
     "topic": "Gaming",
     "question": "Kako se zove duh u arkadnoj videoigri Ms. Pac-Man koji je zamijenio Clydea iz originalne verzije Pac-Mana?",
     "answers": [
+      "Noj",
       "Sue",
-      "Su",
-      "Sju"
+      "Japanu"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -689,8 +695,10 @@
     "question": "Kako se zove duh iz igrica Super Mario koji se obično prestaje kretati kada ga Mario gleda?",
     "answers": [
       "Boo",
-      "Bo"
+      "Vodoinstalater",
+      "Bob Omb"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -699,9 +707,11 @@
     "topic": "Gaming",
     "question": "Kako se zove glavni antagonist igrice Paper Mario: The Origami King, kralj origamija koji želi cijeli svijet pretvoriti u origami?",
     "answers": [
+      "King Pig",
       "Olly",
-      "Oli"
+      "Bowser"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -710,11 +720,11 @@
     "topic": "Gaming",
     "question": "Pod kojim je nadimkom poznat Carl Johnson, glavni protagonist igre Grand Theft Auto: San Andreas?",
     "answers": [
+      "L",
       "CJ",
-      "Si Džej",
-      "C.J.",
-      "Ci Džej"
+      "JEC"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -723,9 +733,11 @@
     "topic": "Gaming",
     "question": "Koja četveroslovna kratica označava 'PlayerUnknown's Battlegrounds' u nazivu popularne battle royale videoigre?",
     "answers": [
-      "PUBG",
-      "pabdži"
+      "Thor",
+      "Lordran",
+      "PUBG"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -735,9 +747,10 @@
     "question": "Kako se zove podserijal igre Call of Duty koji je 2007.g. radnju prebacio u suvremeni vojni sukob?",
     "answers": [
       "Modern Warfare",
-      "Modern Varfer",
-      "Moderno Ratovanje"
+      "Captain Price",
+      "Black Ops"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -746,8 +759,11 @@
     "topic": "Gaming",
     "question": "Koja je pionirska gaming kompanija proslavila Pong i proizvela jednu od najpoznatijih ranih igraćih konzola, Atari 2600?",
     "answers": [
-      "Atari"
+      "Atari",
+      "Dreamcast",
+      "Coleco"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -757,9 +773,10 @@
     "question": "Kako se zove izmišljeni američki grad u kojem se odvija najveći dio radnje videoigre Mafia II?",
     "answers": [
       "Empire Bay",
-      "Empajer Bej",
-      "Carski zaljev"
+      "New York",
+      "Lost Heaven"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -768,8 +785,11 @@
     "topic": "Gaming",
     "question": "Koja je japanska kompanija razvila arkadne videoigre Galaxian, Galaga i Pac-Man?",
     "answers": [
-      "Namco"
+      "Capcom",
+      "Namco",
+      "Sega"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -778,14 +798,11 @@
     "topic": "Gaming",
     "question": "Kako se zove Microsoftova igraća konzola koja se na tržištu prvi put pojavila 2001.g.?",
     "answers": [
+      "Dreamcast",
       "Xbox",
-      "X Box",
-      "Iks Boks",
-      "X Boks",
-      "Iksboks",
-      "Iksbox",
-      "Iks box"
+      "PlayStation"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -794,12 +811,11 @@
     "topic": "Gaming",
     "question": "Kako se zove američki borac iz serijala videoigara Tekken, prepoznatljiv po izrazito visokoj plavoj frizuri i snažnom udarcu šakom poznatom kao Phoenix Smasher?",
     "answers": [
+      "Rivia",
       "Paul Phoenix",
-      "Paul",
-      "Pol Feniks",
-      "Paul Feniks",
-      "Pol"
+      "Mars"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -808,12 +824,11 @@
     "topic": "Gaming",
     "question": "Koje je godine objavljena arkadna igra Blockade, jedan od najranijih poznatih prethodnika igre Snake?",
     "answers": [
+      "1986",
       "1976",
-      "Tisuću devetsto sedamdeset šeste",
-      "Hiljadu devet stotina sedamdeset šeste",
-      "MCMLXXVI",
-      "76"
+      "1956"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -822,9 +837,11 @@
     "topic": "Gaming",
     "question": "Koje tradicionalno japansko bacačko oružje Joe Musashi koristi protiv neprijatelja u arkadnoj videoigri Shinobi?",
     "answers": [
+      "Bart",
       "Shuriken",
-      "Šuriken"
+      "Leonardo"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -833,12 +850,11 @@
     "topic": "Gaming",
     "question": "Koje je godine izvorno objavljena videoigra Age of Empires II, nastavak popularnog povijesnog strateškog serijala smještenog prvenstveno u srednji vijek?",
     "answers": [
-      "1999",
-      "Tisuću devetsto devedeset devete",
-      "Hiljadu devet stotina devedeset devet",
-      "Iljadu devesto devedeset devet",
-      "MCMXCIX"
+      "1996",
+      "2019",
+      "1999"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -847,9 +863,11 @@
     "topic": "Gaming",
     "question": "Koja je japanska kompanija razvila arkadnu videoigru Snow Bros. iz 1990.g.?",
     "answers": [
+      "Sega",
       "Toaplan",
-      "Toeplen"
+      "Capcom"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -859,12 +877,10 @@
     "question": "Kako se zovu tri male plave ptice iz Angry Birdsa koje se tijekom leta mogu razdvojiti u tri zasebne ptice?",
     "answers": [
       "The Blues",
-      "Blues",
-      "Plavci",
-      "Blue Birds",
-      "Bluz",
-      "Plave ptice"
+      "Matilda",
+      "Terence"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -874,8 +890,10 @@
     "question": "Kako se zove plavi električni junak iz videoigre Dota 2 čije sposobnosti uključuju Static Remnant, Electric Vortex i Ball Lightning?",
     "answers": [
       "Storm Spirit",
-      "Olujni Duh"
+      "Leon S. Kennedy",
+      "Lina"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -884,12 +902,11 @@
     "topic": "Gaming",
     "question": "Koji se nastavak Need for Speeda iz 2003.g. snažno se usredotočio na ilegalne noćne ulične utrke i vizualno modificiranje automobila?",
     "answers": [
-      "Need for Speed Underground",
-      "NFS Underground",
-      "Underground",
-      "Podzemlje",
-      "Andergraund"
+      "Most Wanted",
+      "Bayview",
+      "Need for Speed Underground"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -898,9 +915,11 @@
     "topic": "Gaming",
     "question": "Kako se zove crvenokosa protagonistica videoigara Horizon Zero Dawn i Horizon Forbidden West?",
     "answers": [
+      "Guerrilla Games",
       "Aloy",
-      "Aloj"
+      "Nora"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -909,11 +928,11 @@
     "topic": "Gaming",
     "question": "Kako se zove žena koja postaje važna saveznica Maxa Paynea tijekom serijala videoigara Max Payne?",
     "answers": [
+      "G Man",
       "Mona Sax",
-      "Mona Saks",
-      "Sax",
-      "Saks"
+      "Max Payne"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -923,11 +942,10 @@
     "question": "Kako se zove borac iz serijala videoigara Tekken kojeg je njegov otac Heihachi Mishima još kao dječaka bacio s litice kako bi iskušao njegovu snagu?",
     "answers": [
       "Kazuya Mishima",
-      "Kazuya",
-      "Kazuja Mishima",
-      "Kazuja",
-      "Kazuja Mišima"
+      "Heihachi Mishima",
+      "Paul Phoenix"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -936,9 +954,11 @@
     "topic": "Gaming",
     "question": "Koja američka tehnološka kompanija proizvodi igraće konzole Xbox?",
     "answers": [
+      "Magnavox",
       "Microsoft",
-      "Mikrosoft"
+      "Sony"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -947,14 +967,11 @@
     "topic": "Gaming",
     "question": "Koji način igranja iz Call of Dutyja suprotstavlja igrače valovima zombija i posebno se povezuje s podserijalom Black Ops?",
     "answers": [
-      "Zombies",
-      "Zombiji",
-      "Zombie Mode",
-      "Zombies Mode",
-      "Zombi verzija",
-      "Zombi",
-      "Zombis"
+      "Microsoft",
+      "Battle Royale",
+      "Zombies"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -963,8 +980,11 @@
     "topic": "Gaming",
     "question": "Koja je tradicionalna japanska umjetnost savijanja papira glavna inspiracija za izgled likova i svijeta u jednoj od igara iz serijala Paper Mario?",
     "answers": [
+      "Bowser",
+      "Hyrule",
       "Origami"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -973,10 +993,11 @@
     "topic": "Gaming",
     "question": "Koja je američka kompanija objavila arkadnu videoigru Joust?",
     "answers": [
-      "Williams",
-      "Vilijams",
-      "Viliams"
+      "Atari",
+      "Gottlieb",
+      "Williams"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -985,11 +1006,11 @@
     "topic": "Gaming",
     "question": "Kako se zove izmišljeni grad inspiriran New Yorkom koji je glavno mjesto radnje Grand Theft Auta IV, a pojavljuje se i u drugim igrama serijala?",
     "answers": [
-      "Liberty City",
-      "Liberti Siti",
-      "Liberty",
-      "Liberti"
+      "Empire Bay",
+      "Lost Heaven",
+      "Liberty City"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -999,9 +1020,10 @@
     "question": "U kojoj je državi 2000.g. pokrenut World Cyber Games, jedan od prvih velikih međunarodnih e-sportskih turnira?",
     "answers": [
       "Južna Koreja",
-      "South Korea",
-      "Saut Korea"
+      "The Sims",
+      "Tekken"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1011,11 +1033,10 @@
     "question": "Kako se zove jedan od najpoznatijih likova iz serijala videoigara Tekken, osnivač korporacije Mishima Zaibatsu i otac Kazuye Mishime?",
     "answers": [
       "Heihachi Mishima",
-      "Heihachi",
-      "Heihači Mishima",
-      "Heihači",
-      "Heihači Mišima"
+      "Dedede",
+      "Crash Bandicoot"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1024,13 +1045,11 @@
     "topic": "Gaming",
     "question": "Kako se zove glavni antagonist i vozač na vrhu Blacklista u videoigri Need for Speed: Most Wanted iz 2005.g.?",
     "answers": [
-      "Razor",
-      "Rejzor",
-      "Clarence Callahan",
-      "Klarens Kalahan",
-      "Callahan",
-      "Kalahan"
+      "Bayview",
+      "Vizier",
+      "Razor"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -1039,26 +1058,11 @@
     "topic": "Gaming",
     "question": "Koji je po redu PlayStation Sony predstavio 2020.g.?",
     "answers": [
+      "Insomniac Games",
       "PlayStation 5",
-      "PS5",
-      "Ps 5",
-      "5",
-      "Pet",
-      "Peticu",
-      "Peti",
-      "Petorka",
-      "Petak",
-      "Five",
-      "Fajv",
-      "5th",
-      "Fifth",
-      "Fift",
-      "Plejstejšn 5",
-      "Playstation pet",
-      "Plejstejšn pet",
-      "Playstation five",
-      "Plejstejšn fajv"
+      "PlayStation 2"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -1068,8 +1072,10 @@
     "question": "Kako se zove klasična arkadna videoigra iz 1981.g. u kojoj igrač vodi žabu preko prometne ceste i opasne rijeke prema sigurnom odredištu?",
     "answers": [
       "Frogger",
-      "Froger"
+      "Žabu",
+      "Gradius"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1078,11 +1084,11 @@
     "topic": "Gaming",
     "question": "Kako se u Dark Soulsu zove resurs koji igrač dobiva pobjeđivanjem neprijatelja, koristi ga za napredovanje, a nakon smrti ga može izgubiti?",
     "answers": [
-      "Souls",
-      "Soul",
-      "Duše",
-      "Duša"
+      "Galaga",
+      "Kamen",
+      "Souls"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -1091,10 +1097,11 @@
     "topic": "Gaming",
     "question": "Koja kompanija posjeduje studio Polyphony Digital i izdaje serijal trkaćih videoigara Gran Turismo?",
     "answers": [
-      "Sony Interactive Entertainment",
-      "Sony",
-      "Soni"
+      "Kazunori Yamauchi",
+      "Polyphony Digital",
+      "Sony Interactive Entertainment"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -1103,8 +1110,11 @@
     "topic": "Gaming",
     "question": "Kako se zove pleme u kojem Aloy odrasta u videoigri Horizon Zero Dawn?",
     "answers": [
-      "Nora"
+      "Nora",
+      "Guerrilla Games",
+      "Focus"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1113,9 +1123,11 @@
     "topic": "Gaming",
     "question": "Koja je američka kompanija 1972.g. predstavila Magnavox Odyssey, prvu komercijalnu kućnu igraću konzolu?",
     "answers": [
-      "Magnavox",
-      "Magnavoks"
+      "Coleco",
+      "Atari",
+      "Magnavox"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -1125,9 +1137,10 @@
     "question": "Koji je studio razvio originalnu videoigru Crash Bandicoot iz 1996.g.?",
     "answers": [
       "Naughty Dog",
-      "Noti Dog",
-      "Nadi Dog"
+      "Wargaming",
+      "Rovio"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1136,14 +1149,11 @@
     "topic": "Gaming",
     "question": "Kako se zove jedna od najpoznatijih mapa iz Counter-Strike videoigre, smještena u pustinjskom okruženju i prepoznatljiva po dvama bombsiteovima A i B?",
     "answers": [
-      "Dust II",
-      "Dust 2",
-      "de dust2",
-      "Dust",
-      "Dast",
-      "Prašina",
-      "Prašinska"
+      "Erangel",
+      "Kopenhagen",
+      "Dust II"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -1153,8 +1163,10 @@
     "question": "Koja je američka kompanija početkom 1980-ih proizvela igraću konzolu ColecoVision, jednog od tadašnjih glavnih konkurenata Atariju 2600?",
     "answers": [
       "Coleco",
-      "Koleko"
+      "Magnavox",
+      "Atari"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1163,10 +1175,11 @@
     "topic": "Gaming",
     "question": "Kako se preziva Trevor, jedan od trojice igrivih protagonista Grand Theft Auta V, poznat po izrazito nepredvidivom ponašanju?",
     "answers": [
+      "Los Santos",
       "Philips",
-      "Phillips",
-      "Filips"
+      "Liberty City"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -1175,9 +1188,11 @@
     "topic": "Gaming",
     "question": "Kako se zove izmišljena droga koja ima važnu ulogu u priči prve videoigre Max Payne?",
     "answers": [
-      "Valkyr",
-      "Valkir"
+      "Remedy Entertainment",
+      "New York",
+      "Valkyr"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -1186,8 +1201,11 @@
     "topic": "Gaming",
     "question": "Koji štakor, učitelj Ninja kornjača, pojavljuje se među likovima arkadne videoigre Teenage Mutant Ninja Turtles?",
     "answers": [
-      "Splinter"
+      "Splinter",
+      "Lordran",
+      "Zeus"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1197,10 +1215,10 @@
     "question": "Koje dragocjene predmete Spyro prvenstveno skuplja kroz razine originalne videoigre Spyro the Dragon?",
     "answers": [
       "Dragulje",
-      "Dragulji",
-      "Gems",
-      "Džems"
+      "Tristram",
+      "Bayview"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1210,11 +1228,10 @@
     "question": "Koji je hrvatski studio razvio serijal videoigara Serious Sam, koji je svjetsku popularnost stekao početkom 2000-ih?",
     "answers": [
       "Croteam",
-      "Cro Team",
-      "Kroteam",
-      "Kroatim",
-      "Kroatem"
+      "Zagreb",
+      "FromSoftware"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1224,10 +1241,10 @@
     "question": "Koje boje su svinje u videoigri 'Angry Birds'?",
     "answers": [
       "Zelene",
-      "Zelena",
-      "Green",
-      "Grin"
+      "Crvene",
+      "Svinje"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1237,24 +1254,10 @@
     "question": "Koji je po redu PlayStation Sony predstavio 2000.g. i koji je poslije postao najprodavanija igraća konzola svih vremena?",
     "answers": [
       "PlayStation 2",
-      "PS2",
-      "Ps 2",
-      "Dvicu",
-      "Drugi",
-      "Dva",
-      "2",
-      "Two",
-      "Tvu",
-      "Tu",
-      "II",
-      "Dvojka",
-      "Plejstejšn 2",
-      "Playstation dva",
-      "2nd",
-      "Plejstejšn dva",
-      "Second",
-      "Seknd"
+      "Dreamcast",
+      "Battle Royale"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1263,13 +1266,11 @@
     "topic": "Gaming",
     "question": "Kako se zove prepoznatljivi neprijatelj iz igrica Super Mario, nalik crnoj bombi s nogama i ključem za navijanje na leđima?",
     "answers": [
+      "Goomba",
       "Bob Omb",
-      "Bobomb",
-      "Ombbob",
-      "Omb bob",
-      "Bobby",
-      "Bobi"
+      "Gljiva"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -1278,8 +1279,11 @@
     "topic": "Gaming",
     "question": "Kako se zove grad iz prve videoigre Diablo ispod kojeg se nalaze katedrala i tamnice kroz koje igrač napreduje prema Diablu?",
     "answers": [
-      "Tristram"
+      "Vic Viper",
+      "Tristram",
+      "Bayview"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -1289,10 +1293,10 @@
     "question": "Koja životinja daje ime Atarijevoj arkadnoj videoigri iz 1981. u kojoj se segmentirano stvorenje spušta kroz polje gljiva?",
     "answers": [
       "Stonoga",
-      "Centipade",
-      "Centiped",
-      "Centipejd"
+      "Noj",
+      "Žabu"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1301,11 +1305,11 @@
     "topic": "Gaming",
     "question": "Kako se zove tvorac serijala trkaćih videoigara Gran Turismo i dugogodišnji čelnik studija Polyphony Digital?",
     "answers": [
+      "Polyphony Digital",
       "Kazunori Yamauchi",
-      "Kazunori Jamauči",
-      "Yamauchi",
-      "Jamauči"
+      "Sony Interactive Entertainment"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -1314,10 +1318,11 @@
     "topic": "Gaming",
     "question": "Kako se u serijalu videoigara Civilization naziva vrsta pobjede povezana sa znanstvenim napretkom i svemirskim programom?",
     "answers": [
-      "Science Victory",
-      "Znanstvena pobjeda",
-      "Scajenc Viktori"
+      "Machines",
+      "Crvene",
+      "Science Victory"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -1326,8 +1331,11 @@
     "topic": "Gaming",
     "question": "Kojom je troslovnom kraticom bio poznat serijal nogometnih videoigara Pro Evolution Soccer?",
     "answers": [
-      "PES"
+      "FUT",
+      "PES",
+      "AWP"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -1337,9 +1345,10 @@
     "question": "Koji je studio stvorio serijal videoigara Uncharted?",
     "answers": [
       "Naughty Dog",
-      "Noti Dog",
-      "Nadi Dog"
+      "DICE",
+      "FromSoftware"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1349,12 +1358,10 @@
     "question": "Na kojoj se stvarnoj japanskoj trkaćoj stazi odvija utrka u arkadnoj videoigri Pole Position iz 1982.g.?",
     "answers": [
       "Fuji Speedway",
-      "Fudži Spidvej",
-      "Fuji",
-      "Fudži",
-      "Spidvej",
-      "Speedway"
+      "Joe Musashi",
+      "Peter Pepper"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1363,13 +1370,11 @@
     "topic": "Gaming",
     "question": "Kako se zove arkadna videoigra iz 1985.g. u kojoj igrač na biciklu dostavlja novine, izbjegavajući automobile, pse i druge prepreke?",
     "answers": [
-      "Paperboy",
-      "Pejperboj",
-      "Papar Boy",
-      "Pejper boj",
-      "Dostavljač novina",
-      "Novinski dostavljač"
+      "Asteroids",
+      "Gradius",
+      "Paperboy"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -1378,9 +1383,11 @@
     "topic": "Gaming",
     "question": "Kako se naziva zeleni kristal koji lebdi iznad glave aktivnog lika u serijalu videoigara The Sims?",
     "answers": [
-      "Plumbob",
-      "Plambob"
+      "Simlish",
+      "Simovi",
+      "Plumbob"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -1389,10 +1396,11 @@
     "topic": "Gaming",
     "question": "Kako se zvala arkadna videoigra iz 1976.g. koju se često navodi kao jednog od najranijih prethodnika kasnije popularne igre Snake?",
     "answers": [
+      "Galaxian",
       "Blockade",
-      "Blokejd",
-      "Blokada"
+      "Stanford"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -1402,8 +1410,10 @@
     "question": "Koja je japanska kompanija razvila arkadnu videoigru Dig Dug?",
     "answers": [
       "Namco",
-      "Nemko"
+      "Sega",
+      "Capcom"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1412,19 +1422,11 @@
     "topic": "Gaming",
     "question": "Kako se u serijalu Dark Souls nazivaju mjesta odmora koja igraču služe kao kontrolne točke?",
     "answers": [
-      "Bonfires",
-      "Bonfire",
-      "Lomače",
-      "Lomača",
-      "Logorske vatre",
-      "Logorska vatra",
-      "Bonfajer",
-      "Bonfajers",
-      "Logorske",
-      "Logorska",
-      "Logorova",
-      "Logor"
+      "Simovi",
+      "Magnavox",
+      "Bonfires"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -1434,8 +1436,10 @@
     "question": "Koji je član obitelji Simpson otet zajedno s dijamantom na početku radnje arkadne videoigre The Simpsons?",
     "answers": [
       "Maggie",
-      "Megi"
+      "Konami",
+      "Bart"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1444,9 +1448,11 @@
     "topic": "Gaming",
     "question": "Kako se zove mačevalac iz serijala videoigara Tekken, vođa klana Manji, koji se pojavljuje i u serijalu borilačkih videoigara Soulcalibur?",
     "answers": [
+      "Jin Kazama",
       "Yoshimitsu",
-      "Jošimitsu"
+      "Kuma"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -1456,8 +1462,10 @@
     "question": "Kako se zove zeleni borac iz Brazila koji u arkadnoj videoigri Street Fighter II može napadati protivnike električnom energijom, a ime, iako je muško, dijeli s jednom hrvatskom atletičarkom?",
     "answers": [
       "Blanka",
-      "Blenka"
+      "Aku Aku",
+      "Gordon Freeman"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1466,9 +1474,11 @@
     "topic": "Gaming",
     "question": "Kako se zove Diabloov demonski brat koji nosi titulu Lord of Hatred (Gospodar Mržnje) i ima važnu ulogu u videoigri Diablo IV?",
     "answers": [
-      "Mephisto",
-      "Mefisto"
+      "Farah",
+      "Baal",
+      "Mephisto"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -1478,8 +1488,10 @@
     "question": "Koja je kompanija razvila i objavila videoigru Prince of Persia: The Sands of Time 2003.g.?",
     "answers": [
       "Ubisoft",
-      "Ubisoft Montreal"
+      "Vizier",
+      "Farah"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1489,10 +1501,10 @@
     "question": "Koje se voće pojavljuje kao prvi bonus koji Pac-Man može pojesti nakon što očisti određeni broj točkica?",
     "answers": [
       "Trešnja",
-      "Trišnja",
-      "Cherry",
-      "Čeri"
+      "Blinky",
+      "Japanu"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1501,11 +1513,11 @@
     "topic": "Gaming",
     "question": "Kako se zove grad iz igre Super Mario Odyssey koji izgledom podsjeća na New York, u kojem je Pauline gradonačelnica i koji obiluje referencama na originalni Donkey Kong?",
     "answers": [
+      "Lost Heaven",
       "New Donk City",
-      "Nju Donk Siti",
-      "New Donk",
-      "Nju Donk"
+      "Liberty City"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -1514,11 +1526,11 @@
     "topic": "Gaming",
     "question": "Kako se zove božanska vladarica iz videoigre Elden Ring čije je razbijanje Elden Ringa pokrenulo ključne događaje priče?",
     "answers": [
+      "Lands Between",
       "Queen Marika",
-      "Marika",
-      "Kraljica Marika",
-      "Marika"
+      "Margit"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -1527,9 +1539,11 @@
     "topic": "Gaming",
     "question": "Kako se zove zmajoliki neprijatelj koji bljuje vatru u arkadnoj videoigri Dig Dug?",
     "answers": [
-      "Fygar",
-      "Figar"
+      "Pooka",
+      "Avionom",
+      "Fygar"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -1538,9 +1552,11 @@
     "topic": "Gaming",
     "question": "Kako se zove Namcova arkadna videoigra iz 1982.g. u kojoj junak kopa tunele pod zemljom i pumpom napuhuje neprijatelje?",
     "answers": [
+      "Tekken",
       "Dig Dug",
-      "Dig Dag"
+      "Frogger"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -1549,8 +1565,11 @@
     "topic": "Gaming",
     "question": "Koja je kompanija 1981.g. objavila arkadnu videoigru Tempest?",
     "answers": [
+      "Gottlieb",
+      "Williams",
       "Atari"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -1559,11 +1578,11 @@
     "topic": "Gaming",
     "question": "Koji je studio razvio videoigre Horizon Zero Dawn i Horizon Forbidden West?",
     "answers": [
-      "Guerrilla Games",
-      "Guerrilla",
-      "Gerila Games",
-      "Gerila"
+      "Nora",
+      "Remedy Entertainment",
+      "Guerrilla Games"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -1572,11 +1591,11 @@
     "topic": "Gaming",
     "question": "Koji je dizajner osmislio koncept arkadne videoigre Joust, uključujući neobičnu ideju vitezova na letećim pticama?",
     "answers": [
+      "Kornjače",
       "John Newcomer",
-      "Džon Njukomer",
-      "Newcomer",
-      "Njukomer"
+      "Joust"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -1586,10 +1605,10 @@
     "question": "Koja je znanstveno-fantastična strateška igra iz 1998. postala toliko popularan e-sport u Južnoj Koreji da su se mečevi prenosili na nacionalnoj televiziji?",
     "answers": [
       "StarCraft",
-      "Starkraft",
-      "Star Craft",
-      "Star Kraft"
+      "Battlefield",
+      "Civilization"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1598,10 +1617,11 @@
     "topic": "Gaming",
     "question": "Kako se zove kraljevstvo u kojem se odvija velik dio igara iz serijala The Legend of Zelda i kojim tradicionalno vlada Zeldina kraljevska obitelj?",
     "answers": [
-      "Hyrule",
-      "Hajrule",
-      "Hajrul"
+      "Lordran",
+      "Zelda",
+      "Hyrule"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -1610,10 +1630,11 @@
     "topic": "Gaming",
     "question": "Koji predmet u PUBG-u igrač nosi na glavi radi dodatne zaštite od pogodaka?",
     "answers": [
-      "Kaciga",
-      "Helmet",
-      "Kacigu"
+      "Torrent",
+      "Avionom",
+      "Kaciga"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -1622,8 +1643,11 @@
     "topic": "Gaming",
     "question": "Kojom se kraticom godinama nazivao FIFA Ultimate Team, jedan od najpopularnijih načina igranja nogometne videoigre FIFA?",
     "answers": [
+      "AWP",
+      "PES",
       "FUT"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -1633,8 +1657,10 @@
     "question": "Kako se zove mali ružičasti Nintendov junak koji može usisavati neprijatelje i preuzimati njihove sposobnosti?",
     "answers": [
       "Kirby",
-      "Kirbi"
+      "Chuck",
+      "Noj"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1643,17 +1669,11 @@
     "topic": "Gaming",
     "question": "Kojom prirodnom pojavom Nick i Tom prekrivaju neprijatelje kako bi ih pretvorili u kugle u arkadnoj videoigri Snow Bros.?",
     "answers": [
+      "George",
       "Snijeg",
-      "Snijegom",
-      "Snow",
-      "Snovs",
-      "Snov",
-      "Snou",
-      "Snig",
-      "Snigom",
-      "Sneg",
-      "Snegom"
+      "Usisavačem"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -1662,10 +1682,11 @@
     "topic": "Gaming",
     "question": "Koja je kompanija izdala originalnu videoigru The Sims 2000.g.?",
     "answers": [
+      "Gottlieb",
       "Electronic Arts",
-      "EA",
-      "Elektronik Arts"
+      "ID Software"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -1674,12 +1695,11 @@
     "topic": "Gaming",
     "question": "Koji je programer samostalno napisao igru RollerCoaster Tycoon u teškom strojnom kodu (Assembly) kako bi savršeno radila na starim računalima?",
     "answers": [
+      "Shigeru Miyamoto",
       "Chris Sawyer",
-      "Kris Sejer",
-      "Sawyer",
-      "Sejer",
-      "Savjer"
+      "Dona Bailey"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -1688,12 +1708,11 @@
     "topic": "Gaming",
     "question": "Kako se zove nastavak Need for Speeda iz 2005.g. u kojem igrač napreduje kroz popis 15 najtraženijih uličnih vozača poznat kao Blacklist?",
     "answers": [
-      "Most Wanted",
-      "Need for Speed Most Wanted",
-      "NFS Most Wanted",
-      "Most Vonted",
-      "Najtraženiji"
+      "Tristram",
+      "Bayview",
+      "Most Wanted"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -1702,9 +1721,11 @@
     "topic": "Gaming",
     "question": "Kako se zove protivnik iz videoigre Elden Ring koji čuva pristup dvorcu Stormveil a poznat je po rečenici 'Foul Tarnished'?",
     "answers": [
-      "Margit",
-      "Margit the Fell Omen"
+      "Lands Between",
+      "Torrent",
+      "Margit"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -1713,9 +1734,11 @@
     "topic": "Gaming",
     "question": "Kako se zove slavni ork iz Warcrafta koji je bio poglavar Horde i jedan od najpoznatijih šamana u svijetu Azerotha?",
     "answers": [
+      "Erangel",
       "Thrall",
-      "Tral"
+      "Gljiva"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -1725,11 +1748,10 @@
     "question": "Kako se zvao Konamijev nogometni serijal poznat u Japanu pod nazivom Winning Eleven, a na mnogim međunarodnim tržištima kao Pro Evolution Soccer?",
     "answers": [
       "Pro Evolution Soccer",
-      "PES",
-      "Pro Evolušn soker",
-      "Pro Evolušn",
-      "Pro Evolution"
+      "Konami",
+      "E Football"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1738,9 +1760,11 @@
     "topic": "Gaming",
     "question": "Kako se zove glavni grad ljudskog kraljevstva u videoigri World of Warcraft?",
     "answers": [
+      "Vic Viper",
       "Stormwind",
-      "Stormvind"
+      "Bayview"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -1749,8 +1773,11 @@
     "topic": "Gaming",
     "question": "Kako se zove medvjed iz serijala videoigara Tekken koji je treniran u borilačkim vještinama, pojavljuje se kao igrivi borac i ljubimac je Heihachija Mishime?",
     "answers": [
-      "Kuma"
+      "Kuma",
+      "Koko",
+      "Jin Kazama"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1760,10 +1787,10 @@
     "question": "Kako se zove kuhar kojim igrač upravlja u arkadnoj videoigri BurgerTime?",
     "answers": [
       "Peter Pepper",
-      "Piter Peper",
-      "Pepper",
-      "Peper"
+      "Avionom",
+      "Joe Musashi"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1772,9 +1799,11 @@
     "topic": "Gaming",
     "question": "Kako se zove demonsko čudovište iz videoigre Doom, veliko plutajuće okruglo stvorenje s jednim velikim okom?",
     "answers": [
+      "Lordran",
       "Cacodemon",
-      "Kakodemon"
+      "Black Ops"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -1783,11 +1812,11 @@
     "topic": "Gaming",
     "question": "Kako se zove totalitarna izvanzemaljska sila koja kontrolira Zemlju u videoigri Half-Life 2?",
     "answers": [
-      "The Combine",
-      "Combine",
-      "Kombajn",
-      "Kombinat"
+      "Montana",
+      "Pagan Min",
+      "The Combine"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -1796,10 +1825,11 @@
     "topic": "Gaming",
     "question": "Koja je kompanija 1981.g. objavila arkadnu videoigru Defender?",
     "answers": [
+      "Atari",
       "Williams",
-      "Vilijams",
-      "Viliams"
+      "Gottlieb"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -1809,20 +1839,10 @@
     "question": "Koju je arkadnu igricu 1979.g. osmislio mladi japanski dizajner Toru Iwatani?",
     "answers": [
       "Pac Man",
-      "Pacman",
-      "Pekmen",
-      "Pek Men",
-      "Pak Man",
-      "PAC men",
-      "Pakman",
-      "Pakmen",
-      "Pak Men",
-      "Pac Men",
-      "Pac Mana",
-      "Pakmana",
-      "Pakmena",
-      "Pak Mena"
+      "Atari",
+      "Tomohiro Nishikado"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1831,10 +1851,11 @@
     "topic": "Gaming",
     "question": "Kako se zove gorila, jedan od tri igriva čudovišta u arkadnoj videoigri Rampage iz 1986.g.?",
     "answers": [
+      "Lizzie",
       "George",
-      "Grgo",
-      "Džordž"
+      "Avionom"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -1844,13 +1865,10 @@
     "question": "Koje je zanimanje Mario izvorno imao u igri Donkey Kong iz 1981.g., prije nego što je u kasnijim igrama postao poznat kao vodoinstalater?",
     "answers": [
       "Stolar",
-      "Carpenter",
-      "Karpenter",
-      "Tesar",
-      "Drvodjelja",
-      "Drvodjelnik",
-      "Drvoprerađivač"
+      "Donkey Kong",
+      "Sparx"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1860,11 +1878,10 @@
     "question": "Koliko atletskih disciplina sadrži originalna arkadna videoigra Track & Field iz 1983.g.?",
     "answers": [
       "Šest",
-      "Six",
-      "6",
-      "Siks",
-      "VI"
+      "Spy Hunter",
+      "Joust"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1873,11 +1890,11 @@
     "topic": "Gaming",
     "question": "Koja je dizajnerica zajedno s Edom Loggom radila na Atarijevoj arkadnoj videoigri Centipede?",
     "answers": [
-      "Dona Bailey",
-      "Dona Bejli",
-      "Bailey",
-      "Bejli"
+      "Peter Pepper",
+      "Stonoga",
+      "Dona Bailey"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -1886,9 +1903,11 @@
     "topic": "Gaming",
     "question": "Kako se zove crna ptica iz Angry Birdsa čija je posebna sposobnost eksplozija, zbog čega izgledom i funkcijom podsjeća na jednu eksplozivnu napravu?",
     "answers": [
-      "Bomb",
-      "Bomba"
+      "Chuck",
+      "Matilda",
+      "Bomb"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -1897,11 +1916,11 @@
     "topic": "Gaming",
     "question": "Kako se zove izvanzemaljska rasa iz videoigre StarCraft poznata po rojevima bioloških jedinica i sposobnosti brzog razmnožavanja?",
     "answers": [
-      "Zerg",
-      "Zergovi",
-      "Zergs",
-      "Zergi"
+      "Rivia",
+      "Mars",
+      "Zerg"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -1910,8 +1929,11 @@
     "topic": "Gaming",
     "question": "Koja je japanska kompanija razvila arkadnu videoigru Frogger, objavljenu 1981.g.?",
     "answers": [
-      "Konami"
+      "Sega",
+      "Konami",
+      "Capcom"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -1920,8 +1942,11 @@
     "topic": "Gaming",
     "question": "Koja japanska kompanija razvija nogometni serijal eFootball, ranije poznat kao Pro Evolution Soccer?",
     "answers": [
-      "Konami"
+      "Pro Evolution Soccer",
+      "Konami",
+      "E Football"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -1931,13 +1956,10 @@
     "question": "Iz koje je države kompanija Nokia, čiji su mobilni telefoni pomogli pretvoriti Snake u jednu od najpoznatijih mobilnih igara svog vremena?",
     "answers": [
       "Finske",
-      "Finland",
-      "Finlend",
-      "Finska",
-      "Finns",
-      "Fins",
-      "Fin"
+      "Pagan Min",
+      "Japanu"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1947,9 +1969,10 @@
     "question": "Kako se zove serijal pucačkih videoigara čiji je prvi nastavak iz 2003.g. bio smješten u Drugi svjetski rat, a kasnije je dobio podserijale Modern Warfare i Black Ops?",
     "answers": [
       "Call of Duty",
-      "COD",
-      "Kal of Djuti"
+      "Civilization",
+      "Age of Empires"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1959,11 +1982,10 @@
     "question": "Kako se zove veliki crni zmaj kojeg igrač susreće u dimenziji The End i čijim se porazom prikazuje završna sekvenca Minecrafta?",
     "answers": [
       "Ender Dragon",
-      "Ender zmaj",
-      "Enderdragon",
-      "Ender",
-      "Enderzmaj"
+      "Peter Pepper",
+      "Simovi"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1973,12 +1995,10 @@
     "question": "Koji je sport tema Konamijeva serijala videoigara Pro Evolution Soccer odnosno eFootball?",
     "answers": [
       "Nogomet",
-      "Football",
-      "Soccer",
-      "Futbal",
-      "Fuzbal",
-      "Soker"
+      "Simovi",
+      "Thunderjaw"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1987,8 +2007,11 @@
     "topic": "Gaming",
     "question": "Koja je prva videoigra ikada odigrana u svemiru, kada ju je ruski kozmonaut 1993. godine ponio na postaju Mir?",
     "answers": [
-      "Tetris"
+      "Danska",
+      "Tetris",
+      "Cave Game"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -1997,11 +2020,11 @@
     "topic": "Gaming",
     "question": "Koja je kompanija razvila originalnu videoigru Doom iz 1993.g.?",
     "answers": [
-      "ID Software",
-      "ID softver",
-      "Aj di Softver",
-      "Ajdi softver"
+      "Data East",
+      "Irem",
+      "ID Software"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -2010,9 +2033,11 @@
     "topic": "Gaming",
     "question": "Na mobilnim telefonima kojeg je finskog proizvođača igra Snake krajem 1990-ih stekla ogromnu popularnost?",
     "answers": [
+      "Farah",
       "Nokia",
-      "Nokija"
+      "Japanu"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -2022,12 +2047,10 @@
     "question": "Kako se zove maskirani borac iz serijala videoigara Tekken koji nosi crnu masku jaguara, koristi profesionalno hrvanje i izvorno je predstavljen kao Kingov suparnik?",
     "answers": [
       "Armor King",
-      "Armour King",
-      "Armor King",
-      "Oklopljeni King",
-      "Armour",
-      "Armor"
+      "Paul Phoenix",
+      "Kazuya Mishima"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -2036,11 +2059,11 @@
     "topic": "Gaming",
     "question": "Kako se zove fizičar kojim igrač upravlja u serijalu videoigara Half-Life?",
     "answers": [
+      "Battlefield",
       "Gordon Freeman",
-      "Gordon Friman",
-      "Freeman",
-      "Friman"
+      "Civilization"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -2049,9 +2072,11 @@
     "topic": "Gaming",
     "question": "Koji član Ninja kornjača koristi dvije katane kao svoje glavno oružje u arkadnoj videoigri Teenage Mutant Ninja Turtles?",
     "answers": [
-      "Leonardo",
-      "Leo"
+      "Shredder",
+      "Bart",
+      "Leonardo"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -2060,9 +2085,11 @@
     "topic": "Gaming",
     "question": "Koji je legendarni lik iz Nintendovih videoigara dobio svoj prepoznatljivi izgled dijelom zbog tehničkih ograničenja ranih arkadnih strojeva, pa mu je Shigeru Miyamoto stavio kapu kako ne bi morao detaljno prikazivati i animirati kosu, dok su veliki brkovi pomogli da se njegovo lice i nos jasnije razaznaju na malom broju piksela?",
     "answers": [
+      "Civilization",
       "Super Mario",
-      "Mario"
+      "Battlefield"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -2072,9 +2099,10 @@
     "question": "Kako se zove Atarijeva arkadna videoigra iz 1985.g. u kojoj do četiri igrača istodobno istražuju tamnice pune čudovišta i blaga?",
     "answers": [
       "Gauntlet",
-      "Gantlet",
-      "Guntlet"
+      "Asteroids",
+      "Paperboy"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -2083,14 +2111,11 @@
     "topic": "Gaming",
     "question": "Kako se zove Sonyjeva igraća konzola koja je prvi put objavljena u Japanu 1994.g.?",
     "answers": [
-      "PlayStation",
-      "Plejstejšn",
-      "Play Station",
-      "Plej Stejšn",
-      "Ps",
-      "Pi Es",
-      "Pies"
+      "Xbox",
+      "Dreamcast",
+      "PlayStation"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -2099,11 +2124,11 @@
     "topic": "Gaming",
     "question": "Blinky je crven, Pinky rozi, Inky plavi a Clyde koje boje?",
     "answers": [
-      "Narancaste",
-      "Narančast",
-      "Orange",
-      "Orendž"
+      "Pac Man",
+      "Zelene",
+      "Narancaste"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -2112,13 +2137,11 @@
     "topic": "Gaming",
     "question": "Kako se zove firentinski plemić i Assassin koji je glavni junak igara Assassin's Creed II, Brotherhood i Revelations?",
     "answers": [
-      "Ezio Auditore",
-      "Ezio",
-      "Ecio Auditore",
-      "Auditore",
-      "Ecio Auditore",
-      "Ecio"
+      "Master Chief",
+      "Crash Bandicoot",
+      "Ezio Auditore"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -2128,9 +2151,10 @@
     "question": "Kako se zove indijski borac iz arkadne videoigre Street Fighter II, poznat po rastezljivim udovima i napadima vatrom?",
     "answers": [
       "Dhalsim",
-      "Dalsim",
-      "Delsim"
+      "Metro City",
+      "Vega"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -2139,8 +2163,11 @@
     "topic": "Gaming",
     "question": "Koji bog iz grčke mitologije uskrsava glavnog junaka na početku arkadne videoigre Altered Beast?",
     "answers": [
-      "Zeus"
+      "Zeus",
+      "Vukodlak",
+      "Jake"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -2149,8 +2176,11 @@
     "topic": "Gaming",
     "question": "Koja je japanska kompanija 1983.g. objavila atletsku arkadnu videoigru Track & Field?",
     "answers": [
+      "Sega",
+      "Bally Midway",
       "Konami"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -2160,10 +2190,10 @@
     "question": "Kako se zvala američka organizacija osnovana 1981.g. s ciljem bilježenja najboljih rezultata i rekorda u arkadnim videoigrama?",
     "answers": [
       "Twin Galaxies",
-      "Tvin Galaksis",
-      "Galaktičke blizanke",
-      "Glaktički blizanci"
+      "Lordran",
+      "Final Fantasy"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -2173,18 +2203,10 @@
     "question": "Kako se zove princeza i vladarica Kraljevstva gljiva iz serijala videoigara Super Mario, koju glavni antagonist Bowser često otima, a Mario potom spašava?",
     "answers": [
       "Princess Peach",
-      "Peach",
-      "Princeza Peach",
-      "Princes Peach",
-      "Princeza Pič",
-      "Pič",
-      "Princes Pič",
-      "Toadstool",
-      "Todstol",
-      "Todstul",
-      "Toadstul",
-      "Toadstol"
+      "Zelda",
+      "Bowser"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -2193,12 +2215,11 @@
     "topic": "Gaming",
     "question": "Kako se zove kineska borkinja iz serijala videoigara Tekken koja je debitirala u Tekkenu 3, prijateljica je Jina Kazame i poznata po želji da izgradi vlastiti zabavni park?",
     "answers": [
+      "Zagreb",
       "Ling Xiaoyu",
-      "Xiaoyu",
-      "Ling Sjaoju",
-      "Sjaoju",
-      "Ling"
+      "Wonders"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -2208,8 +2229,10 @@
     "question": "Kako se zove izmišljena himalajska država u kojoj se odvija radnja videoigre Far Cry 4?",
     "answers": [
       "Kyrat",
-      "Kirat"
+      "Montana",
+      "Pagan Min"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -2218,21 +2241,11 @@
     "topic": "Gaming",
     "question": "Za koju je nekad popularnu igru, dizajner Toru Iwatani dobio inspiraciju gledajući u Pizzu kojoj je nedostajao jedan komad?",
     "answers": [
-      "Pac Man",
-      "Pacman",
-      "Pekmen",
-      "Pek Men",
-      "Pak Man",
-      "PAC men",
-      "Pakman",
-      "Pakmen",
-      "Pak Men",
-      "Pac Men",
-      "Pac Mana",
-      "Pakmana",
-      "Pakmena",
-      "Pak Mena"
+      "Blockade",
+      "Uskrs",
+      "Pac Man"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -2241,8 +2254,11 @@
     "topic": "Gaming",
     "question": "Koja je japanska kompanija objavila originalnu arkadnu videoigru Space Invaders 1978.g.?",
     "answers": [
-      "Taito"
+      "Taito",
+      "Irem",
+      "Gottlieb"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -2252,9 +2268,10 @@
     "question": "Koju je arkadnu igru kompanija Gremlin objavila 1976.g., a njezin princip kretanja i izbjegavanja vlastitog traga kasnije je postao temelj brojnih Snake igara?",
     "answers": [
       "Blockade",
-      "Blokejd",
-      "Blokada"
+      "Gremlin Industries",
+      "Williams"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -2263,9 +2280,11 @@
     "topic": "Gaming",
     "question": "Kako se zove plavokosa čarobnica iz League of Legendsa poznata po sposobnosti Final Spark?",
     "answers": [
+      "Aku Aku",
       "Lux",
-      "Luks"
+      "Blanka"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -2274,12 +2293,11 @@
     "topic": "Gaming",
     "question": "Kako se nazivaju posebne građevine poput piramida i Kolosa koje u serijalu videoigara Civilization daju velike bonuse civilizaciji koja ih izgradi?",
     "answers": [
+      "Gradius",
       "Wonders",
-      "Čuda",
-      "Svjetska čuda",
-      "World Wonders",
-      "Vorld vonders"
+      "Bayview"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -2289,12 +2307,10 @@
     "question": "U kojoj je državi nastala popularna igra Pac Man?",
     "answers": [
       "Japanu",
-      "Japan",
-      "Džepen",
-      "Jepen",
-      "Nihonu",
-      "Nihon"
+      "Danska",
+      "Montana"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -2304,10 +2320,10 @@
     "question": "Kako se zove serijal povijesnih strateških videoigara u stvarnom vremenu čiji je prvi nastavak 1997.g. razvio Ensemble Studios?",
     "answers": [
       "Age of Empires",
-      "Ejdž of Empajers",
-      "Dobar carstva",
-      "Doba kraljevstva"
+      "Call of Duty",
+      "Civilization"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -2316,9 +2332,11 @@
     "topic": "Gaming",
     "question": "Kako se zove vitez kojim igrač upravlja u Capcomovoj arkadnoj videoigri Ghosts 'n Goblins iz 1985.g.?",
     "answers": [
+      "Peter Pepper",
       "Arthur",
-      "Artur"
+      "Vic Viper"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -2327,12 +2345,11 @@
     "topic": "Gaming",
     "question": "Kako se zove kriminalna obitelj kojoj se Tommy Angelo pridružuje u prvoj videoigri Mafia?",
     "answers": [
-      "Salieri",
-      "Salijeri",
-      "Salieris",
-      "Salierevi",
-      "Salierovi"
+      "Xen",
+      "Zelene",
+      "Salieri"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -2341,9 +2358,11 @@
     "topic": "Gaming",
     "question": "Kako se zove arkadna videoigra iz 1979. kojoj je Namcova Galaga izravni nastavak?",
     "answers": [
-      "Galaxian",
-      "Galaksijan"
+      "Dig Dug",
+      "Asteroids",
+      "Galaxian"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -2353,8 +2372,10 @@
     "question": "Kako se zvala iznimno skupa igraća konzola japanske kompanije SNK, poznata po tome što je igračima kod kuće nudila iskustvo vrlo blisko tadašnjim arkadnim igrama?",
     "answers": [
       "Neo Geo",
-      "NatGeo"
+      "Dreamcast",
+      "PlayStation"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -2364,10 +2385,10 @@
     "question": "Kako se zove Nintendova prijenosna igraća konzola iz 1989.g. koja je postala veliki svjetski hit, između ostalog zahvaljujući Tetrisu?",
     "answers": [
       "Game Boy",
-      "Gameboy",
-      "Gejm Boj",
-      "Gejmboj"
+      "Dreamcast",
+      "PlayStation"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -2377,8 +2398,10 @@
     "question": "Kako se zove izmišljeni svijet u kojem se odvija najveći dio radnje MMORPG videoigre World of Warcraft?",
     "answers": [
       "Azeroth",
-      "Azerot"
+      "New York",
+      "Empire Bay"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -2387,13 +2410,11 @@
     "topic": "Gaming",
     "question": "Koje je godine u Japanu prvi put objavljena legendarna Nintendova igrica Super Mario Bros.?",
     "answers": [
+      "1960",
       "1985",
-      "Tisuću devetsto osamdeset pet",
-      "Hiljadu devet stotina osamdeset pet",
-      "MCMLXXXV",
-      "85",
-      "Osamdeset pete"
+      "1995"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -2402,13 +2423,11 @@
     "topic": "Gaming",
     "question": "Kako se zove serijal videoigara čiji je protagonist perzijski princ, a jedan od njegovih najpoznatijih nastavaka nosi podnaslov The Sands of Time?",
     "answers": [
+      "Age of Empires",
       "Prince of Persia",
-      "Princ Perzije",
-      "Princ od Perzije",
-      "Perzijski Princ",
-      "Princ of Perža",
-      "Princ of Perzija"
+      "Need for Speed"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -2418,13 +2437,10 @@
     "question": "Kako se zove vojnik iz igre Call of Duty prepoznatljiv po maski s motivom ljudske lubanje?",
     "answers": [
       "Ghost",
-      "Simon Riley",
-      "Sajmon Rajli",
-      "Duh",
-      "Gost",
-      "Riley",
-      "Rajli"
+      "Captain Price",
+      "Vega"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -2433,10 +2449,11 @@
     "topic": "Gaming",
     "question": "Koja je kompanija razvila serijale videoigara StarCraft, Warcraft i Diablo?",
     "answers": [
-      "Blizzard Entertainment",
-      "Blizzard",
-      "Blizard"
+      "Electronic Arts",
+      "ID Software",
+      "Blizzard Entertainment"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -2445,11 +2462,11 @@
     "topic": "Gaming",
     "question": "Kako se zove japanski dizajner koji je osmislio i programirao originalnu igricu Space Invaders?",
     "answers": [
+      "Pac Man",
       "Tomohiro Nishikado",
-      "Tomohiro Nišikado",
-      "Nishikado",
-      "Nišikado"
+      "Taito"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -2459,10 +2476,10 @@
     "question": "Kako se u videoigri Pokémon GO nazivaju lokacije na karti na kojima igrači mogu skupljati predmete poput Poké lopti?",
     "answers": [
       "PokéStop",
-      "Poke Stop",
-      "Poke Stap",
-      "Pokestap"
+      "Pokémone",
+      "Bob"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -2472,8 +2489,10 @@
     "question": "Kako se zove princeza koja prati Princa i igra ključnu ulogu u videoigri Prince of Persia: The Sands of Time?",
     "answers": [
       "Farah",
-      "Fara"
+      "Zelda",
+      "Sparx"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -2482,8 +2501,11 @@
     "topic": "Gaming",
     "question": "U serijalu videoigara Crash Bandicoot, kako se zove čarobna maska koja pomaže Crashu i štiti ga od neprijatelja?",
     "answers": [
-      "Aku Aku"
+      "Gordon Freeman",
+      "Aku Aku",
+      "Crash Bandicoot"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -2492,8 +2514,11 @@
     "topic": "Gaming",
     "question": "Koja je japanska kompanija 1989.g. objavila arkadnu videoigru Golden Axe?",
     "answers": [
+      "Konami",
+      "Sony",
       "Sega"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -2503,8 +2528,10 @@
     "question": "Kako se zove maskirani profesionalni hrvač iz serijala videoigara Tekken koji nosi prepoznatljivu masku jaguara i koristi brojne profesionalne hrvačke zahvate?",
     "answers": [
       "King",
-      "Kralj"
+      "Kuma",
+      "Yoshimitsu"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -2514,8 +2541,10 @@
     "question": "Kako se zove demon koji daje ime serijalu akcijskih RPG videoigara Diablo i nosi titulu Lord of Terror (Gospodar terora)?",
     "answers": [
       "Diablo",
-      "Dijablo"
+      "Baal",
+      "Mephisto"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -2524,9 +2553,11 @@
     "topic": "Gaming",
     "question": "Koji sport čini drugi dio imena videoigre Tetris, koju je njezin tvorac Aleksej Pažitnov nazvao spajanjem riječi 'tetra' i naziva tog sporta?",
     "answers": [
+      "Nogomet",
       "Tenis",
-      "Tennis"
+      "Bayview"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -2535,9 +2566,11 @@
     "topic": "Gaming",
     "question": "Kako se zove zeleni neprijatelj iz Minecrafta koji se približava igraču, počinje šištati i zatim eksplodira?",
     "answers": [
-      "Creeper",
-      "Kriper"
+      "Kokoš",
+      "Zmija",
+      "Creeper"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -2546,8 +2579,11 @@
     "topic": "Gaming",
     "question": "Koja je američka kompanija 1979.g. objavila arkadnu videoigru Asteroids?",
     "answers": [
+      "Gottlieb",
+      "Williams",
       "Atari"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -2556,11 +2592,11 @@
     "topic": "Gaming",
     "question": "Koju vrstu mitskog bića predstavlja ljubičasti protagonist serijala videoigara Spyro?",
     "answers": [
+      "Machines",
       "Zmaj",
-      "Dragon",
-      "Dregn",
-      "Dregon"
+      "Crvene"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -2570,10 +2606,10 @@
     "question": "Iz kojeg je hrvatskog grada studio Croteam, tvorac serijala videoigara Serious Sam?",
     "answers": [
       "Zagreb",
-      "Zg",
-      "Zga",
-      "Zagreba"
+      "Andrew Ryan",
+      "Ling Xiaoyu"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -2583,11 +2619,10 @@
     "question": "Kako se naziva vrsta videoigre koja se izvorno igrala na posebnim automatima u igraonicama, najčešće uz ubacivanje kovanice ili žetona?",
     "answers": [
       "Arkada",
-      "Arcade",
-      "Arkejd",
-      "Arkeid",
-      "Arked"
+      "Kornjače",
+      "John Newcomer"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -2597,13 +2632,10 @@
     "question": "Kako se zove pustolov i lovac na blago koji je glavni protagonist serijala videoigara Uncharted?",
     "answers": [
       "Nathan Drake",
-      "Nejtan Drake",
-      "Nathan Drejk",
-      "Nejtan Drejk",
-      "Drake",
-      "Drejk",
-      "Natan Drejk"
+      "Geralt",
+      "Max Payne"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -2612,15 +2644,11 @@
     "topic": "Gaming",
     "question": "Na kojoj je konzoli 1997.g. u Japanu objavljena prva videoigra Gran Turismo?",
     "answers": [
-      "PlayStation 1",
-      "PlayStation one",
-      "PS1",
-      "PS One",
-      "Pi es 1",
-      "Pi es von",
-      "Plejstejšn",
-      "PlayStation"
+      "Kazunori Yamauchi",
+      "Polyphony Digital",
+      "PlayStation 1"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -2630,11 +2658,10 @@
     "question": "Kojoj marki automobila pripada M3 GTR, jedan od najprepoznatljivijih automobila videoigre Need for Speed: Most Wanted iz 2005.g.?",
     "answers": [
       "BMW",
-      "Be em.ve",
-      "bmwu",
-      "Beemve",
-      "Beemveu"
+      "FUT",
+      "PES"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -2643,11 +2670,11 @@
     "topic": "Gaming",
     "question": "Među 4 osnovna resursa koja se prikupljaju u videoigri Age of Empires II su drvo, kamen, hrana i što još?",
     "answers": [
-      "Zlato",
-      "Gold",
-      "Aureus",
-      "Au"
+      "Ivana Orleanska",
+      "Bob",
+      "Zlato"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -2657,8 +2684,10 @@
     "question": "Koji je ratnik iz serijala videoigara God of War, prepoznatljiv po blijedoj koži i crvenoj tetovaži, u prvim igrama vodio krvave sukobe s bogovima grčke mitologije?",
     "answers": [
       "Kratos",
-      "Cratos"
+      "Bowser",
+      "Dedede"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -2667,17 +2696,11 @@
     "topic": "Gaming",
     "question": "Iz kojeg prijevoznog sredstva igrači na početku standardnog PUBG meča dolaze prema mapi?",
     "answers": [
+      "Kaciga",
       "Avion",
-      "Zrakoplov",
-      "Plane",
-      "Plejn",
-      "Aviona",
-      "Zrakoplova",
-      "Planes",
-      "Plejns",
-      "Airplane",
-      "Airplejn"
+      "Kokoš"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -2686,12 +2709,11 @@
     "topic": "Gaming",
     "question": "Kako se zove protagonist igre Grand Theft Auto IV, ratni veteran s područja bivše Jugoslavije koji dolazi u Liberty City u potrazi za novim životom?",
     "answers": [
+      "Vito Scaletta",
       "Niko Bellic",
-      "Niko Belić",
-      "Niko Belik",
-      "Bellic",
-      "Belić"
+      "Lincoln Clay"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -2701,8 +2723,10 @@
     "question": "Koja japanska gaming kompanija stoji iza konzola Game Boy, Wii i Switch te likova poput Super Marija i Zelde?",
     "answers": [
       "Nintendo",
-      "Nitendo"
+      "Sega",
+      "Atari"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -2712,10 +2736,10 @@
     "question": "Kako se zove Terran odmetnik i jedan od glavnih protagonista serijala videoigara StarCraft, dugogodišnji saveznik i protivnik Sarah Kerrigan?",
     "answers": [
       "Jim Raynor",
-      "Džim Rejnor",
-      "Raynor",
-      "Rejnor"
+      "Solid Snake",
+      "Kazunori Yamauchi"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -2725,10 +2749,10 @@
     "question": "Kako se zove antagonist videoigre Far Cry 4, ekscentrični diktator izmišljene države Kyrat?",
     "answers": [
       "Pagan Min",
-      "Pejgan Min",
-      "Min",
-      "Pagan"
+      "Kyrat",
+      "Montana"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -2738,11 +2762,10 @@
     "question": "Kako se zove izmišljena farmaceutska korporacija iz Resident Evila čiji je crveno-bijeli logotip postao jedan od najprepoznatljivijih simbola cijele igre?",
     "answers": [
       "Umbrella",
-      "Umbrela",
-      "Umbrella Corporation",
-      "Ambrela",
-      "Kišobran"
+      "Paul Phoenix",
+      "Rivia"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -2751,12 +2774,11 @@
     "topic": "Gaming",
     "question": "Kojim se zajedničkim imenom nazivaju svi padajući dijelovi u tetrisu?",
     "answers": [
+      "Villagers",
       "Tetromine",
-      "Tetromineos",
-      "Tetrominos",
-      "Tetromini",
-      "Tetromin"
+      "Jumpman"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -2765,13 +2787,11 @@
     "topic": "Gaming",
     "question": "Kako se zove borac iz serijala videoigara Tekken koji je sin Kazuye Mishime i Jun Kazame, a prvi put se pojavio u Tekkenu 3?",
     "answers": [
+      "Ling Xiaoyu",
       "Jin Kazama",
-      "Jin",
-      "Đin Kazama",
-      "Đin",
-      "Džin",
-      "Džin Kazuma"
+      "Heihachi Mishima"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -2780,12 +2800,11 @@
     "topic": "Gaming",
     "question": "Kako se zove jedna od najpoznatijih protagonistica videoigre StarCraft koja nakon zaraze postaje Queen of Blades (Kraljica oštrica)?",
     "answers": [
+      "Dedede",
       "Sarah Kerrigan",
-      "Sara Kerrigan",
-      "Sara Kerigan",
-      "Kerrigan",
-      "Kerigan"
+      "Lordran"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -2794,9 +2813,11 @@
     "topic": "Gaming",
     "question": "Koja japanska gaming kompanija stoji iza konzola poput NES-a, Game Boya, Wii-ja i Switcha?",
     "answers": [
-      "Nintendo",
-      "Nitendo"
+      "Handheld",
+      "Wargaming",
+      "Nintendo"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -2805,12 +2826,11 @@
     "topic": "Gaming",
     "question": "Kako se zove veliki kralj Koopa koji je desetljećima jedan od glavnih protivnika Super Marija i koji često otima princezu Peach?",
     "answers": [
-      "Bowser",
-      "Bauzer",
-      "Bauser",
-      "Bovser",
-      "Bovzer"
+      "Princess Peach",
+      "Gljiva",
+      "Bowser"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -2819,17 +2839,11 @@
     "topic": "Gaming",
     "question": "S kojim je kršćanskim blagdanom povezan naziv, kojim se u svijetu videoigara označava skrivena poruka, predmet, šala ili druga tajna koju su autori sakrili u igru?",
     "answers": [
+      "King Pig",
       "Uskrs",
-      "Uskrom",
-      "Vazam",
-      "Vazamom",
-      "Vaskrs",
-      "Vaskrsom",
-      "Easter",
-      "Ister",
-      "Easters",
-      "Isters"
+      "Zelda"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -2839,9 +2853,10 @@
     "question": "Kako se zove tajni istraživački kompleks u kojem na početku prve videoigre Half-Life katastrofalni eksperiment otvara put izvanzemaljskim stvorenjima?",
     "answers": [
       "Black Mesa",
-      "Blek Mesa",
-      "Crna Mesa"
+      "Gordon Freeman",
+      "Lordran"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -2850,8 +2865,11 @@
     "topic": "Gaming",
     "question": "Uz Buba, kako se zove još jedan zmaj kojima igrači upravlja u arkadnoj videoigri Bubble Bobble?",
     "answers": [
+      "Peter Pepper",
+      "Avionom",
       "Bob"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -2860,9 +2878,11 @@
     "topic": "Gaming",
     "question": "Koji je finski studio razvio i 2009.g. objavio originalnu videoigru Angry Birds, iz koje je kasnije nastala velika međunarodna franšiza?",
     "answers": [
-      "Rovio",
-      "Rovio Entertainment"
+      "Donkey Kong",
+      "Crvene",
+      "Rovio"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -2871,8 +2891,11 @@
     "topic": "Gaming",
     "question": "Koja je japanska kompanija 1991.g. razvila arkadnu videoigru The Simpsons, u kojoj zajedno mogu igrati članovi obitelji Simpson?",
     "answers": [
-      "Konami"
+      "Hyrule",
+      "Konami",
+      "Taito"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -2881,9 +2904,11 @@
     "topic": "Gaming",
     "question": "Kako se zove Diablov demonski brat koji u serijalu videoigara Diablo nosi titulu Lord of Destruction (Gospodar razaranja)?",
     "answers": [
+      "Mephisto",
       "Baal",
-      "Bal"
+      "Aku Aku"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -2892,10 +2917,11 @@
     "topic": "Gaming",
     "question": "Kako se zove izmišljeni američki grad u kojem se odvija radnja prve videoigre Mafia iz 2002.g.?",
     "answers": [
+      "Rapture",
       "Lost Heaven",
-      "Izgubljeni Raj",
-      "Last Heven"
+      "Empire Bay"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -2904,11 +2930,11 @@
     "topic": "Gaming",
     "question": "Kako se zove Donkey Kongov manji prijatelj i česti partner, prepoznatljiv po crvenoj kapi s logotipom Nintendo?",
     "answers": [
+      "Kratos",
       "Diddy Kong",
-      "Didi Kong",
-      "Diddy",
-      "Didi"
+      "Yoshi"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -2917,17 +2943,11 @@
     "topic": "Gaming",
     "question": "Koliko cijevi ima prepoznatljiva sačmarica koju protagonist koristi u serijalu videoigara Doom?",
     "answers": [
-      "2",
-      "Dvije",
-      "Svi",
-      "Two",
-      "Tvu",
-      "II",
-      "Obe",
-      "Obedvi",
-      "Dvocjevka",
-      "Dvocijevna"
+      "0",
+      "1",
+      "2"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -2936,17 +2956,11 @@
     "topic": "Gaming",
     "question": "Blinky, Pinky, Inky i Clyde su duhovi iz koje arkadne igrice?",
     "answers": [
-      "Pac Man",
-      "Pacman",
-      "Pekmen",
-      "Pek Men",
-      "Pak Man",
-      "PAC men",
-      "Pakman",
-      "Pakmen",
-      "Pak Men",
-      "Pac Men"
+      "Dhalsim",
+      "Narancaste",
+      "Pac Man"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -2955,9 +2969,11 @@
     "topic": "Gaming",
     "question": "Kako se zove lik s glavom nalik gljivi, jedan od najprepoznatljivijih stanovnika Mushroom Kingdoma u igricama Super Mario?",
     "answers": [
+      "Bob Omb",
       "Toad",
-      "Tod"
+      "Goomba"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -2966,8 +2982,11 @@
     "topic": "Gaming",
     "question": "Koji član obitelji Simpson koristi skateboard kao oružje u arkadnoj videoigri The Simpsons?",
     "answers": [
-      "Bart"
+      "Bart",
+      "Leonardo",
+      "Usisavačem"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -2977,15 +2996,10 @@
     "question": "Koliko metara se pretrči u prvoj atletskoj disciplini koju igrač igra u originalnoj arkadnoj videoigri Track & Field?",
     "answers": [
       "100",
-      "Sto",
-      "Hundred",
-      "Handred",
-      "Hundert",
-      "Handert",
-      "Soma",
-      "C",
-      "Stotinu"
+      "105",
+      "101"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -2994,9 +3008,11 @@
     "topic": "Gaming",
     "question": "Kako se zove arkadna videoigra iz 1986.g. u kojoj zmajevi Bub i Bob zarobljavaju neprijatelje u mjehuriće?",
     "answers": [
+      "Dig Dug",
       "Bubble Bobble",
-      "Babl Bobl"
+      "Out Run"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -3005,10 +3021,11 @@
     "topic": "Gaming",
     "question": "Kako se zove voće koje glavni protagonist videoigre Crash Bandicoot skuplja tijekom razina koje prelazi?",
     "answers": [
-      "Wumpa",
-      "Vumpa",
-      "Vampa"
+      "Crash Bandicoot",
+      "Tommy Angelo",
+      "Wumpa"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3018,10 +3035,10 @@
     "question": "Kako se zove njujorški policajac i protagonist serijala videoigara Max Payne?",
     "answers": [
       "Max Payne",
-      "Maks Pejn",
-      "Payne",
-      "Pejn"
+      "Nathan Drake",
+      "Mona Sax"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -3030,12 +3047,11 @@
     "topic": "Gaming",
     "question": "Koje je boje ptica koja je glavni i najprepoznatljiviji lik serijala videoigara Angry Birds?",
     "answers": [
-      "Crvene",
-      "Crvena",
-      "Red",
-      "Rott",
-      "Rot"
+      "Machines",
+      "Noj",
+      "Crvene"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3044,10 +3060,11 @@
     "topic": "Gaming",
     "question": "Uz protuteroriste koja još suprotstavljena strana čini osnovu većine mečeva u serijalu videoigara Counter-Strike?",
     "answers": [
+      "Simlish",
       "Teroristi",
-      "Terrorists",
-      "Terorists"
+      "Half Life"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -3056,9 +3073,11 @@
     "topic": "Gaming",
     "question": "Kako se zove jedna od dviju glavnih suprotstavljenih frakcija u videoigri World of Warcraft, kojoj tradicionalno pripadaju orci, taureni i trolovi?",
     "answers": [
-      "Horde",
-      "Horda"
+      "Alliance",
+      "Stormwind",
+      "Horde"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3067,13 +3086,11 @@
     "topic": "Gaming",
     "question": "Kako se zove ljudska rasa odnosno frakcija kojom igrač može upravljati uz Zerg i Protoss u strategijskoj videoigri StarCraft?",
     "answers": [
-      "Terran",
-      "Terrani",
-      "Terrans",
-      "Terans",
-      "Terani",
-      "Teransi"
+      "Gordon Freeman",
+      "Civilization",
+      "Terran"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3082,11 +3099,11 @@
     "topic": "Gaming",
     "question": "Koja kompanija razvija videoigru Fortnite i Unreal Engine?",
     "answers": [
-      "Epic Games",
-      "Epic",
-      "Epik Gejms",
-      "Epik"
+      "Valve",
+      "ID Software",
+      "Epic Games"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3095,13 +3112,11 @@
     "topic": "Gaming",
     "question": "Kako se zove područje u kojem se odvija radnja videoigre Elden Ring?",
     "answers": [
-      "Lands Between",
-      "Lends Bitvin",
-      "Zemlja između",
-      "Izmeđuzemlja",
-      "Izmeđuzemlje",
-      "Između zemlja"
+      "Metro City",
+      "Rapture",
+      "Lands Between"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3111,8 +3126,10 @@
     "question": "Kojim se engleskim gaming izrazom naziva vibracija kontrolera koja igraču omogućuje da fizički osjeti udarce, sudare i druge događaje u igri?",
     "answers": [
       "Rumble",
-      "Rambl"
+      "Handheld",
+      "Atari"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -3121,11 +3138,11 @@
     "topic": "Gaming",
     "question": "Kako se zove poznati PlayStationov kontroler predstavljen 1997.g., prepoznatljiv po dvjema analognim palicama i vibraciji?",
     "answers": [
+      "Gamepad",
       "DualShock",
-      "DualŠok",
-      "Dual Shock",
-      "Dual Šok"
+      "Diddy Kong"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -3134,12 +3151,11 @@
     "topic": "Gaming",
     "question": "Svijet kojih ratnih strojeva je kompanija Wargaming oživjela u svojoj poznatoj online videoigri iz 2010.g.?",
     "answers": [
-      "Tenkova",
-      "Tanks",
-      "Tenks",
-      "Tenk",
-      "Tenka"
+      "Stormwind",
+      "Taito",
+      "Tenkova"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3148,22 +3164,11 @@
     "topic": "Gaming",
     "question": "U kojem je velikom povijesnom sukobu smještena radnja videoigre Battlefield 1, objavljene 2016.g.?",
     "answers": [
+      "Leon S. Kennedy",
       "Prvi svjetski rat",
-      "Prvi svjetski",
-      "WWI",
-      "World War I",
-      "1. Svjetski",
-      "1. Svj",
-      "Prvi svjetski",
-      "Vorld var 1",
-      "Vorld var von",
-      "Vorld var jedan",
-      "World one",
-      "Vorld von",
-      "1. World",
-      "World 1",
-      "Svjetski prvi"
+      "Sarah Kerrigan"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -3173,9 +3178,10 @@
     "question": "Kako se zove yordle iz League of Legendsa koji nosi zelenu kapu, koristi puhaljku i postavlja otrovne gljive?",
     "answers": [
       "Teemo",
-      "Timo",
-      "Temo"
+      "King",
+      "Lux"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -3185,9 +3191,10 @@
     "question": "Kako se zove crveni okruglasti neprijatelj s velikim naočalama u arkadnoj videoigri Dig Dug?",
     "answers": [
       "Pooka",
-      "Poka",
-      "Puka"
+      "Fygar",
+      "Avionom"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -3196,8 +3203,11 @@
     "topic": "Gaming",
     "question": "Kako se zove junak odjeven u zeleno koji u većini igara serijala The Legend of Zelda spašava Zeldu?",
     "answers": [
-      "Link"
+      "Hyrule",
+      "Link",
+      "Zelda"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -3206,13 +3216,11 @@
     "topic": "Gaming",
     "question": "Kako se najčešće naziva kontroler koji igrač drži objema rukama i njime upravlja videoigrom na konzoli?",
     "answers": [
+      "Avionom",
       "Gamepad",
-      "Gejmpad",
-      "Game ped",
-      "Gejm ped",
-      "Gejm pad",
-      "Gejmped"
+      "Peter Pepper"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -3221,16 +3229,11 @@
     "topic": "Gaming",
     "question": "Kako se nazivaju golemi zaštitnici u ronilačkim odijelima koji čuvaju Little Sisters u videoigri BioShock?",
     "answers": [
-      "Big Daddies",
-      "Big Daddy",
-      "Veliki tate",
-      "Veliki tata",
-      "Big dedis",
-      "Big dedi",
-      "Velike tatice",
-      "Velike tate",
-      "Veliki tatice"
+      "PokéStop",
+      "Lizzie",
+      "Big Daddies"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3240,8 +3243,10 @@
     "question": "Kako se zove izmišljeni kalifornijski grad, snažno inspiriran Los Angelesom, koji je glavno mjesto radnje igre Grand Theft Auto V?",
     "answers": [
       "Los Santos",
-      "Los Santoš"
+      "Empire Bay",
+      "Liberty City"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -3250,10 +3255,11 @@
     "topic": "Gaming",
     "question": "Kako se zove glavni antagonist videoigre Prince of Persia: The Sands of Time?",
     "answers": [
+      "Farah",
       "Vizier",
-      "Vezir",
-      "Vizir"
+      "Ubisoft"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -3263,8 +3269,10 @@
     "question": "Na kojem je američkom sveučilištu 1972.g. održano natjecanje u videoigri Spacewar!, koje se često navodi kao prvo poznato natjecanje u videoigrama?",
     "answers": [
       "Stanford",
-      "Stenford"
+      "Donkey Kong",
+      "Blockade"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -3273,13 +3281,11 @@
     "topic": "Gaming",
     "question": "Kako se zove čudovište s velikom metalnom piramidalnom kacigom koje je prvi put predstavljeno u igri Silent Hill 2?",
     "answers": [
+      "Donkey Kong",
       "Pyramid Head",
-      "Piramid Head",
-      "Piramid Hed",
-      "Glava piramide",
-      "Piramidska glava",
-      "Piramidska"
+      "PlayStation"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -3288,11 +3294,11 @@
     "topic": "Gaming",
     "question": "Koja kompanija stoji iza gaming serijala koji uz World of Tanks uključuje i naslove World of Warships i World of Warplanes?",
     "answers": [
+      "Microsoft",
       "Wargaming",
-      "Wargejming",
-      "War Gaming",
-      "Var Gejming"
+      "Atari"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -3301,8 +3307,11 @@
     "topic": "Gaming",
     "question": "Kako se zove Namcova arkadna videoigra iz 1981. u kojoj igrač upravlja svemirskim lovcem i puca prema formacijama izvanzemaljskih neprijatelja?",
     "answers": [
-      "Galaga"
+      "Galaga",
+      "Gradius",
+      "Asteroids"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -3312,10 +3321,10 @@
     "question": "Kojim imenom Geralt u svijetu videoigara The Witcher naziva svoje konje, pa se isto ime koristi za različite životinje koje jaše tijekom svojih pustolovina?",
     "answers": [
       "Roach",
-      "Rouč",
-      "Roč",
-      "Roač"
+      "Svinje",
+      "Stonoga"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -3325,8 +3334,10 @@
     "question": "Kako se zove arkadna videoigra iz 1987.g. u kojoj komandosi Bill Rizer i Lance Bean ratuju protiv izvanzemaljske prijetnje?",
     "answers": [
       "Contra",
-      "Kontra"
+      "Final Fantasy",
+      "Taito"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -3336,11 +3347,10 @@
     "question": "Kako se zove supervojnik oznake John-117, glavni junak serijala videoigara Halo, prepoznatljiv po zelenom oklopu?",
     "answers": [
       "Master Chief",
-      "Master Čif",
-      "Master Chif",
-      "Chief",
-      "Čif"
+      "Crash Bandicoot",
+      "Stone"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -3349,10 +3359,11 @@
     "topic": "Gaming",
     "question": "Kojim predmetom Marge Simpson udara neprijatelje u arkadnoj videoigri The Simpsons iz 1991.g.?",
     "answers": [
-      "Usisavačem",
-      "Usisivač",
-      "Usisavač"
+      "Konami",
+      "Bart",
+      "Usisavačem"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3361,9 +3372,11 @@
     "topic": "Gaming",
     "question": "Kako se zove izmišljeni jezik kojim govore likovi u serijalu videoigara The Sims?",
     "answers": [
+      "Plumbob",
       "Simlish",
-      "Simliš"
+      "Simovi"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -3373,12 +3386,10 @@
     "question": "Koja je kompanija 1986.g. objavila arkadnu videoigru Rampage, u kojoj George, Lizzie i Ralph ruše gradove?",
     "answers": [
       "Bally Midway",
-      "Bali Midvej",
-      "Midway",
-      "Midvej",
-      "Bally",
-      "Bali"
+      "Raccoon City",
+      "Liberty City"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -3387,17 +3398,11 @@
     "topic": "Gaming",
     "question": "Kako se danas zove Konamijev nogometni serijal videoigara koji je godinama bio poznat pod nazivom Pro Evolution Soccer?",
     "answers": [
+      "Konami",
       "E Football",
-      "Efootball",
-      "E futbal",
-      "Efutbal",
-      "Enogomet",
-      "E nogomet",
-      "E soccer",
-      "Esoccer",
-      "Esoker",
-      "E soker"
+      "Pro Evolution Soccer"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -3406,12 +3411,11 @@
     "topic": "Gaming",
     "question": "Kako se zove nasmiješeni plavokosi crtani lik u plavo-žutom kombinezonu koji služi kao maskota korporacije Vault-Tec i pojavljuje se na brojnim ikonama i ilustracijama u videoigri Fallout?",
     "answers": [
-      "Vault Boy",
-      "Volt Boj",
-      "Vaultboj",
-      "Vault Boj",
-      "Vaultboy"
+      "Donkey Kong",
+      "Pip Boy",
+      "Vault Boy"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3420,12 +3424,11 @@
     "topic": "Gaming",
     "question": "Kako se zove princ Arthas Menethil iz svijeta Warcrafta nakon što postane gospodar nemrtvih i preuzme moć povezanu s Frozen Throneom (Zaleđeno prijestolje)?",
     "answers": [
+      "Sarah Kerrigan",
       "The Lich King",
-      "Lich King",
-      "Lič King",
-      "Lich",
-      "Lič"
+      "Mighty Eagle"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -3434,10 +3437,11 @@
     "topic": "Gaming",
     "question": "Kako se zove gotovo nezaustavljivo biološko oružje iz Resident Evila 3 koje tijekom igre progoni Jill Valentine?",
     "answers": [
+      "Leon S. Kennedy",
       "Nemesis",
-      "Nemezis",
-      "Nemesis"
+      "Umbrella"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -3446,12 +3450,11 @@
     "topic": "Gaming",
     "question": "Koju životinju igrač vodi kroz promet i preko rijeke u kultnoj arkadnoj videoigri Frogger iz 1981.g.?",
     "answers": [
-      "Žabu",
-      "Žaba",
-      "Frog",
-      "Frogs",
-      "Žabe"
+      "Zmija",
+      "Frogger",
+      "Žabu"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3460,11 +3463,11 @@
     "topic": "Gaming",
     "question": "U koju se zvijer, junak prvi put može preobraziti u arkadnoj videoigri Altered Beast?",
     "answers": [
+      "Noj",
       "Vukodlak",
-      "Vukodlaka",
-      "Werewolf",
-      "Vervolf"
+      "Donkey Kong"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -3473,9 +3476,11 @@
     "topic": "Gaming",
     "question": "Kako se zove japanski borac iz Street Fightera, prepoznatljiv po bijelom giju i crvenoj traci oko glave, koji je jedan od zaštitnih likova serijala?",
     "answers": [
-      "Ryu",
-      "Rju"
+      "Dedede",
+      "Origami",
+      "Ryu"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3485,8 +3490,10 @@
     "question": "Koja je američka kompanija razvila popularnu mobilnu videoigru Pokémon GO, objavljenu 2016.g.?",
     "answers": [
       "Niantic",
-      "Niantik"
+      "Konami",
+      "Williams"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -3495,8 +3502,11 @@
     "topic": "Gaming",
     "question": "Koja je japanska kompanija razvila arkadnu videoigru Shinobi?",
     "answers": [
+      "Namco",
+      "Irem",
       "Sega"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3505,11 +3515,11 @@
     "topic": "Gaming",
     "question": "Kako se zove popularna online videoigra kompanije Wargaming u kojoj se dvije ekipe igrača sukobljavaju upravljajući povijesnim tenkovima i drugim oklopnim vozilima?",
     "answers": [
-      "World of Tanks",
-      "Svijet Tenkova",
-      "Tenkovski svijet",
-      "Vorld of tenks"
+      "Battlefield",
+      "Gauntlet",
+      "World of Tanks"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3518,11 +3528,11 @@
     "topic": "Gaming",
     "question": "Koji je žuti Pokémon postao zaštitno lice čitave Pokémon franšize i najpoznatiji pratitelj Asha Ketchuma u animiranoj seriji?",
     "answers": [
-      "Pikachu",
-      "Pikaču",
-      "Pikacu",
-      "Pikaću"
+      "Aku Aku",
+      "Tenkova",
+      "Pikachu"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3531,11 +3541,11 @@
     "topic": "Gaming",
     "question": "Kako se zove tajanstveni čovjek u odijelu koji se tijekom serijala videoigara Half-Life pojavljuje i promatra Gordona Freemana?",
     "answers": [
+      "Pajser",
       "G Man",
-      "Dži Men",
-      "Gi Men",
-      "G Men"
+      "Gordon Freeman"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -3544,14 +3554,11 @@
     "topic": "Gaming",
     "question": "Koliko igrača standardno čini jednu ekipu u meču videoigre Dota 2?",
     "answers": [
+      "8",
       "5",
-      "Pet",
-      "Five",
-      "Fajv",
-      "V",
-      "Petero",
-      "Petorica"
+      "7"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -3560,10 +3567,11 @@
     "topic": "Gaming",
     "question": "Kako se naziva način igranja po kojem je Fortnite postao globalno poznat, u kojem velik broj igrača pokušava ostati posljednji preživjeli?",
     "answers": [
+      "PlayStation",
       "Battle Royale",
-      "Batl Rojal",
-      "Kraljevska bitka"
+      "Zombies"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -3572,13 +3580,11 @@
     "topic": "Gaming",
     "question": "Koja je kompanija 1983.g. objavila originalnu arkadnu videoigru Spy Hunter?",
     "answers": [
+      "Gottlieb",
       "Bally Midway",
-      "Bali Midvej",
-      "Midway",
-      "Midvej",
-      "Bally",
-      "Bali"
+      "Konami"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -3587,11 +3593,11 @@
     "topic": "Gaming",
     "question": "Kako se u Fortniteu naziva zaštita koja igraču daje dodatnu izdržljivost povrh osnovnog zdravlja?",
     "answers": [
+      "Creeper",
       "Shield",
-      "Šild",
-      "Štit",
-      "Štitnik"
+      "Coleco"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -3601,10 +3607,10 @@
     "question": "Kako se zove izmišljeni američki grad u kojem 1998.g. dolazi do katastrofalne epidemije povezane s korporacijom Umbrella u serijalu videoigara Resident Evil?",
     "answers": [
       "Raccoon City",
-      "Rakun Siti",
-      "Raccoon",
-      "Rakun"
+      "Empire Bay",
+      "Lost Heaven"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -3613,8 +3619,11 @@
     "topic": "Gaming",
     "question": "Kako se zove kraljevstvo u kojem se odvija najveći dio prve videoigre Dark Souls?",
     "answers": [
+      "Sarah Kerrigan",
+      "Hyrule",
       "Lordran"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3623,14 +3632,11 @@
     "topic": "Gaming",
     "question": "Kako se zove stariji učenjak i pripovjedač iz serijala videoigara Diablo poznat po rečenici 'Stay awhile and listen' (ostani malo i slušaj)?",
     "answers": [
+      "Nathan Drake",
       "Deckard Cain",
-      "Dekard Cain",
-      "Dekard Kejn",
-      "Deckard",
-      "Dekart",
-      "Cain",
-      "Kejn"
+      "Max Payne"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -3639,9 +3645,11 @@
     "topic": "Gaming",
     "question": "Kako se zove Segina arkadna videoigra iz 1987.g. u kojoj ninja Joe Musashi spašava otetu djecu svog klana?",
     "answers": [
-      "Shinobi",
-      "Šinobi"
+      "Contra",
+      "Out Run",
+      "Shinobi"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3650,12 +3658,11 @@
     "topic": "Gaming",
     "question": "Kako se zove Crashova mlađa sestra koja se pojavljuje kao igrivi lik u više igara iz serijala Crash Bandicoot?",
     "answers": [
+      "Link",
       "Koko",
-      "Coco Bandicoot",
-      "Coco",
-      "Koko Bandicoot",
-      "Koko Bandikut"
+      "Crash Bandicoot"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -3664,8 +3671,11 @@
     "topic": "Gaming",
     "question": "Koja je japanska kompanija razvila arkadnu svemirsku pucačinu Gradius?",
     "answers": [
-      "Konami"
+      "Vic Viper",
+      "Konami",
+      "Bally Midway"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -3674,10 +3684,11 @@
     "topic": "Gaming",
     "question": "Kako se nazivaju virtualni ljudi kojima igrač upravlja u serijalu videoigara The Sims?",
     "answers": [
+      "Gordon Freeman",
       "Simovi",
-      "Sims",
-      "Sim"
+      "Avionom"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -3686,11 +3697,11 @@
     "topic": "Gaming",
     "question": "Kako se zove najpoznatija mapa videoigre League of Legends na kojoj se standardno igraju mečevi pet protiv pet?",
     "answers": [
-      "Summoner's Rift",
-      "Summoners Rift",
-      "Rascjep prizivača",
-      "Samoners rift"
+      "Erangel",
+      "Lincoln Clay",
+      "Summoner's Rift"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3700,11 +3711,10 @@
     "question": "Koji je jednostavni alat postao prepoznatljivo oružje Gordona Freemana u serijalu videoigara Half-Life?",
     "answers": [
       "Pajser",
-      "Poluga",
-      "Obijač",
-      "Crowbar",
-      "Krovbar"
+      "G Man",
+      "Gordon Freeman"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -3713,9 +3723,11 @@
     "topic": "Gaming",
     "question": "Koji je Nintendov brkati junak, izvorno predstavljen kao Jumpman u igri Donkey Kong iz 1981.g., kasnije postao jedan od najprepoznatljivijih likova u povijesti videoigara?",
     "answers": [
+      "Crash Bandicoot",
       "Super Mario",
-      "Mario"
+      "Dedede"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -3725,10 +3737,10 @@
     "question": "Kako se zajednički nazivaju robotska stvorenja koja nastanjuju svijet serijala videoigara Horizon i često nalikuju životinjama?",
     "answers": [
       "Machines",
-      "Strojevi",
-      "Mašins",
-      "Mašines"
+      "Kokoš",
+      "Zmija"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -3737,10 +3749,11 @@
     "topic": "Gaming",
     "question": "Koji je švedski studio stvorio i razvija serijal videoigara Battlefield?",
     "answers": [
+      "Polyphony Digital",
       "DICE",
-      "EA DICE",
-      "Dajs"
+      "Naughty Dog"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -3749,18 +3762,11 @@
     "topic": "Gaming",
     "question": "Kojim borbenim sredstvom igrač upravlja u arkadnoj videoigri '1942'?",
     "answers": [
-      "Avionom",
-      "Avion",
-      "Avijon",
-      "Zrakoplovom",
-      "Airplane",
-      "Airplejn",
-      "Plane",
-      "Plejn",
-      "Paleom",
-      "Plejnom",
-      "Zrakoplov"
+      "Peter Pepper",
+      "Joe Musashi",
+      "Avionom"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3769,11 +3775,11 @@
     "topic": "Gaming",
     "question": "Koja poznata instrumentalna skladba Henryja Mancinija služi kao glavna glazbena tema arkadne videoigre Spy Hunter?",
     "answers": [
+      "Metro City",
       "Peter Gunn",
-      "Piter Gan",
-      "Gunn",
-      "Gan"
+      "Kornjače"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -3782,9 +3788,11 @@
     "topic": "Gaming",
     "question": "Kako se zove arkadna videoigra iz 1985.g. u kojoj igrač upravlja svemirskim brodom Vic Viper i pomoću posebne trake bira nadogradnje oružja?",
     "answers": [
-      "Gradius",
-      "Gradijus"
+      "Vic Viper",
+      "Bayview",
+      "Gradius"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3793,13 +3801,11 @@
     "topic": "Gaming",
     "question": "Kako se zove serijal platformskih igara koji je 1994.g. na Super Nintendu ponovno snažno popularizirao Donkey Konga, s prvom igrom koju je razvio studio Rare?",
     "answers": [
-      "Donkey Kong Country",
-      "Donki Kong Kantri",
-      "DKC",
-      "Donki Kong Kontri",
-      "Kong Country",
-      "Kong Kontri"
+      "FromSoftware",
+      "Polyphony Digital",
+      "Donkey Kong Country"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3808,15 +3814,11 @@
     "topic": "Gaming",
     "question": "U kojoj je državi razvijena popularna mobilna videoigra Subway Surfers?",
     "answers": [
-      "Danska",
-      "Danskoj",
-      "Danci",
-      "Denmark",
-      "Dansk",
-      "Denmarks",
-      "Denmarku",
-      "Den"
+      "Montana",
+      "Japanu",
+      "Danska"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3825,10 +3827,11 @@
     "topic": "Gaming",
     "question": "Koju je mobilnu videoigru kompanija Niantic 2016.g. pretvorila u svjetski fenomen, potaknuvši igrače da pomoću mobitela traže virtualna bića u stvarnom svijetu?",
     "answers": [
-      "Pokémon GO",
-      "Go",
-      "Go pokemon"
+      "Pokémone",
+      "Microsoft",
+      "Pokémon GO"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3837,8 +3840,11 @@
     "topic": "Gaming",
     "question": "Kako se zove vatreni junak iz videoigre Dota 2 čije sposobnosti uključuju Dragon Slave i Laguna Blade?",
     "answers": [
-      "Lina"
+      "Storm Spirit",
+      "Lina",
+      "Zeus"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -3848,9 +3854,10 @@
     "question": "Kako se u serijalu videoigara The Legend of Zelda zove sveti trokutasti artefakt sastavljen od dijelova Moći, Mudrosti i Hrabrosti?",
     "answers": [
       "Triforce",
-      "Trajfors",
-      "Trifors"
+      "Simlish",
+      "Zelda"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -3860,11 +3867,10 @@
     "question": "Koliko igrača standardno čini jednu ekipu na mapi Summoner's Rift u videoigri League of Legends?",
     "answers": [
       "5",
-      "Pet",
-      "Five",
-      "Fajv",
-      "V"
+      "8",
+      "2"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -3874,8 +3880,10 @@
     "question": "Kako se zove podserijal videoigre Call of Duty koji uključuje likove poput Alexa Masona i Franka Woodsa?",
     "answers": [
       "Black Ops",
-      "Blek Ops"
+      "Lordran",
+      "Cacodemon"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -3885,13 +3893,10 @@
     "question": "Koje prijevozno sredstvo igrač neprestano izbjegava trčeći po tračnicama u videoigri Subway Surfers?",
     "answers": [
       "Vlakove",
-      "Vlak",
-      "Vlake",
-      "Trains",
-      "Train",
-      "Trejns",
-      "Trejn"
+      "Avionom",
+      "Torrent"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -3900,12 +3905,11 @@
     "topic": "Gaming",
     "question": "Kako se zvao Konamijev nogometni serijal prije nego što je preimenovan u eFootball?",
     "answers": [
+      "E Football",
       "Pro Evolution Soccer",
-      "Pro Evolušn soker",
-      "Pro Evolušn",
-      "Pro Evolution",
-      "PES"
+      "FIFA"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -3914,9 +3918,11 @@
     "topic": "Gaming",
     "question": "Kako se zove serijal strateških videoigara u kojem igrač vodi civilizaciju od drevnog do modernog doba a čiji je prvi nastavak objavljen 1991.g.?",
     "answers": [
-      "Civilization",
-      "Civilizacija"
+      "Battlefield",
+      "Gordon Freeman",
+      "Civilization"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3925,11 +3931,11 @@
     "topic": "Gaming",
     "question": "Kako se zove novinarka koja postaje jedna od najvažnijih osoba u životu Nathana Drakea u serijalu videoigara Uncharted?",
     "answers": [
+      "Victor Sullivan",
       "Elena Fisher",
-      "Elena Fišer",
-      "Fisher",
-      "Fišer"
+      "Naughty Dog"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -3939,9 +3945,10 @@
     "question": "Kako se preziva Sam, glavni junak serijala videoigara Serious Sam, poznat po nadimku 'Serious'?",
     "answers": [
       "Stone",
-      "Stoun",
-      "Ston"
+      "Crash Bandicoot",
+      "Spyro"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -3950,10 +3957,11 @@
     "topic": "Gaming",
     "question": "Kako se u Fortniteu naziva pobjeda u Battle Royale meču?",
     "answers": [
+      "Erangel",
       "Victory Royale",
-      "Viktori Rojal",
-      "Kraljevska pobjeda"
+      "PUBG"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -3962,11 +3970,11 @@
     "topic": "Gaming",
     "question": "Kako se zove studio koji je razvio serijal videoigara Dark Souls?",
     "answers": [
-      "FromSoftware",
-      "From Software",
-      "From",
-      "From softver"
+      "Polyphony Digital",
+      "Naughty Dog",
+      "FromSoftware"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3975,8 +3983,11 @@
     "topic": "Gaming",
     "question": "Kako se zove princeza iz serijala videoigara The Legend of Zelda, koju Link često pokušava spasiti ili joj pomoći u obrani kraljevstva Hyrule?",
     "answers": [
-      "Zelda"
+      "Princess Peach",
+      "Zelda",
+      "Hyrule"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -3985,8 +3996,11 @@
     "topic": "Gaming",
     "question": "Koje je najtanje slovo koje možemo složiti.u tetrisu?",
     "answers": [
-      "I"
+      "I",
+      "CJ",
+      "AWP"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -3995,12 +4009,11 @@
     "topic": "Gaming",
     "question": "Koji je trosložni zmajski uzvik iz Skyrima, poznat kao Unrelenting Force, postao jedna od najprepoznatljivijih fraza iz igre?",
     "answers": [
-      "Fus Ro Dah",
-      "Fusrodah",
-      "Fus Ro Da",
-      "Fuš ro da",
-      "Fušroda"
+      "Umbrella",
+      "Super Mario",
+      "Fus Ro Dah"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4009,8 +4022,11 @@
     "topic": "Gaming",
     "question": "Kojom se kraticom u Counter-Strike videoigri najčešće označava snažna snajperska puška Accuracy International Arctic Warfare Police?",
     "answers": [
+      "FUT",
+      "PES",
       "AWP"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4019,10 +4035,11 @@
     "topic": "Gaming",
     "question": "Kako se zove samozvani kralj Dream Landa i jedan od najpoznatijih likova iz serijala videoigara Kirby, prepoznatljiv po velikom drvenom čekiću koji koristi kao oružje?",
     "answers": [
-      "Dedede",
-      "Dididi",
-      "DDD"
+      "Zelda",
+      "Bowser",
+      "Dedede"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4031,11 +4048,11 @@
     "topic": "Gaming",
     "question": "Koja se životinja našla u videoigri u kojoj igrač njom upravlja te koja postaje sve duža dok skuplja hranu, pritom izbjegavajući sudar sa samom sobom?",
     "answers": [
-      "Zmija",
-      "Snake",
-      "Snejk",
-      "Zmijica"
+      "Kokoš",
+      "Žabu",
+      "Zmija"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4044,9 +4061,11 @@
     "topic": "Gaming",
     "question": "Koja je igra iz 2001.g. uvela usporeno vrijeme ('bullet time') inspirirano filmskim hitom The Matrix?",
     "answers": [
-      "Max Payne",
-      "Maks Pejn"
+      "Farah",
+      "Doom",
+      "Max Payne"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4055,10 +4074,11 @@
     "topic": "Gaming",
     "question": "Kako se zove žuta ptica trokutastog oblika iz Angry Birdsa koja nakon aktiviranja svoje sposobnosti naglo ubrzava?",
     "answers": [
-      "Chuck",
-      "Čak",
-      "Čuk"
+      "Crvene",
+      "Terence",
+      "Chuck"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4067,9 +4087,11 @@
     "topic": "Gaming",
     "question": "U kojem je europskom gradu smještena originalna verzija videoigre Subway Surfers, koju su razvili danski studiji SYBO Games i Kiloo?",
     "answers": [
+      "New York",
       "Kopenhagen",
-      "Kopenhagenu"
+      "Metro City"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -4078,10 +4100,11 @@
     "topic": "Gaming",
     "question": "Kako se u videoigri Fallout zove prijenosno računalo koje se nosi na podlaktici i igraču služi za pregled statistika, inventara, karte i drugih podataka?",
     "answers": [
+      "Kamikaze",
       "Pip Boy",
-      "Pipboj",
-      "Pip Boj"
+      "Torrent"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -4090,9 +4113,11 @@
     "topic": "Gaming",
     "question": "Kako se zove tehnološki napredna izvanzemaljska rasa iz videoigre StarCraft koja koristi psioničke moći?",
     "answers": [
-      "Protoss",
-      "Protosi"
+      "Zerg",
+      "Terran",
+      "Protoss"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4101,8 +4126,11 @@
     "topic": "Gaming",
     "question": "Koju je kultnu videoigru 1984.g. osmislio sovjetski programer Aleksej Pažitnov?",
     "answers": [
+      "Half Life",
+      "Tenis",
       "Tetris"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4112,10 +4140,10 @@
     "question": "Koju životinju jaše glavni junak u Williamsovoj arkadnoj videoigri Joust iz 1982.g.?",
     "answers": [
       "Noj",
-      "Noi",
-      "Noa",
-      "Noja"
+      "Zmija",
+      "Žabu"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -4124,9 +4152,11 @@
     "topic": "Gaming",
     "question": "Kako se zove neprijatelj iz serijala Serious Sam koji bez glave trči prema igraču dok glasno vrišti i u rukama nosi bombe?",
     "answers": [
-      "Kamikaze",
-      "Kamikaza"
+      "Pip Boy",
+      "Creeper",
+      "Kamikaze"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4135,12 +4165,11 @@
     "topic": "Gaming",
     "question": "Koji predmet Donkey Kong u originalnoj arkadnoj igri kotrlja niz konstrukciju prema Jumpmanu, prisiljavajući ga da ih preskače?",
     "answers": [
-      "Bačve",
-      "Bačva",
-      "Barrels",
-      "Barels",
-      "Bačuv"
+      "Pauline",
+      "Jumpman",
+      "Bačve"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4149,8 +4178,11 @@
     "topic": "Gaming",
     "question": "Koja je američka kompanija 1981.g. objavila arkadnu videoigru Centipede?",
     "answers": [
-      "Atari"
+      "Gottlieb",
+      "Atari",
+      "Williams"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -4160,10 +4192,10 @@
     "question": "U igri Super Mario, Mario najčešće spašava princezu Peach, a kako se zvala djevojka koju je spašavao od Donkey Konga u originalnoj arkadnoj igri iz 1981.g.?",
     "answers": [
       "Pauline",
-      "Polin",
-      "Paulina",
-      "Paulin"
+      "Donkey Kong",
+      "Bowser"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -4173,8 +4205,10 @@
     "question": "Koja kompanija organizira The International, godišnji svjetski turnir u videoigri Dota 2?",
     "answers": [
       "Valve",
-      "Valv"
+      "Tekken",
+      "Sony"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -4183,9 +4217,11 @@
     "topic": "Gaming",
     "question": "Kako se zove Xbox-ov dodatak koji igračima omogućuje igranje i upravljanje pokretima tijela ispred kamere?",
     "answers": [
-      "Kinect",
-      "Kinekt"
+      "The Sims",
+      "Microsoft",
+      "Kinect"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4195,11 +4231,10 @@
     "question": "Koja se životinja spominje u poznatoj frazi PUBG-ja koja se prikazuje igraču ili ekipi nakon pobjede u meču?",
     "answers": [
       "Kokoš",
-      "Koka",
-      "Chicken",
-      "Čiken",
-      "Kokošurina"
+      "Zmija",
+      "Žabu"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -4208,9 +4243,11 @@
     "topic": "Gaming",
     "question": "Kako se zove serijal pucačkih videoigara otvorenog svijeta čiji nastavci često smještaju igrača u udaljena područja pod kontrolom opasnih antagonista?",
     "answers": [
+      "Civilization",
       "Far Cry",
-      "Far Kraj"
+      "Battlefield"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -4220,14 +4257,10 @@
     "question": "Kako se zove glavni protagonist prve videoigre Mafia, taksist koji postaje član kriminalne obitelji Salieri?",
     "answers": [
       "Tommy Angelo",
-      "Tomi Angelo",
-      "Thomas Angelo",
-      "Tomas Angelo",
-      "Angelo",
-      "Andelo",
-      "Tomi Anđelo",
-      "Tomas Anđelo"
+      "Vito Scaletta",
+      "Lost Heaven"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -4237,10 +4270,10 @@
     "question": "Kojim je popularnim nadimkom poznat protagonist novijih videoigara Doom koji se bori protiv demonskih hordi?",
     "answers": [
       "Doom Slayer",
-      "Dum Slejer",
-      "Slayer",
-      "Slejer"
+      "Nathan Drake",
+      "Max Payne"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -4249,9 +4282,11 @@
     "topic": "Gaming",
     "question": "Kako se zove ratnik iz arkadne videoigre Gauntlet koji predstavlja crvenu boju među četirima igrivim junacima?",
     "answers": [
-      "Thor",
-      "Tor"
+      "Lordran",
+      "PUBG",
+      "Thor"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4260,10 +4295,11 @@
     "topic": "Gaming",
     "question": "Koji je finski studio razvio prve dvije videoigre Max Payne?",
     "answers": [
+      "New York",
       "Remedy Entertainment",
-      "Remedy",
-      "Remedi"
+      "Valkyr"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -4273,12 +4309,10 @@
     "question": "Koji se sport simulira u serijalu videoigara koji se nekada zvao FIFA, a danas EA Sports FC?",
     "answers": [
       "Nogomet",
-      "Football",
-      "Soccer",
-      "Futbal",
-      "Fuzbal",
-      "Soker"
+      "FIFA",
+      "Gordon Freeman"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -4287,9 +4321,11 @@
     "topic": "Gaming",
     "question": "Na kojem se planetu nalazi velik dio objekata korporacije UAC i odvija važan dio radnje serijala videoigara Doom?",
     "answers": [
-      "Mars",
-      "Marsu"
+      "Hyrule",
+      "Rivia",
+      "Mars"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4298,12 +4334,11 @@
     "topic": "Gaming",
     "question": "Koju vrstu namirnice predstavlja predmet koji Mario u igrici Super Mario Bros. uzima kako bi se povećao i postao Super Mario?",
     "answers": [
+      "Zmaj",
       "Gljiva",
-      "Gljive",
-      "Mushrooms",
-      "Mušroms",
-      "Mušrums"
+      "Žabu"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -4313,24 +4348,10 @@
     "question": "Koji svjetski rat predstavlja povijesnu pozadinu Capcomove arkadne videoigre '1942'?",
     "answers": [
       "Drugi svjetski rat",
-      "2 svjetski",
-      "2svj",
-      "2 svj rat",
-      "2",
-      "Drugi",
-      "Dva",
-      "Two",
-      "Second",
-      "Secnd",
-      "2nd",
-      "2i",
-      "WWII",
-      "WW2",
-      "world war two",
-      "Volrd var tvu",
-      "Ww two",
-      "II"
+      "Thor",
+      "Lincoln Clay"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -4339,9 +4360,11 @@
     "topic": "Gaming",
     "question": "Kako se zove duhovni konj kojeg igrač jaše u videoigri Elden Ring?",
     "answers": [
-      "Torrent",
-      "Torent"
+      "Tarnished",
+      "Avionom",
+      "Torrent"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4351,12 +4374,10 @@
     "question": "Kako se zove glavni antagonist originalne videoigre Spyro the Dragon iz 1998.g., koji je zmajeve pretvorio u kristalne kipove?",
     "answers": [
       "Gnasty Gnorc",
-      "Gnasti Gnork",
-      "Gnasty",
-      "Gnasti",
-      "Gnorc",
-      "Gnork"
+      "Vizier",
+      "Dragulje"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -4365,12 +4386,11 @@
     "topic": "Gaming",
     "question": "Koja se vrsta hrane nalazi u imenu kraljevstva Mushroom Kingdom, glavnog kraljevstva u svijetu igrica Super Mario?",
     "answers": [
-      "Gljiva",
-      "Glijve",
-      "Mushroom",
-      "Mušrom",
-      "Mušrum"
+      "Princess Peach",
+      "Bowser",
+      "Gljiva"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4380,9 +4400,10 @@
     "question": "Kako se zove Segina fantasy arkadna videoigra iz 1989.g. u kojoj se Ax Battler, Tyris Flare i Gilius Thunderhead bore protiv Death Addera?",
     "answers": [
       "Golden Axe",
-      "Zlatna sjekira",
-      "Golden Aks"
+      "Shinobi",
+      "Contra"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -4392,9 +4413,10 @@
     "question": "Koji borac iz Mortal Kombata, odjeven tradicionalno u žuto, koristi kunai na užetu i poznat je po uzviku 'Get over here!'?",
     "answers": [
       "Scorpion",
-      "Skorpion",
-      "Škorpion"
+      "Sub Zero",
+      "Shuriken"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -4403,11 +4425,11 @@
     "topic": "Gaming",
     "question": "Koji je dizajner videoigara dao ime originalnoj strateškoj videoigri Sid Meier's Civilization iz 1991.g.?",
     "answers": [
+      "Civilization",
       "Sid Meier",
-      "Sid Majer",
-      "Meier",
-      "Majer"
+      "Stormwind"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -4416,10 +4438,11 @@
     "topic": "Gaming",
     "question": "Koji je studio razvio originalnu trilogiju videoigara Spyro za prvi PlayStation?",
     "answers": [
-      "Insomniac Games",
-      "Insomniac",
-      "Insomnijak"
+      "Naughty Dog",
+      "FromSoftware",
+      "Insomniac Games"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4429,8 +4452,10 @@
     "question": "Kako se zove legendarni izgubljeni grad koji Nathan Drake traži u videoigri Uncharted 2: Among Thieves?",
     "answers": [
       "Shambhala",
-      "Šambala"
+      "Stormwind",
+      "Columbia"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -4439,12 +4464,11 @@
     "topic": "Gaming",
     "question": "Kako se zove svemirski brod lovac kojim igrač upravlja u Konamijevoj arkadnoj videoigri Gradius iz 1985.g.?",
     "answers": [
+      "Gradius",
       "Vic Viper",
-      "Vis Vajper",
-      "Vic",
-      "Viper",
-      "Vajper"
+      "Bayview"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -4454,12 +4478,10 @@
     "question": "Kako se zove golemi borbeni stroj iz serijala Horizon koji izgledom podsjeća na tiranosaura?",
     "answers": [
       "Thunderjaw",
-      "Tanderđo",
-      "Tander Džo",
-      "Tunderdžaj",
-      "Tunderdžoj",
-      "Tunderdžo"
+      "Nogomet",
+      "Big Daddies"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -4468,10 +4490,11 @@
     "topic": "Gaming",
     "question": "U kojoj se arkadnoj videoigri iz 1981.g. prvi put pojavio lik koji će kasnije postati poznat kao Super Mario?",
     "answers": [
+      "Peter Pepper",
       "Donkey Kong",
-      "Donki Kong",
-      "Donkej Kong"
+      "Vukodlak"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -4480,12 +4503,11 @@
     "topic": "Gaming",
     "question": "Koja građevinski resurs, uz drvo i metal, igrač može prikupljati u klasičnom Fortnite Battle Royaleu?",
     "answers": [
-      "Kamen",
-      "Stone",
-      "Ston",
-      "Brick",
-      "Brik"
+      "Souls",
+      "Storm",
+      "Kamen"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4494,10 +4516,11 @@
     "topic": "Gaming",
     "question": "Kako se zove svijet smrtnika smješten između High Heavensa i Burning Hellsa u serijalu videoigara Diablo?",
     "answers": [
-      "Sanctuary",
-      "Sanktuari",
-      "Svetište"
+      "Diablo",
+      "Baal",
+      "Sanctuary"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4506,11 +4529,11 @@
     "topic": "Gaming",
     "question": "Kako se zove Valveov prijenosni uređaj za igranje PC videoigara iz Steam biblioteke?",
     "answers": [
+      "Commodore",
       "Steam Deck",
-      "Stim Dek",
-      "Steamdeck",
-      "Stimdek"
+      "Animus"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -4519,15 +4542,11 @@
     "topic": "Gaming",
     "question": "Kojem je povijesnom engleskom moreplovcu protagonist videoigre Uncharted Nathan Drake, tvrdio da je potomak?",
     "answers": [
+      "Shambhala",
       "Francis Drake",
-      "Francis Drejk",
-      "Drake",
-      "Drejk",
-      "Drakeu",
-      "Drejku",
-      "Francisu Drakeu",
-      "Frencisu Drejku"
+      "Lost Heaven"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -4536,17 +4555,11 @@
     "topic": "Gaming",
     "question": "U kojoj se drevnoj civilizaciji i među njezinim hramovima i piramidama odvija velik dio radnje videoigre Serious Sam: The First Encounter?",
     "answers": [
+      "Lordran",
       "Egipatskoj",
-      "Egipat",
-      "Drevni Egipat",
-      "Egypt",
-      "Eđipt",
-      "Egypts",
-      "Eđipts",
-      "Egiptskoj",
-      "Egipćanskoj",
-      "Egipćani"
+      "Hyrule"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -4555,11 +4568,11 @@
     "topic": "Gaming",
     "question": "Kako se zove plavo odjeveni borac iz Mortal Kombata čije su karakteristične sposobnosti povezane s ledom i zamrzavanjem protivnika?",
     "answers": [
-      "Sub Zero",
-      "Sab Zero",
-      "Sab Ziro",
-      "Sub Ziro"
+      "Storm Spirit",
+      "Scorpion",
+      "Sub Zero"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4568,11 +4581,11 @@
     "topic": "Gaming",
     "question": "Koje je pravo ime CJ-ja, glavnog protagonista igre GTA: San Andreas?",
     "answers": [
+      "Solid Snake",
       "Carl Johnson",
-      "Karl Džonson",
-      "Johnson",
-      "Džonson"
+      "Rivia"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -4582,8 +4595,10 @@
     "question": "U kojoj se američkoj saveznoj državi nalazi izmišljeni Hope County, mjesto radnje videoigre Far Cry 5?",
     "answers": [
       "Montana",
-      "Montani"
+      "Pagan Min",
+      "Kyrat"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -4593,8 +4608,10 @@
     "question": "Koja je životna simulacija objavljena 2000.g. omogućila igračima gradnju kuća i upravljanje svakodnevnim životima virtualnih ljudi?",
     "answers": [
       "The Sims",
-      "Sims"
+      "Vic Viper",
+      "Tristram"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -4603,19 +4620,11 @@
     "topic": "Gaming",
     "question": "Koje su životinje glavni neprijatelji ptica u originalnoj videoigri Angry Birds, u kojoj kradu njihova jaja?",
     "answers": [
+      "Stonoga",
       "Svinje",
-      "Svinja",
-      "Pigs",
-      "Piggies",
-      "Pigis",
-      "Krmad",
-      "Pujsići",
-      "Pujsad",
-      "Odojci",
-      "Krme",
-      "Pujse",
-      "Klempo"
+      "Noj"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -4624,10 +4633,11 @@
     "topic": "Gaming",
     "question": "Kako se zove podvodni grad u kojem se odvija radnja prve videoigre BioShock?",
     "answers": [
+      "Metro City",
       "Rapture",
-      "Rapčer",
-      "Reptur"
+      "Lost Heaven"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -4636,10 +4646,11 @@
     "topic": "Gaming",
     "question": "Što je po zanimanju Super Mario?",
     "answers": [
-      "Vodoinstalater",
-      "Plumber",
-      "Plamber"
+      "Yoshi",
+      "Donkey Kong",
+      "Vodoinstalater"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4648,9 +4659,11 @@
     "topic": "Gaming",
     "question": "Kako se zove grad smješten visoko u oblacima u videoigri BioShock Infinite?",
     "answers": [
-      "Columbia",
-      "Kolumbija"
+      "Stormwind",
+      "Andrew Ryan",
+      "Columbia"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4659,12 +4672,11 @@
     "topic": "Gaming",
     "question": "Koje je godine u Japanu predstavljen PlayStation 3?",
     "answers": [
+      "2026",
       "2006",
-      "Dvije tisuće šeste",
-      "Dvije hiljade šeste",
-      "Dvi iljade šeste",
-      "MMVI"
+      "2010"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -4673,11 +4685,11 @@
     "topic": "Gaming",
     "question": "Koji je slavni holivudski glumac posudio glas glavnom liku Tommyju Vercettiju u igri GTA: Vice City?",
     "answers": [
+      "Egipatskoj",
       "Ray Liotta",
-      "Rej Liota",
-      "Liotta",
-      "Liota"
+      "Spy Hunter"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -4686,10 +4698,11 @@
     "topic": "Gaming",
     "question": "U kojoj videoigri se nalazi svijet imena Azeroth?",
     "answers": [
-      "World of Warcraft",
-      "Wow",
-      "Vorld of varkraft"
+      "Tenkova",
+      "Peter Pepper",
+      "World of Warcraft"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4698,9 +4711,11 @@
     "topic": "Gaming",
     "question": "Koja bića igrači hvataju istražujući stvarne lokacije u mobilnoj videoigri iz 2016.g. razvijene od strane američke kompanije Niantic?",
     "answers": [
-      "Pokémone",
-      "Pokemons"
+      "PokéStop",
+      "Pokémon GO",
+      "Pokémone"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4709,9 +4724,11 @@
     "topic": "Gaming",
     "question": "Koja je japanska kompanija razvila arkadnu trkaću videoigru Pole Position?",
     "answers": [
-      "Namco",
-      "Nemko"
+      "Capcom",
+      "Sega",
+      "Namco"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4720,11 +4737,11 @@
     "topic": "Gaming",
     "question": "Koji je poznati povijesni vođa, poznat po miru, zbog računalne pogreške u igri Civilization postao agresivni manijak koji baca nuklearne bombe?",
     "answers": [
-      "Mahatma Gandhi",
-      "Mahatma Gandi",
-      "Gandhi",
-      "Gandi"
+      "Science Victory",
+      "Leon S. Kennedy",
+      "Mahatma Gandhi"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4733,10 +4750,11 @@
     "topic": "Gaming",
     "question": "Koja je kompanija 1982.g. objavila originalnu arkadnu videoigru Q*bert?",
     "answers": [
+      "Data East",
       "Gottlieb",
-      "Gotlib",
-      "Gotlibe"
+      "Bally Midway"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -4745,12 +4763,11 @@
     "topic": "Gaming",
     "question": "Kako se zove ninja kojim igrač upravlja u Seginoj arkadnoj videoigri Shinobi iz 1987.g.?",
     "answers": [
+      "Avionom",
       "Joe Musashi",
-      "Džoe Musaši",
-      "Džo Musaši",
-      "Musashi",
-      "Musaši"
+      "Peter Pepper"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -4759,8 +4776,11 @@
     "topic": "Gaming",
     "question": "Kako se zove bijela ptica iz Angry Birdsa koja u originalnim igrama tijekom leta može ispustiti eksplozivno jaje?",
     "answers": [
+      "Svinje",
+      "Crvene",
       "Matilda"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4770,10 +4790,10 @@
     "question": "Koji je studio razvio i 2010.g. objavio popularnu online videoigru World of Tanks?",
     "answers": [
       "Wargaming",
-      "Wargejming",
-      "War Gaming",
-      "Var Gejming"
+      "Rovio",
+      "Naughty Dog"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -4783,8 +4803,10 @@
     "question": "Kako se zove jeziva i poludjela umjetna inteligencija koja muči igrača na svemirskom brodu u igri System Shock 2?",
     "answers": [
       "Shodan",
-      "Šodan"
+      "Gradius",
+      "Vic Viper"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -4793,8 +4815,11 @@
     "topic": "Gaming",
     "question": "Koja je japanska kompanija razvila originalnu arkadnu videoigru R-Type?",
     "answers": [
-      "Irem"
+      "Irem",
+      "Data East",
+      "Sega"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -4803,9 +4828,11 @@
     "topic": "Gaming",
     "question": "U kojem se serijalu borilačkih videoigara održava turnir pod nazivom „The King of Iron Fist Tournament“, oko kojeg se vrti velik dio radnje i na kojem sudjeluju borci poput Heihachija Mishime, Kazuye Mishime i Paula Phoenixa?",
     "answers": [
-      "Tekken",
-      "Teken"
+      "Frogger",
+      "Južna Koreja",
+      "Tekken"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4814,12 +4841,11 @@
     "topic": "Gaming",
     "question": "Koje je bilo originalno ime Lare Croft prije nego što su ga tvorci pri razvoju igrice promijenili?",
     "answers": [
-      "Laura Cruz",
-      "Laura Kruz",
-      "Cruz",
-      "Kruz",
-      "Laura"
+      "Pro Evolution Soccer",
+      "Stolar",
+      "Laura Cruz"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4829,8 +4855,10 @@
     "question": "Kako se zove golemi gušter, jedan od tri originalna igriva čudovišta u arkadnoj videoigri Rampage?",
     "answers": [
       "Lizzie",
-      "Lizi"
+      "George",
+      "Avionom"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -4839,10 +4867,11 @@
     "topic": "Gaming",
     "question": "Koja je revolucionarna igrica iz 1993.g. dobila ime po rečenici koju je Tom Cruise izgovorio u filmu Boja novca?",
     "answers": [
-      "Doom",
-      "Dom",
-      "Dum"
+      "Max Payne",
+      "Pac Man",
+      "Doom"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4852,10 +4881,10 @@
     "question": "Koji je poznati Nintendov dizajner osmislio likove Donkey Konga i Super Marija kao JumpMana te režirao originalnu igru Donkey Kong iz 1981.g.?",
     "answers": [
       "Shigeru Miyamoto",
-      "Šigeru Mijamoto",
-      "Miyamoto",
-      "Mijamoto"
+      "Super Mario",
+      "Donkey Kong"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -4865,9 +4894,10 @@
     "question": "Kako se u Battlefieldu naziva popularni način igranja u kojem ekipe osvajaju i drže označene kontrolne točke na velikoj mapi?",
     "answers": [
       "Conquest",
-      "Konkvest",
-      "Osvajanje"
+      "Bonfires",
+      "Zombies"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -4876,10 +4906,11 @@
     "topic": "Gaming",
     "question": "Koja je kompanija proizvela Commodore 64, jedno od najpopularnijih kućnih računala za igranje videoigara tijekom 1980-ih?",
     "answers": [
-      "Commodore",
-      "Komodor",
-      "Komodore"
+      "Steam Deck",
+      "Atari",
+      "Commodore"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4888,9 +4919,11 @@
     "topic": "Gaming",
     "question": "Kako se zove izvanzemaljski granični svijet povezan s incidentom Black Mesa u prvoj videoigri Half-Life?",
     "answers": [
+      "The Combine",
       "Xen",
-      "Zen"
+      "Salieri"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -4899,9 +4932,11 @@
     "topic": "Gaming",
     "question": "Kako se naziva opasno područje koje se tijekom Fortnite Battle Royale meča širi i prisiljava igrače da se kreću prema sigurnoj zoni?",
     "answers": [
-      "Storm",
-      "Oluja"
+      "Kamen",
+      "Avion",
+      "Storm"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4910,10 +4945,11 @@
     "topic": "Gaming",
     "question": "Koja je japanska kompanija razvila arkadnu videoigru Ghosts 'n Goblins?",
     "answers": [
-      "Capcom",
-      "Kapkom",
-      "Kepkom"
+      "Namco",
+      "Sega",
+      "Capcom"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4922,10 +4958,11 @@
     "topic": "Gaming",
     "question": "Kako se zvala posljednja igraća konzola koju je Sega proizvela prije povlačenja iz proizvodnje konzola?",
     "answers": [
-      "Dreamcast",
-      "Drimkast",
-      "Drimkest"
+      "PlayStation",
+      "Neo Geo",
+      "Dreamcast"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4934,11 +4971,11 @@
     "topic": "Gaming",
     "question": "Pod kojim je imenom Mario bio poznat u svojem prvom pojavljivanju u igri Donkey Kong iz 1981.g.?",
     "answers": [
+      "Pauline",
       "Jumpman",
-      "Džampmen",
-      "Jump Man",
-      "Đzamp Men"
+      "Stolar"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -4947,11 +4984,11 @@
     "topic": "Gaming",
     "question": "Kako se zovu mali odvojivi kontroleri koji se nalaze sa strana originalnog Nintendo Switcha?",
     "answers": [
-      "Joy Con",
-      "Džoj Kon",
-      "JoyCon",
-      "DžojKon"
+      "Goomba",
+      "Spyro",
+      "Joy Con"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4960,10 +4997,11 @@
     "topic": "Gaming",
     "question": "Koja kompanija, poznata po platformi Steam, proizvodi prijenosni gaming uređaj Steam Deck?",
     "answers": [
-      "Valve",
-      "Valv",
-      "Volv"
+      "Steam Deck",
+      "Sony",
+      "Valve"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4972,12 +5010,11 @@
     "topic": "Gaming",
     "question": "Kako se zove karizmatični vođa bande Van der Linde kojoj pripadaju Arthur Morgan i John Marston u serijalu videoigara Red Dead Redemption?",
     "answers": [
+      "Science Victory",
       "Dutch van der Linde",
-      "Dutch",
-      "Dač van der Linde",
-      "Dač",
-      "Duč"
+      "Gordon Freeman"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -4986,11 +5023,11 @@
     "topic": "Gaming",
     "question": "Kako se zove studio koji razvija serijal videoigara Gran Turismo?",
     "answers": [
-      "Polyphony Digital",
-      "Polifoni Digital",
-      "Polyphony",
-      "Polifoni"
+      "DICE",
+      "Sony Interactive Entertainment",
+      "Polyphony Digital"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -5000,9 +5037,10 @@
     "question": "Kako se zove vilin konjic koji prati Spyra i služi mu kao prijatelj i zaštitnik u originalnim igrama Spyro the Dragon?",
     "answers": [
       "Sparx",
-      "Sparks",
-      "Sparx the Dragonfly"
+      "Farah",
+      "Zelda"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -5011,11 +5049,11 @@
     "topic": "Gaming",
     "question": "Kako se zove protagonist videoigre Mafia III, vijetnamski veteran koji vodi osvetnički rat protiv mafije u New Bordeauxu?",
     "answers": [
-      "Lincoln Clay",
-      "Linkoln Klej",
-      "Clay",
-      "Klej"
+      "Vito Scaletta",
+      "Civilization",
+      "Lincoln Clay"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -5025,11 +5063,10 @@
     "question": "Kako se zove glavni antagonist videoigre Far Cry 3, poznat po svojem govoru o definiciji ludila?",
     "answers": [
       "Vaas Montenegro",
-      "Vaas",
-      "Vas Montenegro",
-      "Vas",
-      "Montenegro"
+      "Pagan Min",
+      "Vizier"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -5038,10 +5075,11 @@
     "topic": "Gaming",
     "question": "Koja je videoigra iz 1987.g., koju je dizajnirao Hironobu Sakaguchi za japansku tvrtku Square, nastala u razdoblju kada je Sakaguchi razmišljao o napuštanju industrije, a njezin je neočekivani uspjeh pokrenuo jedan od najvećih RPG serijala u povijesti gaminga?",
     "answers": [
-      "Final Fantasy",
-      "Final Fantazi",
-      "Fajnl Fantazi"
+      "Hyrule",
+      "Lordran",
+      "Final Fantasy"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -5050,12 +5088,11 @@
     "topic": "Gaming",
     "question": "Kojom titulom u igri The Elder Scrolls V: Skyrim nazivaju protagonista koji može apsorbirati duše zmajeva?",
     "answers": [
-      "Dragonborn",
-      "Dragon Born",
-      "Zmajorođeni",
-      "Dregonborn",
-      "Dregon Born"
+      "Terran",
+      "Hyrule",
+      "Dragonborn"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -5065,8 +5102,10 @@
     "question": "Ime kojeg mjesta stoji u poznatom nadimku Geralta, glavnog junaka serijala videoigara The Witcher, iako on zapravo nije u njemu rođen?",
     "answers": [
       "Rivia",
-      "Rivija"
+      "Mars",
+      "Geralt"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -5076,9 +5115,10 @@
     "question": "Kako se zove poznati energetski napad iz igre Street Fighter koji Ryu i Ken izvode izbacivanjem projektila iz ruku?",
     "answers": [
       "Hadouken",
-      "Hadoken",
-      "Haduken"
+      "Dhalsim",
+      "Vega"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -5087,11 +5127,11 @@
     "topic": "Gaming",
     "question": "Kako se zove vitez iz Astorije iz videoigre Dark Souls, poznat po potrazi za vlastitim 'suncem' i frazi 'Praise the Sun'?",
     "answers": [
-      "Solaire",
-      "Solaire",
-      "Soler",
-      "Solair"
+      "Lordran",
+      "Gwyn",
+      "Solaire"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -5100,9 +5140,11 @@
     "topic": "Gaming",
     "question": "Kako se zove grad u kojem se odvija radnja Capcomove arkadne videoigre Final Fight?",
     "answers": [
+      "Rapture",
       "Metro City",
-      "Metro"
+      "Lost Heaven"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -5111,8 +5153,11 @@
     "topic": "Gaming",
     "question": "Koja je japanska kompanija 1989.g. objavila iznimno popularnu arkadnu videoigru Teenage Mutant Ninja Turtles?",
     "answers": [
-      "Konami"
+      "Konami",
+      "Sega",
+      "Taito"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -5122,9 +5167,10 @@
     "question": "U kojoj je kultnoj igri iz 1984.g. pas doslovno ismijavao igrača kad god bi promašio metu?",
     "answers": [
       "Duck Hunt",
-      "Lov na patke",
-      "Dak Hant"
+      "Dreamcast",
+      "PlayStation"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -5133,10 +5179,11 @@
     "topic": "Gaming",
     "question": "Kako se zove velika crvena ptica iz Angry Birdsa, veća i snažnija verzija Reda, posebno učinkovita u rušenju čvrstih konstrukcija?",
     "answers": [
+      "Chuck",
       "Terence",
-      "Terens",
-      "Terenc"
+      "Crvene"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -5145,9 +5192,11 @@
     "topic": "Gaming",
     "question": "Kako se zove uređaj koji Aloy nosi uz sljepoočnicu u serijalu Horizon i kojim analizira okolinu, strojeve i tragove?",
     "answers": [
-      "Focus",
-      "Fokus"
+      "Animus",
+      "Nora",
+      "Focus"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -5157,8 +5206,10 @@
     "question": "Koja je japanska kompanija razvila arkadnu pucačinu '1942', jednu od svojih prvih velikih međunarodnih uspješnica?",
     "answers": [
       "Capcom",
-      "Kapkom"
+      "Južna Koreja",
+      "Atari"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -5167,10 +5218,11 @@
     "topic": "Gaming",
     "question": "Iz moda za koju je videoigru izvorno nastao Counter-Strike?",
     "answers": [
+      "Teroristi",
       "Half Life",
-      "Half Lajf",
-      "Pola života"
+      "Tetris"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -5179,12 +5231,11 @@
     "topic": "Gaming",
     "question": "Kako se nazivaju djevojčice koje u videoigri BioShock skupljaju ADAM i koje štite Big Daddies?",
     "answers": [
-      "Little Sisters",
-      "Little Sister",
-      "Male sestre",
-      "Mala sestra",
-      "Litl sisters"
+      "Big Daddies",
+      "Andrew Ryan",
+      "Little Sisters"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -5193,13 +5244,11 @@
     "topic": "Gaming",
     "question": "Koju su popularnu mobilnu videoigru danski studiji SYBO Games i Kiloo zajedno razvili i objavili 2012.g.?",
     "answers": [
-      "Subway Surfers",
-      "Subvej surfers",
-      "Sabvjer surfers",
-      "Subway Surf",
-      "Subvej Surf",
-      "Sabvej Surf"
+      "Kopenhagen",
+      "Niantic",
+      "Subway Surfers"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -5209,8 +5258,10 @@
     "question": "Kada je industrija prelazila s 2D grafike na 3D, programeri nisu znali kako riješiti kretanje. Zato je 1996. godine izašla revolucionarna igrica koja je morala izmisliti sustav kontrole kamere u tri dimenzije, a u kojoj je glavni lik prvi put skočio u pravi 3D prostor i tako zauvijek promijenio gaming svijet. Koji je to lik?",
     "answers": [
       "Super Mario",
-      "Mario"
+      "PlayStation",
+      "Donkey Kong"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -5219,9 +5270,11 @@
     "topic": "Gaming",
     "question": "Kako se zove kultna arkadna videoigra iz 1978.g. u kojoj igrač puca na redove izvanzemaljaca koji se postupno spuštaju prema dnu ekrana?",
     "answers": [
+      "Galaga",
       "Space Invaders",
-      "Spejs Invejders"
+      "Asteroids"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -5230,13 +5283,11 @@
     "topic": "Gaming",
     "question": "Kako se zovu kornjačoliki neprijatelji u igricama Super Mario, čije oklope Mario može poslati klizeći po tlu?",
     "answers": [
+      "Goomba",
       "Koopa Troopa",
-      "Koopa Troopas",
-      "Koopa",
-      "Kopa",
-      "Kopa Tropa",
-      "Tropa"
+      "Toad"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -5246,9 +5297,10 @@
     "question": "Koja je japanska kompanija 1986.g. razvila arkadnu videoigru Bubble Bobble?",
     "answers": [
       "Taito",
-      "Tejto",
-      "Tajto"
+      "Namco",
+      "Sega"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -5257,10 +5309,11 @@
     "topic": "Gaming",
     "question": "Kako se zove Minecraftova opasna dimenzija ispunjena lavom, do koje igrač najčešće dolazi prolaskom kroz portal napravljen od opsidijana?",
     "answers": [
-      "Nether",
-      "Neder",
-      "Neter"
+      "Tristram",
+      "Gamepad",
+      "Nether"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -5270,10 +5323,10 @@
     "question": "Koja godina stoji u Capcomovoj arkadnoj videoigri iz 1984.g. u kojoj igrač upravlja američkim borbenim avionom iznad Pacifika tijekom Drugog svjetskog rata?",
     "answers": [
       "1942",
-      "Tisuću devetsto četrdeset dva",
-      "Hiljadu devet stotina četrdeset dva",
-      "MCMXLII"
+      "1939",
+      "1947"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -5282,8 +5335,11 @@
     "topic": "Gaming",
     "question": "Kako se zove španjolski borac iz videoigre Street Fighter II, prepoznatljiv po maski i metalnoj kandži na ruci?",
     "answers": [
-      "Vega"
+      "Dhalsim",
+      "Vega",
+      "Ryu"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -5293,16 +5349,10 @@
     "question": "Koja je igra iz 1980.g. dobila ime po japanskom izrazu za žvakanje i mljackanje hrane (paku-paku)?",
     "answers": [
       "Pac Man",
-      "Pak Man",
-      "Pak Men",
-      "Pek Man",
-      "Pek Men",
-      "Pakman",
-      "Pacman",
-      "Pakmen",
-      "Pacmen",
-      "Pac Men"
+      "Doom",
+      "Japanu"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -5311,10 +5361,11 @@
     "topic": "Gaming",
     "question": "Kako se zove Atarijeva arkadna videoigra iz 1979.g. u kojoj igrač svemirskim brodom razbija stijene koje plutaju svemirom?",
     "answers": [
-      "Asteroids",
-      "Asteroidi",
-      "Asterojds"
+      "Vic Viper",
+      "Gradius",
+      "Asteroids"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -5323,10 +5374,11 @@
     "topic": "Gaming",
     "question": "Koji se serijal trkaćih videoigara, poznat po velikom broju licenciranih automobila i naglasku na realistično iskustvo vožnje, promovira sloganom 'The Real Driving Simulator'?",
     "answers": [
-      "Gran Turismo",
-      "Gran Turizmo",
-      "GT"
+      "Civilization",
+      "Battlefield",
+      "Gran Turismo"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -5336,11 +5388,10 @@
     "question": "Kako se zove korporacija čiji se eksperimenti i objekti često nalaze u središtu katastrofa u serijalu videoigara Doom?",
     "answers": [
       "UAC",
-      "Union Aerospace Corporation",
-      "Junion Erospejs Korporejšn",
-      "Union Aerospace",
-      "Union Erospejs"
+      "AWP",
+      "PES"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -5349,8 +5400,11 @@
     "topic": "Gaming",
     "question": "Kako se desetljećima zvao nogometni serijal videoigara kompanije Electronic Arts koji je 2023.g. preimenovan u EA Sports FC?",
     "answers": [
-      "FIFA"
+      "Nogomet",
+      "FIFA",
+      "Battlefield"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -5359,9 +5413,11 @@
     "topic": "Gaming",
     "question": "Koji je od četiri duha koji slijede Pac Mana najmanje zainteresiran da ga uhvati?",
     "answers": [
-      "Clyde",
-      "Klajd"
+      "Sue",
+      "Pac Man",
+      "Clyde"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -5370,10 +5426,11 @@
     "topic": "Gaming",
     "question": "Koje jelo Peter Pepper sastavlja hodajući preko divovskih sastojaka u arkadnoj videoigri BurgerTime?",
     "answers": [
+      "Peter Pepper",
       "Hamburger",
-      "Hamburg",
-      "Burger"
+      "Avionom"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -5382,8 +5439,11 @@
     "topic": "Gaming",
     "question": "Kako se zove arkadna videoigra iz 1982.g. u kojoj se vitezovi, umjesto na konjima, međusobno bore jašući na velikim letećim pticama?",
     "answers": [
+      "Noj",
+      "Kokoš",
       "Joust"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -5392,12 +5452,11 @@
     "topic": "Gaming",
     "question": "Kako se zove bjelokosi lovac na čudovišta iz Rivije, glavni junak serijala videoigara The Witcher?",
     "answers": [
-      "Geralt",
-      "Geralt of Rivia",
-      "Geralt od Rivije",
-      "Dzeralt",
-      "Džeral"
+      "Stone",
+      "Spyro",
+      "Geralt"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -5406,11 +5465,11 @@
     "topic": "Gaming",
     "question": "Kojim se engleskim izrazom nazivaju prijenosne igraće konzole poput Game Boya, PSP-a i Steam Decka?",
     "answers": [
+      "Microsoft",
       "Handheld",
-      "Hendheld",
-      "Hand Held",
-      "Hend Held"
+      "Sony"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -5419,9 +5478,11 @@
     "topic": "Gaming",
     "question": "Kako se zove zeleni dinosaurus, Marijev prijatelj i česti saveznik u igricama Super Mario?",
     "answers": [
+      "Toad",
       "Yoshi",
-      "Joši"
+      "Goomba"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -5430,10 +5491,11 @@
     "topic": "Gaming",
     "question": "Kako se zove Segina arkadna videoigra iz 1986.g. u kojoj igrač sportskim automobilom bira različite rute prema jednom od više mogućih završetaka?",
     "answers": [
-      "Out Run",
-      "Aut Ran",
-      "Out Ran"
+      "Gradius",
+      "Spy Hunter",
+      "Out Run"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -5442,9 +5504,11 @@
     "topic": "Gaming",
     "question": "U arkadnoj igri Pac Man, kako se zove duh koji najagresivnije prati glavnog lika?",
     "answers": [
+      "Blanka",
       "Blinky",
-      "Blinki"
+      "Gljiva"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -5453,12 +5517,11 @@
     "topic": "Gaming",
     "question": "Kako se zove stariji prijatelj i mentor Nathana Drakea u serijalu videoigara Uncharted, kojeg protagonist najčešće zove Sully?",
     "answers": [
-      "Victor Sullivan",
-      "Viktor Sullivan",
-      "Sullivan",
-      "Saliven",
-      "Viktor Saliven"
+      "Nathan Drake",
+      "Elena Fisher",
+      "Victor Sullivan"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -5467,12 +5530,11 @@
     "topic": "Gaming",
     "question": "Koji je pisac fantasy serijala 'A Song of Ice and Fire' sudjelovao u stvaranju pozadinske mitologije svijeta videoigre Elden Ring?",
     "answers": [
+      "Tarnished",
       "George R. R. Martin",
-      "George Martin",
-      "Džordž R. R. Martin",
-      "Džordž Martin",
-      "Martin"
+      "Torrent"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -5481,9 +5543,11 @@
     "topic": "Gaming",
     "question": "Kako se naziva mala kaseta s videoigrom koja se umeće izravno u igraću konzolu, kakvu su koristili NES, Game Boy i brojne druge konzole?",
     "answers": [
-      "Cartridge",
-      "Kartridž"
+      "Handheld",
+      "Magnavox",
+      "Cartridge"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -5492,10 +5556,11 @@
     "topic": "Gaming",
     "question": "Koja kompanija razvija i izdaje serijal nogometnih videoigara EA Sports FC?",
     "answers": [
-      "Electronic Arts",
-      "EA",
-      "Elektronik Arts"
+      "FIFA",
+      "Nogomet",
+      "Electronic Arts"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -5505,8 +5570,10 @@
     "question": "Kako se zove glavni lik videoigre Subway Surfers, grafiter kojeg na početku igre počinju progoniti inspektor i njegov pas?",
     "answers": [
       "Jake",
-      "Džejk"
+      "Zeus",
+      "Crvene"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -5515,13 +5582,11 @@
     "topic": "Gaming",
     "question": "Kako se u igri Age of Empiresu nazivaju radnici koji prikupljaju resurse i grade građevine?",
     "answers": [
-      "Villagers",
-      "Villager",
-      "Seljaci",
-      "Seljak",
-      "Viladžeri",
-      "Seljani"
+      "Shambhala",
+      "Wonders",
+      "Villagers"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -5531,12 +5596,10 @@
     "question": "Koji sport predstavlja osnovnu inspiraciju za gameplay arkadne videoigre Pong?",
     "answers": [
       "Stolni tenis",
-      "Tenis stolni",
-      "Table tennis",
-      "Tejbl tenis",
-      "Tennis table",
-      "Tejbl tenis"
+      "Nogomet",
+      "Bayview"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -5545,9 +5608,11 @@
     "topic": "Gaming",
     "question": "Kako se zove glavni negativac serijala videoigara Super Mario, kralj Koopa koji često otima princezu Peach?",
     "answers": [
+      "Dedede",
       "Bowser",
-      "Bovser"
+      "Princess Peach"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -5557,9 +5622,10 @@
     "question": "U svijetu igara, kako se zove protagonist prvog Red Dead Redemptiona, bivši član bande Van der Linde kojeg vlasti prisiljavaju da pronađe svoje nekadašnje suborce?",
     "answers": [
       "John Marston",
-      "Džon Marston",
-      "Marston"
+      "Dutch van der Linde",
+      "Arthur Morgan"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -5568,9 +5634,11 @@
     "topic": "Gaming",
     "question": "Koja je kompanija 1976.g. razvila arkadnu videoigru Blockade, važnu preteču igara tipa Snake?",
     "answers": [
-      "Gremlin Industries",
-      "Gremlin"
+      "Capcom",
+      "Sega",
+      "Gremlin Industries"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -5579,13 +5647,11 @@
     "topic": "Gaming",
     "question": "Kako se zovu smeđi neprijatelji nalik gljivama, koji su među najčešćim protivnicima u igricama Super Mario?",
     "answers": [
-      "Goomba",
-      "Goombas",
-      "Gumba",
-      "Gomba",
-      "Gombas",
-      "Gumbas"
+      "Toad",
+      "Koopa Troopa",
+      "Goomba"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -5594,9 +5660,11 @@
     "topic": "Gaming",
     "question": "Kako se zove mali ljubičasti zmaj koji je glavni junak serijala videoigara Spyro?",
     "answers": [
+      "Crash Bandicoot",
       "Spyro",
-      "Spajro"
+      "Stone"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -5605,8 +5673,11 @@
     "topic": "Gaming",
     "question": "Kako se zove serijal ratnih pucačkih videoigara kompanije Electronic Arts poznat po velikim mapama, vozilima i borbama velikog broja igrača?",
     "answers": [
-      "Battlefield"
+      "Gordon Freeman",
+      "Battlefield",
+      "Civilization"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -5615,11 +5686,11 @@
     "topic": "Gaming",
     "question": "Kako se zove osnivač podvodnog grada Rapture u videoigri BioShock?",
     "answers": [
-      "Andrew Ryan",
-      "Endru Rajan",
-      "Ryan",
-      "Rajan"
+      "Columbia",
+      "Stormwind",
+      "Andrew Ryan"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -5628,17 +5699,11 @@
     "topic": "Gaming",
     "question": "Kako se zove žuti kružni lik iz jedne od najpoznatijih arkadnih igara svih vremena, koji prolazeći labirintom jede točkice dok ga progone četiri duha?",
     "answers": [
+      "Koko",
       "Pac Man",
-      "Pacman",
-      "Pekmen",
-      "Pek Men",
-      "Pak Man",
-      "PAC men",
-      "Pakman",
-      "Pakmen",
-      "Pak Men",
-      "Pac Men"
+      "Super Mario"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -5648,12 +5713,10 @@
     "question": "Koje je godine u Japanu predstavljen prvi PlayStation?",
     "answers": [
       "1994",
-      "Tisuću devetsto devedeset četvrte",
-      "Hiljadu devet stotina devedeset četvrte",
-      "Nineteen ninety four",
-      "Najntin najnti for",
-      "MCMXCIV"
+      "1989",
+      "2004"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -5662,8 +5725,11 @@
     "topic": "Gaming",
     "question": "Koja je kompanija 1980.g. organizirala Space Invaders Championship, jedno od prvih velikih natjecanja u videoigrama s više tisuća sudionika?",
     "answers": [
-      "Atari"
+      "Atari",
+      "Coleco",
+      "Sony"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -5672,11 +5738,11 @@
     "topic": "Gaming",
     "question": "Kako se zove protagonist videoigre Mafia II, veteran Drugog svjetskog rata koji ulazi u svijet organiziranog kriminala?",
     "answers": [
-      "Vito Scaletta",
-      "Vito Skaleta",
-      "Scaletta",
-      "Skaleta"
+      "Sarah Kerrigan",
+      "Lincoln Clay",
+      "Vito Scaletta"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -5685,9 +5751,11 @@
     "topic": "Gaming",
     "question": "Kako se zove prva i jedna od najpoznatijih mapa videoigre PUBG, izmišljeni otok na kojem se odvijaju battle royale mečevi?",
     "answers": [
-      "Erangel",
-      "Erandžel"
+      "Empire Bay",
+      "Dust II",
+      "Erangel"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -5696,13 +5764,11 @@
     "topic": "Gaming",
     "question": "Koja je japanska kompanija razvila originalnu arkadnu videoigru BurgerTime iz 1982.g.?",
     "answers": [
+      "Sega",
       "Data East",
-      "Data Ist",
-      "Dejts Ist",
-      "East Dats",
-      "Ist Dejta",
-      "Ist Data"
+      "Irem"
     ],
+    "correctAnswer": "B",
     "image": null
   }
 ]

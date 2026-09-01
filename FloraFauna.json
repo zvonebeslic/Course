@@ -1,174 +1,2249 @@
 [
-{"type":"blitz","rarity":"silver","difficulty":4,"topic":"FloraFauna","question":"Prijenosnu knjižnicu sa 117 000 knjiga, perzijskog velikog vezira Saheb Ibn Abada nosilo je čak 400 jedinki koje vrste životinje?","answers":["Konja","Mule","Deva"],"correctAnswer":"C","image":null},
-{"type":"blitz","difficulty":4,"topic":"FloraFauna","question":"U bitki kod Peluzija 525. pr. Kr. Perzijanci su pobijedili Egipćane noseći sa sobom koje današnje kućne ljubimce?","answers":["Mačke","Pse","Kuniće"],"correctAnswer":"A","image":null},
-{"type":"blitz","difficulty":5,"topic":"FloraFauna","question":"Koju životinju je rimski car Kaligula proglasio rimskim građaninom a namjeravao ju je imenovati i konzulom?","answers":["Slona","Konja","Psa"],"correctAnswer":"B","image":null},
-{"type":"blitz","difficulty":5,"topic":"FloraFauna","question":"Koje ime dijele jedan rimski bog i jedan od Francuskih goniča Georga Washingtona?","answers":["Mars","Jupiter","Vulcan"],"correctAnswer":"C","image":null},
-{"type":"blitz","difficulty":1,"topic":"FloraFauna","question":"Koja životinja na sebi ima kućicu?","answers":["Jež","Puž","Kornjača"],"correctAnswer":"B","image":null},
-{"type":"blitz","difficulty":1,"topic":"FloraFauna","question":"Za koju mačku se kaže da je 'kralj životinja'?","answers":["Tigra","Lava","Leoparda"],"correctAnswer":"B","image":null},
-{"type":"blitz","difficulty":2,"topic":"FloraFauna","question":"Koja životinja mijenja boju kože radi kamuflaže, a ima i jako brz jezik?","answers":["Iguana","Gekon","Kameleon"],"correctAnswer":"C","image":null},
-{"type":"blitz","rarity":"silver","difficulty":3,"topic":"FloraFauna","question":"Koje drvo može narasti preko 20m u visinu i 8m u širinu a ujedno je i nacionalni simbol Madagaskara?","answers":["Eukaliptus","Baobab","Sekvoja"],"correctAnswer":"B","image":null},
-{"type":"blitz","difficulty":4,"topic":"FloraFauna","question":"Kojoj vrsti drveća pripada divovska Hyperion, stablo visoko preko 115m te ga se smatra i najvišim na svijetu?","answers":["Borovima","Cedrovima","Sekvojama"],"correctAnswer":"C","image":null},
-{"type":"blitz","difficulty":4,"topic":"FloraFauna","question":"Koje tropsko voće bodljikave ljuske iz jugoistočne Azije ima bogat okus ali i jako neugodan miris?","answers":["Durian","Rambutan","Mangostin"],"correctAnswer":"A","image":null},
-{"type":"blitz","difficulty":1,"topic":"FloraFauna","question":"Plod kojeg drveta najviše podsjeća na ljudski mozak?","answers":["Lješnjaka","Oraha","Badema"],"correctAnswer":"B","image":null},
-{"type":"blitz","difficulty":4,"topic":"FloraFauna","question":"Koje drvo je u narodu poznato kao 'Drvo Mozak' a plod mu se popularno zove konjskom ili adamovom jabukom?","answers":["Dud","Mušmula","Maklura"],"correctAnswer":"C","image":null},
-{"type":"blitz","difficulty":3,"topic":"FloraFauna","question":"Koja japanska riječ označava umjetnost uzgoja minijaturnog drveća?","answers":["Ikebana","Origami","Bonsai"],"correctAnswer":"C","image":null},
-{"type":"blitz","difficulty":3,"topic":"FloraFauna","question":"Koja biljka cvjeta samo jednom za života te nakon cvatnje odmah ugiba?","answers":["Aloe vera","Agava","Juka"],"correctAnswer":"B","image":null},
-{"type":"blitz","difficulty":3,"topic":"FloraFauna","question":"S kim se izležava Milo Hrnić u pjesmi 'Budi noćas mirno more'?","answers":["S galebom","S cvrčkom","S lastavicom"],"correctAnswer":"B","image":null},
-{"type":"blitz","difficulty":5,"topic":"FloraFauna","question":"Koja azijska biljka ima miris pokvarenog mesa a može se pohvaliti najvećim cvijetom na svijetu koji može dosegnuti i do jednog metra u promjeru?","answers":["Titan arum","Rafflesia","Lotos"],"correctAnswer":"B","image":null},
-{"type":"blitz","difficulty":1,"topic":"FloraFauna","question":"Koji sladak, ali i zdrav proizvod dobivamo od pčela?","answers":["Med","Propolis","Matičnu mliječ"],"correctAnswer":"A","image":null},
-{"type":"blitz","difficulty":3,"topic":"FloraFauna","question":"Kojeg medvjeda možemo pronaći u kineskim provincijama Sichuan, Shaanxi i Gansu?","answers":["Smeđeg medvjeda","Pandu","Polarnog medvjeda"],"correctAnswer":"B","image":null},
-{"type":"blitz","difficulty":1,"topic":"FloraFauna","question":"Što je neobrano u jednoj od pjesama Klape Maslina?","answers":["Grožđe","Smokva","Maslina"],"correctAnswer":"C","image":null},
-{"type":"blitz","difficulty":2,"topic":"FloraFauna","question":"Koji pojam možemo pronaći u matematici, dijelu biljke i dijelu zuba?","answers":["Korijen","Kruna","Stabljika"],"correctAnswer":"A","image":null},
-{"type":"blitz","difficulty":3,"topic":"FloraFauna","question":"Kitovi pod vodom u prosjeku izdrže 20 minuta a dišu kojim organom?","answers":["Plućima","Škrgama","Kožom"],"correctAnswer":"A","image":null},
-{"type":"blitz","difficulty":3,"topic":"FloraFauna","question":"Koju vrstu kralježnjaka na latinskom poznajemo kao 'aves'?","answers":["Ribe","Gmazove","Ptice"],"correctAnswer":"C","image":null},
-{"type":"blitz","difficulty":3,"topic":"FloraFauna","question":"Kojeg letećeg sisavca možemo sresti ako uđemo u špilju?","answers":["Šišmiša","Leteću vjevericu","Lemura"],"correctAnswer":"A","image":null},
-{"type":"blitz","difficulty":1,"topic":"FloraFauna","question":"Kako nazivamo vanjski dio debla?","answers":["Srž","Kora","Lik"],"correctAnswer":"B","image":null},
-{"type":"blitz","difficulty":3,"topic":"FloraFauna","question":"Koja je životinja potvrdila nijekanje sv. Petra da pozna Isusa Krista?","answers":["Pijetao","Golub","Janje"],"correctAnswer":"A","image":null},
-{"type":"blitz","difficulty":3,"topic":"FloraFauna","question":"Koja krilata životinja iz reda kukaca dio života provede i kao gusjenica?","answers":["Leptir","Vretence","Pčela"],"correctAnswer":"A","image":null},
-{"type":"blitz","difficulty":3,"topic":"FloraFauna","question":"Koji grad na Neretvi dodajemo iza 'vilin' i 'morski' u nazivima životinja?","answers":["Mostar","Konjic","Čapljina"],"correctAnswer":"B","image":null},
-{"type":"blitz","difficulty":3,"topic":"FloraFauna","question":"Koja se grabežljiva riba pojavljuje u horor filmu Aleksandrea Aje iz 2010.?","answers":["Barakuda","Piranja","Morski pas"],"correctAnswer":"B","image":null},
-{"type":"blitz","difficulty":2,"topic":"FloraFauna","question":"Kako se zove biljka poznata po bodljama i sposobnosti zadržavanja vode u stabljici?","answers":["Agava","Aloe vera","Kaktus"],"correctAnswer":"C","image":null},
-{"type":"blitz","difficulty":2,"topic":"FloraFauna","question":"Kuna bjelica, tri lava te koza svoje su mjesto našli na zastavi koje države?","answers":["Hrvatske","Slovenije","Srbije"],"correctAnswer":"A","image":null},
-{"type":"blitz","difficulty":3,"topic":"FloraFauna","question":"Koja ptica prepoznajemo po dugim nogama, dugom vratu i ružičastom perju?","answers":["Čaplju","Rodu","Plamenca"],"correctAnswer":"C","image":null},
-{"type":"blitz","difficulty":1,"topic":"FloraFauna","question":"Po Bibliji, plod s kojeg zabranjenog stabla su kušali Adam i Eva?","answers":["Smokve","Jabuke","Masline"],"correctAnswer":"B","image":null},
-{"type":"blitz","rarity":"silver","difficulty":3,"topic":"FloraFauna","question":"Tko kome grize rep u animiranom filmu iz 2004.?","answers":["Pas mački","Mačka mišu","Riba ribi"],"correctAnswer":"C","image":null},
-{"type":"blitz","difficulty":4,"topic":"FloraFauna","question":"Eukaliptus, akacija i banksija su prvi puta predstavljeni Europi zahvaljujući kojem brodu iz 18. st?","answers":["HMS Beagle","HMS Endeavour","HMS Resolution"],"correctAnswer":"B","image":null},
-{"type":"blitz","difficulty":4,"topic":"FloraFauna","question":"Koji je zaljev u Sydneyu poznat po tome što je istraživaču Jamesu Cooku ponudio obilje novih biljnih vrsta?","answers":["Port Jackson","Shark Bay","Botany Bay"],"correctAnswer":"C","image":null},
-{"type":"blitz","difficulty":5,"topic":"FloraFauna","question":"Koje je troslovno londonsko naselje dom najvećem herbariju na svijetu, Kraljevskim botaničkim vrtovima?","answers":["Soho","Kew","Eel"],"correctAnswer":"B","image":null},
-{"type":"blitz","difficulty":4,"topic":"FloraFauna","question":"Kako nazivamo prostor za držanje životinja i biljaka simulirajući njihovo prirodno stanište?","answers":["Vivarij","Terarij","Akvarij"],"correctAnswer":"A","image":null},
-{"type":"blitz","difficulty":3,"topic":"FloraFauna","question":"Kako se zove zatvoreni, uglavnom suhi prostor za držanje pauka, kukaca i gmazova?","answers":["Paludarij","Vivarij","Terarij"],"correctAnswer":"C","image":null},
-{"type":"blitz","difficulty":2,"topic":"FloraFauna","question":"Kako se zove zatvoreni prostor ispunjen vodom u kojem se drže ribe?","answers":["Vivarij","Akvarij","Terarij"],"correctAnswer":"B","image":null},
-{"type":"blitz","difficulty":5,"topic":"FloraFauna","question":"Kako se zove zatvoreni prostor koji kombinira vodeni i kopneni dio za biljke i životinje?","answers":["Riparij","Akvarij","Paludarij"],"correctAnswer":"C","image":null},
-{"type":"blitz","difficulty":5,"topic":"FloraFauna","question":"Kako zovemo vrstu vivarija koja oponaša vodena staništa uz rubove rijeka, potoka ili jezera?","answers":["Paludarij","Riparij","Terarij"],"correctAnswer":"B","image":null},
-{"type":"blitz","difficulty":3,"topic":"FloraFauna","question":"Kako se zove zbirka prešanog sušenog bilja?","answers":["Arboretum","Botanički atlas","Herbarij"],"correctAnswer":"C","image":null},
-{"type":"blitz","difficulty":3,"topic":"FloraFauna","question":"Kolonija pčela se sastoji od tri kaste, matice, trutova i koja još?","answers":["Radilica","Stražara","Ličinki"],"correctAnswer":"A","image":null},
-{"type":"blitz","rarity":"golden","difficulty":5,"topic":"FloraFauna","question":"Kako se zove znanost koja proučava pelud?","answers":["Pomologija","Palinologija","Fenologija"],"correctAnswer":"B","image":null},
-{"type":"blitz","difficulty":2,"topic":"FloraFauna","question":"Koje ime označava skupinu pčela u letu?","answers":["Jato","Roj","Krdo"],"correctAnswer":"B","image":null},
-{"type":"blitz","difficulty":3,"topic":"FloraFauna","question":"Kako se zove šesterokutna struktura od voska u kojoj pčele pohranjuju med i uzgajaju ličinke?","answers":["Košnica","Saće","Leglo"],"correctAnswer":"B","image":null},
-{"type":"blitz","difficulty":3,"topic":"FloraFauna","question":"Koliko kutova ima jedno pčelinje saće?","answers":["6","5","8"],"correctAnswer":"A","image":null},
-{"type":"blitz","difficulty":4,"topic":"FloraFauna","question":"Tri mudraca su novorođenom Isusu kao dar donijeli zlato, tamjan i koju još aromatičnu smolu?","answers":["Jantar","Smirnu","Mastiku"],"correctAnswer":"B","image":null},
-{"type":"blitz","difficulty":3,"topic":"FloraFauna","question":"Kako se zove nastamba u kojoj žive pčele?","answers":["Mravinjak","Košnica","Brlog"],"correctAnswer":"B","image":null},
-{"type":"blitz","rarity":"legendary","difficulty":3,"topic":"FloraFauna","question":"Koji je poznati engleski botaničar rođen 1743. ostao upamćen po putovanju sa Jamesom Cookom u Australiju gdje je otkrio mnoge nove biljne vrste?","answers":["Joseph Banks","Robert Brown","Joseph Hooker"],"correctAnswer":"A","image":null},
-{"type":"blitz","difficulty":3,"topic":"FloraFauna","question":"Koliko nogu ima odrasla jedinka kukca?","answers":["8","6","10"],"correctAnswer":"B","image":null},
-{"type":"blitz","difficulty":4,"topic":"FloraFauna","question":"Koji stručni naziv koristimo kad opisujemo sposobnost šišmiša da 'gleda' zvukom?","answers":["Sonolokacija","Bioluminiscencija","Eholokacija"],"correctAnswer":"C","image":null},
-{"type":"blitz","difficulty":4,"topic":"FloraFauna","question":"Kako zovemo ekološki odnos između dva ili više različitih organizama u kojem svi sudionici imaju koristi?","answers":["Komenzalizam","Mutualizam","Parazitizam"],"correctAnswer":"B","image":null},
-{"type":"blitz","difficulty":3,"topic":"FloraFauna","question":"Kako nazivamo sposobnost nekih vrsta životinja i biljaka, da se izgledom prilagode okolini radi zaštite od prirodnih neprijatelja?","answers":["Mutualizam","Metamorfoza","Mimikrija"],"correctAnswer":"C","image":null},
-{"type":"blitz","difficulty":4,"topic":"FloraFauna","question":"Suprotno 'hibernaciji' zimi, kako nazivamo stanje mirovanja nekih životinja tijekom visokih ljetnih temperatura i suša?","answers":["Estivacija","Migracija","Diapauza"],"correctAnswer":"A","image":null},
-{"type":"blitz","difficulty":3,"topic":"FloraFauna","question":"Koji stručni naziv koristimo za 'zimski san' kod životinja?","answers":["Hibernacija","Estivacija","Dormancija"],"correctAnswer":"A","image":null},
-{"type":"blitz","difficulty":4,"topic":"FloraFauna","question":"Koji biološki proces dramatične preobrazbe oblika, strukture i načina života možemo vidjeti kod leptira i žaba?","answers":["Metamorfozu","Mitozu","Regeneraciju"],"correctAnswer":"A","image":null},
-{"type":"blitz","difficulty":3,"topic":"FloraFauna","question":"Koji se šećer proizvodi fotosintezom?","answers":["Glukoza","Fruktoza","Laktoza"],"correctAnswer":"A","image":null},
-{"type":"blitz","difficulty":3,"topic":"FloraFauna","question":"U kojem se organelu odvija fotosinteza?","answers":["Kloroplastu","Mitohondriju","Ribosomu"],"correctAnswer":"A","image":null},
-{"type":"blitz","difficulty":3,"topic":"FloraFauna","question":"Koji zeleni pigment daje boju biljkama i algama te je ključan za fotosintezu?","answers":["Klorofil","Melanin","Karoten"],"correctAnswer":"A","image":null},
-{"type":"blitz","difficulty":3,"topic":"FloraFauna","question":"Koji plin biljke upijaju tijekom fotosinteze?","answers":["Kisik","Ugljikov dioksid","Dušik"],"correctAnswer":"B","image":null},
-{"type":"blitz","difficulty":3,"topic":"FloraFauna","question":"Koji plin se oslobađa kao nusprodukt fotosinteze?","answers":["Ugljikov dioksid","Kisik","Metan"],"correctAnswer":"B","image":null},
-{"type":"blitz","difficulty":5,"topic":"FloraFauna","question":"Koja je membranska vrećasta struktura unutar kloroplasta ključna za odvijanje svjetlosno-ovisnih reakcija?","answers":["Stroma","Grana","Tilakoid"],"correctAnswer":"C","image":null},
-{"type":"blitz","difficulty":4,"topic":"FloraFauna","question":"'Tamnu fazu fotosinteze' su 1950-ih  otkrili Melvin Calvin, James Bassham i Andrew Benson na kojem kalifornijskom sveučilištu?","answers":["Stanfordu","UCLA-u","Berkeleyju"],"correctAnswer":"C","image":null},
-{"type":"blitz","rarity":"silver","difficulty":5,"topic":"FloraFauna","question":"Koji znanstveni naziv koristimo za isparavanje vode iz biljaka?","answers":["Respiracija","Translokacija","Transpiracija"],"correctAnswer":"C","image":null},
-{"type":"blitz","difficulty":2,"topic":"FloraFauna","question":"Ime koje životinje usko vežemo uz alkoholnu halucinaciju te kompjuter i tastaturu?","answers":["Štakor","Hrčak","Miš"],"correctAnswer":"C","image":null},
-{"type":"blitz","difficulty":3,"topic":"FloraFauna","question":"Koja znanost proučava primate?","answers":["Mamalogija","Primatologija","Antropologija"],"correctAnswer":"B","image":null},
-{"type":"blitz","difficulty":4,"topic":"FloraFauna","question":"Koja grana entomologije proučava pčele?","answers":["Apiologija","Mirmekologija","Dipterologija"],"correctAnswer":"A","image":null},
-{"type":"blitz","rarity":"platinum","difficulty":5,"topic":"FloraFauna","question":"Koja grana entomologije proučava muhe?","answers":["Dipterologija","Ortopterologija","Apiologija"],"correctAnswer":"A","image":null},
-{"type":"blitz","difficulty":5,"topic":"FloraFauna","question":"Koja grana entomologije proučava mrave?","answers":["Mirmekologija","Dipterologija","Koleopterologija"],"correctAnswer":"A","image":null},
-{"type":"blitz","difficulty":5,"topic":"FloraFauna","question":"Koja grana entomologije proučava skakavce?","answers":["Ortopterologija","Lepidopterologija","Odonatologija"],"correctAnswer":"A","image":null},
-{"type":"blitz","difficulty":4,"topic":"FloraFauna","question":"Kojeg se švedskog botaničara smatra utemeljiteljem moderne taksonomije?","answers":["Carl von Linné","Gregor Mendel","Robert Hooke"],"correctAnswer":"A","image":null},
-{"type":"blitz","rarity":"golden","difficulty":5,"topic":"FloraFauna","question":"Koje je djelo švedskog botaničara Carla von Linnea svrstalo biljke, životinje i minerale u sustav klasa, rodova, redova i vrsta?","answers":["Systema Naturae","Species Plantarum","Historia Naturalis"],"correctAnswer":"A","image":null},
-{"type":"blitz","difficulty":3,"topic":"FloraFauna","question":"Koji začin dobivamo od biljke penjačice latinskog imena 'Piper'?","answers":["Cimet","Papar","Klinčić"],"correctAnswer":"B","image":null},
-{"type":"blitz","difficulty":3,"topic":"FloraFauna","question":"Kako zovemo blisku, često dugotrajnu interakciju dvaju organizama različitih vrsta?","answers":["Predacija","Simbioza","Kompeticija"],"correctAnswer":"B","image":null},
-{"type":"blitz","difficulty":4,"topic":"FloraFauna","question":"Kako zovemo ekološki odnos između dva ili više različitih organizama u kojem jedna strana ima korist a druga štetu?","answers":["Parazitizam","Mutualizam","Komenzalizam"],"correctAnswer":"A","image":null},
-{"type":"blitz","difficulty":5,"topic":"FloraFauna","question":"Kako zovemo ekološki odnos između dva ili više različitih organizama u kojem jedna strana ima korist dok je druga neutralna?","answers":["Parazitizam","Komenzalizam","Mutualizam"],"correctAnswer":"B","image":null},
-{"type":"blitz","difficulty":3,"topic":"FloraFauna","question":"Koji proces označava organizam koji raste iz sjemena ili spore?","answers":["Klijanje","Oprašivanje","Transpiracija"],"correctAnswer":"A","image":null},
-{"type":"blitz","difficulty":5,"topic":"FloraFauna","question":"Kako nazivamo biološki fenomen gdje jedna biljka negativno utječe na drugu, oslobađanjem kemijskih spojeva ili biokemikalija?","answers":["Apomiksija","Alelopatija","Fototropizam"],"correctAnswer":"B","image":null},
-{"type":"blitz","difficulty":3,"topic":"FloraFauna","question":"Koji proces označava prenošenje cvjetnog ili peludnog praha s prašnika na stigmu tučka?","answers":["Klijanje","Gnojidba","Oprašivanje"],"correctAnswer":"C","image":null},
-{"type":"blitz","difficulty":4,"topic":"FloraFauna","question":"Koje velike životinje je Hanibal vodio preko Alpa u napadima na rimljane?","answers":["Deve","Bivole","Slonove"],"correctAnswer":"C","image":null},
-{"type":"blitz","difficulty":4,"topic":"FloraFauna","question":"Koje ime nosi konj na kojem sjedi Ban Josip Jelačić, na istoimenom trgu u Zagrebu?","answers":["Sokol","Jadran","Emir"],"correctAnswer":"C","image":null},
-{"type":"blitz","difficulty":4,"topic":"FloraFauna","question":"Koji je njemački zoolog prvi u svijetu upotrijebio pojam 'ekologija'?","answers":["Ernst Haeckel","Alexander von Humboldt","Theodor Schwann"],"correctAnswer":"A","image":null},
-{"type":"blitz","difficulty":4,"topic":"FloraFauna","question":"Koja je engleska primatologinja preminula 1.10.2025. a smatrala se najvažnijom stručnjakinjom za čimpanze na svijetu?","answers":["Dian Fossey","Jane Goodall","Birutė Galdikas"],"correctAnswer":"B","image":null},
-{"type":"blitz","difficulty":5,"topic":"FloraFauna","question":"Koji se austrijski zoolog i nobelovac smarta jednim od osnivača moderne etologije?","answers":["Nikolaas Tinbergen","Konrad Lorenz","Karl von Frisch"],"correctAnswer":"B","image":null},
-{"type":"blitz","difficulty":5,"topic":"FloraFauna","question":"Koji je nizozemski etolog, ornitolog i nobelovac autor knjiga 'Proučavanje instinkta' i 'Socijalno ponašanje u životinja'?","answers":["Konrad Lorenz","Karl von Frisch","Nikolaas Tinbergen"],"correctAnswer":"C","image":null},
-{"type":"blitz","difficulty":3,"topic":"FloraFauna","question":"Koju je teoriju razvio Charles Darwin?","answers":["Teoriju relativnosti","Staničnu teoriju","Teoriju evolucije"],"correctAnswer":"C","image":null},
-{"type":"blitz","difficulty":5,"topic":"FloraFauna","question":"Na kojem je otočju Charles Darwin proučavao zebe?","answers":["Galapagosu","Kanarskim otocima","Azorima"],"correctAnswer":"A","image":null},
-{"type":"blitz","difficulty":5,"topic":"FloraFauna","question":"Koje ime nosi brod na kojem je Charles Darwin plovio svijetom 5 godina te prikupljao podatke koji su formirali temelje njegove teorije evolucije?","answers":["HMS Endeavour","HMS Beagle","HMS Challenger"],"correctAnswer":"B","image":null},
-{"type":"blitz","difficulty":3,"topic":"FloraFauna","question":"Kako se zove najpoznatije djelo Charlesa Darwina?","answers":["O podrijetlu vrsta","Podrijetlo čovjeka","Putovanje jednog prirodoslovca"],"correctAnswer":"A","image":null},
-{"type":"blitz","difficulty":3,"topic":"FloraFauna","question":"Iako je samo legenda, pitamo vas, koja ptica u slučaju opasnosti glavu gura u pijesak?","answers":["Emu","Nandu","Noj"],"correctAnswer":"C","image":null},
-{"type":"blitz","difficulty":3,"topic":"FloraFauna","question":"Koje kraće ime koristimo za borealne šume? Najveći kopneni biom na svijetu koji obuhvaća goleme prostore crnogoričnih šuma u sjevernim dijelovima Europe i Azije te Sjeverne Amerike.","answers":["Tundra","Stepa","Tajga"],"correctAnswer":"C","image":null},
-{"type":"blitz","difficulty":3,"topic":"FloraFauna","question":"Najviše kisika na Zemlji zapravo ne proizvode šume nego morski fitoplankton i koji još autotrofni organizmi?","answers":["Gljive","Alge","Lišajevi"],"correctAnswer":"B","image":null},
-{"type":"blitz","difficulty":4,"topic":"FloraFauna","question":"Zakon o jednoličnosti, zakon segregacije i zakon nezavisnog nasljeđivanja se jednim imenom zovu kako?","answers":["Mendelovi zakoni","Darwinovi zakoni","Morganovi zakoni"],"correctAnswer":"A","image":null},
-{"type":"blitz","difficulty":4,"topic":"FloraFauna","question":"Na kojoj je biljci Gregor Mendel provodio pokuse?","answers":["Grašku","Kukuruza","Duhanu"],"correctAnswer":"A","image":null},
-{"type":"blitz","difficulty":3,"topic":"FloraFauna","question":"Koju riječ je kreirao William Bateson 1905. na osnovu radova i istraživanja Gregora Mendela?","answers":["Eugenika","Genetika","Ekologija"],"correctAnswer":"B","image":null},
-{"type":"blitz","difficulty":4,"topic":"FloraFauna","question":"Koja je ptica s Mauricijusa izumrla u 17. stoljeću?","answers":["Moa","Dodo","Velika njorka"],"correctAnswer":"B","image":null},
-{"type":"blitz","difficulty":4,"topic":"FloraFauna","question":"Pas Lajka je jedno od prvih živih bića u svemiru, ali i pas lutalica iz kojeg grada?","answers":["Lenjingrada","Moskve","Kijeva"],"correctAnswer":"B","image":null},
-{"type":"blitz","difficulty":3,"topic":"FloraFauna","question":"Dugouhi, afrički pigmejski i europski obični su vrste koje bodljikave životinje?","answers":["Ježa","Dikobraza","Ehidne"],"correctAnswer":"A","image":null},
-{"type":"blitz","rarity":"platinum","difficulty":5,"topic":"FloraFauna","question":"Na stabljici koje biljke su zapisana povijesna događanja drevne Kine od najranijih vremena do 4. stoljeća pr. Kr., koja prate tri dinastije: Xia, Shang i Zhou?","answers":["Papirusa","Bambusa","Trske"],"correctAnswer":"B","image":null},
-{"type":"blitz","difficulty":5,"topic":"FloraFauna","question":"Budistički tekstovi pisani Gandhārskim pismom su jedni od najstarijih sačuvanih budističkih rukopisa uopće, a pisani su na kori kojeg drveta?","answers":["Breze","Bambusa","Cedra"],"correctAnswer":"A","image":null},
-{"type":"blitz","difficulty":3,"topic":"FloraFauna","question":"Iz koje biljke dobivamo prirodni lateks?","answers":["Pamuka","Kaučukovca","Jute"],"correctAnswer":"B","image":null},
-{"type":"blitz","difficulty":4,"topic":"FloraFauna","question":"Svila se dobiva odmatanjem niti s čahure kojeg moljca?","answers":["Gubarova moljca","Vunastog moljca","Dudova svilca"],"correctAnswer":"C","image":null},
-{"type":"blitz","difficulty":3,"topic":"FloraFauna","question":"Koja se životinja iz reda žarnjaka većinom sastoji od oko 98 % vode, ima želatinozno tijelo te nema mozak, srce, pluća ni krv?","answers":["Spužva","Morska zvijezda","Meduza"],"correctAnswer":"C","image":null},
-{"type":"blitz","difficulty":2,"topic":"FloraFauna","question":"Ono što na nebu s'ja visoko, mjesec je il' sivi.. tko?","answers":["Orao","Galeb","Sokol"],"correctAnswer":"C","image":null},
-{"type":"blitz","difficulty":4,"topic":"FloraFauna","question":"Vučedolska golubica je dobro poznata keramička figura, no arheolozi su utvrdili da je to ipak jedna druga vrsta ptice, koja?","answers":["Prepelica","Jarebica","Fazan"],"correctAnswer":"B","image":null},
-{"type":"blitz","difficulty":5,"topic":"FloraFauna","question":"Kako se na kineskom jeziku kaže čaj?","answers":["Cha","Tea","Chai"],"correctAnswer":"A","image":null},
-{"type":"blitz","difficulty":4,"topic":"FloraFauna","question":"Koji napitak potječe od biljke 'Camellia sinensis'?","answers":["Kava","Kakao","Čaj"],"correctAnswer":"C","image":null},
-{"type":"blitz","rarity":"golden","difficulty":5,"topic":"FloraFauna","question":"Koji je legendarni kineski car i bog poljoprivrede po kineskoj predaji otkrio čaj?","answers":["Qin Shi Huang","Yu Veliki","Shennong"],"correctAnswer":"C","image":null},
-{"type":"blitz","difficulty":5,"topic":"FloraFauna","question":"Koja japanska mudrost podučava prihvaćanju nestalne i nesavršene prirode?","answers":["Ikigai","Kaizen","Wabi-sabi"],"correctAnswer":"C","image":null},
-{"type":"blitz","difficulty":5,"topic":"FloraFauna","question":"Na svjetskoj izložbi u kojem američkom gradu je 1907.  populariziran 'Ledeni čaj'?","answers":["Saint Louis","Chicago","New York"],"correctAnswer":"A","image":null},
-{"type":"blitz","difficulty":4,"topic":"FloraFauna","question":"Koje su ratove pokrenule zapadne sile protiv kineske dinastije Qing u 19-om st. s ciljem da zapad proširi trgovinu opijuma u Kini?","answers":["Opijumske ratove","Bokserske ratove","Taipinške ratove"],"correctAnswer":"A","image":null},
-{"type":"blitz","difficulty":5,"topic":"FloraFauna","question":"Koje je sveto drvo Japana u šintoističkoj tradiciji?","answers":["Sakaki","Sakura","Ginko"],"correctAnswer":"A","image":null},
-{"type":"blitz","difficulty":4,"topic":"FloraFauna","question":"Koji cvijet u Kini simbolizira čistoću i prosvjetljenje?","answers":["Lotos","Božur","Krizantema"],"correctAnswer":"A","image":null},
-{"type":"blitz","difficulty":4,"topic":"FloraFauna","question":"Koje voće u kineskoj mitologiji simbolizira besmrtnost?","answers":["Breskva","Šipak","Mandarina"],"correctAnswer":"A","image":null},
-{"type":"blitz","difficulty":4,"topic":"FloraFauna","question":"Koja životinja u Kini simbolizira dug život?","answers":["Tigar","Zmaj","Kornjača"],"correctAnswer":"C","image":null},
-{"type":"blitz","difficulty":4,"topic":"FloraFauna","question":"Četiri plemenite kineske biljke su: Bambus, Orhideja, Šljiva i koja još biljka koja cvjeta u jesen?","answers":["Lotos","Božur","Krizantema"],"correctAnswer":"C","image":null},
-{"type":"blitz","difficulty":2,"topic":"FloraFauna","question":"Za koju se ribu, podrijetlom iz Kine, smatra da ispunjava želje?","answers":["Zlatnu ribicu","Koi šarana","Betta ribu"],"correctAnswer":"A","image":null},
-{"type":"blitz","difficulty":4,"topic":"FloraFauna","question":"Grana koje se biljke nalazi na grbu francuskog grada Cannesa?","answers":["Masline","Lovora","Palme"],"correctAnswer":"C","image":null},
-{"type":"blitz","difficulty":3,"topic":"FloraFauna","question":"Na zastavi koje azijske države možemo vidjeti lava s mačem u ruci?","answers":["Butana","Šri Lanke","Nepala"],"correctAnswer":"B","image":null},
-{"type":"blitz","difficulty":3,"topic":"FloraFauna","question":"Koja se životinja nalazi na zastavi Zimbabvea?","answers":["Ptica","Lav","Slon"],"correctAnswer":"A","image":null},
-{"type":"blitz","difficulty":5,"topic":"FloraFauna","question":"Skulpture koje ptice su pronađene u ruševinama Velikog Zimbabvea te su i danas nacionalni simbol suvremenog Zimbabvea?","answers":["Orla","Sokola","Supova"],"correctAnswer":"A","image":null},
-{"type":"blitz","difficulty":2,"topic":"FloraFauna","question":"Koji lijeni mačak mrzi ponedjeljak a najviše voli jesti lazanje?","answers":["Garfield","Felix","Tom"],"correctAnswer":"A","image":null},
-{"type":"blitz","difficulty":5,"topic":"FloraFauna","question":"Koji je američki pisac stvorio lik i djelo Stuarta Malog?","answers":["E. B. White","Dr. Seuss","Roald Dahl"],"correctAnswer":"A","image":null},
-{"type":"blitz","difficulty":4,"topic":"FloraFauna","question":"Napoleon, Old Major, Squealer, Snowball, Minimus i Pinkeye su svi redom koja životinja?","answers":["Ovce","Konji","Svinje"],"correctAnswer":"C","image":null},
-{"type":"blitz","difficulty":2,"topic":"FloraFauna","question":"Na kojoj životinji je Isus ujahao u Jeruzalem?","answers":["Magarcu","Konju","Devi"],"correctAnswer":"A","image":null},
-{"type":"blitz","difficulty":3,"topic":"FloraFauna","question":"Koje pasmine je bio pas Hachiko?","answers":["Shiba Inu","Hokkaido","Akita Inu"],"correctAnswer":"C","image":null},
-{"type":"blitz","difficulty":5,"topic":"FloraFauna","question":"Stara japanska legenda kaže da će bogovi ispuniti želju onome tko izradi 1000 origami figura koje vrste ptice selice?","answers":["Ždralova","Labudova","Čaplji"],"correctAnswer":"A","image":null},
-{"type":"blitz","difficulty":4,"topic":"FloraFauna","question":"Koje ribe osim škrga imaju i plivajući mjehur koji im omogućava da udišu kisik?","answers":["Jegulje","Dvodihalice","Morski psi"],"correctAnswer":"B","image":null},
-{"type":"blitz","difficulty":3,"topic":"FloraFauna","question":"Kojoj pasmini pripada Rin Tin Tin, pas spašen iz 1. Svjetskog rata koji je kasnije postao filmska zvijezda?","answers":["Belgijski ovčar","Njemački ovčar","Doberman"],"correctAnswer":"B","image":null},
-{"type":"blitz","difficulty":3,"topic":"FloraFauna","question":"Koja grana zoologije se bavi proučavanjem ptica?","answers":["Ihtiologija","Herpetologija","Ornitologija"],"correctAnswer":"C","image":null},
-{"type":"blitz","difficulty":3,"topic":"FloraFauna","question":"Koja grana zoologije se bavi proučavanjem riba?","answers":["Ihtiologija","Ornitologija","Entomologija"],"correctAnswer":"A","image":null},
-{"type":"blitz","difficulty":4,"topic":"FloraFauna","question":"Koja grana zoologije se bavi proučavanjem gmazova i vodozemaca?","answers":["Mamalogija","Malakologija","Herpetologija"],"correctAnswer":"C","image":null},
-{"type":"blitz","difficulty":3,"topic":"FloraFauna","question":"Koja grana zoologije se bavi proučavanjem kukaca?","answers":["Arahnologija","Entomologija","Karcinologija"],"correctAnswer":"B","image":null},
-{"type":"blitz","difficulty":3,"topic":"FloraFauna","question":"Koja grana zoologije se bavi proučavanjem sisavaca?","answers":["Ornitologija","Herpetologija","Mamalogija"],"correctAnswer":"C","image":null},
-{"type":"blitz","difficulty":4,"topic":"FloraFauna","question":"Koja grana zoologije se bavi proučavanjem mekušaca?","answers":["Karcinologija","Malakologija","Ihtiologija"],"correctAnswer":"B","image":null},
-{"type":"blitz","difficulty":3,"topic":"FloraFauna","question":"Koja grana zoologije se bavi proučavanjem rakova?","answers":["Malakologija","Arahnologija","Karcinologija"],"correctAnswer":"C","image":null},
-{"type":"blitz","difficulty":3,"topic":"FloraFauna","question":"Koja grana zoologije se bavi proučavanjem paučnjaka?","answers":["Entomologija","Arahnologija","Mirmekologija"],"correctAnswer":"B","image":null},
-{"type":"blitz","difficulty":3,"topic":"FloraFauna","question":"Koji cvijet latinskog imena 'Galanthus' ujedno označava i početak proljeća?","answers":["Visibaba","Jaglac","Šafran"],"correctAnswer":"A","image":null},
-{"type":"blitz","difficulty":4,"topic":"FloraFauna","question":"Koja životinja se nalazi na grbovima Madrida, Berna i Berlina?","answers":["Medvjed","Lav","Orao"],"correctAnswer":"A","image":null},
-{"type":"blitz","difficulty":3,"topic":"FloraFauna","question":"Koja životinja se nalazi na grbu nogometnog kluba AS Roma?","answers":["Orao","Lav","Vučica"],"correctAnswer":"C","image":null},
-{"type":"blitz","difficulty":3,"topic":"FloraFauna","question":"Koja životinja se nalazi na grbu Venecije i zastavama nekadašnje Mletačke Republike?","answers":["Orao","Grifon","Lav"],"correctAnswer":"C","image":null},
-{"type":"blitz","difficulty":3,"topic":"FloraFauna","question":"Koji cvijet stoji na grbu glavnog grada talijanske pokrajine Toskane?","answers":["Ruža","Iris","Ljiljan"],"correctAnswer":"C","image":null},
-{"type":"blitz","difficulty":3,"topic":"FloraFauna","question":"Koja životinja se nalazi na grbu NK Osijeka?","answers":["Sokol","Jelen","Kuna"],"correctAnswer":"C","image":null},
-{"type":"blitz","difficulty":4,"topic":"FloraFauna","question":"Koja životinja povezuje grbove gradova Tallina i Praga?","answers":["Orao","Medvjed","Lav"],"correctAnswer":"C","image":null},
-{"type":"blitz","difficulty":4,"topic":"FloraFauna","question":"Koja ptica je najpoznatiji simbol mudrosti i inteligencije, često prikazivan uz Atenu?","answers":["Gavran","Sova","Orao"],"correctAnswer":"B","image":null},
-{"type":"blitz","difficulty":4,"topic":"FloraFauna","question":"'Napoleon prelazi Alpe' je slavno ulje na platnu francuskog slikara Jacques Louisa Davida koje uprizoruje Napoleona na kojoj životinji?","answers":["Muli","Konju","Devi"],"correctAnswer":"B","image":null},
-{"type":"blitz","difficulty":5,"topic":"FloraFauna","question":"Koja se poznata špilja nalazi u dolini rijeke Vezere u Francuskoj a poznata je po dobro očuvanim crtežima životinja koji datiraju iz starijeg kamenog doba?","answers":["Chauvet","Lascaux","Altamira"],"correctAnswer":"B","image":null},
-{"type":"blitz","difficulty":3,"topic":"FloraFauna","question":"Prema legendi, Sv. Jeronim je trn iz šape izvadio kojoj životinji iz porodica mačaka?","answers":["Tigru","Lavu","Leopardu"],"correctAnswer":"B","image":null},
-{"type":"blitz","difficulty":4,"topic":"FloraFauna","question":"Na aukciji 1987. japanski magnat Jasuo Goto kupuje sliku Vincenta Van Gogha za, tada rekordnih 39,9 milijuna dolara na kojoj je bilo naslikano 15 čega?","answers":["Irisa","Makova","Suncokreta"],"correctAnswer":"C","image":null},
-{"type":"blitz","difficulty":4,"topic":"FloraFauna","question":"Koje drvo je Van Gogh naslikao u svom remek-djelu 'Zvjezdana noć'?","answers":["Čempres","Maslinu","Bor"],"correctAnswer":"A","image":null},
-{"type":"blitz","difficulty":2,"topic":"FloraFauna","question":"Koja je najotrovnija hrvatska a ujedno i europska zmija prepoznatljiva po roščiću na glavi?","answers":["Riđovka","Planinski žutokrug","Poskok"],"correctAnswer":"C","image":null},
-{"type":"blitz","difficulty":3,"topic":"FloraFauna","question":"Koja biljka se nalazi na kovanici od 50 lipa?","answers":["Maslina","Velebitska degenija","Duhan"],"correctAnswer":"B","image":null},
-{"type":"blitz","difficulty":4,"topic":"FloraFauna","question":"Koja biljka se nalazi na kovanici od 20 lipa?","answers":["Duhan","Maslina","Kukuruz"],"correctAnswer":"B","image":null},
-{"type":"blitz","difficulty":4,"topic":"FloraFauna","question":"Koja biljka se nalazi na kovanici od 10 lipa?","answers":["Duhan","Maslina","Vinova loza"],"correctAnswer":"A","image":null},
-{"type":"blitz","difficulty":4,"topic":"FloraFauna","question":"Vrsta kojeg hrasta se nalazi na kovanici od 5 lipa?","answers":["Lužnjak","Kitnjak","Medunac"],"correctAnswer":"A","image":null},
-{"type":"blitz","difficulty":4,"topic":"FloraFauna","question":"Koja biljka se nalazi na kovanici od  2 lipe?","answers":["Kukuruz","Vinova loza","Duhan"],"correctAnswer":"B","image":null},
-{"type":"blitz","difficulty":4,"topic":"FloraFauna","question":"Koja biljka se nalazi na kovanici od jedne lipe?","answers":["Kukuruz","Pšenica","Ječam"],"correctAnswer":"A","image":null},
-{"type":"blitz","difficulty":3,"topic":"FloraFauna","question":"Koja ptica se nalazi na kovanici od jedne kune?","answers":["Lastavica","Sokol","Slavuj"],"correctAnswer":"C","image":null},
-{"type":"blitz","difficulty":3,"topic":"FloraFauna","question":"Koja riba se nalazi na kovanici od dvije kune?","answers":["Tunj","Srdela","Šaran"],"correctAnswer":"A","image":null},
-{"type":"blitz","difficulty":3,"topic":"FloraFauna","question":"Koja se životinja nalazi na kovanici od 5 kuna?","answers":["Kuna zlatica","Mrki medvjed","Vuk"],"correctAnswer":"B","image":null},
-{"type":"blitz","difficulty":4,"topic":"FloraFauna","question":"Koja životinja je u 'trku' na banovcu, prvom hrvatskom novcu kovanom u Pakracu i Zagrebu?","answers":["Konj","Jelen","Kuna"],"correctAnswer":"C","image":null},
-{"type":"blitz","difficulty":2,"topic":"FloraFauna","question":"Koja biljka nam je omogućila uživanje u čokoladi?","answers":["Kavovac","Vanilija","Kakaovac"],"correctAnswer":"C","image":null},
-{"type":"blitz","difficulty":4,"topic":"FloraFauna","question":"Koju je biljku iz porodice orhideja, Hernan Cortes donio u Europu nakon osvajanja Aztečkog carstva?","answers":["Vaniliju","Kakao","Agavu"],"correctAnswer":"A","image":null},
-{"type":"blitz","difficulty":2,"topic":"FloraFauna","question":"Koju vrstu podzemnih gljiva, jako skupu i cijenjenu, možemo pronaći u Istri?","answers":["Vrganje","Smrčke","Tartufe"],"correctAnswer":"C","image":null},
-{"type":"blitz","difficulty":1,"topic":"FloraFauna","question":"Gomolj koje biljke se može kuhati, pržiti i peći a od njega nastaju čips i pomfrit?","answers":["Batat","Krumpir","Topinambur"],"correctAnswer":"B","image":null},
-{"type":"blitz","difficulty":1,"topic":"FloraFauna","question":"Kojom zbirnom imenicom nazivamo jagodu, nektarinu, kesten, dunju i limun?","answers":["Povrće","Žitarice","Voće"],"correctAnswer":"C","image":null},
-{"type":"blitz","difficulty":1,"topic":"FloraFauna","question":"Kojom zbirnom imenicom nazivamo kupus, mrkvu, češnjak i krastavac?","answers":["Povrće","Voće","Začine"],"correctAnswer":"A","image":null},
-{"type":"blitz","difficulty":2,"topic":"FloraFauna","question":"Koji opisni pridjev koristimo za životinje koje čovjek pripitomljava i uzgaja radi koristi i razonode?","answers":["Domaće","Divlje","Endemske"],"correctAnswer":"A","image":null},
-{"type":"blitz","difficulty":1,"topic":"FloraFauna","question":"Koji naziv u pravilu koristimo za životinje koje žive u svom prirodnom staništu, podalje od čovjeka?","answers":["Domaće životinje","Egzotične životinje","Divlje životinje"],"correctAnswer":"C","image":null},
-{"type":"blitz","difficulty":1,"topic":"FloraFauna","question":"Koji plod pada s kokosove palme?","answers":["Datulja","Ananas","Kokosov orah"],"correctAnswer":"C","image":null},
-{"type":"blitz","rarity":"silver","difficulty":2,"topic":"FloraFauna","question":"Koje voće je ujedno i dom Spužvaboba Skockanog?","answers":["Kokos","Ananas","Lubenica"],"correctAnswer":"B","image":null}
+  {
+    "type": "blitz",
+    "rarity": "silver",
+    "difficulty": 4,
+    "topic": "FloraFauna",
+    "question": "Prijenosnu knjižnicu sa 117 000 knjiga, perzijskog velikog vezira Saheb Ibn Abada nosilo je čak 400 jedinki koje vrste životinje?",
+    "answers": [
+      "Konja",
+      "Deva",
+      "Mule"
+    ],
+    "correctAnswer": "B",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "FloraFauna",
+    "question": "U bitki kod Peluzija 525. pr. Kr. Perzijanci su pobijedili Egipćane noseći sa sobom koje današnje kućne ljubimce?",
+    "answers": [
+      "Mačke",
+      "Pse",
+      "Kuniće"
+    ],
+    "correctAnswer": "A",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "FloraFauna",
+    "question": "Koju životinju je rimski car Kaligula proglasio rimskim građaninom a namjeravao ju je imenovati i konzulom?",
+    "answers": [
+      "Konja",
+      "Slona",
+      "Psa"
+    ],
+    "correctAnswer": "A",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "FloraFauna",
+    "question": "Koje ime dijele jedan rimski bog i jedan od Francuskih goniča Georga Washingtona?",
+    "answers": [
+      "Vulcan",
+      "Mars",
+      "Jupiter"
+    ],
+    "correctAnswer": "A",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "FloraFauna",
+    "question": "Koja životinja na sebi ima kućicu?",
+    "answers": [
+      "Puž",
+      "Jež",
+      "Kornjača"
+    ],
+    "correctAnswer": "A",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "FloraFauna",
+    "question": "Za koju mačku se kaže da je 'kralj životinja'?",
+    "answers": [
+      "Tigra",
+      "Lava",
+      "Leoparda"
+    ],
+    "correctAnswer": "B",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "FloraFauna",
+    "question": "Koja životinja mijenja boju kože radi kamuflaže, a ima i jako brz jezik?",
+    "answers": [
+      "Iguana",
+      "Gekon",
+      "Kameleon"
+    ],
+    "correctAnswer": "C",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "rarity": "silver",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "Koje drvo može narasti preko 20m u visinu i 8m u širinu a ujedno je i nacionalni simbol Madagaskara?",
+    "answers": [
+      "Baobab",
+      "Eukaliptus",
+      "Sekvoja"
+    ],
+    "correctAnswer": "A",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "FloraFauna",
+    "question": "Kojoj vrsti drveća pripada divovska Hyperion, stablo visoko preko 115m te ga se smatra i najvišim na svijetu?",
+    "answers": [
+      "Borovima",
+      "Cedrovima",
+      "Sekvojama"
+    ],
+    "correctAnswer": "C",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "FloraFauna",
+    "question": "Koje tropsko voće bodljikave ljuske iz jugoistočne Azije ima bogat okus ali i jako neugodan miris?",
+    "answers": [
+      "Durian",
+      "Rambutan",
+      "Mangostin"
+    ],
+    "correctAnswer": "A",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "FloraFauna",
+    "question": "Plod kojeg drveta najviše podsjeća na ljudski mozak?",
+    "answers": [
+      "Lješnjaka",
+      "Oraha",
+      "Badema"
+    ],
+    "correctAnswer": "B",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "FloraFauna",
+    "question": "Koje drvo je u narodu poznato kao 'Drvo Mozak' a plod mu se popularno zove konjskom ili adamovom jabukom?",
+    "answers": [
+      "Maklura",
+      "Dud",
+      "Mušmula"
+    ],
+    "correctAnswer": "A",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "Koja japanska riječ označava umjetnost uzgoja minijaturnog drveća?",
+    "answers": [
+      "Ikebana",
+      "Origami",
+      "Bonsai"
+    ],
+    "correctAnswer": "C",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "Koja biljka cvjeta samo jednom za života te nakon cvatnje odmah ugiba?",
+    "answers": [
+      "Agava",
+      "Aloe vera",
+      "Juka"
+    ],
+    "correctAnswer": "A",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "S kim se izležava Milo Hrnić u pjesmi 'Budi noćas mirno more'?",
+    "answers": [
+      "S galebom",
+      "S cvrčkom",
+      "S lastavicom"
+    ],
+    "correctAnswer": "B",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "FloraFauna",
+    "question": "Koja azijska biljka ima miris pokvarenog mesa a može se pohvaliti najvećim cvijetom na svijetu koji može dosegnuti i do jednog metra u promjeru?",
+    "answers": [
+      "Rafflesia",
+      "Titan arum",
+      "Lotos"
+    ],
+    "correctAnswer": "A",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "FloraFauna",
+    "question": "Koji sladak, ali i zdrav proizvod dobivamo od pčela?",
+    "answers": [
+      "Med",
+      "Propolis",
+      "Matičnu mliječ"
+    ],
+    "correctAnswer": "A",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "Kojeg medvjeda možemo pronaći u kineskim provincijama Sichuan, Shaanxi i Gansu?",
+    "answers": [
+      "Smeđeg medvjeda",
+      "Pandu",
+      "Polarnog medvjeda"
+    ],
+    "correctAnswer": "B",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "FloraFauna",
+    "question": "Što je neobrano u jednoj od pjesama Klape Maslina?",
+    "answers": [
+      "Grožđe",
+      "Smokva",
+      "Maslina"
+    ],
+    "correctAnswer": "C",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "FloraFauna",
+    "question": "Koji pojam možemo pronaći u matematici, dijelu biljke i dijelu zuba?",
+    "answers": [
+      "Korijen",
+      "Kruna",
+      "Stabljika"
+    ],
+    "correctAnswer": "A",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "Kitovi pod vodom u prosjeku izdrže 20 minuta a dišu kojim organom?",
+    "answers": [
+      "Plućima",
+      "Škrgama",
+      "Kožom"
+    ],
+    "correctAnswer": "A",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "Koju vrstu kralježnjaka na latinskom poznajemo kao 'aves'?",
+    "answers": [
+      "Ptice",
+      "Ribe",
+      "Gmazove"
+    ],
+    "correctAnswer": "A",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "Kojeg letećeg sisavca možemo sresti ako uđemo u špilju?",
+    "answers": [
+      "Leteću vjevericu",
+      "Šišmiša",
+      "Lemura"
+    ],
+    "correctAnswer": "B",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "FloraFauna",
+    "question": "Kako nazivamo vanjski dio debla?",
+    "answers": [
+      "Kora",
+      "Srž",
+      "Lik"
+    ],
+    "correctAnswer": "A",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "Koja je životinja potvrdila nijekanje sv. Petra da pozna Isusa Krista?",
+    "answers": [
+      "Golub",
+      "Janje",
+      "Pijetao"
+    ],
+    "correctAnswer": "C",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "Koja krilata životinja iz reda kukaca dio života provede i kao gusjenica?",
+    "answers": [
+      "Leptir",
+      "Vretence",
+      "Pčela"
+    ],
+    "correctAnswer": "A",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "Koji grad na Neretvi dodajemo iza 'vilin' i 'morski' u nazivima životinja?",
+    "answers": [
+      "Mostar",
+      "Čapljina",
+      "Konjic"
+    ],
+    "correctAnswer": "C",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "Koja se grabežljiva riba pojavljuje u horor filmu Aleksandrea Aje iz 2010.?",
+    "answers": [
+      "Barakuda",
+      "Piranja",
+      "Morski pas"
+    ],
+    "correctAnswer": "B",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "FloraFauna",
+    "question": "Kako se zove biljka poznata po bodljama i sposobnosti zadržavanja vode u stabljici?",
+    "answers": [
+      "Agava",
+      "Kaktus",
+      "Aloe vera"
+    ],
+    "correctAnswer": "B",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "FloraFauna",
+    "question": "Kuna bjelica, tri lava te koza svoje su mjesto našli na zastavi koje države?",
+    "answers": [
+      "Hrvatske",
+      "Slovenije",
+      "Srbije"
+    ],
+    "correctAnswer": "A",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "Koja ptica prepoznajemo po dugim nogama, dugom vratu i ružičastom perju?",
+    "answers": [
+      "Čaplju",
+      "Rodu",
+      "Plamenca"
+    ],
+    "correctAnswer": "C",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "FloraFauna",
+    "question": "Po Bibliji, plod s kojeg zabranjenog stabla su kušali Adam i Eva?",
+    "answers": [
+      "Smokve",
+      "Masline",
+      "Jabuke"
+    ],
+    "correctAnswer": "C",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "rarity": "silver",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "Tko kome grize rep u animiranom filmu iz 2004.?",
+    "answers": [
+      "Riba ribi",
+      "Pas mački",
+      "Mačka mišu"
+    ],
+    "correctAnswer": "A",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "FloraFauna",
+    "question": "Eukaliptus, akacija i banksija su prvi puta predstavljeni Europi zahvaljujući kojem brodu iz 18. st?",
+    "answers": [
+      "HMS Beagle",
+      "HMS Resolution",
+      "HMS Endeavour"
+    ],
+    "correctAnswer": "C",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "FloraFauna",
+    "question": "Koji je zaljev u Sydneyu poznat po tome što je istraživaču Jamesu Cooku ponudio obilje novih biljnih vrsta?",
+    "answers": [
+      "Port Jackson",
+      "Shark Bay",
+      "Botany Bay"
+    ],
+    "correctAnswer": "C",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "FloraFauna",
+    "question": "Koje je troslovno londonsko naselje dom najvećem herbariju na svijetu, Kraljevskim botaničkim vrtovima?",
+    "answers": [
+      "Kew",
+      "Soho",
+      "Eel"
+    ],
+    "correctAnswer": "A",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "FloraFauna",
+    "question": "Kako nazivamo prostor za držanje životinja i biljaka simulirajući njihovo prirodno stanište?",
+    "answers": [
+      "Terarij",
+      "Vivarij",
+      "Akvarij"
+    ],
+    "correctAnswer": "B",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "Kako se zove zatvoreni, uglavnom suhi prostor za držanje pauka, kukaca i gmazova?",
+    "answers": [
+      "Paludarij",
+      "Vivarij",
+      "Terarij"
+    ],
+    "correctAnswer": "C",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "FloraFauna",
+    "question": "Kako se zove zatvoreni prostor ispunjen vodom u kojem se drže ribe?",
+    "answers": [
+      "Vivarij",
+      "Akvarij",
+      "Terarij"
+    ],
+    "correctAnswer": "B",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "FloraFauna",
+    "question": "Kako se zove zatvoreni prostor koji kombinira vodeni i kopneni dio za biljke i životinje?",
+    "answers": [
+      "Riparij",
+      "Akvarij",
+      "Paludarij"
+    ],
+    "correctAnswer": "C",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "FloraFauna",
+    "question": "Kako zovemo vrstu vivarija koja oponaša vodena staništa uz rubove rijeka, potoka ili jezera?",
+    "answers": [
+      "Riparij",
+      "Paludarij",
+      "Terarij"
+    ],
+    "correctAnswer": "A",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "Kako se zove zbirka prešanog sušenog bilja?",
+    "answers": [
+      "Arboretum",
+      "Botanički atlas",
+      "Herbarij"
+    ],
+    "correctAnswer": "C",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "Kolonija pčela se sastoji od tri kaste, matice, trutova i koja još?",
+    "answers": [
+      "Stražara",
+      "Radilica",
+      "Ličinki"
+    ],
+    "correctAnswer": "B",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "rarity": "golden",
+    "difficulty": 5,
+    "topic": "FloraFauna",
+    "question": "Kako se zove znanost koja proučava pelud?",
+    "answers": [
+      "Pomologija",
+      "Palinologija",
+      "Fenologija"
+    ],
+    "correctAnswer": "B",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "FloraFauna",
+    "question": "Koje ime označava skupinu pčela u letu?",
+    "answers": [
+      "Jato",
+      "Krdo",
+      "Roj"
+    ],
+    "correctAnswer": "C",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "Kako se zove šesterokutna struktura od voska u kojoj pčele pohranjuju med i uzgajaju ličinke?",
+    "answers": [
+      "Košnica",
+      "Leglo",
+      "Saće"
+    ],
+    "correctAnswer": "C",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "Koliko kutova ima jedno pčelinje saće?",
+    "answers": [
+      "5",
+      "6",
+      "8"
+    ],
+    "correctAnswer": "B",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "FloraFauna",
+    "question": "Tri mudraca su novorođenom Isusu kao dar donijeli zlato, tamjan i koju još aromatičnu smolu?",
+    "answers": [
+      "Jantar",
+      "Mastiku",
+      "Smirnu"
+    ],
+    "correctAnswer": "C",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "Kako se zove nastamba u kojoj žive pčele?",
+    "answers": [
+      "Mravinjak",
+      "Brlog",
+      "Košnica"
+    ],
+    "correctAnswer": "C",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "rarity": "legendary",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "Koji je poznati engleski botaničar rođen 1743. ostao upamćen po putovanju sa Jamesom Cookom u Australiju gdje je otkrio mnoge nove biljne vrste?",
+    "answers": [
+      "Joseph Banks",
+      "Robert Brown",
+      "Joseph Hooker"
+    ],
+    "correctAnswer": "A",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "Koliko nogu ima odrasla jedinka kukca?",
+    "answers": [
+      "8",
+      "10",
+      "6"
+    ],
+    "correctAnswer": "C",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "FloraFauna",
+    "question": "Koji stručni naziv koristimo kad opisujemo sposobnost šišmiša da 'gleda' zvukom?",
+    "answers": [
+      "Eholokacija",
+      "Sonolokacija",
+      "Bioluminiscencija"
+    ],
+    "correctAnswer": "A",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "FloraFauna",
+    "question": "Kako zovemo ekološki odnos između dva ili više različitih organizama u kojem svi sudionici imaju koristi?",
+    "answers": [
+      "Komenzalizam",
+      "Mutualizam",
+      "Parazitizam"
+    ],
+    "correctAnswer": "B",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "Kako nazivamo sposobnost nekih vrsta životinja i biljaka, da se izgledom prilagode okolini radi zaštite od prirodnih neprijatelja?",
+    "answers": [
+      "Mutualizam",
+      "Metamorfoza",
+      "Mimikrija"
+    ],
+    "correctAnswer": "C",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "FloraFauna",
+    "question": "Suprotno 'hibernaciji' zimi, kako nazivamo stanje mirovanja nekih životinja tijekom visokih ljetnih temperatura i suša?",
+    "answers": [
+      "Migracija",
+      "Estivacija",
+      "Diapauza"
+    ],
+    "correctAnswer": "B",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "Koji stručni naziv koristimo za 'zimski san' kod životinja?",
+    "answers": [
+      "Estivacija",
+      "Hibernacija",
+      "Dormancija"
+    ],
+    "correctAnswer": "B",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "FloraFauna",
+    "question": "Koji biološki proces dramatične preobrazbe oblika, strukture i načina života možemo vidjeti kod leptira i žaba?",
+    "answers": [
+      "Mitozu",
+      "Regeneraciju",
+      "Metamorfozu"
+    ],
+    "correctAnswer": "C",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "Koji se šećer proizvodi fotosintezom?",
+    "answers": [
+      "Fruktoza",
+      "Glukoza",
+      "Laktoza"
+    ],
+    "correctAnswer": "B",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "U kojem se organelu odvija fotosinteza?",
+    "answers": [
+      "Mitohondriju",
+      "Kloroplastu",
+      "Ribosomu"
+    ],
+    "correctAnswer": "B",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "Koji zeleni pigment daje boju biljkama i algama te je ključan za fotosintezu?",
+    "answers": [
+      "Melanin",
+      "Klorofil",
+      "Karoten"
+    ],
+    "correctAnswer": "B",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "Koji plin biljke upijaju tijekom fotosinteze?",
+    "answers": [
+      "Ugljikov dioksid",
+      "Kisik",
+      "Dušik"
+    ],
+    "correctAnswer": "A",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "Koji plin se oslobađa kao nusprodukt fotosinteze?",
+    "answers": [
+      "Ugljikov dioksid",
+      "Metan",
+      "Kisik"
+    ],
+    "correctAnswer": "C",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "FloraFauna",
+    "question": "Koja je membranska vrećasta struktura unutar kloroplasta ključna za odvijanje svjetlosno-ovisnih reakcija?",
+    "answers": [
+      "Stroma",
+      "Tilakoid",
+      "Grana"
+    ],
+    "correctAnswer": "B",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "FloraFauna",
+    "question": "'Tamnu fazu fotosinteze' su 1950-ih  otkrili Melvin Calvin, James Bassham i Andrew Benson na kojem kalifornijskom sveučilištu?",
+    "answers": [
+      "Stanfordu",
+      "UCLA-u",
+      "Berkeleyju"
+    ],
+    "correctAnswer": "C",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "rarity": "silver",
+    "difficulty": 5,
+    "topic": "FloraFauna",
+    "question": "Koji znanstveni naziv koristimo za isparavanje vode iz biljaka?",
+    "answers": [
+      "Transpiracija",
+      "Respiracija",
+      "Translokacija"
+    ],
+    "correctAnswer": "A",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "FloraFauna",
+    "question": "Ime koje životinje usko vežemo uz alkoholnu halucinaciju te kompjuter i tastaturu?",
+    "answers": [
+      "Štakor",
+      "Miš",
+      "Hrčak"
+    ],
+    "correctAnswer": "B",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "Koja znanost proučava primate?",
+    "answers": [
+      "Mamalogija",
+      "Antropologija",
+      "Primatologija"
+    ],
+    "correctAnswer": "C",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "FloraFauna",
+    "question": "Koja grana entomologije proučava pčele?",
+    "answers": [
+      "Mirmekologija",
+      "Apiologija",
+      "Dipterologija"
+    ],
+    "correctAnswer": "B",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "rarity": "platinum",
+    "difficulty": 5,
+    "topic": "FloraFauna",
+    "question": "Koja grana entomologije proučava muhe?",
+    "answers": [
+      "Ortopterologija",
+      "Apiologija",
+      "Dipterologija"
+    ],
+    "correctAnswer": "C",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "FloraFauna",
+    "question": "Koja grana entomologije proučava mrave?",
+    "answers": [
+      "Dipterologija",
+      "Mirmekologija",
+      "Koleopterologija"
+    ],
+    "correctAnswer": "B",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "FloraFauna",
+    "question": "Koja grana entomologije proučava skakavce?",
+    "answers": [
+      "Lepidopterologija",
+      "Ortopterologija",
+      "Odonatologija"
+    ],
+    "correctAnswer": "B",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "FloraFauna",
+    "question": "Kojeg se švedskog botaničara smatra utemeljiteljem moderne taksonomije?",
+    "answers": [
+      "Gregor Mendel",
+      "Robert Hooke",
+      "Carl von Linné"
+    ],
+    "correctAnswer": "C",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "rarity": "golden",
+    "difficulty": 5,
+    "topic": "FloraFauna",
+    "question": "Koje je djelo švedskog botaničara Carla von Linnea svrstalo biljke, životinje i minerale u sustav klasa, rodova, redova i vrsta?",
+    "answers": [
+      "Species Plantarum",
+      "Systema Naturae",
+      "Historia Naturalis"
+    ],
+    "correctAnswer": "B",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "Koji začin dobivamo od biljke penjačice latinskog imena 'Piper'?",
+    "answers": [
+      "Papar",
+      "Cimet",
+      "Klinčić"
+    ],
+    "correctAnswer": "A",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "Kako zovemo blisku, često dugotrajnu interakciju dvaju organizama različitih vrsta?",
+    "answers": [
+      "Simbioza",
+      "Predacija",
+      "Kompeticija"
+    ],
+    "correctAnswer": "A",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "FloraFauna",
+    "question": "Kako zovemo ekološki odnos između dva ili više različitih organizama u kojem jedna strana ima korist a druga štetu?",
+    "answers": [
+      "Parazitizam",
+      "Mutualizam",
+      "Komenzalizam"
+    ],
+    "correctAnswer": "A",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "FloraFauna",
+    "question": "Kako zovemo ekološki odnos između dva ili više različitih organizama u kojem jedna strana ima korist dok je druga neutralna?",
+    "answers": [
+      "Komenzalizam",
+      "Parazitizam",
+      "Mutualizam"
+    ],
+    "correctAnswer": "A",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "Koji proces označava organizam koji raste iz sjemena ili spore?",
+    "answers": [
+      "Oprašivanje",
+      "Klijanje",
+      "Transpiracija"
+    ],
+    "correctAnswer": "B",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "FloraFauna",
+    "question": "Kako nazivamo biološki fenomen gdje jedna biljka negativno utječe na drugu, oslobađanjem kemijskih spojeva ili biokemikalija?",
+    "answers": [
+      "Apomiksija",
+      "Alelopatija",
+      "Fototropizam"
+    ],
+    "correctAnswer": "B",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "Koji proces označava prenošenje cvjetnog ili peludnog praha s prašnika na stigmu tučka?",
+    "answers": [
+      "Oprašivanje",
+      "Klijanje",
+      "Gnojidba"
+    ],
+    "correctAnswer": "A",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "FloraFauna",
+    "question": "Koje velike životinje je Hanibal vodio preko Alpa u napadima na rimljane?",
+    "answers": [
+      "Slonove",
+      "Deve",
+      "Bivole"
+    ],
+    "correctAnswer": "A",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "FloraFauna",
+    "question": "Koje ime nosi konj na kojem sjedi Ban Josip Jelačić, na istoimenom trgu u Zagrebu?",
+    "answers": [
+      "Emir",
+      "Sokol",
+      "Jadran"
+    ],
+    "correctAnswer": "A",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "FloraFauna",
+    "question": "Koji je njemački zoolog prvi u svijetu upotrijebio pojam 'ekologija'?",
+    "answers": [
+      "Alexander von Humboldt",
+      "Ernst Haeckel",
+      "Theodor Schwann"
+    ],
+    "correctAnswer": "B",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "FloraFauna",
+    "question": "Koja je engleska primatologinja preminula 1.10.2025. a smatrala se najvažnijom stručnjakinjom za čimpanze na svijetu?",
+    "answers": [
+      "Jane Goodall",
+      "Dian Fossey",
+      "Birutė Galdikas"
+    ],
+    "correctAnswer": "A",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "FloraFauna",
+    "question": "Koji se austrijski zoolog i nobelovac smarta jednim od osnivača moderne etologije?",
+    "answers": [
+      "Nikolaas Tinbergen",
+      "Karl von Frisch",
+      "Konrad Lorenz"
+    ],
+    "correctAnswer": "C",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "FloraFauna",
+    "question": "Koji je nizozemski etolog, ornitolog i nobelovac autor knjiga 'Proučavanje instinkta' i 'Socijalno ponašanje u životinja'?",
+    "answers": [
+      "Konrad Lorenz",
+      "Karl von Frisch",
+      "Nikolaas Tinbergen"
+    ],
+    "correctAnswer": "C",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "Koju je teoriju razvio Charles Darwin?",
+    "answers": [
+      "Teoriju evolucije",
+      "Teoriju relativnosti",
+      "Staničnu teoriju"
+    ],
+    "correctAnswer": "A",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "FloraFauna",
+    "question": "Na kojem je otočju Charles Darwin proučavao zebe?",
+    "answers": [
+      "Kanarskim otocima",
+      "Galapagosu",
+      "Azorima"
+    ],
+    "correctAnswer": "B",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "FloraFauna",
+    "question": "Koje ime nosi brod na kojem je Charles Darwin plovio svijetom 5 godina te prikupljao podatke koji su formirali temelje njegove teorije evolucije?",
+    "answers": [
+      "HMS Endeavour",
+      "HMS Beagle",
+      "HMS Challenger"
+    ],
+    "correctAnswer": "B",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "Kako se zove najpoznatije djelo Charlesa Darwina?",
+    "answers": [
+      "Podrijetlo čovjeka",
+      "Putovanje jednog prirodoslovca",
+      "O podrijetlu vrsta"
+    ],
+    "correctAnswer": "C",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "Iako je samo legenda, pitamo vas, koja ptica u slučaju opasnosti glavu gura u pijesak?",
+    "answers": [
+      "Noj",
+      "Emu",
+      "Nandu"
+    ],
+    "correctAnswer": "A",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "Koje kraće ime koristimo za borealne šume? Najveći kopneni biom na svijetu koji obuhvaća goleme prostore crnogoričnih šuma u sjevernim dijelovima Europe i Azije te Sjeverne Amerike.",
+    "answers": [
+      "Tajga",
+      "Tundra",
+      "Stepa"
+    ],
+    "correctAnswer": "A",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "Najviše kisika na Zemlji zapravo ne proizvode šume nego morski fitoplankton i koji još autotrofni organizmi?",
+    "answers": [
+      "Gljive",
+      "Alge",
+      "Lišajevi"
+    ],
+    "correctAnswer": "B",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "FloraFauna",
+    "question": "Zakon o jednoličnosti, zakon segregacije i zakon nezavisnog nasljeđivanja se jednim imenom zovu kako?",
+    "answers": [
+      "Darwinovi zakoni",
+      "Mendelovi zakoni",
+      "Morganovi zakoni"
+    ],
+    "correctAnswer": "B",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "FloraFauna",
+    "question": "Na kojoj je biljci Gregor Mendel provodio pokuse?",
+    "answers": [
+      "Kukuruza",
+      "Grašku",
+      "Duhanu"
+    ],
+    "correctAnswer": "B",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "Koju riječ je kreirao William Bateson 1905. na osnovu radova i istraživanja Gregora Mendela?",
+    "answers": [
+      "Eugenika",
+      "Ekologija",
+      "Genetika"
+    ],
+    "correctAnswer": "C",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "FloraFauna",
+    "question": "Koja je ptica s Mauricijusa izumrla u 17. stoljeću?",
+    "answers": [
+      "Moa",
+      "Velika njorka",
+      "Dodo"
+    ],
+    "correctAnswer": "C",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "FloraFauna",
+    "question": "Pas Lajka je jedno od prvih živih bića u svemiru, ali i pas lutalica iz kojeg grada?",
+    "answers": [
+      "Moskve",
+      "Lenjingrada",
+      "Kijeva"
+    ],
+    "correctAnswer": "A",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "Dugouhi, afrički pigmejski i europski obični su vrste koje bodljikave životinje?",
+    "answers": [
+      "Ježa",
+      "Dikobraza",
+      "Ehidne"
+    ],
+    "correctAnswer": "A",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "rarity": "platinum",
+    "difficulty": 5,
+    "topic": "FloraFauna",
+    "question": "Na stabljici koje biljke su zapisana povijesna događanja drevne Kine od najranijih vremena do 4. stoljeća pr. Kr., koja prate tri dinastije: Xia, Shang i Zhou?",
+    "answers": [
+      "Bambusa",
+      "Papirusa",
+      "Trske"
+    ],
+    "correctAnswer": "A",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "FloraFauna",
+    "question": "Budistički tekstovi pisani Gandhārskim pismom su jedni od najstarijih sačuvanih budističkih rukopisa uopće, a pisani su na kori kojeg drveta?",
+    "answers": [
+      "Bambusa",
+      "Cedra",
+      "Breze"
+    ],
+    "correctAnswer": "C",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "Iz koje biljke dobivamo prirodni lateks?",
+    "answers": [
+      "Kaučukovca",
+      "Pamuka",
+      "Jute"
+    ],
+    "correctAnswer": "A",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "FloraFauna",
+    "question": "Svila se dobiva odmatanjem niti s čahure kojeg moljca?",
+    "answers": [
+      "Dudova svilca",
+      "Gubarova moljca",
+      "Vunastog moljca"
+    ],
+    "correctAnswer": "A",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "Koja se životinja iz reda žarnjaka većinom sastoji od oko 98 % vode, ima želatinozno tijelo te nema mozak, srce, pluća ni krv?",
+    "answers": [
+      "Spužva",
+      "Morska zvijezda",
+      "Meduza"
+    ],
+    "correctAnswer": "C",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "FloraFauna",
+    "question": "Ono što na nebu s'ja visoko, mjesec je il' sivi.. tko?",
+    "answers": [
+      "Orao",
+      "Galeb",
+      "Sokol"
+    ],
+    "correctAnswer": "C",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "FloraFauna",
+    "question": "Vučedolska golubica je dobro poznata keramička figura, no arheolozi su utvrdili da je to ipak jedna druga vrsta ptice, koja?",
+    "answers": [
+      "Prepelica",
+      "Jarebica",
+      "Fazan"
+    ],
+    "correctAnswer": "B",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "FloraFauna",
+    "question": "Kako se na kineskom jeziku kaže čaj?",
+    "answers": [
+      "Tea",
+      "Chai",
+      "Cha"
+    ],
+    "correctAnswer": "C",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "FloraFauna",
+    "question": "Koji napitak potječe od biljke 'Camellia sinensis'?",
+    "answers": [
+      "Kava",
+      "Čaj",
+      "Kakao"
+    ],
+    "correctAnswer": "B",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "rarity": "golden",
+    "difficulty": 5,
+    "topic": "FloraFauna",
+    "question": "Koji je legendarni kineski car i bog poljoprivrede po kineskoj predaji otkrio čaj?",
+    "answers": [
+      "Shennong",
+      "Qin Shi Huang",
+      "Yu Veliki"
+    ],
+    "correctAnswer": "A",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "FloraFauna",
+    "question": "Koja japanska mudrost podučava prihvaćanju nestalne i nesavršene prirode?",
+    "answers": [
+      "Ikigai",
+      "Kaizen",
+      "Wabi-sabi"
+    ],
+    "correctAnswer": "C",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "FloraFauna",
+    "question": "Na svjetskoj izložbi u kojem američkom gradu je 1907.  populariziran 'Ledeni čaj'?",
+    "answers": [
+      "Saint Louis",
+      "Chicago",
+      "New York"
+    ],
+    "correctAnswer": "A",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "FloraFauna",
+    "question": "Koje su ratove pokrenule zapadne sile protiv kineske dinastije Qing u 19-om st. s ciljem da zapad proširi trgovinu opijuma u Kini?",
+    "answers": [
+      "Bokserske ratove",
+      "Opijumske ratove",
+      "Taipinške ratove"
+    ],
+    "correctAnswer": "B",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "FloraFauna",
+    "question": "Koje je sveto drvo Japana u šintoističkoj tradiciji?",
+    "answers": [
+      "Sakaki",
+      "Sakura",
+      "Ginko"
+    ],
+    "correctAnswer": "A",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "FloraFauna",
+    "question": "Koji cvijet u Kini simbolizira čistoću i prosvjetljenje?",
+    "answers": [
+      "Božur",
+      "Lotos",
+      "Krizantema"
+    ],
+    "correctAnswer": "B",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "FloraFauna",
+    "question": "Koje voće u kineskoj mitologiji simbolizira besmrtnost?",
+    "answers": [
+      "Šipak",
+      "Breskva",
+      "Mandarina"
+    ],
+    "correctAnswer": "B",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "FloraFauna",
+    "question": "Koja životinja u Kini simbolizira dug život?",
+    "answers": [
+      "Tigar",
+      "Zmaj",
+      "Kornjača"
+    ],
+    "correctAnswer": "C",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "FloraFauna",
+    "question": "Četiri plemenite kineske biljke su: Bambus, Orhideja, Šljiva i koja još biljka koja cvjeta u jesen?",
+    "answers": [
+      "Lotos",
+      "Krizantema",
+      "Božur"
+    ],
+    "correctAnswer": "B",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "FloraFauna",
+    "question": "Za koju se ribu, podrijetlom iz Kine, smatra da ispunjava želje?",
+    "answers": [
+      "Zlatnu ribicu",
+      "Koi šarana",
+      "Betta ribu"
+    ],
+    "correctAnswer": "A",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "FloraFauna",
+    "question": "Grana koje se biljke nalazi na grbu francuskog grada Cannesa?",
+    "answers": [
+      "Masline",
+      "Palme",
+      "Lovora"
+    ],
+    "correctAnswer": "B",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "Na zastavi koje azijske države možemo vidjeti lava s mačem u ruci?",
+    "answers": [
+      "Šri Lanke",
+      "Butana",
+      "Nepala"
+    ],
+    "correctAnswer": "A",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "Koja se životinja nalazi na zastavi Zimbabvea?",
+    "answers": [
+      "Lav",
+      "Ptica",
+      "Slon"
+    ],
+    "correctAnswer": "B",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "FloraFauna",
+    "question": "Skulpture koje ptice su pronađene u ruševinama Velikog Zimbabvea te su i danas nacionalni simbol suvremenog Zimbabvea?",
+    "answers": [
+      "Sokola",
+      "Supova",
+      "Orla"
+    ],
+    "correctAnswer": "C",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "FloraFauna",
+    "question": "Koji lijeni mačak mrzi ponedjeljak a najviše voli jesti lazanje?",
+    "answers": [
+      "Felix",
+      "Tom",
+      "Garfield"
+    ],
+    "correctAnswer": "C",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "FloraFauna",
+    "question": "Koji je američki pisac stvorio lik i djelo Stuarta Malog?",
+    "answers": [
+      "Dr. Seuss",
+      "Roald Dahl",
+      "E. B. White"
+    ],
+    "correctAnswer": "C",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "FloraFauna",
+    "question": "Napoleon, Old Major, Squealer, Snowball, Minimus i Pinkeye su svi redom koja životinja?",
+    "answers": [
+      "Ovce",
+      "Svinje",
+      "Konji"
+    ],
+    "correctAnswer": "B",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "FloraFauna",
+    "question": "Na kojoj životinji je Isus ujahao u Jeruzalem?",
+    "answers": [
+      "Magarcu",
+      "Konju",
+      "Devi"
+    ],
+    "correctAnswer": "A",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "Koje pasmine je bio pas Hachiko?",
+    "answers": [
+      "Akita Inu",
+      "Shiba Inu",
+      "Hokkaido"
+    ],
+    "correctAnswer": "A",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "FloraFauna",
+    "question": "Stara japanska legenda kaže da će bogovi ispuniti želju onome tko izradi 1000 origami figura koje vrste ptice selice?",
+    "answers": [
+      "Labudova",
+      "Čaplji",
+      "Ždralova"
+    ],
+    "correctAnswer": "C",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "FloraFauna",
+    "question": "Koje ribe osim škrga imaju i plivajući mjehur koji im omogućava da udišu kisik?",
+    "answers": [
+      "Jegulje",
+      "Morski psi",
+      "Dvodihalice"
+    ],
+    "correctAnswer": "C",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "Kojoj pasmini pripada Rin Tin Tin, pas spašen iz 1. Svjetskog rata koji je kasnije postao filmska zvijezda?",
+    "answers": [
+      "Belgijski ovčar",
+      "Njemački ovčar",
+      "Doberman"
+    ],
+    "correctAnswer": "B",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "Koja grana zoologije se bavi proučavanjem ptica?",
+    "answers": [
+      "Ornitologija",
+      "Ihtiologija",
+      "Herpetologija"
+    ],
+    "correctAnswer": "A",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "Koja grana zoologije se bavi proučavanjem riba?",
+    "answers": [
+      "Ornitologija",
+      "Ihtiologija",
+      "Entomologija"
+    ],
+    "correctAnswer": "B",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "FloraFauna",
+    "question": "Koja grana zoologije se bavi proučavanjem gmazova i vodozemaca?",
+    "answers": [
+      "Herpetologija",
+      "Mamalogija",
+      "Malakologija"
+    ],
+    "correctAnswer": "A",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "Koja grana zoologije se bavi proučavanjem kukaca?",
+    "answers": [
+      "Arahnologija",
+      "Karcinologija",
+      "Entomologija"
+    ],
+    "correctAnswer": "C",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "Koja grana zoologije se bavi proučavanjem sisavaca?",
+    "answers": [
+      "Mamalogija",
+      "Ornitologija",
+      "Herpetologija"
+    ],
+    "correctAnswer": "A",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "FloraFauna",
+    "question": "Koja grana zoologije se bavi proučavanjem mekušaca?",
+    "answers": [
+      "Karcinologija",
+      "Malakologija",
+      "Ihtiologija"
+    ],
+    "correctAnswer": "B",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "Koja grana zoologije se bavi proučavanjem rakova?",
+    "answers": [
+      "Malakologija",
+      "Arahnologija",
+      "Karcinologija"
+    ],
+    "correctAnswer": "C",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "Koja grana zoologije se bavi proučavanjem paučnjaka?",
+    "answers": [
+      "Arahnologija",
+      "Entomologija",
+      "Mirmekologija"
+    ],
+    "correctAnswer": "A",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "Koji cvijet latinskog imena 'Galanthus' ujedno označava i početak proljeća?",
+    "answers": [
+      "Jaglac",
+      "Šafran",
+      "Visibaba"
+    ],
+    "correctAnswer": "C",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "FloraFauna",
+    "question": "Koja životinja se nalazi na grbovima Madrida, Berna i Berlina?",
+    "answers": [
+      "Lav",
+      "Orao",
+      "Medvjed"
+    ],
+    "correctAnswer": "C",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "Koja životinja se nalazi na grbu nogometnog kluba AS Roma?",
+    "answers": [
+      "Orao",
+      "Lav",
+      "Vučica"
+    ],
+    "correctAnswer": "C",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "Koja životinja se nalazi na grbu Venecije i zastavama nekadašnje Mletačke Republike?",
+    "answers": [
+      "Orao",
+      "Lav",
+      "Grifon"
+    ],
+    "correctAnswer": "B",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "Koji cvijet stoji na grbu glavnog grada talijanske pokrajine Toskane?",
+    "answers": [
+      "Ruža",
+      "Iris",
+      "Ljiljan"
+    ],
+    "correctAnswer": "C",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "Koja životinja se nalazi na grbu NK Osijeka?",
+    "answers": [
+      "Sokol",
+      "Jelen",
+      "Kuna"
+    ],
+    "correctAnswer": "C",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "FloraFauna",
+    "question": "Koja životinja povezuje grbove gradova Tallina i Praga?",
+    "answers": [
+      "Orao",
+      "Lav",
+      "Medvjed"
+    ],
+    "correctAnswer": "B",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "FloraFauna",
+    "question": "Koja ptica je najpoznatiji simbol mudrosti i inteligencije, često prikazivan uz Atenu?",
+    "answers": [
+      "Gavran",
+      "Sova",
+      "Orao"
+    ],
+    "correctAnswer": "B",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "FloraFauna",
+    "question": "'Napoleon prelazi Alpe' je slavno ulje na platnu francuskog slikara Jacques Louisa Davida koje uprizoruje Napoleona na kojoj životinji?",
+    "answers": [
+      "Muli",
+      "Devi",
+      "Konju"
+    ],
+    "correctAnswer": "C",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "FloraFauna",
+    "question": "Koja se poznata špilja nalazi u dolini rijeke Vezere u Francuskoj a poznata je po dobro očuvanim crtežima životinja koji datiraju iz starijeg kamenog doba?",
+    "answers": [
+      "Chauvet",
+      "Altamira",
+      "Lascaux"
+    ],
+    "correctAnswer": "C",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "Prema legendi, Sv. Jeronim je trn iz šape izvadio kojoj životinji iz porodica mačaka?",
+    "answers": [
+      "Tigru",
+      "Leopardu",
+      "Lavu"
+    ],
+    "correctAnswer": "C",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "FloraFauna",
+    "question": "Na aukciji 1987. japanski magnat Jasuo Goto kupuje sliku Vincenta Van Gogha za, tada rekordnih 39,9 milijuna dolara na kojoj je bilo naslikano 15 čega?",
+    "answers": [
+      "Irisa",
+      "Suncokreta",
+      "Makova"
+    ],
+    "correctAnswer": "B",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "FloraFauna",
+    "question": "Koje drvo je Van Gogh naslikao u svom remek-djelu 'Zvjezdana noć'?",
+    "answers": [
+      "Čempres",
+      "Maslinu",
+      "Bor"
+    ],
+    "correctAnswer": "A",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "FloraFauna",
+    "question": "Koja je najotrovnija hrvatska a ujedno i europska zmija prepoznatljiva po roščiću na glavi?",
+    "answers": [
+      "Riđovka",
+      "Poskok",
+      "Planinski žutokrug"
+    ],
+    "correctAnswer": "B",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "Koja biljka se nalazi na kovanici od 50 lipa?",
+    "answers": [
+      "Maslina",
+      "Duhan",
+      "Velebitska degenija"
+    ],
+    "correctAnswer": "C",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "FloraFauna",
+    "question": "Koja biljka se nalazi na kovanici od 20 lipa?",
+    "answers": [
+      "Maslina",
+      "Duhan",
+      "Kukuruz"
+    ],
+    "correctAnswer": "A",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "FloraFauna",
+    "question": "Koja biljka se nalazi na kovanici od 10 lipa?",
+    "answers": [
+      "Maslina",
+      "Vinova loza",
+      "Duhan"
+    ],
+    "correctAnswer": "C",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "FloraFauna",
+    "question": "Vrsta kojeg hrasta se nalazi na kovanici od 5 lipa?",
+    "answers": [
+      "Lužnjak",
+      "Kitnjak",
+      "Medunac"
+    ],
+    "correctAnswer": "A",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "FloraFauna",
+    "question": "Koja biljka se nalazi na kovanici od  2 lipe?",
+    "answers": [
+      "Kukuruz",
+      "Vinova loza",
+      "Duhan"
+    ],
+    "correctAnswer": "B",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "FloraFauna",
+    "question": "Koja biljka se nalazi na kovanici od jedne lipe?",
+    "answers": [
+      "Pšenica",
+      "Ječam",
+      "Kukuruz"
+    ],
+    "correctAnswer": "C",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "Koja ptica se nalazi na kovanici od jedne kune?",
+    "answers": [
+      "Slavuj",
+      "Lastavica",
+      "Sokol"
+    ],
+    "correctAnswer": "A",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "Koja riba se nalazi na kovanici od dvije kune?",
+    "answers": [
+      "Srdela",
+      "Tunj",
+      "Šaran"
+    ],
+    "correctAnswer": "B",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "Koja se životinja nalazi na kovanici od 5 kuna?",
+    "answers": [
+      "Mrki medvjed",
+      "Kuna zlatica",
+      "Vuk"
+    ],
+    "correctAnswer": "A",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "FloraFauna",
+    "question": "Koja životinja je u 'trku' na banovcu, prvom hrvatskom novcu kovanom u Pakracu i Zagrebu?",
+    "answers": [
+      "Konj",
+      "Jelen",
+      "Kuna"
+    ],
+    "correctAnswer": "C",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "FloraFauna",
+    "question": "Koja biljka nam je omogućila uživanje u čokoladi?",
+    "answers": [
+      "Kakaovac",
+      "Kavovac",
+      "Vanilija"
+    ],
+    "correctAnswer": "A",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "FloraFauna",
+    "question": "Koju je biljku iz porodice orhideja, Hernan Cortes donio u Europu nakon osvajanja Aztečkog carstva?",
+    "answers": [
+      "Kakao",
+      "Vaniliju",
+      "Agavu"
+    ],
+    "correctAnswer": "B",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "FloraFauna",
+    "question": "Koju vrstu podzemnih gljiva, jako skupu i cijenjenu, možemo pronaći u Istri?",
+    "answers": [
+      "Vrganje",
+      "Tartufe",
+      "Smrčke"
+    ],
+    "correctAnswer": "B",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "FloraFauna",
+    "question": "Gomolj koje biljke se može kuhati, pržiti i peći a od njega nastaju čips i pomfrit?",
+    "answers": [
+      "Batat",
+      "Topinambur",
+      "Krumpir"
+    ],
+    "correctAnswer": "C",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "FloraFauna",
+    "question": "Kojom zbirnom imenicom nazivamo jagodu, nektarinu, kesten, dunju i limun?",
+    "answers": [
+      "Povrće",
+      "Voće",
+      "Žitarice"
+    ],
+    "correctAnswer": "B",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "FloraFauna",
+    "question": "Kojom zbirnom imenicom nazivamo kupus, mrkvu, češnjak i krastavac?",
+    "answers": [
+      "Povrće",
+      "Voće",
+      "Začine"
+    ],
+    "correctAnswer": "A",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "FloraFauna",
+    "question": "Koji opisni pridjev koristimo za životinje koje čovjek pripitomljava i uzgaja radi koristi i razonode?",
+    "answers": [
+      "Divlje",
+      "Domaće",
+      "Endemske"
+    ],
+    "correctAnswer": "B",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "FloraFauna",
+    "question": "Koji naziv u pravilu koristimo za životinje koje žive u svom prirodnom staništu, podalje od čovjeka?",
+    "answers": [
+      "Domaće životinje",
+      "Divlje životinje",
+      "Egzotične životinje"
+    ],
+    "correctAnswer": "B",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "FloraFauna",
+    "question": "Koji plod pada s kokosove palme?",
+    "answers": [
+      "Kokosov orah",
+      "Datulja",
+      "Ananas"
+    ],
+    "correctAnswer": "A",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "rarity": "silver",
+    "difficulty": 2,
+    "topic": "FloraFauna",
+    "question": "Koje voće je ujedno i dom Spužvaboba Skockanog?",
+    "answers": [
+      "Kokos",
+      "Lubenica",
+      "Ananas"
+    ],
+    "correctAnswer": "C",
+    "image": null
+  }
 ]

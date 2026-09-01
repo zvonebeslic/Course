@@ -6,9 +6,10 @@
     "question": "Godine 1958. komunistički diktator Mao Ce-Tung je naredio istrebljenje koje vrste ptice?",
     "answers": [
       "Vrabaca",
-      "Vrapce",
-      "Vrabac"
+      "Satira",
+      "Kornjaču"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -17,10 +18,11 @@
     "topic": "MisliIzrekeCitati",
     "question": "U kojoj se situaciji, prema narodnoj mudrosti, najbolje prepoznaje pravi prijatelj?",
     "answers": [
+      "Na muci",
       "U nevolji",
-      "Nevolji",
-      "Nevolja"
+      "Željezo"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -30,10 +32,10 @@
     "question": "Koji je košarkaš izjavio 'Promašio sam više od 9000 šuteva u karijeri... I zato uspijevam'?",
     "answers": [
       "Michael Jordan",
-      "Majkl Džordan",
-      "Jordan",
-      "Džordan"
+      "Dražen Petrović",
+      "Franklin Delano Roosevelt"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -42,13 +44,11 @@
     "topic": "MisliIzrekeCitati",
     "question": "Kojeg je francuskog filozofa prosvjetiteljstva proslavila obrana slobode mišljenja, zbog čega mu se često, premda pogrešno, pripisuje misao 'Ne slažem se s onim što govoriš, ali branit ću tvoje pravo da to kažeš'?",
     "answers": [
-      "Voltaire",
-      "Volter",
-      "François Marie Arouet",
-      "Fransoa Mari Arue",
-      "Arue",
-      "Arouet"
+      "Društva",
+      "Luj XIV.",
+      "Voltaire"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -57,17 +57,11 @@
     "topic": "MisliIzrekeCitati",
     "question": "Tijekom koje je svemirske misije nastala slavna rečenica 'Houston, we've had a problem', danas jedna od najpoznatijih fraza u povijesti istraživanja svemira?",
     "answers": [
+      "Herodot",
       "Apollo 13",
-      "Apolo 13",
-      "Apollo thirteen",
-      "Apolo trtin",
-      "Apollo trinaest",
-      "Apolo trinaest",
-      "Apollo XII",
-      "Apolo XIII",
-      "Apolo",
-      "Apollo"
+      "Čovječanstvo"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -76,8 +70,11 @@
     "topic": "MisliIzrekeCitati",
     "question": "Kada dijete ponašanjem ili osobinama jako podsjeća na roditelje, često kažemo da što ne pada daleko od stabla?",
     "answers": [
-      "Jabuka"
+      "Papirus",
+      "Jabuka",
+      "Botanika"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -86,11 +83,11 @@
     "topic": "MisliIzrekeCitati",
     "question": "Koji je američki državnik i jedan od tvoraca američke Deklaracije neovisnosti napisao da su 'svi ljudi stvoreni jednaki'?",
     "answers": [
+      "Charles de Gaulle",
       "Thomas Jefferson",
-      "Tomas Džeferson",
-      "Jefferson",
-      "Džeferson"
+      "Benjamin Franklin"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -99,13 +96,11 @@
     "topic": "MisliIzrekeCitati",
     "question": "Kojoj se 'poklonjenoj' životinji ne gleda u zube?",
     "answers": [
+      "Kornjaču",
       "Konju",
-      "Konj",
-      "Hors",
-      "Horse",
-      "Pferd",
-      "Ferd"
+      "Koka"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -115,11 +110,10 @@
     "question": "Koji je britanski povjesničar upozorio na opasnost vlasti poznatom mišlju 'Moć kvari, a apsolutna moć kvari apsolutno'?",
     "answers": [
       "Lord Acton",
-      "Akton",
-      "Acton",
-      "Lord Akton",
-      "Ekton"
+      "Luj XIV.",
+      "Katon Stariji"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -128,9 +122,11 @@
     "topic": "MisliIzrekeCitati",
     "question": "Prema narodnoj poslovici, ako negdje ima dima, čega još ondje vjerojatno ima iako to još ne vidimo?",
     "answers": [
+      "Viška",
       "Vatre",
-      "Vatra"
+      "Novce"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -140,10 +136,10 @@
     "question": "Koji je engleski dramatičar Hamletu stavio u usta jedno od najpoznatijih pitanja svjetske književnosti: 'Biti ili ne biti'?",
     "answers": [
       "William Shakespeare",
-      "Vilijam Šekspir",
-      "Shakespeare",
-      "Šekspir"
+      "Harry Potter",
+      "Dexter"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -152,11 +148,11 @@
     "topic": "MisliIzrekeCitati",
     "question": "Uzvik koji danas koristimo kada pronađemo rješenje problema, prema legendi je izgovorio antički znanstvenik Arhimed nakon otkrića povezanog s uzgonom, a on glasi kako?",
     "answers": [
-      "Eureka",
-      "Jurika",
-      "Hurika",
-      "Heureka"
+      "Čovječanstvo",
+      "Franjo Tuđman",
+      "Eureka"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -165,8 +161,11 @@
     "topic": "MisliIzrekeCitati",
     "question": "Strpljenje se često nagrađuje, barem prema poslovici koja kaže 'Tko čeka, taj i ...'?",
     "answers": [
+      "Spašen",
+      "Sloga",
       "Dočeka"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -175,11 +174,11 @@
     "topic": "MisliIzrekeCitati",
     "question": "Sudeći po narodnoj poslovici, koju radnju bi trebali prvo obaviti pa tek onda nešto reći naglas?",
     "answers": [
+      "Željezo",
       "Ispeći",
-      "Ispeci",
-      "Peći",
-      "Peci"
+      "Spašen"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -188,8 +187,11 @@
     "topic": "MisliIzrekeCitati",
     "question": "Poslovica koja uspoređuje naše postupke sa sjetvom i žetvom kaže: 'Kako siješ, tako ćeš i...'?",
     "answers": [
-      "Žeti"
+      "Dočeka",
+      "Žeti",
+      "Dobro"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -198,12 +200,11 @@
     "topic": "MisliIzrekeCitati",
     "question": "'Sav je svijet pozornica, a svi muškarci i žene tek glumci' poznata je misao kojeg književnika?",
     "answers": [
-      "Williama Shakespearea",
-      "Vilijama Šekspira",
-      "Shakespearea",
-      "Šekspira",
-      "Šekspir"
+      "Benjamin Franklin",
+      "Velika nagrada Monaka",
+      "Williama Shakespearea"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -212,8 +213,11 @@
     "topic": "MisliIzrekeCitati",
     "question": "Nadopunite poslovicu koja podsjeća da se znanje i uspjeh rijetko stječu bez truda: 'Bez muke nema...'?",
     "answers": [
-      "Nauke"
+      "Proljeće",
+      "Nauke",
+      "Motike"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -223,8 +227,10 @@
     "question": "Kakav je, prema poslovici, onaj koji ne vjeruje gladnome?",
     "answers": [
       "Sit",
-      "Najeden"
+      "Pita",
+      "Zadnji"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -234,10 +240,10 @@
     "question": "Naglašavajući odgovornost pojedinca za vlastite izbore, francuski je egzistencijalist Jean Paul Sartre tvrdio da je čovjek osuđen na što?",
     "answers": [
       "Slobodu",
-      "Sloboda",
-      "Freedom",
-      "Fridom"
+      "Jean-Jacques Rousseau",
+      "Herodot"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -246,17 +252,11 @@
     "topic": "MisliIzrekeCitati",
     "question": "Kojem se talijanskom astronomu tradicionalno pripisuju riječi 'Ipak se kreće', navodno izgovorene nakon što je bio prisiljen odreći se svojih astronomskih stajališta?",
     "answers": [
+      "Madame de Pompadour",
       "Galileu Galileiu",
-      "Galileo Galilei",
-      "Galileju",
-      "Galilej",
-      "Galilei",
-      "Galileiu",
-      "Galileji",
-      "Galileiju",
-      "Galileu",
-      "Galileo"
+      "Južna Amerika"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -266,14 +266,10 @@
     "question": "'Ne pitajte što vaša zemlja može učiniti za vas, pitajte što vi možete učiniti za svoju zemlju.' Koji je američki predsjednik izgovorio te riječi u inauguracijskom govoru 1961.g.?",
     "answers": [
       "John F. Kennedy",
-      "Džon F. Kenedi",
-      "John Fitzgerald Kennedy",
-      "Džon Ficgerald Kenedi",
-      "John Kennedy",
-      "Džon Kenedi",
-      "Kennedy",
-      "Kenedi"
+      "Arhimed",
+      "Charles de Gaulle"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -282,8 +278,11 @@
     "topic": "MisliIzrekeCitati",
     "question": "Čak i loš događaj ponekad donese nešto korisno ili kako poslovica kaže: 'Svako zlo za neko...'?",
     "answers": [
-      "Dobro"
+      "Motike",
+      "Dobro",
+      "Žeti"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -292,11 +291,11 @@
     "topic": "MisliIzrekeCitati",
     "question": "Koji je francuski filozof u drami 'Iza zatvorenih vrata' napisao čuvenu rečenicu 'Pakao, to su drugi'?",
     "answers": [
-      "Jean-Paul Sartre",
-      "Žan Paul Sartr",
-      "Sartre",
-      "Sartr"
+      "René Descartes",
+      "Napoleon Bonaparte",
+      "Jean-Paul Sartre"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -305,13 +304,11 @@
     "topic": "MisliIzrekeCitati",
     "question": "Onaj koji se, prema poslovici, najslađe smije, smije se koji po redu?",
     "answers": [
+      "Sit",
       "Zadnji",
-      "Najzadnji",
-      "Last one",
-      "Last",
-      "Posljednji",
-      "Krajnji"
+      "Pita"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -320,13 +317,11 @@
     "topic": "MisliIzrekeCitati",
     "question": "'Tko je bez grijeha, neka prvi baci kamen' jedna je od najpoznatijih rečenica iz koje svete religijske knjige?",
     "answers": [
-      "Biblija",
-      "Bible",
-      "Bajbl",
-      "Biblije",
-      "Bibles",
-      "Bajbls"
+      "William Shakespeare",
+      "Psalmi",
+      "Biblija"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -335,12 +330,11 @@
     "topic": "MisliIzrekeCitati",
     "question": "Koji je rimski državnik i govornik završavao niz svojih govora tvrdnjom da Kartagu treba razoriti, poznatom po latinskoj frazi 'Carthago delenda est'?",
     "answers": [
+      "Charles de Gaulle",
       "Katon Stariji",
-      "Katon",
-      "Caton",
-      "Cato",
-      "Kato"
+      "Luj XIV."
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -349,12 +343,11 @@
     "topic": "MisliIzrekeCitati",
     "question": "Nakon Bitke za Britaniju, koji je britanski premijer izrekao znamenitu pohvalu pilotima riječima da 'nikada toliko mnogo ljudi nije dugovalo toliko malom broju'?",
     "answers": [
+      "Franjo Tuđman",
       "Winston Churchill",
-      "Vinston Črčil",
-      "Churchill",
-      "Čurčil",
-      "Črčil"
+      "Madame de Pompadour"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -363,8 +356,11 @@
     "topic": "MisliIzrekeCitati",
     "question": "'Tko visoko leti nisko...'?",
     "answers": [
-      "Pada"
+      "Pada",
+      "Vici",
+      "Žeti"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -373,10 +369,11 @@
     "topic": "MisliIzrekeCitati",
     "question": "Što se, prema poslovici, poznaje po jutru?",
     "answers": [
+      "Sit",
       "Dan",
-      "Day",
-      "Dej"
+      "Pita"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -385,8 +382,11 @@
     "topic": "MisliIzrekeCitati",
     "question": "Koji je grčki matematičar i izumitelj, govoreći o principu poluge, navodno rekao da bi uz odgovarajući oslonac mogao pomaknuti Zemlju?",
     "answers": [
-      "Arhimed"
+      "Arhimed",
+      "John F. Kennedy",
+      "Katon Stariji"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -395,20 +395,11 @@
     "topic": "MisliIzrekeCitati",
     "question": "Gary Lineker je jednom izjavio 'Nogomet je jednostavna igra: 22 čovjeka trče za loptom 90 minuta, a na kraju uvijek pobijede...' Tko?",
     "answers": [
+      "Kur'an",
       "Njemci",
-      "Švabe",
-      "Njemačka",
-      "Deutschland",
-      "Germani",
-      "Germany",
-      "Džermani",
-      "Džermani",
-      "Ger",
-      "De",
-      "Njem",
-      "Švabija",
-      "Švabska"
+      "Dexter"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -417,9 +408,11 @@
     "topic": "MisliIzrekeCitati",
     "question": "'Homo homini lupus', odnosno 'Čovjek je čovjeku vuk', potječe još iz antike. Koji ju je rimski komediograf zapisao stoljećima prije nego što ju je proslavio Thomas Hobbes?",
     "answers": [
-      "Plaut",
-      "Plautus"
+      "Juvenal",
+      "Horacije",
+      "Plaut"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -428,11 +421,11 @@
     "topic": "MisliIzrekeCitati",
     "question": "Što je, prema poznatoj poslovici, kratko u laži?",
     "answers": [
+      "Mars",
       "Noge",
-      "Noga",
-      "Legs",
-      "Leg"
+      "Kocka"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -441,9 +434,11 @@
     "topic": "MisliIzrekeCitati",
     "question": "Koja naizgled bezazlena voda, prema poslovici, 'brege dere'?",
     "answers": [
-      "Tiha voda",
-      "Tiha"
+      "Na muci",
+      "Svome jatu",
+      "Tiha voda"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -452,10 +447,11 @@
     "topic": "MisliIzrekeCitati",
     "question": "Sudeći po jednoj poslovici, onaj tko je 'strpljen' taj je i što?",
     "answers": [
-      "Spašen",
-      "Saved",
-      "Sejvd"
+      "Pita",
+      "Zadnji",
+      "Spašen"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -464,9 +460,11 @@
     "topic": "MisliIzrekeCitati",
     "question": "Dovršite poznatu zdravstvenu mudrost: 'Bolje spriječiti nego...'?",
     "answers": [
+      "Ništa",
       "Liječiti",
-      "Ličiti"
+      "Goluba"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -476,9 +474,10 @@
     "question": "Dovršite poslovicu koja poručuje da jasni financijski odnosi čuvaju dobre odnose: 'Čist račun, duga...'?",
     "answers": [
       "Ljubav",
-      "Love",
-      "Lov"
+      "Tijesna",
+      "Goluba"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -488,8 +487,10 @@
     "question": "Poslovica je davno objasnila da kruha nema bez čega?",
     "answers": [
       "Motike",
-      "Motika"
+      "Nauke",
+      "Viška"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -498,8 +499,11 @@
     "topic": "MisliIzrekeCitati",
     "question": "'Spoznaj samoga sebe' bio je jedan od najpoznatijih natpisa povezanih s kojim velikim starogrčkim svetištem i proročištem?",
     "answers": [
-      "Delfi"
+      "Dvije",
+      "Delfi",
+      "Opera"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -508,13 +512,11 @@
     "topic": "MisliIzrekeCitati",
     "question": "Edward Bulwer-Lytton je bio engleski književnik koji je skovao čuvenu rečenicu prema kojoj je pero moćnije od čega?",
     "answers": [
-      "Mača",
-      "Mač",
-      "Swords",
-      "Sword",
-      "Svords",
-      "Svord"
+      "Miroslav Krleža",
+      "Ćudi",
+      "Mača"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -524,14 +526,10 @@
     "question": "Astronaut Neil Armstrong je nakon što je stupio nogom na Mjesec 1969.g. izgovorio jednu od najpoznatijih rečenica 20. stoljeća u kojoj spominje mali korak za čovjeka ali i veliki za koga?",
     "answers": [
       "Čovječanstvo",
-      "Humanity",
-      "Hjumeniti",
-      "Humaniti",
-      "Ljudstvo",
-      "Ljude",
-      "People",
-      "Pipl"
+      "Antun Mihanović",
+      "Madame de Pompadour"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -541,14 +539,10 @@
     "question": "Dok mačke nema, tko prema poznatoj poslovici vodi kolo?",
     "answers": [
       "Miševi",
-      "Miši",
-      "Miš",
-      "Mouse",
-      "Mouses",
-      "Maus",
-      "Mausi",
-      "Pacovi"
+      "Noge",
+      "Željezo"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -557,8 +551,11 @@
     "topic": "MisliIzrekeCitati",
     "question": "Čime se, prema poslovici, najbolje izbija klin?",
     "answers": [
-      "Klinom"
+      "Klinom",
+      "Viška",
+      "Željezo"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -567,9 +564,11 @@
     "topic": "MisliIzrekeCitati",
     "question": "'Ne laje pas zbog sela, nego zbog...' Koga?",
     "answers": [
+      "Goluba",
       "Sebe",
-      "Njega"
+      "Ništa"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -578,10 +577,11 @@
     "topic": "MisliIzrekeCitati",
     "question": "Koja ćorava životinja nastupa u poslovici u kojoj i ona nađe zrno?",
     "answers": [
-      "Koka",
-      "Kokoš",
-      "Kokica"
+      "Hobotnica",
+      "Pas",
+      "Koka"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -591,10 +591,10 @@
     "question": "Od kojeg dijela, prema poslovici, riba počinje smrdjeti?",
     "answers": [
       "Glave",
-      "Glava",
-      "Head",
-      "Hed"
+      "Koka",
+      "Pas"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -603,19 +603,11 @@
     "topic": "MisliIzrekeCitati",
     "question": "Koji je francuski kralj, prema predaji, prije Bitke kod Ivryja 1590.g. svojim vojnicima poručio da slijede njegov 'bijeli perjanik' ako izgube svoje zastave?",
     "answers": [
+      "Tvrtko I",
       "Henrik IV.",
-      "Henrik 4.",
-      "Henrik četvrti",
-      "Henrik fourth",
-      "Henrik fort",
-      "Henrik 4th",
-      "Henri IV.",
-      "Henri 4.",
-      "Henri četvrti",
-      "Henri fourth",
-      "Henri fort",
-      "Henri 4th"
+      "Država SHS"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -625,23 +617,10 @@
     "question": "Kojem se francuskom 'Kralju Suncu', simbolu apsolutne monarhije, tradicionalno pripisuje izreka 'Država, to sam ja'?",
     "answers": [
       "Luj XIV.",
-      "Luj 14.",
-      "Luj Bogodani",
-      "Luj Veliki",
-      "Luju",
-      "Louis",
-      "Luis",
-      "Luja",
-      "Louisa",
-      "Luisa",
-      "Luju četrnaestom",
-      "Luj četrnaesti",
-      "Luju 14.",
-      "Luju XIV.",
-      "Luju 14th",
-      "Luj Forteenth",
-      "Luj Fortint"
+      "Država SHS",
+      "Katon Stariji"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -651,12 +630,10 @@
     "question": "Koji je američki borac za građanska prava 1963.g. ispred Lincolnova memorijala održao govor koji je u povijest ušao po riječima 'I have a dream'?",
     "answers": [
       "Martin Luther King Jr.",
-      "Martin Luther King",
-      "Martin Luter King",
-      "Luther King",
-      "Luter King",
-      "King"
+      "John F. Kennedy",
+      "Abraham Lincoln"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -665,18 +642,11 @@
     "topic": "MisliIzrekeCitati",
     "question": "Prema poznatoj narodnoj poslovici, tko rano rani, koliko sreća grabi?",
     "answers": [
-      "Dvije",
-      "2",
-      "Dvi",
-      "Two",
-      "Tvu",
-      "Zweii",
-      "Zwei",
-      "Cvaj",
-      "Obe",
-      "Obadvi",
-      "Obe dvi"
+      "Ćudi",
+      "Nula",
+      "Dvije"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -685,10 +655,11 @@
     "topic": "MisliIzrekeCitati",
     "question": "Nadopunite upozorenje da vanjski sjaj može varati: 'Nije zlato sve što...'",
     "answers": [
+      "Moć",
       "Sja",
-      "Sija",
-      "Sjaji"
+      "Mars"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -697,10 +668,11 @@
     "topic": "MisliIzrekeCitati",
     "question": "'S kim si, takav si' upozorava na utjecaj čega na čovjeka?",
     "answers": [
+      "Motike",
       "Društva",
-      "Ekipe",
-      "Kompanije"
+      "Viška"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -710,18 +682,10 @@
     "question": "'Što me ne ubije, čini me jačim' jedna je od najcitiranijih misli kojeg njemačkog filozofa?",
     "answers": [
       "Friedricha Nietzschea",
-      "Fridriha Ničea",
-      "Nietzschea",
-      "Ničea",
-      "Nitčea",
-      "Niečea",
-      "Friedrich Nietzsche",
-      "Fridrih Niče",
-      "Nietzsche",
-      "Niče",
-      "Nitče",
-      "Nieče"
+      "Marko Aurelije",
+      "Proljeće"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -730,9 +694,11 @@
     "topic": "MisliIzrekeCitati",
     "question": "Svi znamo za poslovicu koja kaže da je 'bolje imati vrapca u ruci nego koga na grani?",
     "answers": [
+      "Sebe",
       "Goluba",
-      "Golub"
+      "Ništa"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -741,13 +707,11 @@
     "topic": "MisliIzrekeCitati",
     "question": "Sudeći prema izreci, u strahu je najveći koji dio tijela?",
     "answers": [
-      "Oči",
-      "Oko",
-      "Eyes",
-      "Ajs",
-      "Ese",
-      "Aj"
+      "Jetra",
+      "Mjesec",
+      "Oči"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -757,14 +721,10 @@
     "question": "Koji je američki predsjednik tijekom posjeta Zapadnom Berlinu 1963.g. izgovorio čuvene riječi 'Ich bin ein Berliner'?",
     "answers": [
       "John F. Kennedy",
-      "Džon F. Kenedi",
-      "John Fitzgerald Kennedy",
-      "Džon Ficgerald Kenedi",
-      "John Kennedy",
-      "Džon Kenedi",
-      "Kennedy",
-      "Kenedi"
+      "Franklin Delano Roosevelt",
+      "Abraham Lincoln"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -774,10 +734,10 @@
     "question": "Koji je rimski pjesnik zaslužan za poznatu latinsku poruku 'Carpe diem', odnosno 'Iskoristi dan'?",
     "answers": [
       "Horacije",
-      "Horatie",
-      "Horatius",
-      "Horacius"
+      "Teodozije I",
+      "Flavijevci"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -786,8 +746,11 @@
     "topic": "MisliIzrekeCitati",
     "question": "Koja životinja, prema poslovici, često mnogo laje, ali ne grize?",
     "answers": [
-      "Pas"
+      "Pas",
+      "Koka",
+      "Hobotnica"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -796,16 +759,11 @@
     "topic": "MisliIzrekeCitati",
     "question": "Kojoj se utjecajnoj ljubavnici francuskog kralja Luja XV. tradicionalno pripisuje rečenica 'Nakon nas potop'?",
     "answers": [
-      "Madame de Pompadour",
-      "Madam de Pompador",
-      "Jeanne Antoinette Poisson",
-      "Markiza de Pompadour",
-      "De Pompadour",
-      "DenPompador",
-      "Poisson",
-      "Poizon",
-      "Žane Antoniet Poizon"
+      "Henrik IV.",
+      "Luj XIV.",
+      "Madame de Pompadour"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -814,12 +772,11 @@
     "topic": "MisliIzrekeCitati",
     "question": "Izreka 'Mašta je važnija od znanja' se pripisuje kojem velikom svjetskom znanstveniku?",
     "answers": [
+      "Luj XIV.",
       "Albertu Einsteinu",
-      "Albertu Ajnštajnu",
-      "Einstein",
-      "Einsteinu",
-      "Ajnštajnu"
+      "The Big Bang Theory"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -828,8 +785,11 @@
     "topic": "MisliIzrekeCitati",
     "question": "'Bolje išta nego...' Što?",
     "answers": [
-      "Ništa"
+      "Liječiti",
+      "Ništa",
+      "Nikad"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -838,12 +798,11 @@
     "topic": "MisliIzrekeCitati",
     "question": "Koji je britanski premijer u svibnju 1940.g., neposredno nakon preuzimanja dužnosti, govorio o 'krvi, trudu, suzama i znoju'?",
     "answers": [
-      "Winston Churchill",
-      "Vinston Črčil",
-      "Churchill",
-      "Čurčil",
-      "Črčil"
+      "Charles Darwin",
+      "Franjo Tuđman",
+      "Winston Churchill"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -852,8 +811,11 @@
     "topic": "MisliIzrekeCitati",
     "question": "'Koliko ljudi, toliko...' Čega, prema poslovici, ima jednako mnogo kao ljudi?",
     "answers": [
-      "Ćudi"
+      "Nula",
+      "Ćudi",
+      "Dvije"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -862,12 +824,11 @@
     "topic": "MisliIzrekeCitati",
     "question": "'Šampioni nastavljaju igrati sve dok ne naprave kako treba' je poznata izreka koje legendarne američke tenisačice?",
     "answers": [
+      "William Shakespeare",
       "Billie Jean King",
-      "Bili Džin King",
-      "Jean King",
-      "Džin King",
-      "King"
+      "Harry Potter"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -877,13 +838,10 @@
     "question": "Koja se povijesna osoba u Evanđelju po Ivanu obraća Isusu pitanjem 'Što je istina?'",
     "answers": [
       "Poncije Pilat",
-      "Pilat",
-      "Pilatus",
-      "Pontius Pilatus",
-      "Poncijus Pilatus",
-      "Pilatu",
-      "Pilatusu"
+      "Richard Nixon",
+      "Dinastija Qin"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -892,19 +850,11 @@
     "topic": "MisliIzrekeCitati",
     "question": "Koji je francuski kralj navodno smatrao da je Pariz 'vrijedan jedne mise' kada je prelaskom na katoličanstvo učvrstio svoj položaj na prijestolju?",
     "answers": [
+      "Tvrtko I",
       "Henrik IV.",
-      "Henrik 4.",
-      "Henrik četvrti",
-      "Henrik fourth",
-      "Henrik fort",
-      "Henrik 4th",
-      "Henri IV.",
-      "Henri 4.",
-      "Henri četvrti",
-      "Henri fourth",
-      "Henri fort",
-      "Henri 4th"
+      "Država SHS"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -914,8 +864,10 @@
     "question": "Dovršite poslovicu o složnoj obitelji: 'Gdje čeljad nije bijesna, ni kuća nije...'?",
     "answers": [
       "Tijesna",
-      "Tisna"
+      "Zlato",
+      "Ljubav"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -924,8 +876,11 @@
     "topic": "MisliIzrekeCitati",
     "question": "Ako upitamo engleskog filozofa i državnika s početka 17. stoljeća Francisa Bacona za misao o znanju, sasvim sigurno će nam odgovoriti da je znanje što?",
     "answers": [
-      "Moć"
+      "Država SHS",
+      "Moć",
+      "Luj XIV."
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -934,8 +889,11 @@
     "topic": "MisliIzrekeCitati",
     "question": "Od čega, prema poslovici, glava ne boli?",
     "answers": [
-      "Viška"
+      "Ćudi",
+      "Viška",
+      "Vatre"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -944,11 +902,11 @@
     "topic": "MisliIzrekeCitati",
     "question": "Koji je američki predsjednik 1987.g. pred Brandenburškim vratima pozvao sovjetskog vođu riječima 'Gospodine Gorbačov, srušite ovaj zid!'?",
     "answers": [
+      "Abraham Lincoln",
       "Ronald Reagan",
-      "Ronald Regan",
-      "Reagan",
-      "Regan"
+      "Richard Nixon"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -957,8 +915,11 @@
     "topic": "MisliIzrekeCitati",
     "question": "Prema izreci, što vuk može promijeniti, ali svoju ćud navodno nikada?",
     "answers": [
-      "Dlaku"
+      "Dlaku",
+      "Oči",
+      "Pas"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -967,12 +928,11 @@
     "topic": "MisliIzrekeCitati",
     "question": "Na čemu se, prema poslovici, najbolje poznaju junaci?",
     "answers": [
+      "Svome jatu",
       "Na muci",
-      "Na muki",
-      "Muci",
-      "Muki",
-      "Muka"
+      "Klinom"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -981,12 +941,11 @@
     "topic": "MisliIzrekeCitati",
     "question": "Kada kažemo da nešto ne treba procjenjivati samo po vanjštini, upozoravamo da knjigu ne treba suditi po čemu?",
     "answers": [
+      "Višegrad",
       "Koricama",
-      "Korama",
-      "Kora",
-      "Kore",
-      "Korice"
+      "Billie Jean King"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -996,12 +955,10 @@
     "question": "S kojim se renesansnim političkim misliocem često povezuje tvrdnja 'Cilj opravdava sredstvo', iako te riječi u tom obliku nije zapisao?",
     "answers": [
       "Niccolò Machiavelli",
-      "Nikolo Makijaveli",
-      "Machiavelli",
-      "Makijaveli",
-      "Machiavelliem",
-      "Makijavelijem"
+      "Benjamin Franklin",
+      "Winston Churchill"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1010,11 +967,11 @@
     "topic": "MisliIzrekeCitati",
     "question": "Prema narodnoj poslovici što nemožeš imati ako imaš ovce?",
     "answers": [
-      "Novce",
-      "Novac",
-      "Pare",
-      "Novaca"
+      "Željezo",
+      "Vatre",
+      "Novce"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -1023,11 +980,11 @@
     "topic": "MisliIzrekeCitati",
     "question": "Rimski je vojskovođa Julije Cezar svoju brzu vojnu pobjedu kod Zele 47.g. pr. Kr. opisao čuvenim riječima 'Veni, Vidi, ... ,  što?",
     "answers": [
-      "Vici",
-      "Pobjedih",
-      "Pobjedi",
-      "Pobjeda"
+      "Dlaku",
+      "Mars",
+      "Vici"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -1037,12 +994,10 @@
     "question": "Koji je francuski filozof u 17. stoljeću svoj sustav potrage za sigurnim znanjem sažeo u znamenitu misao „Mislim, dakle jesam“?",
     "answers": [
       "René Descartes",
-      "Descartes",
-      "Rene Dekart",
-      "Dekart",
-      "Deskart",
-      "Dekartes"
+      "Henrik IV.",
+      "Jean-Paul Sartre"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1051,10 +1006,11 @@
     "topic": "MisliIzrekeCitati",
     "question": "Koji je rimski car-filozof u svojim Meditacijama zapisivao misli o samokontroli, dužnosti i prolaznosti života te danas slovi kao jedan od najvećih imena stoicizma?",
     "answers": [
-      "Marko Aurelije",
-      "Marcus Aurelius",
-      "Markus Aurelius"
+      "Konstantin Veliki",
+      "Teodozije I",
+      "Marko Aurelije"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -1064,9 +1020,10 @@
     "question": "Što je, prema narodnoj poslovici, najbolje kovati dok je vruće?",
     "answers": [
       "Željezo",
-      "Metal",
-      "Čelik"
+      "Klinom",
+      "Miševi"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1075,12 +1032,11 @@
     "topic": "MisliIzrekeCitati",
     "question": "Koji je francuski filozof u djelu 'Društveni ugovor' napisao: 'Čovjek je rođen slobodan, a posvuda je u okovima'?",
     "answers": [
+      "Jean-Paul Sartre",
       "Jean-Jacques Rousseau",
-      "Žan Žak Ruso",
-      "Ruso",
-      "Rusao",
-      "Rusau"
+      "Herodot"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -1089,10 +1045,11 @@
     "topic": "MisliIzrekeCitati",
     "question": "Nadopunite: 'Dok jednom ne smrkne, drugom ne...'?",
     "answers": [
-      "Svane",
-      "Nesvane",
-      "Ne svane"
+      "Željezo",
+      "Sloga",
+      "Svane"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -1101,9 +1058,11 @@
     "topic": "MisliIzrekeCitati",
     "question": "Izraz 'Kruha i igara' kritizirao je rimsko društvo koje se zadovoljavalo hranom i zabavom umjesto političkom slobodom. Koji ga je rimski satiričar proslavio?",
     "answers": [
+      "Horacije",
       "Juvenal",
-      "Juvenalis"
+      "Flavijevci"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -1112,8 +1071,11 @@
     "topic": "MisliIzrekeCitati",
     "question": "Što, prema poslovici, gradi kuću, dok je nesloga razgrađuje?",
     "answers": [
+      "Petra",
+      "Pariz",
       "Sloga"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -1123,10 +1085,10 @@
     "question": "Koji je njemački filozof i ekonomist religiju u jednom poznatom tekstu opisao kao 'opijum naroda'?",
     "answers": [
       "Karl Marx",
-      "Karl Marks",
-      "Marx",
-      "Marks"
+      "Lord Acton",
+      "Snaga"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1135,14 +1097,11 @@
     "topic": "MisliIzrekeCitati",
     "question": "Prema antičkoj predaji, tko je prelazeći Rubikon 49.g. pr. Kr. izgovorio riječi koje danas poznajemo kao ' 'Kocka je bačena'?",
     "answers": [
-      "Julije Cezar",
-      "Cezar",
-      "Julius Caesar",
-      "Caesar",
-      "Sezar",
-      "Iulius Caesar",
-      "Julijus Sezar"
+      "Južna Amerika",
+      "John F. Kennedy",
+      "Julije Cezar"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -1152,8 +1111,10 @@
     "question": "Završi poznatu izreku: 'Tko pod drugim jamu kopa, sam u nju...?",
     "answers": [
       "Upada",
-      "Pada"
+      "Liječiti",
+      "Horacije"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1162,10 +1123,11 @@
     "topic": "MisliIzrekeCitati",
     "question": "Koji je antički grčki filozof tradicionalno povezan s paradoksalnom izrekom 'Znam da ništa ne znam', kojom se naglašava svijest o granicama vlastitog znanja?",
     "answers": [
+      "Aristotel",
       "Sokrat",
-      "Socrates",
-      "Sokrates"
+      "Dioniz"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -1174,12 +1136,11 @@
     "topic": "MisliIzrekeCitati",
     "question": "Koji je američki predsjednik tijekom Hladnog rata popularizirao poslovicu 'Vjeruj, ali provjeri', koristeći je u razgovorima o nuklearnom razoružanju sa Sovjetskim Savezom?",
     "answers": [
+      "Franklin Delano Roosevelt",
       "Ronald Reagan",
-      "Ronald Regan",
-      "Reagan",
-      "Regan",
-      "Rigen"
+      "Abraham Lincoln"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -1188,8 +1149,11 @@
     "topic": "MisliIzrekeCitati",
     "question": "Koja riječ nedostaje u poslovici koja nas tješi kada nešto napravimo sa zakašnjenjem: 'Bolje ikad nego...'?",
     "answers": [
-      "Nikad"
+      "Ništa",
+      "Nikad",
+      "Liječiti"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -1198,8 +1162,11 @@
     "topic": "MisliIzrekeCitati",
     "question": "Što radi onaj koji po poslovici 'ne skita'?",
     "answers": [
-      "Pita"
+      "Sit",
+      "Pita",
+      "Zadnji"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -1209,12 +1176,10 @@
     "question": "Koji je američki predsjednik u Gettysburškom govoru 1863.g. govorio o vlasti 'naroda, od naroda i za narod'?",
     "answers": [
       "Abraham Lincoln",
-      "Abraham Linkoln",
-      "Lincoln",
-      "Linkoln",
-      "Abe",
-      "Ejb"
+      "Franklin Delano Roosevelt",
+      "Richard Nixon"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1223,16 +1188,11 @@
     "topic": "MisliIzrekeCitati",
     "question": "Koji je američki predsjednik tijekom Velike depresije u inauguracijskom govoru 1933.g. poručio da je 'jedino čega se moramo bojati sam strah'?",
     "answers": [
-      "Franklin D. Roosevelt",
-      "FDR",
-      "Frenklin D. Ruzvelt",
       "Franklin Delano Roosevelt",
-      "Frenklin Delano Ruzvelt",
-      "Delano Roosevelt",
-      "Delano Ruzvelt",
-      "Roosevelt",
-      "Ruzvelt"
+      "John F. Kennedy",
+      "Franklin D. Roosevelt"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -1241,11 +1201,11 @@
     "topic": "MisliIzrekeCitati",
     "question": "'Ne pada snijeg da pokrije brijeg, nego da svaka zvijer pokaže svoj...' Što?",
     "answers": [
-      "Trag",
-      "Clue",
-      "Klu",
-      "Otisak"
+      "Sebe",
+      "Ništa",
+      "Trag"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -1255,9 +1215,10 @@
     "question": "Mudra izreka nam govori da čovjek uči dok je što?",
     "answers": [
       "Živ",
-      "Live",
-      "Lajv"
+      "Svane",
+      "Sloga"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1267,8 +1228,10 @@
     "question": "Koji je starogrčki sofist poznat po tvrdnji 'Čovjek je mjera svih stvari'?",
     "answers": [
       "Protagora",
-      "Protagoras"
+      "Neil Armstrong",
+      "Mont Blanc"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1277,11 +1240,11 @@
     "topic": "MisliIzrekeCitati",
     "question": "Kada netko pretjeruje oko nečega nevažnog, kažemo da od muhe pravi što?",
     "answers": [
+      "Jabuka",
       "Slona",
-      "Slon",
-      "Elefant",
-      "Elephant"
+      "Koricama"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -1290,13 +1253,11 @@
     "topic": "MisliIzrekeCitati",
     "question": "Koji je njemački filozof 19. stoljeća kroz svoja djela proslavio provokativnu tvrdnju 'Bog je mrtav'?",
     "answers": [
+      "Antun Mihanović",
       "Friedrich Nietzsche",
-      "Fridrih Niče",
-      "Nietzsche",
-      "Niče",
-      "Nitče",
-      "Nieče"
+      "Napoleon Bonaparte"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -1305,10 +1266,11 @@
     "topic": "MisliIzrekeCitati",
     "question": "Čemu, prema poslovici, leti svaka ptica?",
     "answers": [
+      "Glave",
       "Svome jatu",
-      "Jatu svome",
-      "Jatu"
+      "Koka"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -1317,11 +1279,11 @@
     "topic": "MisliIzrekeCitati",
     "question": "Koji je američki državnik i znanstvenik u djelu 'Advice to a Young Tradesman' zapisao misao koja je postala poznata kao 'Vrijeme je novac'?",
     "answers": [
+      "Katon Stariji",
       "Benjamin Franklin",
-      "Bendžamin Frenklin",
-      "Franklin",
-      "Frenklin"
+      "Charles de Gaulle"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -1330,10 +1292,11 @@
     "topic": "MisliIzrekeCitati",
     "question": "Koliki se dio krivnje, prema poslovici, prašta onome tko prizna?",
     "answers": [
+      "Dvije",
       "Pola",
-      "Half",
-      "50%"
+      "Ćudi"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -1342,10 +1305,11 @@
     "topic": "MisliIzrekeCitati",
     "question": "Nadopunite narodnu poslovicu: 'Jedna lasta ne čini...', koje godišnje doba?",
     "answers": [
+      "Svane",
       "Proljeće",
-      "Proliće",
-      "Spring"
+      "Nauke"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -1354,8 +1318,11 @@
     "topic": "Ostalo",
     "question": "Ako bi se iz 2010.g. vratili u prošlost za točno 500 godina, u kojoj godini bi završili?",
     "answers": [
-      "1510"
+      "1510",
+      "1485",
+      "1513"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1365,11 +1332,10 @@
     "question": "Ispod kojeg je drveta Buda doživio prosvjetljenje?",
     "answers": [
       "Drvo smokve",
-      "Drveta smokve",
-      "Smokve",
-      "Indijske smokve",
-      "Indijska smokva"
+      "Bodh Gaya",
+      "Integracija"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1378,8 +1344,11 @@
     "topic": "Ostalo",
     "question": "Koja je europska država 2024. godine promijenila datum proslave Božića sa 7. siječnja na 25. prosinca?",
     "answers": [
+      "Glastonbury",
+      "Francuska",
       "Ukrajina"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -1389,8 +1358,10 @@
     "question": "Koliko naslova svjetskog WRC prvaka ukupno imaju legendarni finski rally vozači Juha Kankkunen i Tommi Mäkinen?",
     "answers": [
       "8",
-      "Osam"
+      "5",
+      "10"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1399,10 +1370,11 @@
     "topic": "FilmGlazba",
     "question": "Tko je utjelovio Sheldona Coopera u Teoriji Velikog Praska",
     "answers": [
-      "Jim Parsons",
-      "Džim Parsons",
-      "Parsons"
+      "Frankenstein",
+      "Sylvester Stallone",
+      "Jim Parsons"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -1411,8 +1383,11 @@
     "topic": "Znanost",
     "question": "Koji je kemijski simbol za zlato?",
     "answers": [
+      "Ag",
+      "Na",
       "Au"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -1422,9 +1397,10 @@
     "question": "Koji je glavni grad Italije?",
     "answers": [
       "Rim",
-      "Rome",
-      "Rom"
+      "Oslo",
+      "Tokio"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1433,8 +1409,11 @@
     "topic": "KnjigaSlika",
     "question": "Završite niz.. N, Na, No, Ni, Ne, ...?",
     "answers": [
-      "Na"
+      "Pi",
+      "Na",
+      "Fe"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -1444,8 +1423,10 @@
     "question": "Kako se zove najduža rijeka u Africi?",
     "answers": [
       "Nil",
-      "Nile"
+      "Sava",
+      "Volga"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1454,8 +1435,11 @@
     "topic": "Ostalo",
     "question": "Koja je najveća planeta u Sunčevu sustavu?",
     "answers": [
-      "Jupiter"
+      "Jupiter",
+      "Mars",
+      "Venera"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1464,20 +1448,24 @@
     "topic": "Znanost",
     "question": "Koji je kemijski simbol za natrij?",
     "answers": [
-      "Na"
+      "Ag",
+      "Na",
+      "Fe"
     ],
+    "correctAnswer": "B",
     "image": null
   },
-    {
+  {
     "type": "blitz",
     "difficulty": 5,
     "topic": "Povijest",
     "question": "Koje ime nosi mirovni sporazum potpisan između Atine i Sparte 421. godine, kojim se završila prva faza peloponeskog rata",
     "answers": [
-      "Nikijin mir",
-      "Nikijin",
-      "Nikijski"
+      "Daytonski sporazum",
+      "Teodozije I",
+      "Nikijin mir"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -1486,9 +1474,11 @@
     "topic": "Ostalo",
     "question": "Koji kviz sa izazivačima i lovcem rado gledamo na HRT-u?",
     "answers": [
-      "Potjeru",
-      "Potjera"
+      "Portret",
+      "Koncert",
+      "Potjeru"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -1498,8 +1488,10 @@
     "question": "Kako se zove poučak koji kaže da je a² + b² = c² u pravokutnom trokutu?",
     "answers": [
       "Pitagorin poučak",
-      "Pitagorin"
+      "Herodot",
+      "Prost broj"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1509,11 +1501,10 @@
     "question": "Koje more se nalazi između Ancone i Zadra?",
     "answers": [
       "Jadransko more",
-      "Jadran",
-      "Jadransko",
-      "Adria",
-      "Adriatic"
+      "Kairo",
+      "Pariz"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1522,8 +1513,11 @@
     "topic": "Zemljopis",
     "question": "Koja država je pretekla Kinu i trenutno ima najveći broj stanovnika na svijetu?",
     "answers": [
+      "Platon",
+      "Rusija",
       "Indija"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -1532,10 +1526,11 @@
     "topic": "Zemljopis",
     "question": "Kako se zove najviši vrh svijeta?",
     "answers": [
+      "Mont Blanc",
       "Mount Everest",
-      "Everest",
-      "Mont Everest"
+      "Kilimandžaro"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -1544,8 +1539,11 @@
     "topic": "Povijest",
     "question": "Koje je godine započeo Prvi svjetski rat?",
     "answers": [
-      "1914"
+      "1914",
+      "1964",
+      "1915"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1554,8 +1552,11 @@
     "topic": "Povijest",
     "question": "Koje je godine započeo Drugi svjetski rat?",
     "answers": [
-      "1939"
+      "1939",
+      "1919",
+      "1941"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1564,9 +1565,11 @@
     "topic": "Ostalo",
     "question": "Kako se zvao grčki Bog mora?",
     "answers": [
-      "Posejdon",
-      "Poseidon"
+      "Dioniz",
+      "Had",
+      "Posejdon"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -1575,8 +1578,11 @@
     "topic": "Ostalo",
     "question": "Kako se zvao rimski bog rata?",
     "answers": [
-      "Mars"
+      "Mars",
+      "Horus",
+      "Tvrtko I"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1585,8 +1591,11 @@
     "topic": "Povijest",
     "question": "Koje je godine čovjek prvi put sletio na Mjesec?",
     "answers": [
-      "1969"
+      "1944",
+      "1969",
+      "1965"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -1595,10 +1604,11 @@
     "topic": "Povijest",
     "question": "Kako se zvao prvi čovjek koji je kročio na Mjesec?",
     "answers": [
+      "Posejdon",
       "Neil Armstrong",
-      "Armstrong",
-      "Nil Armstrong"
+      "Franjo Tuđman"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -1607,8 +1617,11 @@
     "topic": "Znanost",
     "question": "Čijoj svjetlosti je potrebno 8 minuta i 19 sekundi da bi stigla do Zemlje prelazeći udaljenost od 150 milijuna kilometara?",
     "answers": [
+      "Luj XIV.",
+      "NATO",
       "Sunčevoj"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -1617,8 +1630,11 @@
     "topic": "Znanost",
     "question": "Koje je kemijsko ime spoja NaCl?",
     "answers": [
+      "Gamma bljesak",
+      "Teorija evolucije",
       "Natrijev klorid"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -1627,9 +1643,11 @@
     "topic": "Povijest",
     "question": "Antun Mihanović je za boravka u Americi pokušao 'prokrčiti put u američku trgovinu jednom od najplemenitijih i najvažnijih proizvoda'. O kojem je napitku riječ?",
     "answers": [
-      "Vinu",
-      "Vino"
+      "Svane",
+      "Nula",
+      "Vinu"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -1638,9 +1656,11 @@
     "topic": "Zemljopis",
     "question": "Kako se zove glavni grad Hrvatske?",
     "answers": [
-      "Zagreb",
-      "Zg"
+      "Ottawa",
+      "Moskva",
+      "Zagreb"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -1649,8 +1669,11 @@
     "topic": "Zemljopis",
     "question": "Koja je valuta Europske unije uvedena 1999. godine?",
     "answers": [
+      "Oscar",
+      "London",
       "Euro"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -1659,9 +1682,11 @@
     "topic": "Znanost",
     "question": "Koja se mjera koristi za električni otpor?",
     "answers": [
+      "Mol",
       "Ohm",
-      "om"
+      "Hertz"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -1670,9 +1695,11 @@
     "topic": "Znanost",
     "question": "Kako se zove proces pretvaranja vode u paru?",
     "answers": [
-      "Isparavanje",
-      "evaporacija"
+      "Fotosinteza",
+      "Erozija",
+      "Isparavanje"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -1681,10 +1708,11 @@
     "topic": "Zemljopis",
     "question": "Koji je glavni grad Japana?",
     "answers": [
-      "Tokio",
-      "Tokijo",
-      "Tokyo"
+      "Kairo",
+      "Atena",
+      "Tokio"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -1694,10 +1722,10 @@
     "question": "Kako se zove nobelovac koji je razvio teoriju relativnosti?",
     "answers": [
       "Albert Einstein",
-      "Einstein",
-      "Ajnštajn",
-      "Albert Ajnštajn"
+      "Grammy",
+      "Oscar"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1706,9 +1734,11 @@
     "topic": "Politika",
     "question": "Koje je godine Hrvatska postala članica Europske unije?",
     "answers": [
-      "2013",
-      "Dvije tisuće trinaest"
+      "2003",
+      "2017",
+      "2013"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -1718,8 +1748,10 @@
     "question": "Na kojem je brodu kitolovcu kapetan Ahab alfa i omega",
     "answers": [
       "Pequod",
-      "Pekod"
+      "Logika",
+      "Mejoza"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1728,8 +1760,11 @@
     "topic": "Znanost",
     "question": "Kako se zove znanost koja proučava fosile?",
     "answers": [
-      "Paleontologija"
+      "Logika",
+      "Paleontologija",
+      "Epigrafika"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -1738,8 +1773,11 @@
     "topic": "Znanost",
     "question": "Kako se zove znanost o nasljednim osobinama organizama?",
     "answers": [
-      "Genetika"
+      "Logika",
+      "Genetika",
+      "Paleontologija"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -1748,9 +1786,11 @@
     "topic": "Zemljopis",
     "question": "Koji je kontinent površinom najmanji?",
     "answers": [
+      "Južna Amerika",
       "Australija",
-      "Australia"
+      "Grenland"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -1760,10 +1800,10 @@
     "question": "Koji je najveći ocean na Zemlji?",
     "answers": [
       "Tihi ocean",
-      "Pacifik",
-      "Tihi",
-      "Pacifički"
+      "Mjesec",
+      "Plavi kit"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1772,10 +1812,11 @@
     "topic": "Ostalo",
     "question": "Kako se zove prva knjiga Starog zavjeta?",
     "answers": [
-      "Postanak",
-      "Knjiga Postanka",
-      "Genesis"
+      "Biblija",
+      "Kuran",
+      "Postanak"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -1784,9 +1825,11 @@
     "topic": "FilmGlazba",
     "question": "U kojem je gradu nastao rock bend The Beatles?",
     "answers": [
+      "Pariz",
       "Liverpool",
-      "Liverpul"
+      "Sarajevo"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -1796,8 +1839,10 @@
     "question": "Kako se zove autor romana Zločin i kazna?",
     "answers": [
       "Fjodor Dostojevski",
-      "Dostojevski"
+      "Ivo Andrić",
+      "Meša Selimović"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1806,8 +1851,11 @@
     "topic": "Znanost",
     "question": "Koji je kemijski simbol za željezo?",
     "answers": [
-      "Fe"
+      "Ag",
+      "Fe",
+      "Na"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -1816,10 +1864,11 @@
     "topic": "KnjigaSlika",
     "question": "Kako se zove najpoznatija slika Leonarda da Vincija koja prikazuje ženu tajanstvenog osmijeha?",
     "answers": [
-      "Mona Lisa",
-      "Giaconda",
-      "Đakonda"
+      "Portret",
+      "Krik",
+      "Mona Lisa"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -1828,10 +1877,11 @@
     "topic": "Sport",
     "question": "Kako se zove domaći nogometni klub iz Splita s crveno-bijelim kvadratićima u grbu?",
     "answers": [
+      "Bayern München",
       "Hajduk",
-      "HNK Hajduk Split",
-      "Hajduk Split"
+      "Juventus"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -1840,12 +1890,11 @@
     "topic": "Sport",
     "question": "Koji je NBA klub osvojio najviše naslova prvaka do danas, ukupno 18?",
     "answers": [
-      "Boston Celtics",
-      "Biston Seltiks",
-      "Boston",
-      "Celtics",
-      "Seltiks"
+      "Bayern München",
+      "Juventus",
+      "Boston Celtics"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -1855,9 +1904,10 @@
     "question": "Kako se zove tenisač iz Srbije s najviše Grand Slam naslova u povijesti muškog tenisa?",
     "answers": [
       "Novak Đoković",
-      "Djokovic",
-      "Đoković"
+      "Bitka kod Kurska",
+      "Herodot"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1867,8 +1917,10 @@
     "question": "Kako se zove Zemljin najveći prirodni satelit?",
     "answers": [
       "Mjesec",
-      "Moon"
+      "Platon",
+      "Indija"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1878,8 +1930,10 @@
     "question": "Koje je godine počeo Domovinski rat u Hrvatskoj?",
     "answers": [
       "1991",
-      "91"
+      "2041",
+      "1994"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1888,10 +1942,11 @@
     "topic": "Ostalo",
     "question": "Kako se zvao prvi hrvatski predsjednik nakon osamostaljenja 1991.?",
     "answers": [
-      "Franjo Tuđman",
-      "Tudman",
-      "Tuđman"
+      "Abraham Lincoln",
+      "Richard Nixon",
+      "Franjo Tuđman"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -1901,9 +1956,10 @@
     "question": "Kako se zove kemijski element s atomskim brojem 1?",
     "answers": [
       "Vodik",
-      "Hidrogen",
-      "Hydrogen"
+      "Redukcija",
+      "Fe"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1913,9 +1969,10 @@
     "question": "Kako se zove najveća polarna pustinja na svijetu?",
     "answers": [
       "Antarktika",
-      "Antarktika pustinja",
-      "Antarctica"
+      "Grenland",
+      "Sahara"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1925,8 +1982,10 @@
     "question": "Koji je glavni grad Australije?",
     "answers": [
       "Canberra",
-      "Canbera"
+      "Santiago",
+      "Helsinki"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1935,8 +1994,11 @@
     "topic": "Znanost",
     "question": "Kako se zove fundamentalna fizikalna veličina koja predstavlja sposobnost tijela ili sustava da obavi rad ili da izazove promjenu",
     "answers": [
+      "Snaga",
+      "Via Appia",
       "Energija"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -1945,8 +2007,11 @@
     "topic": "Znanost",
     "question": "Bijele krvne stanice se dijele na 5 glavnih tipova, neutrofili, eozinofili, bazofili , limfociti i koje još?",
     "answers": [
-      "Monociti"
+      "Monociti",
+      "Kornjaču",
+      "Mejoza"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1956,10 +2021,10 @@
     "question": "Koja se Nobelova nagrada ne dodjeljuje u Švedskoj nego u Norveškoj?",
     "answers": [
       "Nobelova nagrada za mir",
-      "Nagrada za mir",
-      "Za mir",
-      "Mir"
+      "Grammy",
+      "Emmy"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1968,8 +2033,11 @@
     "topic": "Znanost",
     "question": "Koji je najveći unutarnji organ u ljudskom tijelu?",
     "answers": [
-      "Jetra"
+      "Mjesec",
+      "Jetra",
+      "Aorta"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -1978,8 +2046,11 @@
     "topic": "FloraFauna",
     "question": "Kako se zove proces pri kojem zelene biljke uz pomoć Sunčeve svjetlosti stvaraju šećer iz vode i ugljikova dioksida?",
     "answers": [
-      "Fotosinteza"
+      "Botanika",
+      "Fotosinteza",
+      "Papirus"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -1988,10 +2059,11 @@
     "topic": "Povijest",
     "question": "Kojoj su dinastiji pripadali rimski carevi Vespazijan, Tit i Domicijan?",
     "answers": [
+      "Pax Romana",
       "Flavijevci",
-      "Flavijevskoj",
-      "Flavijevskoj Dinastiji"
+      "Teodozije I"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -2000,10 +2072,11 @@
     "topic": "Znanost",
     "question": "Koja se mjerna jedinica koristi za frekvenciju?",
     "answers": [
-      "Hertz",
-      "Herc",
-      "Hz"
+      "Pascal",
+      "Mol",
+      "Hertz"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -2012,10 +2085,11 @@
     "topic": "Povijest",
     "question": "Kako se danas zove najpoznatiji rimski amfiteatar u Italiji, izvornog imena Flavijev amfiteatar?",
     "answers": [
-      "Kolosej",
-      "Koloseum",
-      "Colosseum"
+      "Via Appia",
+      "Marko Aurelije",
+      "Kolosej"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -2025,8 +2099,10 @@
     "question": "Koji je glavni grad Egipta?",
     "answers": [
       "Kairo",
-      "Cairo"
+      "Tokio",
+      "Atena"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -2035,8 +2111,11 @@
     "topic": "Zemljopis",
     "question": "Koja se rijeka u Beogradu ulijeva u Dunav?",
     "answers": [
-      "Sava"
+      "Sava",
+      "Meka",
+      "Oslo"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -2046,8 +2125,10 @@
     "question": "U koliko glavnih gradova se može uživati u pogledu na rijeku Savu?",
     "answers": [
       "3",
-      "tri"
+      "1",
+      "2"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -2056,8 +2137,11 @@
     "topic": "Znanost",
     "question": "Ako pričamo o Mitozi, znamo da redom idu Profaza, Prometafaza, Metafaza, Anafaza i koja još faza?",
     "answers": [
+      "Kornjaču",
+      "Vatre",
       "Telofaza"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -2066,11 +2150,11 @@
     "topic": "Ostalo",
     "question": "Koji je američki predsjednik potpisao Proglas o emancipaciji robova 1863. godine?",
     "answers": [
-      "Abraham Lincoln",
-      "Abraham Linkoln",
-      "Lincoln",
-      "Linkoln"
+      "Bill Clinton",
+      "Richard Nixon",
+      "Abraham Lincoln"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -2079,13 +2163,11 @@
     "topic": "Ostalo",
     "question": "Koji je američki predsjednik bio na vlasti tijekom većine Drugog svjetskog rata (do 1945.)?",
     "answers": [
-      "Franklin Delano Roosevelt",
-      "Franklin Roosevelt",
-      "Frenklin Ruzvelt",
-      "FDR",
-      "Roosevelt",
-      "Ruzvelt"
+      "Ronald Reagan",
+      "Abraham Lincoln",
+      "Franklin Delano Roosevelt"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -2095,19 +2177,23 @@
     "question": "Kako se zvala poznata egipatska kraljica koja je imala vezu s Markom Antonijem?",
     "answers": [
       "Kleopatra",
-      "Cleopatra"
+      "Henrik IV.",
+      "Država SHS"
     ],
+    "correctAnswer": "A",
     "image": null
   },
-    {
+  {
     "type": "blitz",
     "difficulty": 4,
     "topic": "Povijest",
     "question": "10. siječnja 49.g. pr.n e. Julije Cezar prelazi rijeku Rubikon izgovarajući koju poznatu rečenicu?",
     "answers": [
       "Kocka je bačena",
-      "Alea iacta est"
+      "Gaj Julije Cezar",
+      "Ganges"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -2116,8 +2202,11 @@
     "topic": "Zemljopis",
     "question": "Koji je glavni grad Turske?",
     "answers": [
-      "Ankara"
+      "Moskva",
+      "Ankara",
+      "Zagreb"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -2127,10 +2216,10 @@
     "question": "Kako se zove poznati francuski general i državnik koji je vodio Francusku u Drugom svjetskom ratu te bio 1. predsjednik  pete republike?",
     "answers": [
       "Charles de Gaulle",
-      "Čarls degaul",
-      "De Gaulle",
-      "Gaul"
+      "John F. Kennedy",
+      "Katon Stariji"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -2139,9 +2228,11 @@
     "topic": "Zemljopis",
     "question": "Koja se planina smatra svetom u grčkoj mitologiji kao prebivalište bogova?",
     "answers": [
-      "Olimp",
-      "Olymp"
+      "Ararat",
+      "Ganges",
+      "Olimp"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -2150,9 +2241,11 @@
     "topic": "Ostalo",
     "question": "Kako se zvala nordijska božica ljubavi i ljepote?",
     "answers": [
+      "Izida",
       "Freja",
-      "Freyja"
+      "Atena"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -2161,8 +2254,11 @@
     "topic": "Ostalo",
     "question": "Koji je vrhovni bog nordijske mitologije koji vlada Asgardom?",
     "answers": [
+      "Thor",
+      "Had",
       "Odin"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -2171,8 +2267,11 @@
     "topic": "Znanost",
     "question": "Koji je kemijski simbol za kisik?",
     "answers": [
-      "O"
+      "O",
+      "H",
+      "K"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -2181,8 +2280,11 @@
     "topic": "Znanost",
     "question": "U fizici, proces prelaska tvari iz čvrstog u plinovito stanje bez prethodnog prijelaza u tekuće se zove kako?",
     "answers": [
-      "Sublimacija"
+      "Refrakcija",
+      "Sublimacija",
+      "Henrik IV."
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -2191,11 +2293,11 @@
     "topic": "Povijest",
     "question": "Kako se zvao najpoznatiji rimski vojskovođa koji je sa svojom 13. legijom prešao rijeku Rubikon?",
     "answers": [
+      "Pejzaž",
       "Gaj Julije Cezar",
-      "Julius Caesar",
-      "Julije Cezar",
-      "Cezar"
+      "Ganges"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -2204,9 +2306,11 @@
     "topic": "Povijest",
     "question": "Kako se zove rat između Atene i Sparte koji je trajao gotovo 30 godina?",
     "answers": [
+      "Vijetnamski rat",
       "Peloponeski rat",
-      "Peloponeski"
+      "Drugi svjetski rat"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -2215,8 +2319,11 @@
     "topic": "Znanost",
     "question": "Što probija zrakoplov kada prijeđe brzinu zvuka?",
     "answers": [
-      "Zvučni zid"
+      "Difrakcija",
+      "Zvučni zid",
+      "Država SHS"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -2225,11 +2332,11 @@
     "topic": "Povijest",
     "question": "Kako se zove legendarni vođa Huna koji je napadao Rim i Europu u 5. stoljeću?",
     "answers": [
+      "René Descartes",
       "Atila",
-      "Atilla",
-      "Bič Božji",
-      "Atila Bič Božji"
+      "Islam"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -2238,10 +2345,11 @@
     "topic": "Znanost",
     "question": "Kako se zove jedinica za električnu struju u SI sustavu (Système International d'Unités)?",
     "answers": [
-      "Amper",
-      "Ampere",
-      "A"
+      "Mol",
+      "Watt",
+      "Amper"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -2250,8 +2358,11 @@
     "topic": "Zemljopis",
     "question": "Koja država ima glavni grad Buenos Aires?",
     "answers": [
-      "Argentina"
+      "Argentina",
+      "Rusija",
+      "Amsterdam"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -2261,10 +2372,10 @@
     "question": "Koji je kontinent poznat po rijeci Amazoni?",
     "answers": [
       "Južna Amerika",
-      "Latinska Amerika",
-      "South America",
-      "Saud Amerika"
+      "Grenland",
+      "Australija"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -2273,8 +2384,11 @@
     "topic": "Ostalo",
     "question": "Kako se zove planet na kojem se nalazi planina Olympus Mons, najveći vulkan u Sunčevu sustavu?",
     "answers": [
-      "Mars"
+      "Mars",
+      "Jupiter",
+      "Venera"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -2283,8 +2397,11 @@
     "topic": "Znanost",
     "question": "Kako se zove instrument kojim se mjeri atmosferski tlak?",
     "answers": [
+      "Seizmograf",
+      "Pulsmetar",
       "Barometar"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -2293,9 +2410,11 @@
     "topic": "KnjigaSlika",
     "question": "Kako se zove autor romana 'Na Drini ćuprija'?",
     "answers": [
-      "Ivo Andrić",
-      "Andrić"
+      "Fjodor Dostojevski",
+      "Meša Selimović",
+      "Ivo Andrić"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -2304,8 +2423,11 @@
     "topic": "Zemljopis",
     "question": "U kojem gradu se nalazi Šehidsko mezarje Kovači i većina suvremene povijesti BiH?",
     "answers": [
+      "Dinastija Qin",
+      "Pariz",
       "Sarajevo"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -2314,10 +2436,11 @@
     "topic": "Povijest",
     "question": "Kako se zvao srednjovjekovni bosanski kralj poznat po naslovu 'Kralj Bosne i Primorja'?",
     "answers": [
-      "Tvrtko I",
-      "Tvrtko",
-      "Tvrtko Kotromanić"
+      "Luj XIV.",
+      "Henrik IV.",
+      "Tvrtko I"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -2327,8 +2450,10 @@
     "question": "Kako se zove poznat hrvatski književnik koji je napisao djelo 'Gospoda Glembajevi'?",
     "answers": [
       "Miroslav Krleža",
-      "Krleža"
+      "Quentin Tarantino",
+      "Meša Selimović"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -2337,8 +2462,11 @@
     "topic": "Povijest",
     "question": "Kako se zove filozof iz antičke Grčke koji je napisao djela 'Država' i 'Zakoni'?",
     "answers": [
+      "Rusija",
+      "Argentina",
       "Platon"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -2347,8 +2475,11 @@
     "topic": "KnjigaSlika",
     "question": "Kako se zove poznato Shakespeareovo djelo o danskom princu koji sumnja u ubojstvo svog oca?",
     "answers": [
-      "Hamlet"
+      "Hamlet",
+      "Koncert",
+      "Herodot"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -2357,9 +2488,11 @@
     "topic": "KnjigaSlika",
     "question": "Kako se zove umjetnički pravac kojem pripada slikar Vincent van Gogh?",
     "answers": [
+      "Winston Churchill",
       "Postimpresionizam",
-      "post-impresionizam"
+      "Pablo Picasso"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -2369,9 +2502,10 @@
     "question": "Kako se zove slika Edvarda Muncha koja prikazuje lik koji vrišti na mostu?",
     "answers": [
       "Krik",
-      "Skrik",
-      "Vrisak"
+      "Portret",
+      "Mona Lisa"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -2380,11 +2514,11 @@
     "topic": "KnjigaSlika",
     "question": "Koji je slikar naslikao 'Guernicu' kao reakciju na bombardiranje tijekom Španjolskog građanskog rata?",
     "answers": [
+      "Abraham Lincoln",
       "Pablo Picasso",
-      "Pablo Pikaso",
-      "Picasso",
-      "Pikaso"
+      "Franklin Delano Roosevelt"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -2393,8 +2527,11 @@
     "topic": "KnjigaSlika",
     "question": "Koji grad je povezan mostom Mehmed-paše Sokolovića, najpoznatijeg po romanu 'Na Drini ćuprija'?",
     "answers": [
+      "Oscar",
+      "Grammy",
       "Višegrad"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -2403,10 +2540,11 @@
     "topic": "Ostalo",
     "question": "Koja je najveća katedrala u Parizu koja je djelomično stradala u požaru 2019. godine?",
     "answers": [
+      "Grammy",
       "Notre Dame",
-      "Noterdam",
-      "Notre Dam"
+      "Waterloo"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -2415,9 +2553,11 @@
     "topic": "FilmGlazba",
     "question": "Kako se zove popularni TV kviz znanja koji vodi Tarik Filipović na hrvatskoj verziji?",
     "answers": [
+      "Albertu Einsteinu",
       "Tko želi biti milijunaš",
-      "Milijunaš"
+      "Rally Sweden"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -2426,8 +2566,11 @@
     "topic": "Sport",
     "question": "Kako se zove grad domaćin ljetnih Olimpijskih igara 2012. godine?",
     "answers": [
-      "London"
+      "Oscar",
+      "London",
+      "Grammy"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -2437,8 +2580,10 @@
     "question": "Koja država je osvojila Svjetsko prvenstvo u nogometu 2018. godine?",
     "answers": [
       "Francuska",
-      "France"
+      "Glastonbury",
+      "Ukrajina"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -2447,8 +2592,11 @@
     "topic": "Znanost",
     "question": "Kako se zove druga faza stanične diobe, koja slijedi nakon mitoze",
     "answers": [
-      "Citokineza"
+      "Citokineza",
+      "Mitoza",
+      "Franjo Tuđman"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -2457,9 +2605,11 @@
     "topic": "Sport",
     "question": "Koja je nogometna reprezentacija osvojila Svjetsko prvenstvo 1998. godine?",
     "answers": [
+      "Juventus",
       "Francuska",
-      "France"
+      "Hajduk"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -2468,8 +2618,11 @@
     "topic": "Sport",
     "question": "Koje je godine Hrvatska prvi put nastupila kao samostalna reprezentacija na Svjetskom nogometnom prvenstvu?",
     "answers": [
-      "1998"
+      "1998",
+      "1996",
+      "1948"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -2478,11 +2631,11 @@
     "topic": "Sport",
     "question": "Kako se zove poznati američki košarkaš koji je šest puta osvojio naslov NBA prvaka s Chicago Bullsima?",
     "answers": [
+      "Boston Celtics",
       "Michael Jordan",
-      "Majkl Džordan",
-      "Jordan",
-      "Džordan"
+      "Dražen Petrović"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -2492,8 +2645,10 @@
     "question": "Biljke koje se oprašuju uz pomoć insekata nazivamo kako?",
     "answers": [
       "Entomofilne biljke",
-      "Entomofilne"
+      "Fotosinteza",
+      "Botanika"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -2502,12 +2657,11 @@
     "topic": "FloraFauna",
     "question": "Koji je najveći sisavac na Zemlji?",
     "answers": [
+      "Magmatska stijena",
       "Plavi kit",
-      "kit",
-      "Blue whale",
-      "Plavetni Kit",
-      "Blu Vejl"
+      "Tihi ocean"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -2517,10 +2671,10 @@
     "question": "Kako se zove dio stanice u kojem se nalazi genetski materijal u obliku DNA kod eukariota?",
     "answers": [
       "Jezgra",
-      "stanična jezgra",
-      "nucleus",
-      "Nukleus"
+      "Pola",
+      "Psalmi"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -2529,11 +2683,11 @@
     "topic": "Znanost",
     "question": "Kako se zove poznata teorija koja opisuje nastanak i širenje svemira iz izuzetno guste točke?",
     "answers": [
-      "Veliki prasak",
-      "Big Bang",
-      "Velikog Praska",
-      "Big Beng"
+      "Otkrivenje",
+      "Inflacija",
+      "Veliki prasak"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -2543,10 +2697,10 @@
     "question": "Kako se zove galaksija u kojoj se nalazi Sunčev sustav?",
     "answers": [
       "Mliječna staza",
-      "Milky Way",
-      "Milki Vej",
-      "Mliječni Put"
+      "Andromeda",
+      "Jadransko more"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -2555,8 +2709,11 @@
     "topic": "Zemljopis",
     "question": "Kako se zove glavni grad Slovenije?",
     "answers": [
-      "Ljubljana"
+      "Stockholm",
+      "Ljubljana",
+      "Amsterdam"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -2565,8 +2722,11 @@
     "topic": "Zemljopis",
     "question": "Kako se zove glavni grad Srbije?",
     "answers": [
-      "Beograd"
+      "Beograd",
+      "Lisabon",
+      "Varšava"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -2575,8 +2735,11 @@
     "topic": "Zemljopis",
     "question": "Kako se zove glavni grad Bosne i Hercegovine?",
     "answers": [
-      "Sarajevo"
+      "Sarajevo",
+      "Helsinki",
+      "Santiago"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -2585,8 +2748,11 @@
     "topic": "Zemljopis",
     "question": "Kako se zove najveće jezero u Hrvatskoj?",
     "answers": [
-      "Vransko"
+      "Vransko",
+      "Jezero Garda",
+      "Arhimed"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -2595,10 +2761,11 @@
     "topic": "Povijest",
     "question": "Kako se zove međunarodna organizacija osnovana 1945. radi održavanja svjetskog mira i sigurnosti?",
     "answers": [
+      "Država SHS",
       "Ujedinjeni narodi",
-      "UN",
-      "United Nations"
+      "Charles de Gaulle"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -2607,13 +2774,11 @@
     "topic": "Ostalo",
     "question": "Kako se zove najpoznatiji dokument koji počinje riječima 'Mi, narodi Ujedinjenih naroda'?",
     "answers": [
+      "Gaj Julije Cezar",
       "Povelja Ujedinjenih naroda",
-      "Povelja UN",
-      "UN Charter",
-      "Povelja UN-a",
-      "Povelja"
-      
+      "John Coltrane"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -2623,8 +2788,10 @@
     "question": "Kako se zove rat između SAD-a i Sjevernog Vijetnama u drugoj polovici 20. stoljeća?",
     "answers": [
       "Vijetnamski rat",
-      "Rat u Vijetnamu"
+      "Peloponeski rat",
+      "Drugi svjetski rat"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -2633,9 +2800,11 @@
     "topic": "Povijest",
     "question": "Kako se zvala vojno-politička kriza između SAD-a i SSSR-a 1962. zbog raketa na Kubi?",
     "answers": [
-      "Kubanska kriza",
-      "Kubanska raketna kriza"
+      "Vijetnamski rat",
+      "Hladni rat",
+      "Kubanska kriza"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -2644,9 +2813,11 @@
     "topic": "FilmGlazba",
     "question": "Kako se zove poznata rock grupa koju čine članovi Brian May, Roger Taylor i John Deacon uz karizmatičnog frontmena Freddieja Mercuryja?",
     "answers": [
+      "The Rolling Stones",
       "Queen",
-      "Kuin"
+      "Islam"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -2655,10 +2826,11 @@
     "topic": "FilmGlazba",
     "question": "Kako se zove najpoznatiji album skupine Pink Floyd iz 1973. godine?",
     "answers": [
+      "John Coltrane",
       "The Dark Side of the Moon",
-      "Dark Side of the Moon",
-      "Tamna strana Mjeseca"
+      "Grammy"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -2667,8 +2839,11 @@
     "topic": "Povijest",
     "question": "Koje ime dijele majka Aleksandra Velikog i četverogodišnje razdoblje u antičkoj Grčkoj",
     "answers": [
+      "Bono Vox",
+      "Jim Parsons",
       "Olimpijada"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -2677,10 +2852,11 @@
     "topic": "FilmGlazba",
     "question": "Kako se zove pjevač koji je osvojio Euroviziju 2021. s pjesmom 'Zitti e buoni' kao dio benda Måneskin?",
     "answers": [
-      "Damiano David",
-      "Damiano",
-      "David"
+      "Psalmi",
+      "Opera",
+      "Damiano David"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -2689,9 +2865,11 @@
     "topic": "FilmGlazba",
     "question": "Koji je glazbeni žanr najviše povezan s bendom Metallica?",
     "answers": [
+      "Boston Celtics",
       "Heavy metal",
-      "Hevi Metal"
+      "Glastonbury"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -2700,10 +2878,11 @@
     "topic": "FilmGlazba",
     "question": "Kako se zove popularni TV serijal o učitelju kemije koji postaje proizvođač metamfetamina?",
     "answers": [
-      "Breaking Bad",
-      "Na putu prema dolje",
-      "Brejking Bed"
+      "The Sopranos",
+      "Frankenstein",
+      "Breaking Bad"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -2712,9 +2891,11 @@
     "topic": "FilmGlazba",
     "question": "Kako se zove serija smještena u fiktivnim krajolicima Westerosa, temeljena na knjigama Georgea R. R. Martina?",
     "answers": [
-      "Igra prijestolja",
-      "Game of Thrones"
+      "Harry Potter",
+      "The Big Bang Theory",
+      "Igra prijestolja"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -2723,13 +2904,11 @@
     "topic": "KnjigaSlika",
     "question": "Kako se zove tvorac lika Sherlocka Holmesa?",
     "answers": [
+      "Sylvester Stallone",
       "Arthur Conan Doyle",
-      "Artur Konan Dojl",
-      "Conan Doyle",
-      "Konan Dojl",
-      "Doyle",
-      "Dojl"
+      "Fjodor Dostojevski"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -2738,8 +2917,11 @@
     "topic": "KnjigaSlika",
     "question": "Kako se zove roman Georgea Orwella o totalitarnoj državi u kojoj je 'Veliki Brat' stalno prisutan?",
     "answers": [
-      "1984"
+      "1984",
+      "1982",
+      "1989"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -2748,9 +2930,11 @@
     "topic": "KnjigaSlika",
     "question": "U kojem se gradu nalazi svjetski poznati muzej Louvre?",
     "answers": [
+      "Kairo",
       "Pariz",
-      "Paris"
+      "Sarajevo"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -2760,8 +2944,10 @@
     "question": "Kako se zove najveći otok na svijetu koji nije kontinent?",
     "answers": [
       "Grenland",
-      "Greenland"
+      "Indija",
+      "Istanbul"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -2770,8 +2956,11 @@
     "topic": "Znanost",
     "question": "Kako se zove proces u kemiji u kojem se oksidacijski broj elementa smanjuje?",
     "answers": [
-      "Redukcija"
+      "Redukcija",
+      "Via Appia",
+      "Vodik"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -2780,10 +2969,11 @@
     "topic": "Zemljopis",
     "question": "Kako se zove čvrsto tijelo koje nastaje kristalizacijom magme u unutrašnjosti Zemlje?",
     "answers": [
+      "Plavi kit",
       "Magmatska stijena",
-      "Magmatska",
-      "Magma"
+      "Sunčevoj"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -2792,9 +2982,11 @@
     "topic": "Znanost",
     "question": "Kako se zove fizikalna veličina definirana kao rad po jedinici vremena?",
     "answers": [
+      "Karl Marx",
       "Snaga",
-      "Power"
+      "Energija"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -2803,10 +2995,11 @@
     "topic": "Znanost",
     "question": "Koja je SI jedinica za snagu?",
     "answers": [
+      "Amper",
       "Watt",
-      "Vat",
-      "W"
+      "Hertz"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -2815,8 +3008,11 @@
     "topic": "Ostalo",
     "question": "Kako se zove religijska knjiga kršćana koja se sastoji od Starog i Novog zavjeta?",
     "answers": [
+      "Kuran",
+      "Postanak",
       "Biblija"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -2825,10 +3021,11 @@
     "topic": "Ostalo",
     "question": "Kako se zove sveta knjiga Islama?",
     "answers": [
-      "Kuran",
+      "Tora",
       "Kur'an",
-      "Quran"
+      "Kuran"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -2837,9 +3034,11 @@
     "topic": "Ostalo",
     "question": "Kako se zove sveta knjiga Judaizma koja obuhvaća Petoknjižje?",
     "answers": [
-      "Tora",
-      "Torah"
+      "Kur'an",
+      "Kuran",
+      "Tora"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -2848,8 +3047,11 @@
     "topic": "Povijest",
     "question": "Kako se zove grčki filozof koji je bio učitelj Aleksandra Makedonskog?",
     "answers": [
-      "Aristotel"
+      "Dioniz",
+      "Aristotel",
+      "Posejdon"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -2858,14 +3060,11 @@
     "topic": "Znanost",
     "question": "Kako se zove matematički broj približno jednak 3,14159?",
     "answers": [
-      "Pi",
-      "π",
-      "Pi broj",
-      "Ludolfov",
-      "Ludolfov broj",
-      "Pi br",
-      "Ludolfov br"
+      "Koka",
+      "Pas",
+      "Pi"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -2875,8 +3074,10 @@
     "question": "Kako se zove vrsta rečenice koja završava upitnikom?",
     "answers": [
       "Upitna rečenica",
-      "upitna"
+      "Teorija evolucije",
+      "Lirika"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -2885,10 +3086,11 @@
     "topic": "Znanost",
     "question": "Koji je matematički pojam definiran kao razlika između najveće i najmanje vrijednosti skupa podataka?",
     "answers": [
+      "Ćudi",
       "Raspon",
-      "Range",
-      "Rendž"
+      "Komunizam"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -2897,10 +3099,11 @@
     "topic": "KnjigaSlika",
     "question": "Kako se zove književna vrsta u stihovima koja najčešće izražava osjećaje i raspoloženja?",
     "answers": [
-      "Lirika",
-      "Lirička pjesma",
-      "Lirička"
+      "Tragedija",
+      "Satira",
+      "Lirika"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -2910,9 +3113,10 @@
     "question": "Kako se zove književna vrsta u kojoj se u središtu radnje nalazi junak u sukobu s društvom ili sudbinom, najčešće s tragičnim završetkom?",
     "answers": [
       "Tragedija",
-      "Tragedy",
-      "Tradžedi"
+      "Henrik IV.",
+      "Zoologija"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -2921,8 +3125,11 @@
     "topic": "Ostalo",
     "question": "Ako pričamo o 4 nebeske kineske životinje, spomenuti ćemo Tigra, Zmaja, Pticu i koga još?",
     "answers": [
+      "Zoologija",
+      "George Orwell",
       "Kornjaču"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -2931,8 +3138,11 @@
     "topic": "KnjigaSlika",
     "question": "Kako se zove književna vrsta koja izruguje društvene pojave, često kroz komiku?",
     "answers": [
-      "Satira"
+      "Satira",
+      "Lirika",
+      "Tragedija"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -2941,9 +3151,11 @@
     "topic": "KnjigaSlika",
     "question": "Kako se zove poznati roman J. R. R. Tolkiena o hobitu koji nosi Prsten moći?",
     "answers": [
+      "Sto godina samoće",
       "Gospodar prstenova",
-      "Lord of the Rings"
+      "Zločin i kazna"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -2952,10 +3164,11 @@
     "topic": "FilmGlazba",
     "question": "Kako se zove škola čarobnjaštva koju pohađa Harry Potter?",
     "answers": [
+      "Tukidid",
       "Hogwarts",
-      "Hogvarts",
-      "Hogwarts School"
+      "Horacije"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -2965,12 +3178,10 @@
     "question": "Kako se zove serija o znanstveniku s visokim IQ-om po imenu Sheldon Cooper?",
     "answers": [
       "The Big Bang Theory",
-      "Teorija velikog praska",
-      "Big Bang",
-      "Big Beng",
-      "Veliki Prasak",
-      "Velikog Praska"
+      "Harry Potter",
+      "Frankenstein"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -2979,10 +3190,11 @@
     "topic": "FilmGlazba",
     "question": "Kako se zove nagrada Američke filmske akademije za najbolji film godine?",
     "answers": [
-      "Oscar",
-      "Oscars",
-      "Oskar"
+      "Tony",
+      "Grammy",
+      "Oscar"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -2991,12 +3203,11 @@
     "topic": "Sport",
     "question": "Kako se zove najpoznatija europska nogometna klupska liga koju organizira UEFA?",
     "answers": [
-      "Liga prvaka",
-      "UEFA Champions League",
-      "Champions League",
-      "Liga Šampiona",
-      "Čempions Lig"
+      "Francuska",
+      "Volkswagen",
+      "Liga prvaka"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3005,9 +3216,11 @@
     "topic": "Sport",
     "question": "Kako se zove najpoznatiji automobilistički sportski ciklus utrka s bolidima s jednim sjedalom?",
     "answers": [
-      "Formula 1",
-      "F1"
+      "Mačevanje",
+      "Francuska",
+      "Formula 1"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3016,9 +3229,11 @@
     "topic": "Sport",
     "question": "Kako se zove najpoznatija biciklistička utrka koja se održava u Francuskoj?",
     "answers": [
-      "Tour de France",
-      "Tur de franc"
+      "Glastonbury",
+      "Pikes Peak",
+      "Tour de France"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3027,8 +3242,11 @@
     "topic": "Sport",
     "question": "Koji klub je poznat pod nadimkom 'Stara dama'?",
     "answers": [
-      "Juventus"
+      "Hajduk",
+      "Juventus",
+      "Boston Celtics"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -3037,9 +3255,11 @@
     "topic": "Sport",
     "question": "Koji je proslavljeni hrvatski košarkaš nosio nadimak 'Košarkaši Mozart'?",
     "answers": [
+      "Miroslav Krleža",
       "Dražen Petrović",
-      "Petrović"
+      "Franjo Tuđman"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -3048,9 +3268,11 @@
     "topic": "Sport",
     "question": "Kako se zove hrvatski nogometni izbornik koji je vodio reprezentaciju do srebra na SP 2018. i bronce na SP 2022.?",
     "answers": [
-      "Zlatko Dalić",
-      "Dalić"
+      "Luka Modrić",
+      "Hajduk",
+      "Zlatko Dalić"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3059,9 +3281,11 @@
     "topic": "Sport",
     "question": "Koji se hrvatski nogometaš proslavio kao kapetan reprezentacije na SP-u 2018. i osvajanjem Zlatne lopte iste godine?",
     "answers": [
+      "Flavijevci",
       "Luka Modrić",
-      "Modrić"
+      "Teodozije I"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -3071,8 +3295,10 @@
     "question": "Kako se zove pojam u fizici koji opisuje maksimalnu brzinu širenja elektromagnetskih valova u svemiru?",
     "answers": [
       "Brzina svjetlosti",
-      "Speed of light"
+      "Inflacija",
+      "Difrakcija"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -3081,9 +3307,11 @@
     "topic": "Znanost",
     "question": "Kako se zove matematički skup brojeva koji uključuje i realne i imaginarne brojeve?",
     "answers": [
-      "Kompleksni brojevi",
-      "Kompleksni"
+      "Raspon",
+      "Krivulja",
+      "Kompleksni brojevi"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3093,10 +3321,10 @@
     "question": "Koju vrijednost ima Konjukcija ako su obje varijable istinite?",
     "answers": [
       "1",
-      "Jedan",
-      "One",
-      "I"
+      "3",
+      "0"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -3106,9 +3334,10 @@
     "question": "Kako se na engleskom jeziku kaže poslovica 'Bolje spriječiti nego liječiti'?",
     "answers": [
       "Prevention is better than cure",
-      "Better save than cure",
-      "Beter sejv dan kjur"
+      "Bolje spriječiti nego liječiti",
+      "Ništa"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -3117,9 +3346,11 @@
     "topic": "KnjigaSlika",
     "question": "Koji je latinski izraz za 'sve prolazi'?",
     "answers": [
-      "Omnia transit",
-      "Omnia transeunt"
+      "Zlato",
+      "Cogito ergo sum",
+      "Omnia transit"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3129,8 +3360,10 @@
     "question": "Koji je latinski izraz za 'Mislim, dakle jesam'?",
     "answers": [
       "Cogito ergo sum",
-      "Kogito ergo sum"
+      "Omnia transit",
+      "René Descartes"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -3139,9 +3372,11 @@
     "topic": "KnjigaSlika",
     "question": "Kako se zove francuski izraz za 'ljubav prema životu' koji se često koristi u umjetnosti?",
     "answers": [
-      "Joie de vivre",
-      "Žoi de vivre"
+      "Omnia transit",
+      "Refuge",
+      "Joie de vivre"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3150,10 +3385,11 @@
     "topic": "Zemljopis",
     "question": "Kako se zove glavni grad Rusije?",
     "answers": [
-      "Moskva",
-      "Moscow",
-      "Moskov"
+      "Ottawa",
+      "Ankara",
+      "Moskva"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3162,8 +3398,11 @@
     "topic": "Znanost",
     "question": "Koja grana biologije proučava funkcije živih organizama, organa, tkiva, stanica i molekula?",
     "answers": [
-      "Fiziologija"
+      "Botanika",
+      "Fiziologija",
+      "Zoologija"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -3172,11 +3411,11 @@
     "topic": "KnjigaSlika",
     "question": "Koji je službeni jezik u Brazilu?",
     "answers": [
-      "Portugalski",
-      "Portugalski jezik",
-      "Portuguese",
-      "Portugiz"
+      "Ban Jelačić",
+      "Sublimacija",
+      "Portugalski"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3185,10 +3424,11 @@
     "topic": "Povijest",
     "question": "Zbog kojeg su ženskog imena grci zaratili sa Trojom?",
     "answers": [
-      "Helena",
-      "Helene",
-      "Helenom"
+      "Dehidracija",
+      "Marko Aurelije",
+      "Helena"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3197,8 +3437,11 @@
     "topic": "Znanost",
     "question": "U Međunarodnom sustavu jedinica, koja se mjera koristi za količinu tvari?",
     "answers": [
-      "Mol"
+      "Hertz",
+      "Mol",
+      "Amper"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -3208,9 +3451,10 @@
     "question": "Kako se zove poznati francuski vojskovođa koji se proglasio carem početkom 19. stoljeća?",
     "answers": [
       "Napoleon Bonaparte",
-      "Napoleon",
-      "Napoleon 1."
+      "Konstantin Veliki",
+      "William Shakespeare"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -3219,12 +3463,11 @@
     "topic": "Povijest",
     "question": "Koje je skupno ime za niz oružanih sukoba u kojima je sudjelovao Napoleon protiv koalicije europskih sila (1799.–1815.)?",
     "answers": [
-      "Napoleonski ratovi",
-      "Napoleonovi ratovi",
-      "Napoleonski",
-      "Napoleonovi",
-      "Napoleons"
+      "Sylvester Stallone",
+      "Gospodar prstenova",
+      "Napoleonski ratovi"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3234,11 +3477,10 @@
     "question": "Kako se zove poznata bitka iz 1815. u kojoj je Napoleon konačno poražen?",
     "answers": [
       "Bitka kod Waterlooa",
-      "Waterloo",
-      "Vaterlo",
-      "Vaterloa",
-      "Waterlooa"
+      "William Shakespeare",
+      "Bitka kod Kurska"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -3247,9 +3489,11 @@
     "topic": "Sport",
     "question": "Do kojeg se planinskog vrha u Saveznoj državi Colorado vozi poznata brdska utrka u automobilizmu koja nosi kraticu PPIHC?",
     "answers": [
+      "Luj XIV.",
       "Pikes Peak",
-      "Pajks Pik"
+      "Država SHS"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -3258,10 +3502,11 @@
     "topic": "Sport",
     "question": "Kako se zove poznati rally vozač iz Finske, višestruki svjetski prvak u WRC-u iz '86 i '87 te '91 i '93?",
     "answers": [
+      "Helsinki",
       "Juha Kankkunen",
-      "Kankkunen",
-      "Kankunen"
+      "Bayern München"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -3270,9 +3515,11 @@
     "topic": "KnjigaSlika",
     "question": "Kako počinje čuveni monolog iz Shakespeareove tragedije Hamlet koji završava s '..., pitanje je sad.'?",
     "answers": [
-      "Biti ili ne biti",
-      "To be or not to be"
+      "Ramazanski bajram",
+      "Upitna rečenica",
+      "Biti ili ne biti"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3281,9 +3528,11 @@
     "topic": "KnjigaSlika",
     "question": "U kojem je romanu glavni lik kapetan Ahab opsjednut lovom na jednog kita?",
     "answers": [
-      "Moby Dick",
-      "Mobi dik"
+      "Frankenstein",
+      "Ivo Andrić",
+      "Moby Dick"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3292,9 +3541,11 @@
     "topic": "Znanost",
     "question": "Kako se zove matematički pojam za neprekidnu liniju koja spaja beskonačno mnogo točaka bez samopresijecanja i često se koristi za prikaz funkcije?",
     "answers": [
+      "Dihotomija",
       "Krivulja",
-      "Funkcijska krivulja"
+      "Raspon"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -3304,8 +3555,10 @@
     "question": "Kako se kaže za broj koji je djeljiv samo s 1 i samim sobom?",
     "answers": [
       "Prost broj",
-      "Prosti"
+      "Pitagorin poučak",
+      "Redukcija"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -3314,10 +3567,11 @@
     "topic": "Znanost",
     "question": "Kako se zove najpoznatiji algoritam za pronalazak najkraćeg puta u grafu koji je osmislio nizozemski informatičar Edsger Dijkstra?",
     "answers": [
+      "Napoleon Bonaparte",
       "Dijkstrin algoritam",
-      "Dijkstra",
-      "Dijkstrin"
+      "William Shakespeare"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -3326,8 +3580,11 @@
     "topic": "Znanost",
     "question": "Kako se zove prva faza diobe jezgre tjelesnih stanica, koja slijedi nakon interfaze?",
     "answers": [
-      "Mitoza"
+      "Citokineza",
+      "Mitoza",
+      "Ararat"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -3336,8 +3593,11 @@
     "topic": "Znanost",
     "question": "Kako se zove podjela stanice u kojoj nastaju spolne stanice s polovičnim brojem kromosoma?",
     "answers": [
-      "Mejoza"
+      "Jezgra",
+      "Mejoza",
+      "Vodik"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -3346,11 +3606,11 @@
     "topic": "Ostalo",
     "question": "Koja je službena valuta u Švicarskoj?",
     "answers": [
-      "Švicarski franak",
-      "Franak",
-      "CHF",
-      "Frank"
+      "Napoleon Bonaparte",
+      "Konstantin Veliki",
+      "Švicarski franak"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3359,12 +3619,11 @@
     "topic": "Ostalo",
     "question": "Koja je službena valuta u Japanu?",
     "answers": [
-      "Jen",
-      "Yen",
-      "Japanski Jen",
-      "Japanski Yen",
-      "JPY"
+      "Euro",
+      "Ohm",
+      "Jen"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3374,10 +3633,10 @@
     "question": "Kako se zove poznati američki pisac znanstvene fantastike autor romana '1984' i 'Životinjska farma'?",
     "answers": [
       "George Orwell",
-      "Orwell",
-      "Gorg Orvel",
-      "Orvel"
+      "Meša Selimović",
+      "Ivo Andrić"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -3386,8 +3645,11 @@
     "topic": "KnjigaSlika",
     "question": "Kako se zove termin u književnosti za skrivenu poruku ili značenje ispod površinske radnje djela?",
     "answers": [
-      "Alegorija"
+      "Alegorija",
+      "Integracija",
+      "Simfonija"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -3396,8 +3658,11 @@
     "topic": "KnjigaSlika",
     "question": "Kako se naziva umjetnički stil u kojem se naglašava osjećaj, fantazija i subjektivnost, karakterističan za 19. stoljeće?",
     "answers": [
-      "Romantizam"
+      "Romantizam",
+      "Henrik IV.",
+      "Lord Acton"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -3406,8 +3671,11 @@
     "topic": "Povijest",
     "question": "Koje je godine izbio Prvi svjetski rat?",
     "answers": [
+      "1889",
+      "1917",
       "1914"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3416,8 +3684,11 @@
     "topic": "Povijest",
     "question": "Koje je godine završio Prvi svjetski rat?",
     "answers": [
-      "1918"
+      "1918",
+      "1915",
+      "1916"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -3426,8 +3697,11 @@
     "topic": "Povijest",
     "question": "Koje je godine završio Drugi svjetski rat?",
     "answers": [
-      "1945"
+      "1895",
+      "1945",
+      "1950"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -3436,10 +3710,11 @@
     "topic": "Povijest",
     "question": "Koje kodno ime je dano savezničkom iskrcavanju vojske u Normandiji 6. lipnja 1944.?",
     "answers": [
-      "Dan D",
-      "D Dan",
-      "D-Day"
+      "Bono Vox",
+      "Babilon",
+      "Dan D"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3448,11 +3723,11 @@
     "topic": "Ostalo",
     "question": "Koji je američki predsjednik potpisao sporazum u Daytonu kojim je okončan rat u BiH?",
     "answers": [
-      "Bill Clinton",
-      "Clinton",
-      "Bil Klinton",
-      "Klinton"
+      "Abraham Lincoln",
+      "Richard Nixon",
+      "Bill Clinton"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3461,13 +3736,11 @@
     "topic": "Povijest",
     "question": "Kako se zove sporazum kojim je 1995. godine formalno završen rat u Bosni i Hercegovini?",
     "answers": [
+      "Konstantin Veliki",
       "Daytonski sporazum",
-      "Dayton",
-      "Dejtonski sporazum",
-      "Dejton",
-      "Dejtonski",
-      "Daytonski"
+      "Nikijin mir"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -3476,8 +3749,11 @@
     "topic": "Zemljopis",
     "question": "Kako se zove rijeka koja, prije no što se ulije u Savu, teče kroz Žepče, Zenicu i Doboj?",
     "answers": [
-      "Bosna"
+      "Ganges",
+      "Bosna",
+      "Volga"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -3486,8 +3762,11 @@
     "topic": "Zemljopis",
     "question": "Kako se zove glavni grad Španjolske?",
     "answers": [
-      "Madrid"
+      "Ankara",
+      "Madrid",
+      "Moskva"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -3496,9 +3775,11 @@
     "topic": "Zemljopis",
     "question": "Kako se zove glavni grad Portugala?",
     "answers": [
+      "Varšava",
       "Lisabon",
-      "Lisbon"
+      "Beograd"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -3508,9 +3789,10 @@
     "question": "Kako se zove sport u kojem se natjecatelji bore u ringu koristeći udarce rukama sa specijalnim rukavicama?",
     "answers": [
       "Boks",
-      "Boxing",
-      "Boksing"
+      "Golf",
+      "Mačevanje"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -3519,8 +3801,11 @@
     "topic": "Sport",
     "question": "Kako se zove olimpijski sport u kojem se koriste sablja ili floret?",
     "answers": [
+      "Golf",
+      "Boks",
       "Mačevanje"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3529,8 +3814,11 @@
     "topic": "Sport",
     "question": "Koji je sport poznat po izrazima kao što su birdie, eagle i bogey?",
     "answers": [
+      "Boks",
+      "Mačevanje",
       "Golf"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3539,9 +3827,11 @@
     "topic": "Sport",
     "question": "Kako se zove sport u kojem jedna momčad kližući po ledu pokušava ubaciti pak u protivnički gol?",
     "answers": [
+      "Boston Celtics",
       "Hokej na ledu",
-      "Hokej"
+      "Bayern München"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -3551,10 +3841,10 @@
     "question": "Kako se zove popularna serija o mafijaškom bossu iz New Jerseyja, Tonyju Sopranu?",
     "answers": [
       "The Sopranos",
-      "Sopranos",
-      "Obitelj Soprano",
-      "Soprano"
+      "Harry Potter",
+      "The Big Bang Theory"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -3564,8 +3854,10 @@
     "question": "Kako se zove serija o kriminalističkom odjelu u Miamiju gdje je glavni lik forenzičar i serijski ubojica?",
     "answers": [
       "Dexter",
-      "Dekster"
+      "William Shakespeare",
+      "Harry Potter"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -3574,9 +3866,11 @@
     "topic": "FilmGlazba",
     "question": "Kako se zove američka televizijska serija koju su zajedno osmislili i režirali Larry David i Jerry Seinfeld?",
     "answers": [
+      "Madonna",
       "Seinfeld",
-      "Seinfild"
+      "Grammy"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -3585,10 +3879,11 @@
     "topic": "FilmGlazba",
     "question": "Koja je zemlja rodno mjesto grupe ABBA?",
     "answers": [
-      "Švedska",
-      "Sweden",
-      "Sviden"
+      "Arhimed",
+      "John F. Kennedy",
+      "Švedska"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3597,12 +3892,11 @@
     "topic": "FilmGlazba",
     "question": "Kako se zove nagrada za najbolji album godine koju dodjeljuje američka glazbena akademija?",
     "answers": [
-      "Grammy",
-      "Gremi",
-      "Grammy Award",
-      "Grammys",
-      "Gremis"
+      "Emmy",
+      "Oscar",
+      "Grammy"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3611,12 +3905,11 @@
     "topic": "FilmGlazba",
     "question": "Kako se zove nagrada koja se dodjeljuje za odličja u televizijskoj industriji u SAD-u?",
     "answers": [
-      "Emmy",
-      "Emi",
-      "Emmy Award",
-      "Emmys",
-      "Emis"
+      "Grammy",
+      "Tony",
+      "Emmy"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3626,11 +3919,10 @@
     "question": "Kako se zove nagrada za kazališna postignuća na Broadwayu?",
     "answers": [
       "Tony",
-      "Toni",
-      "Tony Award",
-      "Tonis",
-      "Tonnys"
+      "Oscar",
+      "Emmy"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -3639,10 +3931,11 @@
     "topic": "Ostalo",
     "question": "Kako se zove zbirka himana, zahvala i molbi upućenih Bogu u stihovima u obliku knjige koja je sastavni dio Biblije?",
     "answers": [
+      "Dexter",
       "Psalmi",
-      "Knjiga psalama",
-      "Psalama"
+      "Damiano David"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -3651,11 +3944,11 @@
     "topic": "Ostalo",
     "question": "Kako se zove poznata biblijska knjiga koja opisuje apokaliptične vizije i kraj vremena?",
     "answers": [
-      "Otkrivenje",
-      "Apokalipsa",
-      "Knjiga Otkrivenja",
-      "Otkrivenja"
+      "Kornjaču",
+      "George Orwell",
+      "Otkrivenje"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3665,11 +3958,10 @@
     "question": "Kako se zove poznata teorija u biologiji koja objašnjava razvoj vrsta putem prirodne selekcije?",
     "answers": [
       "Teorija evolucije",
-      "Evolucija",
-      "Darwinova teorija",
-      "Evolution",
-      "Evolušn"
+      "Zoologija",
+      "Tragedija"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -3678,11 +3970,11 @@
     "topic": "Znanost",
     "question": "Kako se zove britanski prirodoslovac koji je formulirao teoriju prirodne selekcije tj. evolucije?",
     "answers": [
-      "Charles Darwin",
-      "Čarls Darvin",
-      "Darwin",
-      "Darvin"
+      "Ian Fleming",
+      "Albert Einstein",
+      "Charles Darwin"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3692,8 +3984,10 @@
     "question": "Kako se zove pojava kada se svjetlosna zraka lomi pri prolasku kroz različite optičke gustoće i zbog toga nam se čini da je štap u vodi slomljen?",
     "answers": [
       "Refrakcija",
-      "Lom svjetlosti"
+      "Satira",
+      "Henrik IV."
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -3702,10 +3996,11 @@
     "topic": "Znanost",
     "question": "Kako se zove pojava širenja valova kao svjetlosti ili zvuka, pri prolasku kroz uski otvor ili oko prepreke?",
     "answers": [
+      "Fotosinteza",
       "Difrakcija",
-      "Ogib svjetlosti",
-      "Ogib"
+      "Refrakcija"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -3714,10 +4009,11 @@
     "topic": "Znanost",
     "question": "Kako se zove mjerna jedinica za tlak koja iznosi jedan Newtona po kvadratnom metru?",
     "answers": [
-      "Pascal",
-      "Paskal",
-      "Pa"
+      "Lord Acton",
+      "Luj XIV.",
+      "Pascal"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3726,9 +4022,11 @@
     "topic": "Znanost",
     "question": "Kako se zove teorija u matematici koja se bavi vjerojatnostima i slučajnim događajima?",
     "answers": [
+      "Kardiologija",
       "Teorija vjerojatnosti",
-      "Vjerojatnosti"
+      "Teorija evolucije"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -3737,9 +4035,11 @@
     "topic": "Znanost",
     "question": "Kako se zove matematička konstanta koja opisuje omjer opsega kruga i njegova promjera?",
     "answers": [
-      "Pi",
-      "π"
+      "Otkrivenje",
+      "Inflacija",
+      "Pi"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3748,8 +4048,11 @@
     "topic": "Znanost",
     "question": "Kako se zove hipotetska čestica koja se u kvantnoj kromodinamici smatra nositeljem jake nuklearne sile?",
     "answers": [
-      "Gluon"
+      "Olimp",
+      "Gluon",
+      "Sedimentacija"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -3758,10 +4061,11 @@
     "topic": "Znanost",
     "question": "Kako se zove pojam u kvantnoj mehanici za sustav u kojem su dvije čestice povezane na način da mjerenje jedne trenutačno utječe na stanje druge?",
     "answers": [
-      "Spregnutost",
-      "Kvantna spregnutost",
-      "Entanglement"
+      "Socijalizam",
+      "Demokracija",
+      "Spregnutost"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3770,10 +4074,11 @@
     "topic": "Znanost",
     "question": "Kako se zove poznati misaoni eksperiment o mački koja je istovremeno živa i mrtva dok ne otvorimo kutiju?",
     "answers": [
-      "Schrodingerova mačka",
-      "Šrodingerova mačka",
-      "Schrodinger's cat"
+      "Zenonov paradoks",
+      "Billie Jean King",
+      "Schrodingerova mačka"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3782,8 +4087,11 @@
     "topic": "Ostalo",
     "question": "Kako se zove pojam iz ekonomije koji opisuje opći rast cijena u gospodarstvu?",
     "answers": [
+      "Dihotomija",
+      "Otkrivenje",
       "Inflacija"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3792,10 +4100,11 @@
     "topic": "Sport",
     "question": "Kako se zove auto-moto utrka izdržljivosti koja traje 24 sata i vozi se u Francuskoj?",
     "answers": [
-      "24 sata Le Mansa",
-      "Le Mans",
-      "24h Le Mans"
+      "Velika nagrada Monaka",
+      "Tour de France",
+      "24 sata Le Mansa"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3805,8 +4114,10 @@
     "question": "Koji je glavni grad Kanade?",
     "answers": [
       "Ottawa",
-      "Otava"
+      "Moskva",
+      "Zagreb"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -3815,9 +4126,11 @@
     "topic": "Zemljopis",
     "question": "Koja se država prostire po kontinentima Europi i Aziji, a ima glavni grad Moskvu?",
     "answers": [
-      "Rusija",
-      "Russia"
+      "Madrid",
+      "Argentina",
+      "Rusija"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3826,10 +4139,11 @@
     "topic": "Zemljopis",
     "question": "Koji je glavni grad Poljske?",
     "answers": [
-      "Varšava",
-      "Warszawa",
-      "Warsaw"
+      "Beograd",
+      "Lisabon",
+      "Varšava"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3838,8 +4152,11 @@
     "topic": "Zemljopis",
     "question": "Koji je glavni grad Nizozemske?",
     "answers": [
-      "Amsterdam"
+      "Amsterdam",
+      "Ljubljana",
+      "Stockholm"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -3848,8 +4165,11 @@
     "topic": "Zemljopis",
     "question": "Koji je glavni grad Norveške?",
     "answers": [
-      "Oslo"
+      "Atena",
+      "Oslo",
+      "Kairo"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -3859,9 +4179,10 @@
     "question": "Kako se zove najveće jezero u Italiji, ujedno i 34. po veličini u Europi?",
     "answers": [
       "Jezero Garda",
-      "Lago di Garda",
-      "Garda"
+      "Vransko",
+      "Volga"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -3870,12 +4191,11 @@
     "topic": "Zemljopis",
     "question": "Kako se zove najviši vrh svih alpskih planina?",
     "answers": [
-      "Mont Blanc",
-      "Monblan",
-      "Mont Blan",
-      "Blanc",
-      "Blan"
+      "Ararat",
+      "Kilimandžaro",
+      "Mont Blanc"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3884,8 +4204,11 @@
     "topic": "Zemljopis",
     "question": "Koja je najduža rijeka u Europi?",
     "answers": [
+      "Sava",
+      "Nil",
       "Volga"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3895,8 +4218,10 @@
     "question": "Koji je glavni grad Švedske?",
     "answers": [
       "Stockholm",
-      "Štokholm"
+      "Amsterdam",
+      "Ljubljana"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -3905,8 +4230,11 @@
     "topic": "Zemljopis",
     "question": "Koji je glavni grad Finske?",
     "answers": [
-      "Helsinki"
+      "Helsinki",
+      "Santiago",
+      "Canberra"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -3915,9 +4243,11 @@
     "topic": "Zemljopis",
     "question": "Koji je glavni grad Grčke?",
     "answers": [
-      "Atena",
-      "Athens"
+      "Kairo",
+      "Tokio",
+      "Atena"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3927,9 +4257,10 @@
     "question": "Prema kineskoj predaji, kojeg se vladara smatra da je vladao od 2697. pr. Kr. do 2597. pr. Kr. za kojeg se vjeruje da je izumitelj kompasa, kalendara i pisanja?",
     "answers": [
       "Žuti Car",
-      "Žutog Cara",
-      "Huangdi"
+      "Monarhija",
+      "Ganges"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -3938,9 +4269,11 @@
     "topic": "Zemljopis",
     "question": "Koji je glavni grad Irske?",
     "answers": [
+      "Zagreb",
       "Dublin",
-      "Dablin"
+      "Ottawa"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -3949,8 +4282,11 @@
     "topic": "Zemljopis",
     "question": "Kako se zove pustinja koja pokriva veći dio sjeverne Afrike?",
     "answers": [
+      "Antarktika",
+      "Dinastija Qin",
       "Sahara"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3959,9 +4295,11 @@
     "topic": "Zemljopis",
     "question": "Koja planina je najviši vrh Afrike?",
     "answers": [
+      "Mont Blanc",
       "Kilimandžaro",
-      "Kilimanjaro"
+      "Mount Everest"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -3970,8 +4308,11 @@
     "topic": "Zemljopis",
     "question": "Kako se zove poznato svjetsko čudo u Jordanu, grad uklesan u stijenu?",
     "answers": [
-      "Petra"
+      "Tokio",
+      "Petra",
+      "Kairo"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -3980,9 +4321,11 @@
     "topic": "Zemljopis",
     "question": "Kako se zove drevni grad u današnjem Iraku, čije ime dolazi iz hebrjeske riječi 'Bābel'?",
     "answers": [
+      "Beograd",
       "Babilon",
-      "Babylon"
+      "Lisabon"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -3991,9 +4334,11 @@
     "topic": "Zemljopis",
     "question": "Koja se rijeka smatra svetom u hinduizmu i protječe kroz Indiju?",
     "answers": [
+      "Volga",
       "Ganges",
-      "Ganga"
+      "Bosna"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -4002,8 +4347,11 @@
     "topic": "Zemljopis",
     "question": "Koji je najveći grad u Turskoj po broju stanovnika, iako nije glavni grad?",
     "answers": [
-      "Istanbul"
+      "Helsinki",
+      "Istanbul",
+      "Santiago"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -4013,8 +4361,10 @@
     "question": "Kako se zove planina na kojoj se, prema Bibliji, Noina arka zaustavila nakon potopa?",
     "answers": [
       "Ararat",
-      "Planina Ararat"
+      "Mont Blanc",
+      "Kilimandžaro"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -4023,9 +4373,11 @@
     "topic": "Ostalo",
     "question": "Kako se zove grčki bog podzemlja?",
     "answers": [
+      "Arhimed",
       "Had",
-      "Hades"
+      "Moć"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -4034,9 +4386,11 @@
     "topic": "Ostalo",
     "question": "Kako se zove grčka božica mudrosti i ratne taktike?",
     "answers": [
-      "Atena",
-      "Athena"
+      "Kocka",
+      "Horus",
+      "Atena"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4045,10 +4399,11 @@
     "topic": "Ostalo",
     "question": "Kako se zove grčki bog vina i zabave?",
     "answers": [
-      "Dioniz",
-      "Dionysos",
-      "Dionysus"
+      "Posejdon",
+      "Had",
+      "Dioniz"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4058,8 +4413,10 @@
     "question": "Kako se zove nordijski bog groma?",
     "answers": [
       "Thor",
-      "Tor"
+      "Had",
+      "Mars"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -4069,8 +4426,10 @@
     "question": "Kako se zove nordijska zmija-čudovište koja obuhvaća svijet i neprijatelj je boga Thora?",
     "answers": [
       "Jormungand",
-      "Jormungandr"
+      "Freja",
+      "Frankenstein"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -4079,8 +4438,11 @@
     "topic": "Ostalo",
     "question": "Kako se zove drevni egipatski bog s glavom sokola, bog neba i kraljevske moći?",
     "answers": [
+      "Tvrtko I",
+      "Luj XIV.",
       "Horus"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4089,9 +4451,11 @@
     "topic": "Ostalo",
     "question": "Kako se zove egipatska božica plodnosti, majčinstva i magije, supruga Ozirisa?",
     "answers": [
-      "Izida",
-      "Isis"
+      "Atena",
+      "Freja",
+      "Izida"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4100,8 +4464,11 @@
     "topic": "Ostalo",
     "question": "Kako se zove egipatski bog sa glavom šakala, zaštitnik balzamiranja i zagrobnog života?",
     "answers": [
+      "Horus",
+      "Dioniz",
       "Anubis"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4110,8 +4477,11 @@
     "topic": "Ostalo",
     "question": "Kako se nazivaju velike monumentalne grobnice faraona u Egiptu trokutastog oblika?",
     "answers": [
-      "Piramide"
+      "Tvrtko I",
+      "Piramide",
+      "Franklin D. Roosevelt"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -4120,11 +4490,11 @@
     "topic": "Povijest",
     "question": "Koje ime nosi kineska dinastija koja je izgradila veći dio Kineskog zida i prva uvela carsku titulu 'Huangdi'?",
     "answers": [
+      "Katon Stariji",
       "Dinastija Qin",
-      "Qin",
-      "Quin",
-      "Kvin"
+      "Teodozije I"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -4133,9 +4503,11 @@
     "topic": "Ostalo",
     "question": "Kako se zove kineski filozof čija učenja čine temelj konfucijanizma?",
     "answers": [
+      "Platon",
       "Konfucije",
-      "Confucius"
+      "Aristotel"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -4144,11 +4516,11 @@
     "topic": "Ostalo",
     "question": "Kako se zove sveti grad budizma u kojem je Buda navodno doživio prosvjetljenje?",
     "answers": [
-      "Bodh Gaya",
-      "Bodhgaya",
-      "Bodigaja",
-      "Bodi Gaja"
+      "Meka",
+      "Jeruzalem",
+      "Bodh Gaya"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4158,9 +4530,10 @@
     "question": "Koji je sveti grad islama u kojem se nalazi Kaaba/Ćaba?",
     "answers": [
       "Meka",
-      "Mecca",
-      "Mekka"
+      "Jeruzalem",
+      "Kairo"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -4169,9 +4542,11 @@
     "topic": "Ostalo",
     "question": "Koji je sveti grad kršćanstva i judaizma u kojem se nalazi Bazilika Svetog Groba i Zid plača?",
     "answers": [
-      "Jeruzalem",
-      "Jerusalem"
+      "Cape Town",
+      "Dinastija Qin",
+      "Jeruzalem"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4180,9 +4555,11 @@
     "topic": "Ostalo",
     "question": "Ako bi upitali američku novinarku Mignon McLaughlin o ljubavi, rekla bi da je jedan plus jedan beskonačno, a dva minus jedan koliko?",
     "answers": [
+      "Ćudi",
       "Nula",
-      "0"
+      "Dvije"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -4192,10 +4569,10 @@
     "question": "Kako se zove najpoznatiji američki burzovni indeks koji sadrži 30 velikih industrijskih dionica?",
     "answers": [
       "Dow Jones",
-      "Dov Džons",
-      "Dow Jones Industrial Average",
-      "DJIA"
+      "Richard Nixon",
+      "Bill Clinton"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -4204,10 +4581,11 @@
     "topic": "Ostalo",
     "question": "Kako se zove najveća burza dionica po tržišnoj kapitalizaciji u SAD-u smještena u New Yorku?",
     "answers": [
-      "NYSE",
-      "New York Stock Exchange",
-      "Nju Jork Stok Eksčendž"
+      "Emmy",
+      "Jupiter",
+      "NYSE"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4216,8 +4594,11 @@
     "topic": "Ostalo",
     "question": "Koje se gorivo, dobiveno iz fosilnih izvora, najčešće koristi u automobilima s unutarnjim izgaranjem?",
     "answers": [
-      "Benzin"
+      "Benzin",
+      "Hertz",
+      "Dihotomija"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -4226,8 +4607,11 @@
     "topic": "Znanost",
     "question": "Koji je kemijski simbol za srebro?",
     "answers": [
+      "Na",
+      "Fe",
       "Ag"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4236,8 +4620,11 @@
     "topic": "Znanost",
     "question": "Koji je kemijski simbol za kalij?",
     "answers": [
-      "K"
+      "K",
+      "O",
+      "H"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -4247,8 +4634,10 @@
     "question": "Kako se punim imenom i prezimenom zove glavni lik serije 'House M.D.' koji je genijalan, ali ciničan liječnik?",
     "answers": [
       "Gregory House",
-      "Gregori Haus"
+      "Moby Dick",
+      "Dexter"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -4257,11 +4646,11 @@
     "topic": "FilmGlazba",
     "question": "Kako se zove serija o FBI agentima Foxu Mulderu i Danu Scully-u koji istražuju neobjašnjive fenomene?",
     "answers": [
-      "X Files",
-      "X-Files",
-      "The X-Files",
-      "Dosjei X"
+      "Dexter",
+      "Simpsoni",
+      "X Files"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4271,8 +4660,10 @@
     "question": "Kako se zove animirana serija o obitelji iz Springfieda čiji je otac Homer?",
     "answers": [
       "Simpsoni",
-      "The Simpsons"
+      "Herodot",
+      "Harry Potter"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -4282,8 +4673,10 @@
     "question": "Kako se zove animirana serija o dječaku genijalcu s velikom glavom i laboratorijem u svojoj sobi?",
     "answers": [
       "Dexterov laboratorij",
-      "Dexter's Laboratory"
+      "William Shakespeare",
+      "Harry Potter"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -4293,9 +4686,10 @@
     "question": "Koji je američki glumac utjelovio lik Rockyja Balboe u filmskom serijalu 'Rocky'?",
     "answers": [
       "Sylvester Stallone",
-      "Silvestar Stalone",
-      "Stallone"
+      "Harrison Ford",
+      "Quentin Tarantino"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -4305,9 +4699,10 @@
     "question": "Kako se zove glumac koji je utjelovio originalnog Indianu Jonesa?",
     "answers": [
       "Harrison Ford",
-      "Harison Ford",
-      "Ford"
+      "Jim Parsons",
+      "Sylvester Stallone"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -4316,11 +4711,11 @@
     "topic": "FilmGlazba",
     "question": "Kako se zove filmska franšiza o hakeru Neo i borbi protiv strojeva u simuliranoj stvarnosti?",
     "answers": [
-      "Matrix",
-      "Matriks",
-      "The Matrix",
-      "Matriks"
+      "Oscar",
+      "Quentin Tarantino",
+      "Matrix"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4330,9 +4725,10 @@
     "question": "Koji je redatelj snimio filmove 'Pulp Fiction' i 'Kill Bill'?",
     "answers": [
       "Quentin Tarantino",
-      "Kventin Tarantino",
-      "Tarantino"
+      "Sylvester Stallone",
+      "Fjodor Dostojevski"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -4342,10 +4738,10 @@
     "question": "Koji je redatelj snimio trilogiju 'Gospodar prstenova'?",
     "answers": [
       "Peter Jackson",
-      "Piter Džekson",
-      "Jackson",
-      "Džekson"
+      "Quentin Tarantino",
+      "Damiano David"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -4355,10 +4751,10 @@
     "question": "Koje umjetničko ime nosi pjevač grupe U2?",
     "answers": [
       "Bono Vox",
-      "Bono",
-      "Bono Voks",
-      "Bono Voks"
+      "Olimpijada",
+      "Dinastija Qin"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -4367,11 +4763,11 @@
     "topic": "FilmGlazba",
     "question": "Kako se zove legendarna britanska rock grupa čiji su članovi Mick Jagger i Keith Richards?",
     "answers": [
+      "Queen",
       "The Rolling Stones",
-      "Rolling Stones",
-      "Roling Stons",
-      "Roling Stons"
+      "Liverpool"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -4381,22 +4777,23 @@
     "question": "Kako se zove glazbeni festival koji se svake godine održava u blizini malog mjesta Piltona u Engleskoj?",
     "answers": [
       "Glastonbury",
-      "Glastonburi",
-      "Glastonbury Festival"
+      "Francuska",
+      "Ukrajina"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
     "type": "blitz",
     "difficulty": 4,
-    "topic": "FilmGlazba", 
+    "topic": "FilmGlazba",
     "question": "Kako se zove najpoznatiji jazz saksofonist koji je snimio album 'A Love Supreme'?",
     "answers": [
       "John Coltrane",
-      "Džon Koltren",
-      "Coltrane",
-      "Koltren"
+      "Grammy",
+      "Madonna"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -4405,9 +4802,11 @@
     "topic": "FilmGlazba",
     "question": "Kako se zove američka pjevačica poznata po albumu 'Like a Virgin'?",
     "answers": [
-      "Madonna",
-      "Madona"
+      "Psalmi",
+      "Grammy",
+      "Madonna"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4417,8 +4816,10 @@
     "question": "Kako se zove hrvatski festival zabavne glazbe koji se tradicionalno održava u Splitu?",
     "answers": [
       "Splitski festival",
-      "Splitski"
+      "Tour de France",
+      "Glastonbury"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -4427,9 +4828,11 @@
     "topic": "FilmGlazba",
     "question": "Kako se zove pjesma s kojom je ABBA pobijedila na Euroviziji 1974. godine?",
     "answers": [
-      "Waterloo",
-      "Vaterlo"
+      "Grammy",
+      "Notre Dame",
+      "Waterloo"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4438,11 +4841,11 @@
     "topic": "Zemljopis",
     "question": "Koji je glavni grad Meksika?",
     "answers": [
+      "Buenos Aires",
       "Ciudad de México",
-      "Mexico City",
-      "Siudad de Meksiko",
-      "Meksiko Siti"
+      "Amsterdam"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -4451,8 +4854,11 @@
     "topic": "Zemljopis",
     "question": "Koji je glavni grad Argentine?",
     "answers": [
-      "Buenos Aires"
+      "Buenos Aires",
+      "Stockholm",
+      "Ljubljana"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -4462,8 +4868,10 @@
     "question": "Koji je glavni grad Čilea?",
     "answers": [
       "Santiago",
-      "Santiago de Chile"
+      "Canberra",
+      "Helsinki"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -4473,8 +4881,10 @@
     "question": "Koji je glavni grad Južnoafričke Republike? (dovoljno je navesti jedan od službenih)",
     "answers": [
       "Cape Town",
-      "Kejp Tovn"
+      "Dinastija Qin",
+      "Jeruzalem"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -4483,20 +4893,24 @@
     "topic": "FloraFauna",
     "question": "Kako se zove morska životinja koja može mijenjati boju kože i ima osam krakova?",
     "answers": [
+      "Pas",
+      "Koka",
       "Hobotnica"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
     "type": "blitz",
     "difficulty": 3,
-    "topic": "FloraFauna", 
+    "topic": "FloraFauna",
     "question": "Kako se naziva najveći kopneni mesožder na svijetu?",
     "answers": [
       "Polarni medvjed",
-      "Polar bear",
-      "Polar ber"
+      "Indija",
+      "Grenland"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -4505,9 +4919,11 @@
     "topic": "Ostalo",
     "question": "Kako se zove brzina iznad koje se let zrakoplova smatra nadzvučnim?",
     "answers": [
-      "Nadzvučna brzina",
-      "Nadzvučna"
+      "Žuti Car",
+      "Ganges",
+      "Nadzvučna brzina"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4516,12 +4932,11 @@
     "topic": "Znanost",
     "question": "Kako se naziva visokoenergetska svemirska pojava koja nastaje kolapsom masivne zvijezde ili sudarom neutronskih zvijezda?",
     "answers": [
-      "Gamma bljesak",
-      "Gama bljesak",
-      "Gamma-ray",
-      "GRB",
-      "Gama Rej"
+      "Breaking Bad",
+      "Katon Stariji",
+      "Gamma bljesak"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4530,8 +4945,11 @@
     "topic": "Ostalo",
     "question": "Koja galaksija je udaljena 2,5 milijuna svjetlosnih godina od nas",
     "answers": [
-      "Andromeda"
+      "Sunčevoj",
+      "Andromeda",
+      "Nikad"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -4540,8 +4958,11 @@
     "topic": "Znanost",
     "question": "Kako se naziva pojava zakrivljenja prostor-vremena uzrokovana masom i energijom, prema općoj teoriji relativnosti?",
     "answers": [
-      "Gravitacija"
+      "Gravitacija",
+      "Albert Einstein",
+      "Jim Parsons"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -4550,11 +4971,11 @@
     "topic": "Ostalo",
     "question": "Kako se naziva područje oko crne rupe iz kojeg više ništa, pa ni svjetlost, ne može pobjeći?",
     "answers": [
+      "Franklin Delano Roosevelt",
       "Horizont događaja",
-      "Događajni obzor",
-      "Obzor događaja",
-      "Event Horizont"
+      "Michael Jordan"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -4563,19 +4984,24 @@
     "topic": "Ostalo",
     "question": "Koji planet se zbog gustog oblaka CO2 i efekta staklenika smatra najtoplijim u Sunčevu sustavu?",
     "answers": [
+      "Mars",
       "Venera",
-      "Venus"
+      "Jupiter"
     ],
+    "correctAnswer": "B",
     "image": null
   },
-    {
+  {
     "type": "blitz",
     "difficulty": 5,
     "topic": "Znanost",
     "question": "Koji pojam opisuje podjelu cjeline na dva međusobno isključiva dijela, a najčešće se koristi u logici, filozofiji, botanici i lingvistici?",
     "answers": [
-      "Dihotomija"
+      "Dihotomija",
+      "Inflacija",
+      "Benzin"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -4584,8 +5010,11 @@
     "topic": "Ostalo",
     "question": "Koji planet je poznat po svojim prstenovima građenim od leda i stijena?",
     "answers": [
-      "Saturn"
+      "Venera",
+      "Saturn",
+      "Jupiter"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -4594,8 +5023,11 @@
     "topic": "Ostalo",
     "question": "Koji planet ima najviše potvrđenih prirodnih satelita u Sunčevu sustavu?",
     "answers": [
+      "Venera",
+      "Mars",
       "Jupiter"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4604,8 +5036,11 @@
     "topic": "Znanost",
     "question": "Kako se zove geometrijsko tijelo koje ima šest kvadratnih strana?",
     "answers": [
+      "Atila",
+      "Atena",
       "Kocka"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4614,9 +5049,11 @@
     "topic": "Znanost",
     "question": "Kako se naziva poligonalni oblik s osam stranica?",
     "answers": [
+      "Tukidid",
       "Oktogon",
-      "Osmerokut"
+      "Simfonija"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -4625,9 +5062,11 @@
     "topic": "Znanost",
     "question": "Kako se naziva matematička funkcija koja je inverzna prirodnom logaritmu?",
     "answers": [
-      "Eksponencijalna funkcija",
-      "Eksponencijalna"
+      "The Dark Side of the Moon",
+      "Franklin Delano Roosevelt",
+      "Eksponencijalna funkcija"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4636,8 +5075,11 @@
     "topic": "Znanost",
     "question": "Kako se naziva operacija računanja površine ispod krivulje?",
     "answers": [
-      "Integracija"
+      "Operacija Barbarossa",
+      "Integracija",
+      "Derivacija"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -4646,8 +5088,11 @@
     "topic": "Znanost",
     "question": "Kako se naziva operacija računanja brzine promjene funkcije u jednoj točki?",
     "answers": [
+      "Integracija",
+      "Operacija Barbarossa",
       "Derivacija"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4656,8 +5101,11 @@
     "topic": "Znanost",
     "question": "Koja znanost sustavno proučava i istražuje stare materijalne ostatke s ciljem rekonstrukcije cjelokupnog života čovječanstva?",
     "answers": [
+      "Epigrafika",
+      "Paleontologija",
       "Arheologija"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4666,8 +5114,11 @@
     "topic": "FloraFauna",
     "question": "Kako se naziva grana biologije koja proučava životinje?",
     "answers": [
-      "Zoologija"
+      "Zoologija",
+      "Fiziologija",
+      "Botanika"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -4676,8 +5127,11 @@
     "topic": "FloraFauna",
     "question": "Kako se naziva grana biologije koja proučava biljke?",
     "answers": [
+      "Zoologija",
+      "Fiziologija",
       "Botanika"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4686,8 +5140,11 @@
     "topic": "Znanost",
     "question": "Kako se naziva nauka o građi i funkciji ljudskog tijela?",
     "answers": [
-      "Anatomija"
+      "Anatomija",
+      "Saturn",
+      "Frankenstein"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -4696,8 +5153,11 @@
     "topic": "Znanost",
     "question": "Kako se naziva medicinska specijalnost koja se bavi bolestima srca i krvnih žila?",
     "answers": [
-      "Kardiologija"
+      "Kardiologija",
+      "Ontologija",
+      "Aorta"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -4706,8 +5166,11 @@
     "topic": "Znanost",
     "question": "Kako se zove krvna žila koja odvodi krv iz srca prema tijelu?",
     "answers": [
+      "Jetra",
+      "Kardiologija",
       "Aorta"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4716,9 +5179,11 @@
     "topic": "Znanost",
     "question": "Kako se naziva organ u kojem se probavljaju ugljikohidrati, bjelančevine i masti, a koji proizvodi inzulin?",
     "answers": [
+      "Kleopatra",
       "Gušterača",
-      "Pankreas"
+      "Geologija"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -4727,8 +5192,11 @@
     "topic": "Znanost",
     "question": "Kako se naziva organ u kojem se vrši filtracija krvi i nastaje mokraća?",
     "answers": [
-      "Bubreg"
+      "Bubreg",
+      "Gušterača",
+      "Jetra"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -4737,13 +5205,11 @@
     "topic": "FloraFauna",
     "question": "Koji napitak dobijemo od prženih i mljevenih zrna biljke koja dolazi iz porodice broćevki?",
     "answers": [
+      "Botanika",
       "Kava",
-      "Kavu",
-      "Kafu",
-      "Kafa",
-      "Coffee",
-      "Kofi"
+      "Papirus"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -4752,9 +5218,11 @@
     "topic": "Ostalo",
     "question": "Kako se zove francuski desert od jaja, mlijeka, šećera i karamele, poznat po glatkoj teksturi?",
     "answers": [
+      "Napoleon Bonaparte",
       "Creme brulee",
-      "Krem Brule"
+      "Joie de vivre"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -4763,9 +5231,11 @@
     "topic": "Ostalo",
     "question": "Kako se zove tradicionalno talijansko jelo od tankog tijesta, rajčice, sira i raznih dodataka?",
     "answers": [
-      "Pizza",
-      "Pica"
+      "Sushi",
+      "Taco",
+      "Pizza"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4775,8 +5245,10 @@
     "question": "Kako se zove tradicionalno japansko jelo od riže, sirove ribe i algi?",
     "answers": [
       "Sushi",
-      "Suši"
+      "Konju",
+      "Glave"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -4786,10 +5258,10 @@
     "question": "Kako se zove popularno meksičko jelo od tortilje punjene mesom, povrćem i umakom?",
     "answers": [
       "Taco",
-      "Tacos",
-      "Tako",
-      "Takos"
+      "Pizza",
+      "Sushi"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -4798,9 +5270,11 @@
     "topic": "KnjigaSlika",
     "question": "Kako se naziva serija knjiga o dječaku čarobnjaku koje je napisala J. K. Rowling?",
     "answers": [
-      "Harry Potter",
-      "Heri Poter"
+      "Dexter",
+      "William Shakespeare",
+      "Harry Potter"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4809,8 +5283,11 @@
     "topic": "KnjigaSlika",
     "question": "Kako se naziva roman Lava Nikolajeviča Tolstoja koji opisuje život ruskog plemstva u vrijeme Napoleonovih ratova?",
     "answers": [
-      "Rat i mir"
+      "Harry Potter",
+      "Rat i mir",
+      "Herodot"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -4819,8 +5296,11 @@
     "topic": "KnjigaSlika",
     "question": "Kako se naziva roman Fjodora Dostojevskog o studentu Raskoljnikovu koji počini ubojstvo iz ideje o nadčovjeku?",
     "answers": [
-      "Zločin i kazna"
+      "Sto godina samoće",
+      "Zločin i kazna",
+      "Gospodar prstenova"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -4829,8 +5309,11 @@
     "topic": "KnjigaSlika",
     "question": "Kako se naziva roman Gabriela Garcíje Márqueza kojim je populariziran pojam magičnog realizma?",
     "answers": [
+      "Zločin i kazna",
+      "Gospodar prstenova",
       "Sto godina samoće"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4839,20 +5322,24 @@
     "topic": "KnjigaSlika",
     "question": "Kako se zove britanski pisac koji je stvorio lik Jamesa Bonda?",
     "answers": [
-      "Ian Fleming",
-      "Fleming"
+      "Meša Selimović",
+      "George Orwell",
+      "Ian Fleming"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
     "type": "blitz",
     "difficulty": 4,
-    "topic": "KnjigaSlika", 
+    "topic": "KnjigaSlika",
     "question": "Kako se zove roman Mary Shelley o znanstveniku koji stvara čudovište od dijelova ljudskih tijela?",
     "answers": [
+      "George Orwell",
       "Frankenstein",
-      "Frankenštajn"
+      "Meša Selimović"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -4862,11 +5349,10 @@
     "question": "Koji je američki predsjednik poznat po frazi 'Ask not what your country can do for you'?",
     "answers": [
       "John F. Kennedy",
-      "Džon Kenedi",
-      "Kennedy",
-      "Kenedi",
-      "JFK"
+      "Richard Nixon",
+      "Abraham Lincoln"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -4875,9 +5361,11 @@
     "topic": "Ostalo",
     "question": "Koji je američki predsjednik bio ujedno i glavni zapovjednik snaga Unije tijekom Američkog građanskog rata?",
     "answers": [
+      "Ronald Reagan",
       "Abraham Lincoln",
-      "Lincoln"
+      "Franklin Delano Roosevelt"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -4886,11 +5374,11 @@
     "topic": "Ostalo",
     "question": "Koji je američki predsjednik jedini obnašao dužnost više od dva mandata?",
     "answers": [
-      "Franklin Delano Roosevelt",
-      "Franklin Roosevelt",
-      "Frenklin Ruzvelt",
-      "Ruzvelt"
+      "Abraham Lincoln",
+      "Richard Nixon",
+      "Franklin Delano Roosevelt"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4899,11 +5387,11 @@
     "topic": "Ostalo",
     "question": "Koji se američki predsjednik suočio s aferom Watergate i dao ostavku?",
     "answers": [
-      "Richard Nixon",
-      "Ričard Nikson",
-      "Nixon",
-      "Nikson"
+      "Abraham Lincoln",
+      "Bill Clinton",
+      "Richard Nixon"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4912,8 +5400,11 @@
     "topic": "Ostalo",
     "question": "Kako se naziva politički sustav u kojem je sva vlast u rukama jednog vladara koji tu vlast nasljeđuje?",
     "answers": [
-      "Monarhija"
+      "Demokracija",
+      "Monarhija",
+      "Moby Dick"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -4922,8 +5413,11 @@
     "topic": "Ostalo",
     "question": "Kako se naziva politički sustav u kojem vlast proizlazi iz naroda putem izbora i predstavnika?",
     "answers": [
+      "Judaizam",
+      "Monarhija",
       "Demokracija"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4932,8 +5426,11 @@
     "topic": "Ostalo",
     "question": "Kako se naziva sustav u kojem država posjeduje sredstva za proizvodnju, a cilj je društvena jednakost?",
     "answers": [
+      "Argentina",
+      "Francuska",
       "Socijalizam"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4942,8 +5439,11 @@
     "topic": "Ostalo",
     "question": "Kako se naziva ideologija koja zagovara ukidanje privatnog vlasništva i klasnih razlika?",
     "answers": [
-      "Komunizam"
+      "Komunizam",
+      "Fašizam",
+      "Raspon"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -4952,8 +5452,11 @@
     "topic": "Ostalo",
     "question": "Kako se naziva ideologija koja zagovara ekstremni nacionalizam i autoritarnu vlast, često uz kult vođe?",
     "answers": [
-      "Fašizam"
+      "Fašizam",
+      "George Orwell",
+      "Ivo Andrić"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -4963,12 +5466,10 @@
     "question": "Koji se rat naziva i 'Veliki rat' i odvijao se od 1914. do 1918.?",
     "answers": [
       "Prvi svjetski rat",
-      "Prvi svjetski",
-      "1. svjetski",
-      "1. svjetski rat",
-      "WW1",
-      "WW 1"
+      "Tukidid",
+      "Antun Mihanović"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -4977,13 +5478,11 @@
     "topic": "Povijest",
     "question": "Koji se rat odvijao između 1939. i 1945. i uključivao većinu svjetskih sila?",
     "answers": [
-      "Drugi svjetski rat",
-      "Drugi svjetski",
-      "2. svjetski",
-      "2. svjetski rat",
-      "WW2",
-      "WW 2"
+      "Prvi svjetski rat",
+      "Peloponeski rat",
+      "Drugi svjetski rat"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4992,9 +5491,11 @@
     "topic": "Povijest",
     "question": "Kako se zvala operacija Trećeg Reicha s invazijom na SSSR 1941. godine?",
     "answers": [
-      "Operacija Barbarossa",
-      "Barbarossa"
+      "Notre Dame",
+      "Waterloo",
+      "Operacija Barbarossa"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -5003,9 +5504,11 @@
     "topic": "Povijest",
     "question": "Kako se zove najveća tenkovska bitka u povijesti, vođena 1943. između njemačkih i sovjetskih snaga?",
     "answers": [
+      "Novak Đoković",
       "Bitka kod Kurska",
-      "Kursk"
+      "Bitka kod Waterlooa"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -5015,9 +5518,10 @@
     "question": "Kako se naziva razdoblje napetosti između SAD-a i SSSR-a nakon Drugog svjetskog rata bez direktnog velikog vojnog sukoba?",
     "answers": [
       "Hladni rat",
-      "Cold War",
-      "Cold Var"
+      "Franklin Delano Roosevelt",
+      "Pax Romana"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -5026,12 +5530,11 @@
     "topic": "Ostalo",
     "question": "Kako se naziva vojni savez kojeg su 1949. osnovale zapadne države uključujući SAD, Kanadu i zapadnoeuropske zemlje?",
     "answers": [
-      "NATO",
-      "Sjevernoatlantski savez",
-      "Sjevernoatlantski",
-      "Northatlantic",
-      "Nortatlantik"
+      "Moć",
+      "Platon",
+      "NATO"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -5041,8 +5544,10 @@
     "question": "Kako se zvao komunistički vojno-politički savez istočnoeuropskih država na čelu sa SSSR-om osnovan 1955.?",
     "answers": [
       "Varšavski pakt",
-      "Warszawski pakt"
+      "Argentina",
+      "Socijalizam"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -5051,9 +5556,11 @@
     "topic": "Zemljopis",
     "question": "Kako se zove poznati grad na obali Nila u kojem se nalazi Keopsova piramida?",
     "answers": [
-      "Kairo",
-      "Cairo"
+      "Atena",
+      "Meka",
+      "Kairo"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -5063,10 +5570,10 @@
     "question": "Kako se naziva združena država Slovenaca, Hrvata i Srba osnovana 1918. prije preimenovanja u Kraljevinu Jugoslaviju?",
     "answers": [
       "Država SHS",
-      "Država Slovenaca, Hrvata i Srba",
-      "SHS",
-      "Kraljevina SHS"
+      "Katon Stariji",
+      "Luj XIV."
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -5076,10 +5583,10 @@
     "question": "Kako se zove poznati hrvatski ban iz 19. stoljeća koji je provodio ilirski pokret i uveo hrvatski jezik kao službeni?",
     "answers": [
       "Ban Jelačić",
-      "Ban Josip Jelačić",
-      "Josip Jelačić",
-      "Jelačić"
+      "Franjo Tuđman",
+      "Antun Mihanović"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -5088,9 +5595,11 @@
     "topic": "KnjigaSlika",
     "question": "Kako se zove veliki hrvatski pjesnik i pisac, autor 'Horvatske domovine' iz 19. stoljeća?",
     "answers": [
-      "Antun Mihanović",
-      "Mihanović"
+      "Franjo Tuđman",
+      "Meša Selimović",
+      "Antun Mihanović"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -5100,9 +5609,10 @@
     "question": "Kako se zove poznati bosanskohercegovački pjesnik i pisac, autor romana 'Derviš i smrt'?",
     "answers": [
       "Meša Selimović",
-      "Mehmed Meša Selimović",
-      "Selimović"
+      "George Orwell",
+      "Fjodor Dostojevski"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -5111,8 +5621,11 @@
     "topic": "KnjigaSlika",
     "question": "Kako se naziva tradicionalna pjesnička forma iz japanske književnosti s 5-7-5 slogova?",
     "answers": [
-      "Haiku"
+      "Haiku",
+      "Alegorija",
+      "Opereta"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -5122,10 +5635,10 @@
     "question": "Kako se naziva najviši rang engleskog nogometa koji je osnovan 1992.?",
     "answers": [
       "Premier League",
-      "Premjer Lig",
-      "Premiership",
-      "Premjeršip"
+      "Kilimandžaro",
+      "Mount Everest"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -5134,10 +5647,11 @@
     "topic": "Sport",
     "question": "Koji je klub iz Münchena višestruki prvak Njemačke i osvajač Lige prvaka?",
     "answers": [
-      "Bayern München",
-      "Bayern Munich",
-      "Bayern"
+      "Boston Celtics",
+      "Juventus",
+      "Bayern München"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -5146,9 +5660,11 @@
     "topic": "Sport",
     "question": "Kako se naziva utrka Formule 1 koja se vozi ulicama Monte Carla?",
     "answers": [
+      "Napoleon Bonaparte",
       "Velika nagrada Monaka",
-      "Monaco Grand Prix"
+      "William Shakespeare"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -5158,8 +5674,10 @@
     "question": "Kako se naziva talijanska staza Formule 1 poznata kao 'Hram brzine'?",
     "answers": [
       "Monza",
-      "Autodromo Nazionale Monza"
+      "Snaga",
+      "Golf"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -5168,20 +5686,24 @@
     "topic": "Sport",
     "question": "Kako se naziva popularni reli koji se vozi po snijegu i ledu u Švedskoj?",
     "answers": [
+      "Velika nagrada Monaka",
       "Rally Sweden",
-      "Švedski reli"
+      "Breaking Bad"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
     "type": "blitz",
     "difficulty": 3,
-    "topic": "Ostalo", 
+    "topic": "Ostalo",
     "question": "Koji je njemački proizvođač automobila poznat po modelima 911 i Cayenne?",
     "answers": [
+      "Audi",
       "Porsche",
-      "Porše"
+      "Volkswagen"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -5190,8 +5712,11 @@
     "topic": "Ostalo",
     "question": "Koji njemački proizvođač automobila ima slogan 'Vorsprung durch Technik'?",
     "answers": [
-      "Audi"
+      "Porsche",
+      "Audi",
+      "Volkswagen"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -5200,10 +5725,11 @@
     "topic": "Ostalo",
     "question": "Koji proizvođač automobila stoji iza modela Golf, Passat i Polo?",
     "answers": [
+      "Francuska",
       "Volkswagen",
-      "VW",
-      "Wv"
+      "Mačevanje"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -5212,9 +5738,11 @@
     "topic": "Ostalo",
     "question": "Kako se naziva mjera ubrzanja koja se često koristi u auto-moto svijetu, izmjerena kao omjer sile i mase?",
     "answers": [
-      "G sila",
-      "G force"
+      "Ohm",
+      "Mol",
+      "G sila"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -5223,11 +5751,11 @@
     "topic": "Ostalo",
     "question": "Koji je američki brend motocikala kultan među bikerima, poznat po modelu Sportster?",
     "answers": [
-      "Harley Davidson",
-      "Harli Dejvidson",
-      "Harley",
-      "Harli"
+      "Boston Celtics",
+      "Bayern München",
+      "Harley Davidson"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -5236,10 +5764,11 @@
     "topic": "Ostalo",
     "question": "Kako se naziva zaštitna metalna konstrukcija u utrkama koja štiti vozača pri prevrtanju vozila?",
     "answers": [
-      "Roll cage",
-      "Zaštitni kavez",
-      "Rol Kejdž"
+      "Difrakcija",
+      "Fotosinteza",
+      "Roll cage"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -5248,8 +5777,11 @@
     "topic": "Ostalo",
     "question": "Nije 'što? sve što sja.",
     "answers": [
+      "Grenland",
+      "Sja",
       "Zlato"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -5258,8 +5790,11 @@
     "topic": "Ostalo",
     "question": "Kako glasi izreka koja kaže da je bolje djelovati odmah nego kasnije rješavati posljedice?",
     "answers": [
-      "Bolje spriječiti nego liječiti"
+      "Bolje spriječiti nego liječiti",
+      "Billie Jean King",
+      "Herodot"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -5268,15 +5803,11 @@
     "topic": "Ostalo",
     "question": "U kojoj se poslanici Korinćanima nalazi poznati citat o ljubavi 'Ljubav je strpljiva, ljubav je dobrostiva'?",
     "answers": [
+      "Pariz",
       "Prvoj",
-      "1.",
-      "U prvoj",
-      "U 1.",
-      "U prvoj poslanici",
-      "1st",
-      "First",
-      "Frst"
+      "Freja"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -5285,8 +5816,11 @@
     "topic": "Ostalo",
     "question": "Kako se naziva misaoni eksperiment filozofa Zenaona o strijeli koja nikada ne stiže do cilja?",
     "answers": [
+      "Schrodingerova mačka",
+      "Friedricha Nietzschea",
       "Zenonov paradoks"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -5295,8 +5829,11 @@
     "topic": "Ostalo",
     "question": "Kako se naziva teorija etike koja tvrdi da je moralno ono što donosi najveću sreću najvećem broju ljudi?",
     "answers": [
+      "Winston Churchill",
+      "Istanbul",
       "Utilitarizam"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -5305,8 +5842,11 @@
     "topic": "Znanost",
     "question": "Kako se naziva filozofska metoda koja putem pitanja i odgovora iz sugovornika izvlači 'pravu istinu'?",
     "answers": [
+      "William Shakespeare",
+      "Demokracija",
       "Majeutika"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -5315,8 +5855,11 @@
     "topic": "Znanost",
     "question": "Kako se naziva ogranak filozofije koji se bavi pitanjima lijepog, umjetnosti i ukusa?",
     "answers": [
-      "Estetika"
+      "Kardiologija",
+      "Estetika",
+      "Ontologija"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -5325,8 +5868,11 @@
     "topic": "Znanost",
     "question": "Kako se naziva znanost o ispravnom zaključivanju?",
     "answers": [
-      "Logika"
+      "Logika",
+      "Genetika",
+      "Paleontologija"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -5335,8 +5881,11 @@
     "topic": "Znanost",
     "question": "Kako se naziva područje filozofije koje se bavi pitanjima postojanja, bića i stvarnosti?",
     "answers": [
+      "Estetika",
+      "Kardiologija",
       "Ontologija"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -5345,8 +5894,11 @@
     "topic": "Znanost",
     "question": "Kako se naziva znanstvena disciplina koja proučava strukturu, povijest i procese na Zemljinoj kori?",
     "answers": [
-      "Geologija"
+      "Geologija",
+      "Država SHS",
+      "Pikes Peak"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -5355,8 +5907,11 @@
     "topic": "Znanost",
     "question": "Kako se naziva znanstvena disciplina koja proučava atmosferu i vremenske prilike?",
     "answers": [
+      "Botanika",
+      "Zoologija",
       "Meteorologija"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -5365,13 +5920,11 @@
     "topic": "Znanost",
     "question": "Kako se naziva skala koja mjeri jačinu potresa prema štetama na objektima i percepciji ljudi?",
     "answers": [
+      "Richterova ljestvica",
       "Mercallijeva ljestvica",
-      "Marcelijeva ljestvica",
-      "Marcelijeva",
-      "Mercalli",
-      "Merkelijeva",
-      "Merkeli"
+      "Seizmograf"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -5380,11 +5933,11 @@
     "topic": "Znanost",
     "question": "Kako se zove skala koja mjeri magnitudu potresa na temelju oslobođene energije?",
     "answers": [
+      "Seizmograf",
       "Richterova ljestvica",
-      "Rihterova ljestvica",
-      "Richterova",
-      "Rihterova"
+      "Mercallijeva ljestvica"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -5393,8 +5946,11 @@
     "topic": "Znanost",
     "question": "Kako se zove instrument kojim se mjeri jačina potresa?",
     "answers": [
-      "Seizmograf"
+      "Barometar",
+      "Seizmograf",
+      "Pulsmetar"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -5403,18 +5959,24 @@
     "topic": "Zemljopis",
     "question": "Kako se naziva linija koja spaja mjesta s istom nadmorskom visinom na karti?",
     "answers": [
-      "Izohipsa"
+      "Izohipsa",
+      "Izoterma",
+      "Izobara"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
     "type": "blitz",
     "difficulty": 3,
-    "topic": "Zemljopis", 
+    "topic": "Zemljopis",
     "question": "Kako se naziva linija koja spaja mjesta s istim tlakom na karti?",
     "answers": [
-      "Izobara"
+      "Izobara",
+      "Izoterma",
+      "Izohipsa"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -5423,8 +5985,11 @@
     "topic": "Zemljopis",
     "question": "Kako se naziva linija koja spaja mjesta s jednakom temperaturom na karti?",
     "answers": [
-      "Izoterma"
+      "Izobara",
+      "Izoterma",
+      "Izohipsa"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -5433,8 +5998,11 @@
     "topic": "Zemljopis",
     "question": "Kako se naziva umjetnost pravljenja karata na kojima možemo pronaći razne toponime?",
     "answers": [
-      "Kartografija"
+      "Bill Clinton",
+      "Kartografija",
+      "Čovječanstvo"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -5443,8 +6011,11 @@
     "topic": "Zemljopis",
     "question": "Kako se naziva kut između sjevera i smjera kretanja, mjeri se u stupnjevima?",
     "answers": [
-      "Azimut"
+      "Azimut",
+      "Barometar",
+      "Seizmograf"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -5453,8 +6024,11 @@
     "topic": "Zemljopis",
     "question": "Kako se naziva instrument koji se koristi za utvrđivanje smjera prema magnetskom sjeveru?",
     "answers": [
+      "Barometar",
+      "Hertz",
       "Kompas"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -5463,8 +6037,11 @@
     "topic": "Ostalo",
     "question": "Kako se naziva aparatić koji mjeri broj otkucaja srca, često korišten u sportu?",
     "answers": [
-      "Pulsmetar"
+      "Hajduk",
+      "Pulsmetar",
+      "Mačevanje"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -5473,8 +6050,11 @@
     "topic": "Ostalo",
     "question": "Kako se naziva proces prilagodbe organizma na veće nadmorske visine i manjak kisika?",
     "answers": [
-      "Aklimatizacija"
+      "Aklimatizacija",
+      "Isparavanje",
+      "Sedimentacija"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -5483,11 +6063,11 @@
     "topic": "Ostalo",
     "question": "Kako se naziva stanje organizma uslijed gubitka tekućine i elektrolita zbog znojenja i nedostatka vode?",
     "answers": [
-      "Dehidracija",
-      "Dehidriranost",
-      "Dehydration",
-      "Dehidrejšn"
+      "Helena",
+      "Teodozije I",
+      "Dehidracija"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -5496,8 +6076,11 @@
     "topic": "Ostalo",
     "question": "Kako se naziva opasnost u planini kada se velika masa snijega odvoji i sklizne niz padinu?",
     "answers": [
+      "Pejzaž",
+      "Katon Stariji",
       "Lavina"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -5506,10 +6089,11 @@
     "topic": "Ostalo",
     "question": "Koji se talijanski izraz koristi za planinarski dom ili sklonište u Alpama?",
     "answers": [
-      "Refuge",
-      "Refugio",
-      "Refuđio"
+      "Sahara",
+      "Lavina",
+      "Refuge"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -5518,8 +6102,11 @@
     "topic": "Ostalo",
     "question": "Kako se zove proces trošenja stijena i tla uslijed djelovanja vode, vjetra i leda?",
     "answers": [
-      "Erozija"
+      "Erozija",
+      "Koncert",
+      "Biblija"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -5528,8 +6115,11 @@
     "topic": "Ostalo",
     "question": "Kako se naziva proces taloženja čestica pod utjecajem sile kroz tekućinu?",
     "answers": [
+      "Gluon",
+      "Isparavanje",
       "Sedimentacija"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -5538,8 +6128,11 @@
     "topic": "Ostalo",
     "question": "Kako se zove monoteistička religija koju je osnovao prorok Muhamed u 7. stoljeću?",
     "answers": [
-      "Islam"
+      "Islam",
+      "Hogwarts",
+      "Atila"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -5548,9 +6141,11 @@
     "topic": "Ostalo",
     "question": "Kako se zove monoteistička religija utemeljena na Starom i Novom zavjetu?",
     "answers": [
+      "Judaizam",
       "Kršćanstvo",
-      "kršćanstvo"
+      "Islam"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -5559,8 +6154,11 @@
     "topic": "Ostalo",
     "question": "Kako se zove religija čiji su sveti tekstovi Vede i koja priznaje mnoge bogove poput Višne i Šive?",
     "answers": [
-      "Hinduizam"
+      "Bodh Gaya",
+      "Hinduizam",
+      "Judaizam"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -5569,8 +6167,11 @@
     "topic": "Ostalo",
     "question": "Kako se zove religija koju je utemeljio Siddhartha Gautama, usmjerena na put prosvjetljenja i nirvane?",
     "answers": [
-      "Budizam"
+      "Judaizam",
+      "Budizam",
+      "Islam"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -5579,8 +6180,11 @@
     "topic": "Ostalo",
     "question": "Kako se zove religija židovskog naroda utemeljena na Petoknjižju?",
     "answers": [
-      "Judaizam"
+      "Judaizam",
+      "Budizam",
+      "Kršćanstvo"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -5589,10 +6193,11 @@
     "topic": "Ostalo",
     "question": "Kako se zove pojam u kršćanstvu koji označava tri osobe u jednom Bogu: Oca, Sina i Duha Svetoga?",
     "answers": [
-      "Presveto Trojstvo",
-      "Trojstvo",
-      "Sveto Trojstvo"
+      "Spregnutost",
+      "Inflacija",
+      "Presveto Trojstvo"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -5601,10 +6206,11 @@
     "topic": "Ostalo",
     "question": "Kako se zove poznata muslimanska sveta knjiga otkrivena Muhamedu?",
     "answers": [
-      "Kur'an",
       "Kuran",
-      "Qur'an"
+      "Kur'an",
+      "Tora"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -5614,8 +6220,10 @@
     "question": "Kako se zove židovski blagdan kojim se slavi izlazak Izraelaca iz Egipta?",
     "answers": [
       "Pesah",
-      "Pasha"
+      "Uskrs",
+      "Kairo"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -5625,9 +6233,10 @@
     "question": "Kako se naziva blagdan u kršćanstvu kojim se slavi uskrsnuće Isusa Krista?",
     "answers": [
       "Uskrs",
-      "Vazam",
-      "Easter"
+      "Kurban-bajram",
+      "Pesah"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -5637,9 +6246,10 @@
     "question": "Kako se naziva blagdan u islamu kojim se završava mjesec posta ramazana?",
     "answers": [
       "Ramazanski bajram",
-      "Eid al-Fitr",
-      "Ramazan"
+      "Upitna rečenica",
+      "Kurban-bajram"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -5648,10 +6258,11 @@
     "topic": "Ostalo",
     "question": "Kako se naziva blagdan u islamu kojim se obilježava žrtva Abrahamova?",
     "answers": [
-      "Kurban-bajram",
-      "Eid al-Adha",
-      "Kurban Bajram"
+      "Uskrs",
+      "Pesah",
+      "Kurban-bajram"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -5660,11 +6271,11 @@
     "topic": "Povijest",
     "question": "Kako se zove najpoznatiji rimski put koji je povezivao Rim s jugom Italije i koji je simbol rimskog cestovnog sustava?",
     "answers": [
+      "Energija",
       "Via Appia",
-      "Apijeva cesta",
-      "Vija Apija",
-      "Via Apija"
+      "Katon Stariji"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -5673,9 +6284,11 @@
     "topic": "Povijest",
     "question": "Kako se naziva razdoblje rimskog mira od oko 27. pr. Kr. do 180. po. Kr., kada je carstvo bilo relativno stabilno?",
     "answers": [
+      "Teodozije I",
       "Pax Romana",
-      "Paks Romana"
+      "Flavijevci"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -5684,9 +6297,11 @@
     "topic": "Povijest",
     "question": "Koji je rimski car legalizirao kršćanstvo Milanskim ediktom 313. godine?",
     "answers": [
-      "Konstantin Veliki",
-      "Konstantin"
+      "Marko Aurelije",
+      "Teodozije I",
+      "Konstantin Veliki"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -5695,10 +6310,11 @@
     "topic": "Povijest",
     "question": "Koji je rimski car podijelio Carstvo na istočni i zapadni dio 395. godine?",
     "answers": [
-      "Teodozije I",
-      "Teodozije Veliki",
-      "Teodezije"
+      "Konstantin Veliki",
+      "Flavijevci",
+      "Teodozije I"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -5708,8 +6324,10 @@
     "question": "Kako se zove legendarni vođa Kartažana koji je preko Alpa doveo slonove da napadne Rim?",
     "answers": [
       "Hanibal",
-      "Hannibal"
+      "Via Appia",
+      "Atila"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -5719,18 +6337,23 @@
     "question": "Kako se zovu ratovi između Rima i Kartage vođeni od 264. do 146. pr. Kr.?",
     "answers": [
       "Punski ratovi",
-      "Punski"
+      "Peloponeski rat",
+      "Vijetnamski rat"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
     "type": "blitz",
     "difficulty": 4,
-    "topic": "Povijest", 
+    "topic": "Povijest",
     "question": "Kako se zove čovjek za kojeg se kaže da je 'otac povijesti' i koji je napisao djelo 'Povijesti'?",
     "answers": [
-      "Herodot"
+      "Herodot",
+      "Dexter",
+      "Harry Potter"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -5739,10 +6362,11 @@
     "topic": "Povijest",
     "question": "Kako se zove grčki povjesničar koji je opisao Peloponeski rat?",
     "answers": [
+      "Arhimed",
       "Tukidid",
-      "Thukydides",
-      "Thucydides"
+      "Lord Acton"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -5751,8 +6375,11 @@
     "topic": "Znanost",
     "question": "Kako se naziva znanost koja proučava stara pisma urezana u kamen, metal ili glinu?",
     "answers": [
-      "Epigrafika"
+      "Paleontologija",
+      "Epigrafika",
+      "Arheologija"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -5761,9 +6388,11 @@
     "topic": "KnjigaSlika",
     "question": "Kako se naziva papir od biljke koji su koristili stari Egipćani za pisanje?",
     "answers": [
-      "Papirus",
-      "Papyrus"
+      "Kava",
+      "Botanika",
+      "Papirus"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -5772,13 +6401,11 @@
     "topic": "KnjigaSlika",
     "question": "Kako se zove pismo koje su koristili Sumerani i drugi narodi Mezopotamije?",
     "answers": [
+      "Papirus",
       "Klinopis",
-      "Klinasto pismo",
-      "Klinovo pismo",
-      "Klinasto",
-      "Klinčano",
-      "Klinovo"
+      "Hijeroglifi"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -5787,10 +6414,11 @@
     "topic": "KnjigaSlika",
     "question": "Kako se naziva pismo starog Egipta koje se sastoji od slikovnih znakova?",
     "answers": [
+      "Teodozije I",
       "Hijeroglifi",
-      "hijeroglifsko pismo",
-      "Hierogliphes"
+      "Fiziologija"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -5799,12 +6427,11 @@
     "topic": "KnjigaSlika",
     "question": "Kako se zove ploča pronađena u Egiptu koja je pomogla u dešifriranju hijeroglifa jer ima tekst na tri pisma?",
     "answers": [
-      "Rosettski kamen",
-      "Rosetta Stone",
-      "Rosetski kamen",
-      "Rosetska",
-      "Rosettska"
+      "Presveto Trojstvo",
+      "Bitka kod Kurska",
+      "Rosettski kamen"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -5813,8 +6440,11 @@
     "topic": "FilmGlazba",
     "question": "Kako se naziva kazališna umjetnost u kojoj glumci izvode radnju uz unaprijed zapisane melodije i pjesme, često s velikim orkestrom?",
     "answers": [
-      "Opera"
+      "Opera",
+      "Psalmi",
+      "Damiano David"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -5823,8 +6453,11 @@
     "topic": "FilmGlazba",
     "question": "Kako se naziva kraća glazbena scenska forma s više govora i manje pjevanja?",
     "answers": [
-      "Opereta"
+      "Grammy",
+      "Opereta",
+      "Haiku"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -5833,8 +6466,11 @@
     "topic": "FilmGlazba",
     "question": "Kako se naziva glazbeni oblik za orkestar s više stavaka, nastao u klasicizmu, npr. djela Mozarta i Beethovena?",
     "answers": [
+      "Oktogon",
+      "Franklin Delano Roosevelt",
       "Simfonija"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -5843,8 +6479,11 @@
     "topic": "FilmGlazba",
     "question": "Kako se naziva glazbeno djelo za solistički instrument i orkestar, često u tri stavka?",
     "answers": [
-      "Koncert"
+      "Koncert",
+      "Herodot",
+      "Hamlet"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -5853,8 +6492,11 @@
     "topic": "KnjigaSlika",
     "question": "Kako se naziva slika ili skulptura koja prikazuje osobu od ramena naviše?",
     "answers": [
+      "Mona Lisa",
+      "Krik",
       "Portret"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -5863,9 +6505,11 @@
     "topic": "KnjigaSlika",
     "question": "Kako se naziva slika krajolika, najčešće prirodnog prizora poput planina, šuma ili rijeka?",
     "answers": [
+      "Ganges",
       "Pejzaž",
-      "landscape"
+      "Volga"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -5874,8 +6518,11 @@
     "topic": "Ostalo",
     "question": "Tko pod drugim jamu kopa, sam u nju.. što?",
     "answers": [
+      "Luj XIV.",
+      "Michael Jordan",
       "Upada"
     ],
+    "correctAnswer": "C",
     "image": null
   }
 ]

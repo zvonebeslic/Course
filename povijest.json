@@ -7,14 +7,10 @@
     "question": "Kod kojeg je mjesta Napoleon samo šest tjedana nakon poraza kod Aspern-Esslinga ponovno prešao Dunav i ostvario svoju posljednju veliku pobjedu nad Austrijom?",
     "answers": [
       "Wagrama",
-      "Wagram",
-      "Vagrama",
-      "Vagram",
-      "Deutsch Wagram",
-      "German Wagram",
-      "Džerman Vagram",
-      "Dojč Vagram"
+      "Marengo",
+      "Henrik V."
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -25,8 +21,10 @@
     "question": "Koje je prezime nosio njemački ministar vanjskih poslova čija je tajna poruka Meksiku nudila savez protiv SAD-a i pomoć u povratku izgubljenih teritorija poput Teksasa?",
     "answers": [
       "Zimmerman",
-      "Cimerman"
+      "Hindenburg",
+      "Wilson"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -37,16 +35,10 @@
     "question": "Koji je ugovor sklopljen 1420.g. predvidio da engleski kralj Henrik V. nakon smrti francuskog kralja Karla VI. naslijedi francusku krunu i tako otvorio mogućnost da jedan vladar zavlada objema kraljevinama?",
     "answers": [
       "Ugovor iz Troyesa",
-      "Troyes",
-      "Troyesa",
-      "Troja",
-      "Trojea",
-      "Trojaea",
-      "Trojaa",
-      "Troje",
-      "Trojes",
-      "Trojesa"
+      "Henrik V.",
+      "Eduard III."
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -57,16 +49,10 @@
     "question": "Koji je maurijski car širio budizam po indijskom poluotoku podizanjem stupova s uklesanim ediktima te slanjem misionara, među ostalim i na Šri Lanku?",
     "answers": [
       "Ašoka Veliki",
-      "Ašok Veliki",
-      "Ašoka",
-      "Ašok",
-      "Ashoka Veliki",
-      "Ashok Veliki",
-      "Ashok",
-      "Ashoka",
-      "Ashoka the Great",
-      "Ašoka d Grejt"
+      "Čandraguptu",
+      "Galipolje"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -77,16 +63,10 @@
     "question": "Koliko je kilometara grčki junak Fidipid pretrčao bez stajanja kako bi obavijestio sve u Ateni o Grčkoj vojnoj pobjedi nad Perzijcima kod Maratona?",
     "answers": [
       "42",
-      "Četrdeset i dva",
-      "Četrdeset dva",
-      "Četrstdva",
-      "Četrst dva",
-      "Fortytwo",
-      "Forty two",
-      "Fortitu",
-      "Forti tu",
-      "XLII"
+      "32",
+      "40"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -96,10 +76,11 @@
     "topic": "Povijest",
     "question": "Kod kojeg je lombardskog grada Napoleonova vojska 1796.g. izvela glasoviti napad preko uskog mosta, nakon čega je mladom zapovjedniku naglo porastao ugled diljem Europe?",
     "answers": [
-      "Lodija",
-      "Lodi",
-      "Lodis"
+      "Berezine",
+      "Kursk",
+      "Lodija"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -109,8 +90,11 @@
     "topic": "Povijest",
     "question": "Kako se zvao spartanski kralj čija je žena Helena otišla s Parisom u Troju?",
     "answers": [
-      "Menelaj"
+      "Merduk",
+      "Menelaj",
+      "David"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -120,9 +104,11 @@
     "topic": "Povijest",
     "question": "Koji je drevni grad na rijeci Eufrat bio poprište bitke iz 605.g. pr. Kr. u kojoj je Nabukodonozor II. porazio Egipat i učvrstio prevlast Babilona na Bliskom istoku?",
     "answers": [
-      "Karkemiš",
-      "Carchemish"
+      "Galipolje",
+      "Darije I. Veliki",
+      "Karkemiš"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -132,10 +118,11 @@
     "topic": "Povijest",
     "question": "Koji je vrhovni bog neba u sumerskoj mitologiji, kojeg su Sumerani smatrali ocem bogova?",
     "answers": [
-      "Anu",
-      "An",
-      "Anum"
+      "Anšar",
+      "Zemlje",
+      "Anu"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -146,14 +133,10 @@
     "question": "Lako je napisati ovo pitanje kada od malih nogu već pođemo učiti čitati i pisati, no netko je sve to, nekada davno trebao i izmisliti. Kroz stoljeća se sve usavršilo a počelo je od drevnih Sumerana. Prva slova su zapisivali u glinenim pločama a to prvo pismo u ljudskoj povijesti zovemo kako?",
     "answers": [
       "Klinasto pismo",
-      "Klinasto",
-      "Cuneiform",
-      "Kunejform",
-      "Čunejform",
-      "Klinopis",
-      "Klinovo pismo",
-      "Klinovo"
+      "Hanon Pomorac",
+      "Sumerani"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -163,15 +146,11 @@
     "topic": "Povijest",
     "question": "Koja je bitka 1453.g. pokazala rastuću moć topništva kada su Francuzi teško porazili Engleze i praktično okončali njihovu stoljetnu borbu za velike posjede u Francuskoj?",
     "answers": [
+      "Borodina",
       "Bitka kod Castillona",
-      "Bitka kod Kastiljona",
-      "Castillon",
-      "Kastiljon",
-      "Castillona",
-      "Kastiljona",
-      "Battle of Castillon",
-      "Batl of Kastiljon"
+      "Kardinal Richelieu"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -181,11 +160,11 @@
     "topic": "Povijest",
     "question": "Na kojem su turskom poluotoku Saveznici 1915.g. iskrcali desetke tisuća vojnika pokušavajući ovladati Dardanelima, otvoriti put prema Rusiji i približiti se Carigradu?",
     "answers": [
-      "Galipolje",
-      "Galipolju",
-      "Galipole",
-      "Galipol"
+      "Darije I. Veliki",
+      "Orleans",
+      "Galipolje"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -195,17 +174,11 @@
     "topic": "Povijest",
     "question": "U kojem je stoljeću počeo Stogodišnji rat?",
     "answers": [
-      "14.",
-      "Četrnaestom",
-      "Fourteenth",
-      "Fortint",
-      "14th",
-      "14om",
-      "XIV.",
-      "Četrnaest",
-      "Fourteen",
-      "Fortin"
+      "15.",
+      "SAD",
+      "14."
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -215,8 +188,11 @@
     "topic": "Povijest",
     "question": "U trojanskom ratu, kako se zvala Hektorova supruga, koja ga je molila da ne odlazi ponovno u bitku jer je strahovala da će ostati udovica?",
     "answers": [
-      "Andromaha"
+      "Ajant",
+      "Andromaha",
+      "Nizozemske"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -226,12 +202,11 @@
     "topic": "Povijest",
     "question": "Grčko -  Perzijske ratove je, nakon punih pola stoljeća borbi, okončao koji mir?",
     "answers": [
-      "Kalijin mir",
-      "Kalijin",
-      "Kalija",
-      "Mir u Kaliji",
-      "Mir Kalije"
+      "Napoleona",
+      "Kasiti",
+      "Kalijin mir"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -242,13 +217,10 @@
     "question": "Kako se zvao brat feničanina Hanibala koji je kao vojskovođa poginuo u bitci na Metauru 207.g. pr. Kr. vodeći feničke vojne snage u pomoć svom bratu koji je tada već prešao Alpe i krenuo na Rim?",
     "answers": [
       "Hasdrubal Barka",
-      "Hazdrubal Barka",
-      "Hasdrubal",
-      "Hazdrubal",
-      "Barka",
-      "Barca",
-      "Azrubal"
+      "Hamilkar Barka",
+      "Mustafa Kemal Ataturk"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -258,9 +230,11 @@
     "topic": "Povijest",
     "question": "Kako se zvala babilonska božica prvobitnog oceana i kaosa koju je prema epu Enuma Eliš porazio Marduk?",
     "answers": [
-      "Tijamat",
-      "Tiamat"
+      "Niniva",
+      "Merduk",
+      "Tijamat"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -271,9 +245,10 @@
     "question": "Po kojem je gradu ime dobila skupocjena purpurna boja koju su Feničani dobivali iz morskih puževa volaka (roda Murex) i koja je stoljećima bila simbol kraljevske vlasti?",
     "answers": [
       "Tir",
-      "Tiru",
-      "Tirs"
+      "Ypres",
+      "Xerkso"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -283,13 +258,11 @@
     "topic": "Povijest",
     "question": "U kojoj je francuskoj palači 1919.g. potpisan mirovni sporazum s Njemačkom, na istom mjestu na kojem je samo 48 godina ranije bilo proglašeno Njemačko Carstvo?",
     "answers": [
-      "Versaille",
-      "Versaj",
-      "Versailleu",
-      "Versaju",
-      "Versailleskoj",
-      "Versajskoj"
+      "Međani",
+      "Kir Veliki",
+      "Versaille"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -299,17 +272,11 @@
     "topic": "Povijest",
     "question": "Protiv kojeg su se carstva britanske, francuske, australske i novozelandske snage borile tijekom neuspješnog savezničkog pohoda na Galipolje 1915.g.?",
     "answers": [
-      "Osmanskog",
-      "Osmansko",
-      "Osmansko Carstvo",
-      "Osmanlija",
-      "Osmanlijskog",
-      "Osmanlije",
-      "Osmans",
-      "Ottomans",
-      "Ottoman Empire",
-      "Otoman Empajr"
+      "Britanskog",
+      "Austerlitza",
+      "Osmanskog"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -319,10 +286,11 @@
     "topic": "Povijest",
     "question": "Kako se zvala posljednja prijestolnica Asirskog Carstva, koju su 612.g. pr. Kr. osvojili Međani i Babilonci?",
     "answers": [
-      "Niniva",
-      "Ninive",
-      "Ninua"
+      "Pasargad",
+      "Suza",
+      "Niniva"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -332,10 +300,11 @@
     "topic": "Povijest",
     "question": "Kako se zvao glavni grad Asirskog Carstva, poznat po golemoj knjižnici kralja Ašurbanipala u kojoj je pronađen najveći dio Epa o Gilgamešu?",
     "answers": [
+      "Suza",
       "Niniva",
-      "Ninive",
-      "Ninua"
+      "Pasargad"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -346,8 +315,10 @@
     "question": "Koji je britanski lovački zrakoplov, zajedno s Hurricaneom, postao jedan od najprepoznatljivijih simbola obrane britanskog neba 1940.g.?",
     "answers": [
       "Spitfire",
-      "Spitfajer"
+      "Gdanjsk",
+      "Winston Churchill"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -357,12 +328,11 @@
     "topic": "Povijest",
     "question": "Koji je slikar naslikao dvije slike simboličnih naziva 'drugi i treći Svibnja (Maja) 1808.g.' i na njima uprizorio krvavi ustanak građana Madrida protiv Napoleonove okupacije?",
     "answers": [
+      "Liga Naroda",
       "Francisco Goya",
-      "Francisko Goja",
-      "Goya",
-      "Goja",
-      "Fransisco Goya"
+      "Ivana Orleanska"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -372,11 +342,11 @@
     "topic": "Povijest",
     "question": "Koji je babilonski kralj 1750.g. pr. Kr. izdao prvi zakonik na svijetu sačinjen od 282 zakona a među njima se nalazila i danas dobro poznata izreka 'oko za oko, zub za zub'?",
     "answers": [
+      "Nabukodonosor II.",
       "Hamurabi",
-      "Ammurapi",
-      "Hammurabi",
-      "Hammurapi"
+      "Menelaj"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -387,16 +357,10 @@
     "question": "Na području koje se današnje države nalazila nekad velika Troja?",
     "answers": [
       "Turske",
-      "Turska",
-      "Turkey",
-      "Turkeys",
-      "Turki",
-      "Turkis",
-      "Turaka",
-      "Turka",
-      "Turci",
-      "Turačke"
+      "Tunis",
+      "Španjolske"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -406,13 +370,11 @@
     "topic": "Povijest",
     "question": "Koji je indoeuropski narod iz Anatolije oko 1595.g. pr. Kr. osvojio Babilon pod vodstvom kralja Muršilija I.?",
     "answers": [
+      "Huriti",
       "Hetiti",
-      "Hatti",
-      "Hetites",
-      "Hetijci",
-      "Hetićani",
-      "Hetitski"
+      "Niniva"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -422,41 +384,11 @@
     "topic": "Povijest",
     "question": "Koji je perzijski kralj tijekom pohoda na Grčku dao izgraditi dva pontonska mosta od povezanih brodova preko Helesponta, a prema antičkim grčkim izvorima nakon što je oluja uništila prve mostove naredio da se more simbolično išiba i okuje lancima?",
     "answers": [
-      "Xerkso",
-      "Kserkso",
-      "Xerxo",
-      "Kserxo",
-      "Xerkso prvi",
-      "Kserkso prvi",
-      "Xerxo prvi",
-      "Kserxo prvi",
-      "Xerkso Veliki",
-      "Kserkso Veliki",
-      "Xerxo Veliki",
-      "Kserxo Veliki",
-      "Xerkso I.",
-      "Kserkso I.",
-      "Xerxo I.",
-      "Kserxo I.",
-      "Xerkso 1.",
-      "Kserkso 1.",
-      "Xerxo 1.",
-      "Kserxo 1.",
-      "Xerkso 1. Veliki",
-      "Kserkso 1. Veliki",
-      "Xerxo 1. Veliki",
-      "Kserxo 1. Veliki",
-      "Xerkso Prvi Veliki",
-      "Kserkso Prvi Veliki",
-      "Xerxo Prvi Veliki",
-      "Kserxo Prvi Veliki",
-      "Xerkso First",
-      "Kserkso First",
-      "Xerxo First",
-      "Xerkso 1st",
-      "Kserkso 1st",
-      "Kserxo First"
+      "Nil",
+      "Tir",
+      "Xerkso"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -467,10 +399,10 @@
     "question": "Sporazumom u kojem je gradu 1802.g. nakratko uspostavljen mir između Francuske i Velike Britanije a bio je i jedini opći europski mir tijekom Napoleonova uspona?",
     "answers": [
       "Amiensu",
-      "Amiens",
-      "Amienu",
-      "Amien"
+      "Campoformio",
+      "Orleans"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -481,8 +413,10 @@
     "question": "Perzijski kralj Darijo I. Veliki je u 5. st. pr. Kr. dao izgraditi veliki kanal za brodove koji je povezao koju rijeku s Crvenim Morem?",
     "answers": [
       "Nil",
-      "Nile"
+      "Perzepolis",
+      "Xerkso"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -492,20 +426,11 @@
     "topic": "Povijest",
     "question": "Darije III. bio je posljednji veliki kralj Ahemenidskog Perzijskog carstva a u bitkama kod Ise i Gaugamele porazio ga je koji veliki vojskovođa koji je od tog sve više preuzimao vlast nad Perzijom?",
     "answers": [
-      "Aleksandar Veliki",
-      "Aleksandar",
-      "Alexander Veliki",
-      "Alexander",
-      "Alexander the Great",
-      "Aleksander d Grejt",
-      "Aleksandar Makedonski",
-      "Alexander Makedonski",
-      "Aleksander Makedonijan",
-      "Alexander Macedonian",
-      "Aleksandar III. Makedonski",
-      "Aleksandar treći Makedonski",
-      "Aleksandar 3. Makedonski"
+      "Breitenfeld",
+      "Kir Veliki",
+      "Aleksandar Veliki"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -515,13 +440,11 @@
     "topic": "Povijest",
     "question": "U kojem je njemačkom gradu nakon 2. svjetskog rata održano veliko međunarodno suđenje vodećim nacističkim dužnosnicima optuženima za ratne zločine i zločine protiv čovječnosti?",
     "answers": [
-      "Nurnbergu",
-      "Nurnberg",
-      "Nirbergu",
-      "Nirberg",
-      "Nurnbergs",
-      "Nirbergs"
+      "Vilim I. Oranski",
+      "Magdeburg",
+      "Nurnbergu"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -532,10 +455,10 @@
     "question": "Kod kojeg se malenog ruskog sela odvijala velika bitka nedaleko od Moskve u kojoj su Napoleonovi Francuzi osvojili bojište, ali nisu uspjeli uništiti rusku vojsku?",
     "answers": [
       "Borodina",
-      "Borodino",
-      "Borodinskog",
-      "Borodinsko"
+      "Henrik V.",
+      "Trafalgar"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -545,11 +468,11 @@
     "topic": "Povijest",
     "question": "Kako se zvao britanski putnički brod čije je njemačko torpediranje 1915.g. uz gotovo 1.200 poginulih i više od stotinu Amerikanaca među njima, snažno okrenulo američko javno mnijenje protiv Njemačke?",
     "answers": [
-      "Lusitania",
-      "Luzitania",
-      "RMS Lusitania",
-      "RMS Luzitanija"
+      "Patroklo",
+      "Missouri",
+      "Lusitania"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -560,13 +483,10 @@
     "question": "Kako se zvao grčki vojskovođa koji je 323. pr. Kr. umro u Babilonu, gdje je planirao učiniti taj grad prijestolnicom svojega carstva?",
     "answers": [
       "Aleksandar Veliki",
-      "Alexander the Great",
-      "Aleksander d Grejt",
-      "Aleksandar",
-      "Aleksander",
-      "Alexander",
-      "Alexandar"
+      "Pasargad",
+      "Niniva"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -576,8 +496,11 @@
     "topic": "Povijest",
     "question": "Prema mitu, Ahileja nije ubio Hektor ni neki drugi slavni mačevalac. Pogodila ga je strijela koju je ispalio trojanski princ, a prema nekim verzijama usmjerio bog Apolon. Tko je ispalio strijelu?",
     "answers": [
-      "Paris"
+      "Enlil",
+      "Paris",
+      "Hektor"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -588,13 +511,10 @@
     "question": "Tijekom prve francuske revolucije i Napoleonovih ratova, protivničke sile su ukupno sklopile koliko vojnih koalicija?",
     "answers": [
       "7",
-      "Sedam",
-      "Seven",
-      "VII",
-      "Sevn",
-      "Ziben",
-      "Zieben"
+      "10",
+      "6"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -604,11 +524,11 @@
     "topic": "Povijest",
     "question": "Nakon velikog potopa, koji se spominje u Popisu sumerskih kraljeva, navodi se da je kraljevstvo 'ponovno sišlo s neba'. U kojem je gradu tada, prema predaji, zasjelo na prijestolje?",
     "answers": [
-      "Kiš",
-      "Kiššatu",
-      "Kišu",
-      "Kiššatuu"
+      "Uruk",
+      "Tir",
+      "Kiš"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -618,12 +538,11 @@
     "topic": "Povijest",
     "question": "Kako se nazivao narod koji je tijekom 2. tisućljeća pr. Kr. nastanio sjevernu Mezopotamiju i Siriju te odigrao ključnu ulogu u stvaranju kraljevstva Mitani?",
     "answers": [
+      "Ahilej",
       "Huriti",
-      "Hurites",
-      "Hurijci",
-      "Hurićani",
-      "Huritski"
+      "Uruk"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -634,9 +553,10 @@
     "question": "Hektor i Andromaha imali su malenog sina kojega su Trojanci nazivali 'gospodarom grada', nadajući se da će jednoga dana naslijediti očevu slavu a on se zvao kako?",
     "answers": [
       "Astijanakt",
-      "Astyanax",
-      "Astijanaks"
+      "Pasargad",
+      "Lenjingrad"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -647,20 +567,10 @@
     "question": "Koji je francuski kralj prozvan Mudrim, izbjegavao velike frontalne bitke tijekom Stogodošnjeg rata, postupno iscrpljivao Engleze i tijekom svoje vladavine vratio velik dio teritorija izgubljenog u prvim desetljećima rata?",
     "answers": [
       "Karlo V.",
-      "Charles V",
-      "Karlo 5.",
-      "Charles 5.",
-      "Karlo peti",
-      "Charles peti",
-      "Karlo 5th",
-      "Charles 5th",
-      "Čarls 5.",
-      "Čarls V.",
-      "Čarls peti",
-      "Čarls 5th",
-      "Čarls fifth",
-      "Charles fifth"
+      "Tridesetogodišnjeg",
+      "Vilim I. Oranski"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -670,13 +580,11 @@
     "topic": "Povijest",
     "question": "Pomorska bitka kod kojeg je mjesta 1340.g. završila velikom engleskom pobjedom nad francuskom flotom i omogućila Edvardu III. znatno sigurnije prebacivanje vojske preko La Manchea a ujedno je bila i jedna od početnih bitaka Stogodišnjeg rata?",
     "answers": [
-      "Sluys",
-      "Sluis",
-      "Slujs",
-      "Sluysa",
-      "Sluisa",
-      "Slujsa"
+      "Kursk",
+      "Marengo",
+      "Sluys"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -686,8 +594,11 @@
     "topic": "Povijest",
     "question": "Kako se zvao jedan od prvih potomaka Apsua i Tijamat, brat Lahamu, koji u mezopotamskoj kozmogoniji predstavlja prvu generaciju božanstava?",
     "answers": [
-      "Lahmu"
+      "Crecy",
+      "Lahmu",
+      "Merduk"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -698,16 +609,10 @@
     "question": "Koji je indijski car nakon krvavog rata protiv Kalinge zaključio da je „pobjeda dharmom” vrjednija od pobjede oružjem?",
     "answers": [
       "Ašoka Veliki",
-      "Ašok Veliki",
-      "Ašoka",
-      "Ašok",
-      "Ashoka Veliki",
-      "Ashok Veliki",
-      "Ashok",
-      "Ashoka",
-      "Ashoka the Great",
-      "Ašoka d Grejt"
+      "Britanskog",
+      "Mir u Tilzitu"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -717,17 +622,11 @@
     "topic": "Povijest",
     "question": "Tijekom svog najvećeg teritorijalnog proširenja veliko se Perzijsko carstvo prostiralo na koliko kontinenata?",
     "answers": [
-      "Tri",
-      "3",
-      "III.",
-      "Three",
-      "Tre",
-      "Drei",
-      "Draj",
-      "Troje",
-      "Trije",
-      "Trojica"
+      "Rusko",
+      "Pragu",
+      "Tri"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -737,8 +636,11 @@
     "topic": "Povijest",
     "question": "Koji je izraelski kralj ujedinio dvanaest izraelskih plemena, osvojio Jeruzalem i učinio ga prijestolnicom svojega kraljevstva?",
     "answers": [
+      "Nil",
+      "Salomon",
       "David"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -748,16 +650,11 @@
     "topic": "Povijest",
     "question": "'Osamnaesti Brumaire' označava datum u mjesecu francuskog revolucionarnog kalendara kada je koji vojskovođa izvršio državni udar i time označio kraj francuske revolucije a početak svoje diktature?",
     "answers": [
-      "Napoleon",
-      "Napoleon Bonaparte",
-      "Bonaparte",
-      "Napoleon I. Bonaparte",
-      "Napoleon 1. Bonaparte",
-      "Napoleon prvi Bonaparte",
-      "Napoleon I.",
-      "Napoleon 1.",
-      "Napoleon prvi"
+      "Španjolske",
+      "Perzepolis",
+      "Napoleon"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -767,9 +664,11 @@
     "topic": "Povijest",
     "question": "Koji babilonski bog svojom ulogom najviše podsjeća na grčkog Zeusa, rimskog Jupitera i nordijskog Odina?",
     "answers": [
-      "Merduk",
-      "Marduk"
+      "Apsu",
+      "Zemlje",
+      "Merduk"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -779,9 +678,11 @@
     "topic": "Povijest",
     "question": "Koji je sumerski bog slatkih voda, mudrosti, stvaranja i obrta pomogao oblikovati čovječanstvo?",
     "answers": [
-      "Enki",
-      "Ea"
+      "Pragu",
+      "Enlil",
+      "Enki"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -791,10 +692,11 @@
     "topic": "Povijest",
     "question": "Na području koje se povijesne francuske regije odvijala posljednja bitka Stogodišnjeg rata gdje su Francuzi uz masovniju uporabu topova ostvarili pobjedu nad Englezima te tako ovladali kopnenim teritorijem uz La Manche?",
     "answers": [
+      "Artemizija",
       "Gaskonje",
-      "Gascogne",
-      "Gaskonja"
+      "Wagrama"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -804,12 +706,11 @@
     "topic": "Povijest",
     "question": "Koji je perzijski vladar nakon pobjede nad egipatskom vojskom u bitci kod Peluzija 525.g. pr. Kr. osvojio Egipat, svrgnuo faraona Psamtika III. i postao prvi perzijski kralj koji je ponio titulu faraona?",
     "answers": [
-      "Kambiz II.",
-      "Kambiz 2.",
-      "Kambiz",
-      "Kambiz drugi",
-      "Kambis 2nd"
+      "Darije I. Veliki",
+      "Kir Veliki",
+      "Kambiz II."
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -819,9 +720,11 @@
     "topic": "Povijest",
     "question": "Koji je crveni cvijet, nakon što je procvao na razorenim bojištima Flandrije i bio opjevan u pjesmi 'Na poljima Flandrije', postao međunarodni simbol sjećanja na poginule u Prvom svjetskom ratu?",
     "answers": [
+      "Gdanjsk",
       "Mak",
-      "Makov"
+      "Tir"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -832,18 +735,10 @@
     "question": "Koje je veliko caratvo u 3. tisućljeću pr. Kr. osnovao Sargon, vojskovođa, kralj i osvajač velikog dijela Mezopotamije?",
     "answers": [
       "Akadsko",
-      "Akadi",
-      "Akadsi",
-      "Akads",
-      "Akhads",
-      "Akhan",
-      "Akhadsko",
-      "Akhads",
-      "Akkads",
-      "Agads",
-      "Akkadsko",
-      "Agadsko"
+      "Aleksandar Veliki",
+      "Kir Veliki"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -853,22 +748,11 @@
     "topic": "Povijest",
     "question": "Napoleon Bonaparte je bio car Francuske, a njegov stariji brat Joseph, Napuljski kralj te kralj koje još velike današnje države?",
     "answers": [
+      "Austro Ugarska",
       "Španjolske",
-      "Španjolska",
-      "Spain",
-      "Spejn",
-      "Spein",
-      "Espanije",
-      "Espanja",
-      "Espanje",
-      "Espania",
-      "Esp",
-      "Spa",
-      "Španije",
-      "Španija",
-      "Spains",
-      "Špa"
+      "Karlo V. Habzburški"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -879,14 +763,10 @@
     "question": "Koju je Prusku kraljicu Napoleon Bonaparte nazvao 'jedinim pravim muškarcem u Pruskoj' zato što je jedina imala hrabrosti stati pred Napoleona te tražiti slobodu Pruskoj kraljevini?",
     "answers": [
       "Luise von Mecklenburg Strelitz",
-      "Luisu von Mecklenburg Sterlitz",
-      "Luise Mecklenburg",
-      "Luisu Mecklenburg",
-      "Luizu Meklenburg",
-      "Luiza Meklenburg",
-      "Luizu fon Meklenburg",
-      "Luiza fon Meklenburg"
+      "Španjolske",
+      "Josepha Bonapartea"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -897,11 +777,10 @@
     "question": "Koji je tada budući osnivač Republike Turske stekao velik ugled upravo kao osmanski zapovjednik koji je pomogao zaustaviti savezničke snage na Galipolju tokom 1. svjetskog rata?",
     "answers": [
       "Mustafa Kemal Ataturk",
-      "Mustafa Kemal",
-      "Ataturk",
-      "Kemal Ataturk",
-      "Mustafa Ataturk"
+      "Franklin Delano Roosevelt",
+      "Bertrand du Guesclin"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -912,11 +791,10 @@
     "question": "Iz kojeg je gorućeg grada bježao starogrčki junak Eneja?",
     "answers": [
       "Troje",
-      "Troy",
-      "Troj",
-      "Troys",
-      "Troja"
+      "Hektor",
+      "Eneja"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -926,18 +804,11 @@
     "topic": "Povijest",
     "question": "Pobuna protiv španjolskih Habsburgovaca u Osamdesetogodišnjem ratu dovela je do revolucije koje zemlje Beneluksa?",
     "answers": [
+      "Britanskog",
       "Nizozemske",
-      "Nizozemska",
-      "Holandije",
-      "Hollands",
-      "Holends",
-      "Holend",
-      "Oranje",
-      "Nizozemaca",
-      "Netherland",
-      "Neterlend",
-      "Niz"
+      "Francuska"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -948,8 +819,10 @@
     "question": "Koji je sumerski bog Mjeseca i otac boga Sunca Utua bio zaštitnik grada Ura?",
     "answers": [
       "Nana",
-      "Nanna"
+      "Troje",
+      "Hektor"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -959,22 +832,11 @@
     "topic": "Povijest",
     "question": "Koji je engleski kralj 1415.g. ponovno poveo veliku vojsku u Francusku i nakon iscrpljujućeg pohoda ostvario pobjedu kod Agincourta koja će ga pretvoriti u jednu od najvećih engleskih ratničkih legendi?",
     "answers": [
+      "Xerkso",
       "Henrik V.",
-      "Henry V.",
-      "Henrik 5.",
-      "Henry 5.",
-      "Henrik peti",
-      "Henry peti",
-      "Henrik 5th",
-      "Henry 5th",
-      "Henri V",
-      "Henri 5.",
-      "Henri peti",
-      "Henri 5th",
-      "Henry fifth",
-      "Henri fifth",
-      "Henrik fifth"
+      "Breitenfeld"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -984,11 +846,11 @@
     "topic": "Povijest",
     "question": "Koje je prezime nosio američki predsjednik koji je 1917.g.  od Kongresa zatražio ulazak SAD-a u rat, a godinu poslije predstavio svojih poznatih Četrnaest točaka za poslijeratni svijet?",
     "answers": [
-      "Wilson",
-      "Woodrow Wilson",
-      "Vudrov Vilson",
-      "Vilson"
+      "Hindenburg",
+      "Franklin Delano Roosevelt",
+      "Wilson"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -998,9 +860,11 @@
     "topic": "Povijest",
     "question": "Mladi Napoleon prvi je put privukao veliku pozornost 1793.g., kada je njegov plan topničkog napada pomogao republikanskoj vojsci istjerati Britance iz koje važne francuske luke?",
     "answers": [
-      "Toulon",
-      "Tulon"
+      "Španjolske",
+      "Orleans",
+      "Toulon"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -1010,8 +874,11 @@
     "topic": "Povijest",
     "question": "Kako se zvao vrhovni bog neba u akadskom i babilonskom panteonu, čiji je sumerski pandan An?",
     "answers": [
-      "Anu"
+      "Anu",
+      "Nana",
+      "Enki"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1021,11 +888,11 @@
     "topic": "Povijest",
     "question": "Kojeg je svojeg starijeg brata Napoleon 1808.g. postavio za španjolskog kralja, izazvavši snažan otpor španjolskog stanovništva?",
     "answers": [
-      "Josepha Bonapartea",
-      "Joseph Bonaparte",
-      "Džozefa Bonapartea",
-      "Džozef Bonaparte"
+      "Agamemnon",
+      "Katarina od Bragenze",
+      "Josepha Bonapartea"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -1035,9 +902,11 @@
     "topic": "Povijest",
     "question": "Na koji je grad 1. rujna(septembra) 1939.g. započela njemačka invazija na Poljsku, događaj koji se smatra početkom Drugog svjetskog rata u Europi?",
     "answers": [
-      "Gdanjsk",
-      "Gdansk"
+      "Sarajevu",
+      "Poljska",
+      "Gdanjsk"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -1048,9 +917,10 @@
     "question": "Koje je prezime nosio njemački zapovjednik kojem je pobjeda kod Tannenberga u 1. svjetskom ratu donijela status nacionalnog junaka, a koji će poslije postati i predsjednik Njemačke?",
     "answers": [
       "Hindenburg",
-      "Paul Von Hindenburg",
-      "Paul Ludwig Hans Anton von Beneckendorff"
+      "Franklin Delano Roosevelt",
+      "Wilson"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1061,10 +931,10 @@
     "question": "Kod kojeg je grada Napoleon nekoliko mjeseci nakon Eylaua odlučujuće porazio rusku vojsku, okončao Četvrtu Koaliciju i otvorio put mirovnim pregovorima?",
     "answers": [
       "Friedlanda",
-      "Friedland",
-      "Fridlanda",
-      "Fridland"
+      "Pragu",
+      "Ulma"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1075,18 +945,10 @@
     "question": "U kojoj je bitki 1356.g. Crni Princ s brojčano slabijom vojskom porazio Francuze i ostvario nevjerojatan uspjeh zarobivši čak i njihova kralja Ivana II.?",
     "answers": [
       "Poitiers",
-      "Potiera",
-      "Pvatje",
-      "Pvatjea",
-      "Potje",
-      "Potjea",
-      "Poitiersa",
-      "Poitiera",
-      "Bitka kod Poitiersa",
-      "Battle of Poitiers",
-      "Bitka kod Potjea",
-      "Batle of Potier"
+      "Breitenfeld",
+      "Gilgameša"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1096,8 +958,11 @@
     "topic": "Povijest",
     "question": "Iako etimološki nisu povezani, koja engleska riječ usko vezana uz vladanje zvuči vrlo slično imenu božanstva od čije su krvi, prema babilonskom epu Enuma Eliš, nastali ljudi?",
     "answers": [
+      "Apsu",
+      "Lahamu",
       "King"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -1107,12 +972,11 @@
     "topic": "Povijest",
     "question": "Koji se grčki junak, poznat po golemoj snazi i velikom štitu, u Trojanskom ratu borio protiv Hektora u dvoboju koji je završio bez pobjednika?",
     "answers": [
+      "Niniva",
       "Ajant",
-      "Ajax",
-      "Aiant",
-      "Aint",
-      "Ajaks"
+      "Pruska"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -1123,14 +987,10 @@
     "question": "U kojoj je bitci 18. lipnja(juna) 1815.g. Napoleon posljednji put zapovijedao francuskom vojskom, prije nego što su ga porazile Wellingtonove i Blücherove snage?",
     "answers": [
       "Bitka kod Waterlooa",
-      "Waterloo",
-      "Battle of Waterloo",
-      "Bitka kod Vaterloa",
-      "Vaterlo",
-      "Batl of Vaterlo",
-      "Waterlooa",
-      "Vaterloa"
+      "Operacija Barbarossa",
+      "Nadvojvoda Charles"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1140,11 +1000,11 @@
     "topic": "Povijest",
     "question": "Kod kojeg je francuskog grada saveznički napad 8. kolovoza 1918.g. toliko potresao njemačku vojsku da je Ludendorff taj datum nazvao „crnim danom njemačke vojske”?",
     "answers": [
+      "Friedlanda",
       "Amiensa",
-      "Amiens",
-      "Amiena",
-      "Amien"
+      "Ulma"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -1154,11 +1014,11 @@
     "topic": "Povijest",
     "question": "Trojanski junak, sin božice Afrodite, uspio je pobjeći iz gorućega grada noseći svojega oca na leđima. Kasnija rimska predaja proglasila ga je pretkom Rimljana. Kako se zvao?",
     "answers": [
+      "Troje",
       "Eneja",
-      "Aineias",
-      "Aeneas",
-      "Eneida"
+      "Hektor"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -1169,12 +1029,10 @@
     "question": "Ime kojeg je arkanđela nosila najveća njemačka operacija pokrenuta u ožujku 1918.g., kada je Njemačka pokušala slomiti Saveznike prije nego što američke snage stignu u Europu u punoj snazi?",
     "answers": [
       "Mihaela",
-      "Michaela",
-      "Mihael",
-      "Michael",
-      "Mihajla",
-      "Mihajlo"
+      "Overlord",
+      "Orleans"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1185,13 +1043,10 @@
     "question": "Tijekom Praške defenestracije 1618.g. Česki su plemići izbacili carske izaslanike na polje kroz koji dio dvorca?",
     "answers": [
       "Prozore",
-      "Prozor",
-      "Prozora",
-      "Fenstere",
-      "Fensters",
-      "Windows",
-      "Vindovs"
+      "Pragu",
+      "Tridesetogodišnji"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1201,16 +1056,11 @@
     "topic": "Povijest",
     "question": "Tko je 1807.g. osnovao Varšavsko Vojvodstvo te tako u Poljacima probudio nadu da bi mogli obnoviti svoju državu?",
     "answers": [
-      "Napoleon",
-      "Napoleon Bonaparte",
-      "Bonaparte",
-      "Napoleon I. Bonaparte",
-      "Napoleon 1. Bonaparte",
-      "Napoleon prvi Bonaparte",
-      "Napoleon I.",
-      "Napoleon 1.",
-      "Napoleon prvi"
+      "Kartagu",
+      "Portugal",
+      "Napoleon"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -1220,41 +1070,11 @@
     "topic": "Povijest",
     "question": "Koji je veliki perzijski kralj iz dinastije Ahemenida, ratovao protiv Grka, spalio Atenu ali naposlijetku izgubio rat porazima kod Salamine i Plateje?",
     "answers": [
+      "Karlo V. Habzburški",
       "Xerkso",
-      "Kserkso",
-      "Xerxo",
-      "Kserxo",
-      "Xerkso prvi",
-      "Kserkso prvi",
-      "Xerxo prvi",
-      "Kserxo prvi",
-      "Xerkso Veliki",
-      "Kserkso Veliki",
-      "Xerxo Veliki",
-      "Kserxo Veliki",
-      "Xerkso I.",
-      "Kserkso I.",
-      "Xerxo I.",
-      "Kserxo I.",
-      "Xerkso 1.",
-      "Kserkso 1.",
-      "Xerxo 1.",
-      "Kserxo 1.",
-      "Xerkso 1. Veliki",
-      "Kserkso 1. Veliki",
-      "Xerxo 1. Veliki",
-      "Kserxo 1. Veliki",
-      "Xerkso Prvi Veliki",
-      "Kserkso Prvi Veliki",
-      "Xerxo Prvi Veliki",
-      "Kserxo Prvi Veliki",
-      "Xerkso First",
-      "Kserkso First",
-      "Xerxo First",
-      "Xerkso 1st",
-      "Kserkso 1st",
-      "Kserxo First"
+      "Rusko"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -1264,9 +1084,11 @@
     "topic": "Povijest",
     "question": "Kako se zvao vrhovni bog Babilona koji je, prema epu Enuma Eliš, porazio Tijamat, od njezina tijela stvorio nebo i zemlju te postao kralj bogova?",
     "answers": [
+      "Španjolske",
       "Merduk",
-      "Marduk"
+      "Šaul"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -1276,19 +1098,11 @@
     "topic": "Povijest",
     "question": "Dok je Napoleon istoga dana porazio Pruse kod Jene, koji je njegov 'željezni maršal' s mnogo manjom vojskom ostvario još impresivniju pobjedu kod Auerstedta?",
     "answers": [
-      "Louis Nicolas Davout",
-      "Lui Nikolas Davo",
-      "Luj Nikolas Davo",
-      "Davout",
-      "Davo",
-      "Davou",
-      "Davu",
-      "Louis Davout",
-      "Luj Davo",
-      "Luj Davu",
-      "Nikolas Davout",
-      "Nikolas Davo"
+      "Wagrama",
+      "Španjolske",
+      "Louis Nicolas Davout"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -1298,16 +1112,11 @@
     "topic": "Povijest",
     "question": "Koju su antičku grad-državu Feničani osnovali 814.g. pr. Kr. a Rimljani uništili 146.g. pr. Kr.?",
     "answers": [
-      "Kartagu",
       "Kartaga",
-      "Carthago",
-      "Kartago",
-      "Chartage",
-      "Carthage",
-      "Kartage",
-      "Kartaginu",
-      "Carthagine"
+      "Kartagu",
+      "Perzepolis"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -1318,13 +1127,10 @@
     "question": "U koliko je sati, simbolično, 11. studenoga. (novembra) 1918.g., prema dogovorenom primirju koje je simbolično stupilo na snagu 'jedanaestog dana u jedanaestom mjesecu', prestala pucnjava na Zapadnom bojištu?",
     "answers": [
       "11",
-      "Jedanaest",
-      "Eleven",
-      "XI",
-      "Elft",
-      "U 11",
-      "U jedanaest"
+      "10",
+      "14"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1334,13 +1140,11 @@
     "topic": "Povijest",
     "question": "Kod kojeg je belgijskog grada njemačka vojska 1915.g. pustila veliki oblak otrovnog plina prema savezničkim položajima i tako otvorila jedno od najmračnijih poglavlja kemijskog ratovanja?",
     "answers": [
-      "Ypres",
-      "Jipres",
-      "Ipres",
-      "Ypresa",
-      "Jipresa",
-      "Ipresa"
+      "Xerkso",
+      "Magdeburg",
+      "Ypres"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -1350,23 +1154,11 @@
     "topic": "Povijest",
     "question": "Koji je veliki mir iz 1648.g. završio Tridesetogodišnji rat, priznao široku političku samostalnost brojnih članica Svetog Rimskog Carstva i trajno promijenio europski odnos snaga?",
     "answers": [
+      "Ašoka Veliki",
       "Westfalski mir",
-      "Mir Westfalena",
-      "Westfallens treaty",
-      "Westfals treaty",
-      "Westfals triti",
-      "Vestfals triti",
-      "Vestfalski mir",
-      "Mir Vestfalena",
-      "Pax Westphalica",
-      "Paks Vestfalika",
-      "Westfalski",
-      "Vestfalski",
-      "Westfall",
-      "Vestfal",
-      "Westfals",
-      "Vestfals"
+      "Aleksandar Veliki"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -1377,12 +1169,10 @@
     "question": "Uz koju su rijeku talijanske i austro-ugarske snage između 1915. i 1917. vodile čak dvanaest velikih bitaka na jednom od najtežih planinskih bojišta Prvog svjetskog rata?",
     "answers": [
       "Soču",
-      "Soča",
-      "Socha",
-      "Sochu",
-      "Isonzo",
-      "Isonzu"
+      "Nil",
+      "Ind"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1392,15 +1182,11 @@
     "topic": "Povijest",
     "question": "Koji je grad bio glavni grad moćne pomorske države koja se sukobila s Rimom u Punskim ratovima?",
     "answers": [
+      "Sumerskoj",
       "Kartaga",
-      "Carthago",
-      "Kartago",
-      "Chartage",
-      "Carthage",
-      "Kartage",
-      "Kartagina",
-      "Carthagine"
+      "Poljska"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -1410,18 +1196,11 @@
     "topic": "Povijest",
     "question": "Koji je engleski kralj 1337. preko svoje majke Izabele Francuske istaknuo pravo na francusku krunu i time pokrenuo dinastički spor koji će prerasti u Stogodišnji rat?",
     "answers": [
+      "Ugovor iz Troyesa",
       "Eduard III.",
-      "Edvard III.",
-      "Edvard 3.",
-      "Eduard 3.",
-      "Edvard treći",
-      "Eduard treći",
-      "Eduard the third",
-      "Eduard the 3rd",
-      "Eduard 3rd",
-      "Edvard d thrd",
-      "Edvard d 3rd"
+      "Henrik V."
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -1432,19 +1211,10 @@
     "question": "Zahvaljujući kojoj drevnoj civilizaciji, koja je osmislila seksagezimalni sustav, a koji su Babilonci kasnije usavršili i primijenili, sat danas ima 60 minuta, a puni krug 360 stupnjeva?",
     "answers": [
       "Sumerskoj",
-      "Sumeranskoj",
-      "Summers",
-      "Summerian",
-      "Sumerian",
-      "Sumerijan",
-      "Sumerijans",
-      "Sumers",
-      "Sumerani",
-      "Sumeranima",
-      "Summerans",
-      "Sumeranskoj",
-      "Sumeranska"
+      "Anunnaki",
+      "Hamurabi"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1454,10 +1224,11 @@
     "topic": "Povijest",
     "question": "Dok je Ahilej odbijao ratovati, Trojanci su potisnuli Ahejce sve do njihovih brodova. Tada je njegov najbliži prijatelj obukao njegov oklop kako bi neprijatelj pomislio da se veliki junak vratio. Tko je to bio?",
     "answers": [
+      "Xerkso",
       "Patroklo",
-      "Patroclus",
-      "Patroklus"
+      "Nil"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -1467,11 +1238,11 @@
     "topic": "Povijest",
     "question": "U kojem je malenom talijanskom gradu potpisan mirovnim sporazum iz 1797.g. kojim je Napoleon završio svoj prvi talijanski pohod i prisilio Austriju da prizna velike francuske dobitke?",
     "answers": [
+      "Ulma",
       "Campoformio",
-      "Campoformido",
-      "Kampoformio",
-      "Kampoformido"
+      "Amiensu"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -1481,10 +1252,11 @@
     "topic": "Povijest",
     "question": "Koje je prezime nosio njemački feldmaršal koji je zapovijedao 6. armijom opkoljenom kod Staljingrada i predao se Sovjetima početkom 1943.g.?",
     "answers": [
+      "Hektor",
       "Paulus",
-      "Friedrich Paulus",
-      "Fridrih Paulus"
+      "Kursk"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -1494,19 +1266,11 @@
     "topic": "Povijest",
     "question": "Francuski su vojnici tijekom egipatskog pohoda pod zapovjedništvom Napoleona Bonapartea pronašli kamenu ploču koja je stoljećima poslije pomogla u dešifriranju egipatskih hijeroglifa a ta ploča se naziva kako?",
     "answers": [
-      "Kamen iz Rosette",
-      "Rosettski kamen",
-      "Rosetski kamen",
-      "Rosettes stone",
-      "Rosetes ston",
-      "Rosettska",
-      "Rosettes",
-      "Rosetta",
-      "Rosettas",
-      "Rosetas",
-      "Rosetta Ston",
-      "Rosettas stone"
+      "Darije I. Veliki",
+      "Osmanskog",
+      "Kamen iz Rosette"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -1517,9 +1281,10 @@
     "question": "Proročanstvo je govorilo da Ahejci bez njegova luka i strijela ne mogu osvojiti Troju. Koji je grčki junak bio ostavljen na otoku Lemnosu zbog rane od ugriza zmije koja nije zacjeljivala ali je na poslijetku došao pod Troju te strijelom pogodio Parisa?",
     "answers": [
       "Filoktet",
-      "Philoktetis",
-      "Filoktetis"
+      "Portugal",
+      "Sicilija"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1529,18 +1294,11 @@
     "topic": "Povijest",
     "question": "Na slici Pierra Narcissa Guerina Eneja Didoni prepričava događanja iz kojeg rata?",
     "answers": [
+      "Sarajevu",
       "Trojanskog",
-      "Trojanski",
-      "Troje",
-      "Troja",
-      "Trojskog",
-      "Trojski",
-      "Troyan",
-      "Troya",
-      "Troys",
-      "Trojs",
-      "Trojan"
+      "Gdanjsk"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -1551,16 +1309,10 @@
     "question": "Koji su drevni narod Grci nazivali 'phoinikes', odnosno 'ljubičasti', zbog trgovine skupocjenom purpurnom bojom?",
     "answers": [
       "Feničane",
-      "Fenička",
       "Feničani",
-      "Fenics",
-      "Feniks",
-      "Fenic",
-      "Fenik",
-      "Feničanske",
-      "Fenicije",
-      "Fenicijske"
+      "Amorejci"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1570,19 +1322,11 @@
     "topic": "Povijest",
     "question": "Koji je francuski kralj nakon uspjeha Ivane Orleanske stigao u Reims i ondje 1429.g. prošao tradicionalnu ceremoniju krunidbe kojom je dodatno učvrstio svoj položaj nasuprot engleskim pretenzijama?",
     "answers": [
+      "Darije I. Veliki",
       "Karlo VII.",
-      "Karlo 7.",
-      "Karlo 7th",
-      "Karlo sedmi",
-      "Karlo seventh",
-      "Karlo sevent",
-      "Charles VII.",
-      "Charles 7.",
-      "Charles 7th",
-      "Charles sedmi",
-      "Charles seventh",
-      "Charles sevent"
+      "Filip II."
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -1592,11 +1336,11 @@
     "topic": "Povijest",
     "question": "Na području koje se današnje države nalaze ostaci gradova Mohenjo-daro, Harappa i Kot Diji, koji su se razvili u sklopu civilizacije doline Inda tijekom brončanog doba?",
     "answers": [
+      "Kartaga",
       "Pakistan",
-      "Pakistana",
-      "Pakisten",
-      "Pakistens"
+      "Libanon"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -1606,9 +1350,11 @@
     "topic": "Povijest",
     "question": "Kako se naziva neolitička kultura koja je oko 3000.g. pr. Kr. cvjetala u dolini Žute rijeke, a poznata je po iznimno tankoj crnoj keramici i smatra se jednim od preteča prve kineske države?",
     "answers": [
+      "Kartaga",
       "Lingshan",
-      "Longšan"
+      "Sumerskoj"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -1619,10 +1365,10 @@
     "question": "Koji su elitni konjanici, poznati po raskošnoj opremi i vještini borbe na konju, bili glavni Napoleonovi protivnici u Bitci kod Piramida?",
     "answers": [
       "Mameluci",
-      "Mameluk",
-      "Mamelucs",
-      "Mameluks"
+      "Leipzig",
+      "Napoleon"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1633,10 +1379,10 @@
     "question": "Na području koje se današnje države nalazila antička Kartaga?",
     "answers": [
       "Tunis",
-      "Tunisa",
-      "Tunnis",
-      "Tunnisa"
+      "Pakistan",
+      "Turske"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1647,8 +1393,10 @@
     "question": "Koja je habsburška vladarica godinama gradila savez protiv Pruske jer nije mogla prihvatiti gubitak bogate Šleske koju joj je Fridrik II. oteo tijekom prethodnih ratova?",
     "answers": [
       "Marija Terezija",
-      "Maria Theresa"
+      "Lawrence od Arabije",
+      "Vilim I. Oranski"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1658,11 +1406,11 @@
     "topic": "Povijest",
     "question": "Na kojem su malom vulkanskom otoku američki marinci 1945.g. podigli zastavu na planini Suribachi, stvarajući jednu od najpoznatijih fotografija cijelog  2. svjetskog rata?",
     "answers": [
+      "Karkemiš",
       "Iwo Jima",
-      "Ivo džima",
-      "Iwo Jimi",
-      "Ivo Džimi"
+      "Galipolje"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -1672,33 +1420,11 @@
     "topic": "Povijest",
     "question": "Ptolomej I. Soter je osnivač Ptolomejske loze u Egiptu, Seleuk I. Nikator je osnivač Seleukidskog carstva, Antigon I. Monoftalmos je praotac Atigonidske dinastije u Makedoniji a svi oni su bili generali u vojskama kojeg velikog osvajača?",
     "answers": [
-      "Aleksandra Velikog",
-      "Aleksandra",
-      "Alexandra Velikog",
-      "Alexandra",
-      "Alexanders the Great",
-      "Aleksanders d Grejt",
-      "Aleksandra Makedonskog",
-      "Alexandra Makedonskog",
-      "Aleksanders Makedonijan",
-      "Alexanders Macedonian",
-      "Aleksandra III. Makedonskog",
-      "Aleksandra trećeg Makedonskog",
-      "Aleksandra 3. Makedonskog",
-      "Aleksandar Veliki",
-      "Aleksandar",
-      "Alexander Veliki",
-      "Alexander",
-      "Alexander the Great",
-      "Aleksander d Grejt",
-      "Aleksandar Makedonski",
-      "Alexander Makedonski",
-      "Aleksander Makedonijan",
-      "Alexander Macedonian",
-      "Aleksandar III. Makedonski",
-      "Aleksandar treći Makedonski",
-      "Aleksandar 3. Makedonski"
+      "Maurijsko Carstvo",
+      "Karlo V. Habzburški",
+      "Aleksandra Velikog"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -1708,14 +1434,11 @@
     "topic": "Povijest",
     "question": "Edvardijanski, Karolinški i Lancastrijanski ratovi su se svi odvijali u sklopu kojeg velikog rata?",
     "answers": [
+      "Ašoka Veliki",
       "Stogodišnjeg",
-      "Stogodišnji",
-      "One hundreds",
-      "Von handreds",
-      "100-godišnjeg",
-      "100-godišnji",
-      "Stotinu godišnjeg"
+      "Aleksandra Velikog"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -1725,9 +1448,11 @@
     "topic": "Povijest",
     "question": "Koji je trojanski junak ubio Patrokla misleći da je Ahilej i time izazvao Ahilejev povratak na bojište?",
     "answers": [
+      "Ahilej",
       "Hektor",
-      "Hector"
+      "Patroklo"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -1737,8 +1462,11 @@
     "topic": "Povijest",
     "question": "Kako se zvala mezopotamska božica majka, zaštitnica poroda i stvaranja ljudi, poznata i pod imenom Mami?",
     "answers": [
-      "Nintu"
+      "Nintu",
+      "Kišar",
+      "Tetida"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1748,23 +1476,11 @@
     "topic": "Povijest",
     "question": "Koji je veliki europski mir iz 1648.g. nakon osam desetljeća sukoba donio konačno međunarodno priznanje neovisnosti Nizozemske Republike od Španjolske te okončanje Osamdesetogodišnjeg rata?",
     "answers": [
-      "Westfalski mir",
-      "Mir Westfalena",
-      "Westfallens treaty",
-      "Westfals treaty",
-      "Westfals triti",
-      "Vestfals triti",
-      "Vestfalski mir",
-      "Mir Vestfalena",
-      "Pax Westphalica",
-      "Paks Vestfalika",
-      "Westfalski",
-      "Vestfalski",
-      "Westfall",
-      "Vestfal",
-      "Westfals",
-      "Vestfals"
+      "Nurnbergu",
+      "Vilim I. Oranski",
+      "Westfalski mir"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -1774,21 +1490,11 @@
     "topic": "Povijest",
     "question": "Koji se naziv koristi za skupinu drevnih božanstava sumerske i kasnije akadskobabilonske mitologije, koja su u moderno doba česta tema pseudoznanstvenih teorija o izvanzemaljcima?",
     "answers": [
+      "Pakistan",
       "Anunnaki",
-      "Anunaki",
-      "Anunakiji",
-      "Anunnakiji",
-      "Anunakis",
-      "Anunnakis",
-      "Anuna",
-      "Anunaku",
-      "Anunnaku",
-      "Ananaki",
-      "Anannaki",
-      "Dananuna",
-      "Danunana",
-      "Danunakena"
+      "Sumerskoj"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -1798,10 +1504,11 @@
     "topic": "Povijest",
     "question": "U kojem je gradu 2. svibnja (maja) 1808.g izbio ustanak protiv Napoleonove francuske okupacije, događaj koji je Francisco Goya ovjekovječio na svojim slikama?",
     "answers": [
-      "Madridu",
-      "Madrid",
-      "Madrids"
+      "Nurnbergu",
+      "Amiensu",
+      "Madridu"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -1812,8 +1519,10 @@
     "question": "Koja je američka pomorska baza na Havajima napadnuta 7. prosinca(decembra) 1941.g., nakon čega su Sjedinjene Države ušle u rat protiv Japana?",
     "answers": [
       "Pearl Harbor",
-      "Perl Harbor"
+      "Velika Britanija",
+      "Austro Ugarska"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1824,15 +1533,10 @@
     "question": "Koja je drevna civilizacija najzaslužnija za širenje fonetskog pisma koje je postalo temelj grčkog, a posredno i latiničnog pisma?",
     "answers": [
       "Fenička",
-      "Feničani",
-      "Fenics",
-      "Feniks",
-      "Fenic",
-      "Fenik",
-      "Feničanska",
-      "Fenicija",
-      "Fenicijska"
+      "Sumerani",
+      "Fenicija"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1842,17 +1546,11 @@
     "topic": "Povijest",
     "question": "Koji je veliki car Maurijskog Carstva u današnjoj Indiji, nakon krvavog osvajanja Kalinge izrazio kajanje zbog ratnih stradanja te se posvetio širenju budizma i svojih moralnih načela?",
     "answers": [
-      "Ašoka Veliki",
-      "Ašok Veliki",
-      "Ašoka",
-      "Ašok",
-      "Ashoka Veliki",
-      "Ashok Veliki",
-      "Ashok",
-      "Ashoka",
-      "Ashoka the Great",
-      "Ašoka d Grejt"
+      "Mir u Tilzitu",
+      "Nabukodonosor II.",
+      "Ašoka Veliki"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -1863,17 +1561,10 @@
     "question": "Koje je godine Austro-Ugarska objavila rat Srbiji, čime je sukob prerastao u veliki Prvi svjetski rat?",
     "answers": [
       "1914",
-      "Tisuću devetsto četrnaeste",
-      "Iljadu devetsko četrnaeste",
-      "14",
-      "Četrnaeste",
-      "Nineteen forteen",
-      "Najntin fortin",
-      "MCMXIV",
-      "XIV",
-      "Fourteenth",
-      "Fortinth"
+      "1864",
+      "1904"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1883,19 +1574,11 @@
     "topic": "Povijest",
     "question": "Koji je veliki vladar s Indijskog potkontinenta, prema džainističkoj predaji, umro od gladi nakon što se odrekao prijestolja i započeo ritualni post?",
     "answers": [
-      "Čandragupta",
       "Čandraguptu",
-      "Čandraguptu Maurya",
-      "Čandraguptu Maurija",
-      "Čandragupta Maurya",
-      "Čandragupta Maurija",
-      "Chandraguptu",
-      "Chandragupta",
-      "Sandrokyptos",
-      "Sandrokottos",
-      "Androcottus",
-      "Sandrokiptos"
+      "Perzepolis",
+      "Čandragupta"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -1905,17 +1588,11 @@
     "topic": "Povijest",
     "question": "Tijekom 2. svjetskog rata, u kojem je britanskom mjestu djelovao tajni centar u kojem su matematičari, lingvisti i kriptoanalitičari radili na razbijanju njemačkih šifri?",
     "answers": [
+      "Stogodišnjeg",
       "Bletchley Park",
-      "Bletlej Park",
-      "Bletchley",
-      "Bletlej",
-      "Blekli Park",
-      "Blekli",
-      "Bleklej",
-      "Bleklej Park",
-      "Blečli Park",
-      "Blečli"
+      "Galipolje"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -1925,9 +1602,11 @@
     "topic": "Povijest",
     "question": "Koji je kanadski grad 1759.g. pao u britanske ruke nakon što su se vojnici generala Jamesa Wolfea tijekom noći popeli uz strme obale rijeke Svetog Lovrijenca i potom porazili Francuze na Abrahamovim ravnicama?",
     "answers": [
-      "Quebec",
-      "Kvebek"
+      "Nil",
+      "Konja",
+      "Quebec"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -1937,8 +1616,11 @@
     "topic": "Povijest",
     "question": "Koji je grad sovjetska Crvena armija zauzela u proljeće 1945.g., nakon posljednje velike bitke na europskom tlu i Hitlerova samoubojstva u bunkeru?",
     "answers": [
-      "Berlin"
+      "Berlin",
+      "Ulma",
+      "Magdeburg"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1948,11 +1630,11 @@
     "topic": "Povijest",
     "question": "Kod kojeg je njemačkog grada 1813. Napoleon poražen u golemoj „Bitci naroda“, u kojoj su se protiv njega udružile Rusija, Pruska, Austrija i Švedska?",
     "answers": [
-      "Leipzig",
-      "Lajpcig",
-      "Leipziga",
-      "Lajpciga"
+      "Kursk",
+      "Niniva",
+      "Leipzig"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -1963,27 +1645,10 @@
     "question": "Kojeg je državljanstva bio Lawrence od Arabije, čovjek koji je ostavio neizbrisiv trag u Arapskom ustanku protiv Osmanskog Carstva tijekom Prvog svjetskog rata?",
     "answers": [
       "Britanskog",
-      "Britansko",
-      "Britanac",
-      "Brit",
-      "Britanic",
-      "Britain",
-      "Britani",
-      "Britanis",
-      "Brits",
-      "Britanija",
-      "Britains",
-      "GBR",
-      "UK",
-      "UK-s",
-      "UKs",
-      "Ju kejs",
-      "Jukejs",
-      "Jukej",
-      "Ju kej",
-      "GBR-s",
-      "GBRs"
+      "Španjolske",
+      "Rajnski Savez"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -1993,14 +1658,11 @@
     "topic": "Povijest",
     "question": "Kako se naziva mirovni sporazum koji su Napoleon i ruski car Aleksandar I. dogovorili nakon susreta na splavi usred rijeke Njemen?",
     "answers": [
-      "Mir u Tilzitu",
-      "Tilzitski Mir",
-      "Tilstski Mir",
-      "Peace of Tilsit",
-      "Pis.of Tilsit",
-      "Tilsits Peace",
-      "Tilsits Pis"
+      "Ind",
+      "Herodot",
+      "Mir u Tilzitu"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -2010,14 +1672,11 @@
     "topic": "Povijest",
     "question": "U kojoj je bitki 1631.g. švedski kralj Gustav II. Adolf teško porazio habzburšku carsku vojsku i ostvario pobjedu koja je Švedsku pretvorila u jednu od najvažnijih vojnih sila Tridesetogodišnjeg rata?",
     "answers": [
-      "Breitenfeld",
-      "Bitka kod Breitenfelda",
-      "Battle of Breitenfeld",
-      "Batl of Brajtnfeld",
-      "Brajtnfeld",
-      "Bitka kod Brajtnfelda",
-      "Breitenfelda"
+      "Kir Veliki",
+      "Aleksandar Veliki",
+      "Breitenfeld"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -2028,20 +1687,10 @@
     "question": "Koja je država 1917.g. nakon obnove njemačkog neograničenog podmorničkog rata i otkrića Zimmermannova telegrama, napustila neutralnost u 1. svjetskom ratu i objavila rat Njemačkoj?",
     "answers": [
       "SAD",
-      "Amerika",
-      "America",
-      "Sjedinjene Američke Države",
-      "Američke Države",
-      "USA",
-      "United States",
-      "United States of America",
-      "US",
-      "Sjedinjene Države",
-      "States of America",
-      "Junajted Stejts of Amerika",
-      "Stejts of Amerika",
-      "Junajted Stejts"
+      "ABC",
+      "HNL"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -2051,14 +1700,11 @@
     "topic": "Povijest",
     "question": "Koji je anglosaski kralj i svetac iz 11. stoljeća službeni zaštitnik britanske kraljevske obitelji, a njegovo je tijelo prilikom premještanja u Westminstersku opatiju stoljećima nakon smrti pronađeno potpuno neraspadnuto?",
     "answers": [
-      "Sveti Eduard Ispovjednik",
-      "Saint Edward the  Confessor",
-      "Sejnt Edvard d Konfesor",
-      "Eduard Ispovjednik",
-      "Edward the Confessor",
-      "Edward Confessor",
-      "Edvard Ispovjednik"
+      "Ugovor iz Troyesa",
+      "Novobabilonskog",
+      "Sveti Eduard Ispovjednik"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -2068,11 +1714,11 @@
     "topic": "Povijest",
     "question": "Koji je sovjetski srednji tenk, zahvaljujući kombinaciji pokretljivosti, kosog oklopa i masovne proizvodnje, postao jedan od najvažnijih tenkova 2. svjetskog rata?",
     "answers": [
-      "T 34",
-      "Te 34",
-      "T trideset i cetiri",
-      "Te trideset i četiri"
+      "Tiger",
+      "Soču",
+      "T 34"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -2082,13 +1728,11 @@
     "topic": "Povijest",
     "question": "Tijekom Osamdesetogodišnjeg rata, koji je vođa nizozemske pobune 1584.g. ubijen u Delftu nakon što je španjolski kralj Filip II. stavio nagradu na njegovu glavu, čime je borba protiv Španjolske ostala bez svoje najprepoznatljivije osobe?",
     "answers": [
-      "Vilim I. Oranski",
-      "Vilim I. Oranjski",
-      "Vilim prvi Oranjski",
-      "Willem de Zwijger",
-      "Vilim šutljivi",
-      "Willem I. Oransky"
+      "Xerkso",
+      "Nabukodonosor II.",
+      "Vilim I. Oranski"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -2098,12 +1742,11 @@
     "topic": "Povijest",
     "question": "Na kojem su okruglom broju, drevni Sumerani temeljili svoj matematički sustav?",
     "answers": [
-      "60",
-      "Šezdeset",
-      "Sixty",
-      "Siksti",
-      "LX"
+      "50",
+      "65",
+      "60"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -2114,14 +1757,10 @@
     "question": "Koja je katolička država 1635.g. otvoreno ušla u Tridesetogodišnji rat protiv također katoličkih Habsburgovaca i tako jasno pokazala da je borba za europsku moć postala važnija od prvotne vjerske podjele?",
     "answers": [
       "Francuska",
-      "France",
-      "Frenc",
-      "Frankreich",
-      "Frankrajš",
-      "Fra",
-      "Francuzi",
-      "Fr"
+      "Portugal",
+      "Velika Britanija"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -2132,13 +1771,10 @@
     "question": "U kojem je dvorcu Napoleon u travnju 1814., nakon pada Pariza i odbijanja svojih maršala da nastave rat, potpisao abdikaciju?",
     "answers": [
       "Fontainebleau",
-      "Fontenblo",
-      "Fontanblu",
-      "Chateau de Fontainebleau",
-      "Šate de Fontenblo",
-      "Dvorac Fontainbleau",
-      "Dvorac Fontenblo"
+      "Velika Britanija",
+      "Mir u Tilzitu"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -2148,11 +1784,11 @@
     "topic": "Povijest",
     "question": "Mir u kojem je gradu potpisan 1763.g. Francusku stajao velikog dijela njezinih sjevernoameričkih posjeda i potvrdio uspon Velike Britanije u vodeću svjetsku kolonijalnu silu?",
     "answers": [
+      "Campoformio",
       "Parizu",
-      "Parisu",
-      "Pariz",
-      "Paris"
+      "Amiensu"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -2163,8 +1799,10 @@
     "question": "Mnogi misle da je Moskva najdalja točka do koje su stigla Napoleonova osobna osvajanja. Međutim, koja se bliskoistočna prijestolnica nalazi preko 700 kilometara dalje od Pariza nego Moskva, a Napoleon ju je osvojio 1798.g.?",
     "answers": [
       "Kairo",
-      "Cairo"
+      "Lodija",
+      "Berezine"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -2175,17 +1813,10 @@
     "question": "Kako se naziva sumerski artefakt iz Kraljevskih grobnica Ura, izrađen od drva, školjki, lapis lazulija i crvenog vapnenca, na čijim su dvjema stranama prikazani prizori rata i mira, a čija prava namjena ni danas nije sa sigurnošću utvrđena?",
     "answers": [
       "Urski barjak",
-      "Urska zastava",
-      "Standard iz Ura",
-      "Barjak iz Ura",
-      "Zastava iz Ura",
-      "Urski standard",
-      "Standard from Ur",
-      "Zastava Ura",
-      "Barjak Ura",
-      "Standard Ura",
-      "Standard of Ur"
+      "Ašurbanipal",
+      "Breitenfeld"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -2196,18 +1827,10 @@
     "question": "Kojim je planom Njemačka na početku 1. svjetskog rata namjeravala brzo poraziti Francusku napadom kroz Belgiju, a zatim prebaciti vojsku vlakovima protiv Rusije?",
     "answers": [
       "Schlieffenovim",
-      "Schlieffenov",
-      "Schlieffen",
-      "Šlifenovim",
-      "Šlifenov",
-      "Šlifen",
-      "Schlieffenovim planom",
-      "Schlieffenov plan",
-      "Schlieffen plan",
-      "Šlifenovim planom",
-      "Šlifenov plan",
-      "Šlifen plan"
+      "Belgija",
+      "Velika Britanija"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -2217,10 +1840,11 @@
     "topic": "Povijest",
     "question": "Koji je njemački tenk, poznat po snažnom oklopu i topu od 88 mm, postao jedan od najpoznatijih oklopnjaka Drugog svjetskog rata unatoč složenoj proizvodnji i održavanju?",
     "answers": [
+      "Belgija",
       "Tiger",
-      "Tajger",
-      "Tigar"
+      "Italija"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -2230,9 +1854,11 @@
     "topic": "Povijest",
     "question": "Kako se zvala Ahilejeva majka, morska božica koja je znala da njezin sin može birati između dugog, nepoznatog života i kratkog života ispunjenog vječnom slavom?",
     "answers": [
+      "Inana",
       "Tetida",
-      "Thetis"
+      "Niniva"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -2242,14 +1868,11 @@
     "topic": "Povijest",
     "question": "U tijeku kojeg se velikog rata pojavilo lik i djelo Ivane Orleanske?",
     "answers": [
+      "Orleans",
       "Stogodišnjeg",
-      "Stogodišnji",
-      "One hundreds",
-      "Von handreds",
-      "100-godišnjeg",
-      "100-godišnji",
-      "Stotinu godišnjeg"
+      "Bletchley Park"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -2259,10 +1882,11 @@
     "topic": "Povijest",
     "question": "Kako se po Ilijadi zvala zarobljena žena koju je Agamemnon oduzeo Ahileju i tako izazvao njegov bijes?",
     "answers": [
-      "Briseida",
-      "Briseis",
-      "Briseid"
+      "Tijamat",
+      "Niniva",
+      "Briseida"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -2272,16 +1896,11 @@
     "topic": "Povijest",
     "question": "Leonida je bio Spartanac, Spartak Tračanin, Aleksandar Veliki Makedonac, Julije Cezar Rimljanin, a Hanibal?",
     "answers": [
-      "Katražanin",
-      "Carthagenian",
-      "Kartaginjanin",
-      "Kartage",
-      "Kartaginac",
-      "Kartaganin",
-      "Kartagenijan",
-      "Carthagen",
-      "Kartagen"
+      "Perzepolis",
+      "Kir Veliki",
+      "Katražanin"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -2291,10 +1910,11 @@
     "topic": "Povijest",
     "question": "Koji je izraelski kralj dao sagraditi Prvi hram u Jeruzalemu u kojem je bio pohranjen Kovčeg saveza te 10 Božjih zapovijedi?",
     "answers": [
+      "Perzepolis",
       "Salomon",
-      "Šlomo",
-      "Š lomo"
+      "Nabukodonosor II."
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -2304,13 +1924,11 @@
     "topic": "Povijest",
     "question": "Koji je perzijski vladar 539.g. pr. Kr. osvojio Babilon gotovo bez borbe, čime je završilo Novobabilonsko Carstvo?",
     "answers": [
-      "Kir Veliki",
-      "Kir",
-      "Cyrus the Great",
-      "Kirus d Grejt",
-      "Cyrus",
-      "Kirus"
+      "Međani",
+      "Sargon",
+      "Kir Veliki"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -2320,14 +1938,11 @@
     "topic": "Povijest",
     "question": "Prema starim grčkim i rimskim izvorima, koja se žena spominje kao osnivačica i prva kraljica Kartage?",
     "answers": [
-      "Didona",
-      "Elissa",
-      "Elisa",
-      "Eliza",
-      "Elizar",
-      "Elishar",
-      "Elisar"
+      "Menelaj",
+      "Xerkso",
+      "Didona"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -2338,8 +1953,10 @@
     "question": "Koji su lučki grad u jeku Osamdesetogodišnjeg rata 1572.g. zauzeli nizozemski pobunjenici poznati kao Morski prosjaci, pretvorivši naizgled malu pomorsku akciju u važan poticaj širenju ustanka protiv Španjolske?",
     "answers": [
       "Brielle",
-      "Briel"
+      "Vilim I. Oranski",
+      "Gdanjsk"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -2349,18 +1966,11 @@
     "topic": "Povijest",
     "question": "Koja je država tijekom ofenzive na Sommi 1916.g. prvi put u povijesti poslala tenkove u borbu, pokušavajući njima prijeći rovove i bodljikavu žicu?",
     "answers": [
+      "Austro Ugarska",
       "Velika Britanija",
-      "Britanija",
-      "Brit",
-      "GBR",
-      "VB",
-      "Britanci",
-      "Britons",
-      "Great Britain",
-      "Grejt Britani",
-      "Britannis",
-      "Britani"
+      "Fridrik II. Hohenzollern"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -2370,10 +1980,11 @@
     "topic": "Povijest",
     "question": "Kako se zove prapovijesni megalitski spomenik u južnoj Engleskoj, sastavljen od golemih kamenih blokova postavljenih u koncentrične krugove, koji se smatra jednim od najpoznatijih arheoloških lokaliteta na svijetu?",
     "answers": [
+      "Staljingrad",
       "Stonehenge",
-      "Stonhendž",
-      "Stonheng"
+      "Leipzig"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -2383,10 +1994,11 @@
     "topic": "Povijest",
     "question": "Prvi popis svjetskih čuda sačinjen je navodno između 150. i 120. godine prije nove ere, a sačinio ga je koji grčki pjesnik iz Sidona?",
     "answers": [
-      "Antipatros",
-      "Antipater",
-      "Antipatar"
+      "Nabukodonosor II.",
+      "Kir Veliki",
+      "Antipatros"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -2397,9 +2009,10 @@
     "question": "Kod kojeg je španjolskog mjesta 1808.g. cijela francuska vojska generala Duponta položila oružje, što je bio jedan od prvih velikih poraza Napoleonovih snaga na otvorenom bojištu?",
     "answers": [
       "Bailen",
-      "Baylen",
-      "Bajlen"
+      "Wagrama",
+      "Kursk"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -2409,14 +2022,11 @@
     "topic": "Povijest",
     "question": "Kako se nazivao savez njemačkih država osnovan pod Napoleonovom zaštitom, čije su članice napustile Sveto Rimsko Carstvo?",
     "answers": [
-      "Rajnski Savez",
-      "Rajnski",
-      "Rajnska Konfederacija",
-      "Rajnska",
-      "Rheinebund",
-      "Rajnebund",
-      "Konfederirane države Rajne"
+      "Austro Ugarska",
+      "Karlo V. Habzburški",
+      "Rajnski Savez"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -2426,21 +2036,11 @@
     "topic": "Povijest",
     "question": "Kamformijski mir iz 1797.g. potpisan od strane Napoleona Bonapartea i grofa Ludwiga von Cobenzla označio je i kraj koje republike, koja je postojala više od 1100.g.?",
     "answers": [
-      "Mletačke Republike",
-      "Mletačke",
-      "Mletačka Republika",
-      "Mletačka",
-      "Venecija",
-      "Venecije",
-      "Venetia",
-      "Venetie",
-      "Venecijanska Republika",
-      "Venecijanske",
-      "Venetian Republic",
-      "Mleca",
-      "Melka",
-      "Mleci"
+      "Aleksandar Veliki",
+      "Campoformio",
+      "Mletačke Republike"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -2451,12 +2051,10 @@
     "question": "Koji je nizozemski plemić od habsburškog službenika postao vodeći protivnik Filipa II. i toliko važna figura nizozemske borbe za neovisnost da ga se danas naziva Ocem domovine?",
     "answers": [
       "Vilim I. Oranski",
-      "Vilim I. Oranjski",
-      "Vilim prvi Oranjski",
-      "Willem de Zwijger",
-      "Vilim šutljivi",
-      "Willem I. Oransky"
+      "ANZAC",
+      "Albrecht von Wallenstein"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -2467,10 +2065,10 @@
     "question": "Kako se zvala međunarodna organizacija osnovana nakon Prvog svjetskog rata s idejom da države buduće sporove rješavaju pregovorima i kolektivnom sigurnošću umjesto novim velikim ratom?",
     "answers": [
       "Liga Naroda",
-      "Narodna Liga",
-      "League of Nations",
-      "Lig of Nejšns"
+      "Rajnski Savez",
+      "Austro Ugarska"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -2480,9 +2078,11 @@
     "topic": "Povijest",
     "question": "Na kojoj je rijeci u rujnu(septembru) 1914.g. francusko-britanski protunapad zaustavio njemački prodor prema Parizu i time srušio plan o brzom vojnom porazu Francuske?",
     "answers": [
+      "Weiss",
       "Marni",
-      "Marna"
+      "Somma"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -2493,10 +2093,10 @@
     "question": "Kod kojeg su planinskog prijevoja poljski laki konjanici 1808. jurišem kroz topničku vatru otvorili Napoleonu put prema Madridu?",
     "answers": [
       "Somosierra",
-      "Somosiera",
-      "Somsier",
-      "Somsiera"
+      "Friedlanda",
+      "Artemizija"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -2507,18 +2107,10 @@
     "question": "Napoleonove pobjede i osnivanje Rajnskog saveza doveli su 1806.g. do ukidanja kojeg gotovo tisuću godina starog europskog carstva?",
     "answers": [
       "Svetog Rimskog Carstva",
-      "Sveto Rimsko Carstvo",
-      "Svetog Rimskog",
-      "Sveto Rimsko",
-      "Holy Roman Empire",
-      "Holy Roman",
-      "Holi Roman Empajr",
-      "Holi Roman",
-      "Rimskog Svetog",
-      "Rimsko Sveto",
-      "Rimskog Svetog Carstva",
-      "Rimsko.Sveto Carstvo"
+      "Austerlitza",
+      "Aleksandar Veliki"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -2529,9 +2121,10 @@
     "question": "Kojim je nadimkom ostao poznat Edvard od Woodstocka, sin Edvarda III. i jedan od najslavnijih engleskih zapovjednika Stogodišnjeg rata, iako razlog nastanka tog nadimka ni danas nije potpuno razjašnjen?",
     "answers": [
       "Crni Princ",
-      "Black Prince",
-      "Blek Princ"
+      "Agincourt",
+      "Crna Smrt"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -2541,33 +2134,11 @@
     "topic": "Povijest",
     "question": "Ratovi dijadoha vodili su se nakon smrti kojeg velikog vojskovođe?",
     "answers": [
-      "Aleksandra Velikog",
-      "Aleksandra",
-      "Alexandra Velikog",
-      "Alexandra",
-      "Alexanders the Great",
-      "Aleksanders d Grejt",
-      "Aleksandra Makedonskog",
-      "Alexandra Makedonskog",
-      "Aleksanders Makedonijan",
-      "Alexanders Macedonian",
-      "Aleksandra III. Makedonskog",
-      "Aleksandra trećeg Makedonskog",
-      "Aleksandra 3. Makedonskog",
-      "Aleksandar Veliki",
-      "Aleksandar",
-      "Alexander Veliki",
-      "Alexander",
-      "Alexander the Great",
-      "Aleksander d Grejt",
-      "Aleksandar Makedonski",
-      "Alexander Makedonski",
-      "Aleksander Makedonijan",
-      "Alexander Macedonian",
-      "Aleksandar III. Makedonski",
-      "Aleksandar treći Makedonski",
-      "Aleksandar 3. Makedonski"
+      "Stogodišnjeg",
+      "Maurijsko Carstvo",
+      "Aleksandra Velikog"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -2578,16 +2149,10 @@
     "question": "Koja je država, iako je prije 1. svjetskog rata pripadala Trojnom savezu s Njemačkom i Austro-Ugarskom, 1915.g. promijenila stranu i objavila rat Austro-Ugarskoj?",
     "answers": [
       "Italija",
-      "Italy",
-      "Itali",
-      "It",
-      "Ita",
-      "Talijani",
-      "Talians",
-      "Talijanska",
-      "Italijanska",
-      "Italije"
+      "Belgija",
+      "Velika Britanija"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -2597,21 +2162,11 @@
     "topic": "Povijest",
     "question": "Koje je veliko carstvo nastalo na području Indije nakon smrti Aleksandra Velikog te nakon što su njegovi guverneri bili protjerani s tih područja?",
     "answers": [
-      "Maurijsko Carstvo",
-      "Maurijsko",
-      "Maurijan",
-      "Mauryan",
-      "Mauriyan",
-      "Mauryjan",
-      "Maurijan Empajer",
-      "Maurijan Empire",
-      "Mauriyan Empire",
-      "Maurija",
-      "Maurya",
-      "Mauriya",
-      "Maursko",
-      "Maursko Carstvo"
+      "Austro Ugarska",
+      "Sargon",
+      "Maurijsko Carstvo"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -2621,12 +2176,11 @@
     "topic": "Povijest",
     "question": "Dok se odvijala legendarna kopnena bitka kod Termopila odvijala se i manje poznata pomorska bitka između istih suparnika kod kojeg rta, uz otok Eubeju?",
     "answers": [
-      "Artemizija",
-      "Artemizij",
-      "Artemisium",
-      "Artemisiuma",
-      "Artemizijuma"
+      "Elba",
+      "Jutland",
+      "Artemizija"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -2636,16 +2190,11 @@
     "topic": "Povijest",
     "question": "Koja je drevna civilizacija razvila klinasto pismo, inače prvo takvo u ljudskoj povijesti?",
     "answers": [
-      "Sumerani",
-      "Sumeri",
-      "Sumer",
-      "Sumerians",
-      "Sumers",
-      "Sumerian",
-      "Sumerska",
-      "Sumerova",
-      "Sumerinska"
+      "Sargon",
+      "Uruk",
+      "Sumerani"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -2655,11 +2204,11 @@
     "topic": "Povijest",
     "question": "Nakon uvođenja židovskog naroda u obećanu zemlju, izraelci su prvo imali suce koji su upravljali svime, zatim su došli kraljevi a prvi od njih je bio tko?",
     "answers": [
+      "Merduk",
       "Šaul",
-      "Shaul",
-      "Ša ul",
-      "Sha ul"
+      "Španjolske"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -2670,8 +2219,10 @@
     "question": "Koji je japanski otok 1945.g. postao mjesto posljednje velike kopnene bitke rata na Pacifiku prije bacanja atomskih bombi i japanske predaje?",
     "answers": [
       "Okinawa",
-      "Okinava"
+      "Liga Naroda",
+      "Magdeburg"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -2681,11 +2232,11 @@
     "topic": "Povijest",
     "question": "Napoleon je 1805.g. planirao invaziju na Veliku Britaniju, ali je britanska mornarička pobjeda pod zapovjedništvom admirala Nelsona učinila francusku prevlast na moru gotovo nemogućom. Kod kojeg se rta odigrala ta slavna pomorska bitka?",
     "answers": [
+      "Orleans",
       "Trafalgar",
-      "Trafalgara",
-      "Trafagar",
-      "Trafagara"
+      "Ahilej"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -2695,15 +2246,11 @@
     "topic": "Povijest",
     "question": "U kojoj je bitki 1757.g. Fridrik II. Hohenzollern s brojčano slabijom vojskom izveo briljantan manevar protiv Francuza i njihovih saveznika te ostvario jednu od najpoznatijih pobjeda svoje vojne karijere?",
     "answers": [
+      "Poitiers",
       "Bitka kod Rossbacha",
-      "Battle of Rossbach",
-      "Batl.of Rozbah",
-      "Bitka kod Rozbaha",
-      "Rossbacha",
-      "Rozbaha",
-      "Rossbach",
-      "Rozbah"
+      "Breitenfeld"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -2713,11 +2260,11 @@
     "topic": "Povijest",
     "question": "Kod kojeg se talijanskog samostana 1944.g. mjesecima vodila teška borba jer su savezničke snage pokušavale probiti njemačku obrambenu liniju prema Rimu?",
     "answers": [
+      "Mustafa Kemal Ataturk",
       "Monte Cassina",
-      "Monte Cassino",
-      "Monte Kasina",
-      "Monte Kasino"
+      "Omaha"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -2727,19 +2274,11 @@
     "topic": "Povijest",
     "question": "Koji je veliki perzijski vladar vladao u razdoblju između kraljeva Kambiza I. i Kambiza II. ?",
     "answers": [
-      "Kir Veliki",
-      "Kir",
-      "Cir Veliki",
-      "Cir",
-      "Cyrus the Great",
-      "Cyrus d Grejt",
-      "Cyrus",
-      "Kirus",
-      "Kirus Veliki",
-      "Kirus d Grejt",
-      "Kir drugi Veliki",
-      "Kir II. Veliki"
+      "Darije I. Veliki",
+      "Kambiz II.",
+      "Kir Veliki"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -2749,8 +2288,11 @@
     "topic": "Povijest",
     "question": "Kako se zvao babilonski hram za koji mnogi povjesničari smatraju da je nadahnuo biblijsku priču o Babilonskoj kuli?",
     "answers": [
+      "Pasargad",
+      "Novobabilonskog",
       "Etemenanki"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -2760,13 +2302,11 @@
     "topic": "Povijest",
     "question": "Koja je država napadnuta 1. rujna(septembra) 1939.g. nakon što je Hitler mjesecima zahtijevao teritorijalne ustupke i povratak grada Danziga Njemačkoj?",
     "answers": [
-      "Poljska",
-      "Poland",
-      "Polend",
-      "Polska",
-      "Pol",
-      "Pl"
+      "Sumerskoj",
+      "Kartaga",
+      "Poljska"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -2776,10 +2316,11 @@
     "topic": "Povijest",
     "question": "Koji je sumerski bog vjetra, zraka i oluja bio jedno od najmoćnijih božanstava mezopotamskog panteona, a bio je toliko svet da ga drugi bogovi nisu mogli gledati?",
     "answers": [
+      "David",
       "Enlil",
-      "Enil",
-      "Nunamnir"
+      "Enki"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -2790,12 +2331,10 @@
     "question": "Koja je sumerska božica zemlje, planina, plodnosti i majčinstva smatrana majkom mnogih bogova?",
     "answers": [
       "Ninhursag",
-      "Ninharsag",
-      "Ninharsang",
-      "Ninursag",
-      "Damgalnuna",
-      "Ninmah"
+      "Nizozemske",
+      "Ki"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -2805,10 +2344,11 @@
     "topic": "Povijest",
     "question": "Dok su Napoleon i Aleksandar I. sklapali Mir u Tilzitu ploveći na splavu, ispod njih je tekla.koja rijeka?",
     "answers": [
-      "Njemen",
-      "Nemunas",
-      "Nemen"
+      "Ind",
+      "Mir u Tilzitu",
+      "Njemen"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -2818,14 +2358,11 @@
     "topic": "Povijest",
     "question": "Kao glavni grad svoje velike Perzijske države, Darijo I. Veliki daje izgraditi koji grad?",
     "answers": [
+      "Kartagu",
       "Perzepolis",
-      "Persepolis",
-      "Parsa",
-      "Parsu",
-      "Taht-e Džamšid",
-      "Tahsti Džamšid",
-      "Čehel Minar"
+      "Kartaga"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -2835,8 +2372,11 @@
     "topic": "Povijest",
     "question": "Koje je kodno ime nosila američka desantna plaža na kojoj su savezničke snage 6. lipnja(juna) 1944.g. naišle na posebno snažan njemački otpor i pretrpjele najveće gubitke među pet glavnih desantnih plaža?",
     "answers": [
-      "Omaha"
+      "Omaha",
+      "Tiger",
+      "Normandiji"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -2847,19 +2387,10 @@
     "question": "Napoleon je 1796.g. preuzeo slabo opremljenu i iscrpljenu vojsku, a zatim nizom brzih pobjeda porazio austrijske i sardinske snage u svojem prvom pohodu u kojoj zemlji?",
     "answers": [
       "Italija",
-      "It",
-      "Italiji",
-      "Italy",
-      "Italys",
-      "Ita",
-      "Itals",
-      "Ital",
-      "Itali",
-      "Italis",
-      "Talijanskoj",
-      "Talijanski",
-      "Talijani"
+      "Merduk",
+      "Wagrama"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -2870,9 +2401,10 @@
     "question": "Koja je katastrofalna epidemija sredinom 14. stoljeća odnijela milijune europskih života i usred Stogodišnjeg rata na neko vrijeme učinila bolest opasnijom od engleskih i francuskih vojski?",
     "answers": [
       "Crna Smrt",
-      "Black Death",
-      "Blek Ded"
+      "Agincourt",
+      "Crni Princ"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -2882,17 +2414,11 @@
     "topic": "Povijest",
     "question": "Koji se veliki kralj smatra utemeljiteljem ahemenidskog perzijskog caratva?",
     "answers": [
+      "Španjolske",
       "Kir Veliki",
-      "Kir",
-      "Cir Veliki",
-      "Cir",
-      "Cyrus the Great",
-      "Cyrus d Grejt",
-      "Cyrus",
-      "Kirus",
-      "Kirus Veliki",
-      "Kirus d Grejt"
+      "Aleksandar Veliki"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -2902,14 +2428,11 @@
     "topic": "Povijest",
     "question": "Koji je francuski kardinal, premda visoki dužnosnik Katoličke Crkve, odlučio pomagati protestantske protivnike Habsburgovaca u Tridesetogodišnjem ratu jer je njihovu političku moć smatrao većom prijetnjom Francuskoj od vjerskih razlika?",
     "answers": [
+      "Bitka kod Castillona",
       "Kardinal Richelieu",
-      "Armand Jean du Plessis",
-      "Kardinal Rišelje",
-      "Armand žan du Ples",
-      "Richelieu",
-      "Rišelje",
-      "Cardinal Richelieu"
+      "Gustav II. Adolf"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -2919,13 +2442,11 @@
     "topic": "Povijest",
     "question": "Kako se zvao njemački plan invazije na Veliku Britaniju u jeku 2. svjetskog rata koji nikada nije proveden jer Luftwaffe nije uspio osvojiti prevlast u zraku?",
     "answers": [
-      "Morski lav",
-      "Sea Lion",
-      "Si Lajon",
-      "SeeLowe",
-      "Zileve",
-      "Ziileve"
+      "Enigma",
+      "Trafalgar",
+      "Morski lav"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -2935,16 +2456,11 @@
     "topic": "Povijest",
     "question": "'Bitku kod piramida' protiv hrabrih Mameluka je 1798.g. izvojevao koji veliki vojskovođa?",
     "answers": [
+      "Maratona",
       "Napoleon",
-      "Napoleon Bonaparte",
-      "Bonaparte",
-      "Napoleon I. Bonaparte",
-      "Napoleon 1. Bonaparte",
-      "Napoleon prvi Bonaparte",
-      "Napoleon I.",
-      "Napoleon 1.",
-      "Napoleon prvi"
+      "Marengo"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -2954,11 +2470,11 @@
     "topic": "Povijest",
     "question": "Koji je grad drevne Mezopotamije nastao u 5. tisućljeću pr. Kr., a oko 3200.g. pr. Kr. je postao najveći grad na svijetu s oko 80.000 stanovnika. U njemu je izumljeno prvo pismo (klinasto pismo), prvi kotač, te monumentalna arhitektura sa ziguratima a ime tog grada glasi kako?",
     "answers": [
-      "Uruk",
-      "Unug",
-      "Ereč",
-      "Varka"
+      "Suza",
+      "Niniva",
+      "Uruk"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -2969,34 +2485,10 @@
     "question": "Koji je vladar iz dinastije Habsburg u 16. stoljeću nosio titulu kralja Španjolske i cara Svetog Rimskog Carstva, vladajući golemim teritorijima koji su obuhvaćali velik dio Europe, ali i novootkrivene posjede u Americi i Aziji (poput Filipina), zbog čega je njegova država dobila povijesni nadimak \"carstvo u kojem sunce nikada ne zalazi\" jer je u svakom trenutku dana barem na jednom dijelu njegova teritorija bilo dnevno svjetlo?",
     "answers": [
       "Karlo V. Habzburški",
-      "Charles V Habsburgs",
-      "Karlo 5. Habzburški",
-      "Charles 5. Habsburgs",
-      "Karlo peti Habzburški",
-      "Charles peti Habsburgs",
-      "Karlo 5th Habsburgs",
-      "Charles 5th Habsburgs",
-      "Čarls 5. Habzburg",
-      "Čarls V. Habzburgs",
-      "Čarls peti Habzburški",
-      "Čarls 5th Habsburgs",
-      "Čarls fifth Habsburgs",
-      "Charles fifth Habsburgs",
-      "Karlo V.",
-      "Charles V",
-      "Karlo 5.",
-      "Charles 5.",
-      "Karlo peti",
-      "Charles peti",
-      "Karlo 5th",
-      "Charles 5th",
-      "Čarls 5.",
-      "Čarls V.",
-      "Čarls peti",
-      "Čarls 5th",
-      "Čarls fifth",
-      "Charles fifth"
+      "Rajnski Savez",
+      "Austro Ugarska"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -3006,13 +2498,11 @@
     "topic": "Povijest",
     "question": "Koji je oblik ratovanja, nakon što su se vojske na Zapadnom bojištu ukopale u kilometre povezanih položaja zaštićenih bodljikavom žicom i strojnicama, postao simbol Prvog svjetskog rata?",
     "answers": [
+      "Liga Naroda",
       "Rovovsko ratovanje",
-      "Rovovi",
-      "Rovovsko",
-      "Rovsko",
-      "Rovarenje",
-      "Rovanje"
+      "Magdeburg"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -3022,15 +2512,11 @@
     "topic": "Povijest",
     "question": "U babilonskoj mitologiji, bogovi se dijele na dvije grupe, Annunaki su bili vrhovni bogovi, a bogovi sluge su se nazivali kako?",
     "answers": [
-      "Igigi",
-      "Igigis",
-      "Igigiji",
-      "Igigii",
-      "Igigu",
-      "Igigui",
-      "Igiguji",
-      "Igigus"
+      "Anu",
+      "Anšar",
+      "Igigi"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3041,14 +2527,10 @@
     "question": "Kod kojeg se mjesta odvijala bitka iz 1809.g. koja je u trenutku održavanja bila najveća dotad vođena bitka u europskoj povijesti, s više od 80.000 poginulih, ranjenih, nestalih ili zarobljenih, s Napoleonove Francuske te Austrijske s druge strane?",
     "answers": [
       "Wagrama",
-      "Wagram",
-      "Vagrama",
-      "Vagram",
-      "Deutsch Wagram",
-      "German Wagram",
-      "Džerman Vagram",
-      "Dojč Vagram"
+      "Španjolske",
+      "Sumerskoj"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -3058,18 +2540,11 @@
     "topic": "Povijest",
     "question": "Kako se nazivao planinski narod sa Zagrosa koji je krajem 3. tisućljeća pr. Kr. pridonio padu Akadskog Carstva i neko vrijeme vladao Mezopotamijom?",
     "answers": [
-      "Gutejci",
-      "Gutijci",
-      "Gutićani",
-      "Gutites",
-      "Gutijani",
-      "Gutijćani",
-      "Gutećani",
-      "Gutetes",
-      "Gutejani",
-      "Gutejćani",
-      "Gutejski"
+      "Pasargad",
+      "Niniva",
+      "Gutejci"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3079,10 +2554,11 @@
     "topic": "Povijest",
     "question": "Koju je rijeku Napoleonova golema Velika armija prešla u lipnju 1812.g., čime je započeo kobni pohod na Rusiju?",
     "answers": [
-      "Njemen",
-      "Nemunas",
-      "Nemen"
+      "Niniva",
+      "Kursk",
+      "Njemen"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3093,10 +2569,10 @@
     "question": "Koje je prezime nosio britanski matematičar Alan Mathison koji je imao važnu ulogu u razbijanju šifri Enigme i poslije postao jedna od ključnih figura rane računalne znanosti te umjetne inteligencije?",
     "answers": [
       "Turing",
-      "Taring",
-      "Alan Turing",
-      "Alan Taring"
+      "Bletchley Park",
+      "Kir Veliki"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -3106,16 +2582,11 @@
     "topic": "Povijest",
     "question": "Po kojoj su boji, koju su i proizvodili, stari feničani dobili ime?",
     "answers": [
+      "Tir",
       "Ljubičasta",
-      "Ljubičastoj",
-      "Lila",
-      "Liloj",
-      "Lilas",
-      "Purple",
-      "Purples",
-      "Purpl",
-      "Purpls"
+      "Kartagu"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -3125,32 +2596,11 @@
     "topic": "Povijest",
     "question": "Najpoznatiji stari perzijski novac je darik, visokokvalitetni zlatnik iz  6. stoljeća pr. Kr. Imao je masu od 8,385 grama i čistoću zlata od oko 95,8%, a na sebi je nosio prikaz kojeg kralja u klečećem stavu s lukom i strijelom koji ga je dao i kovati?",
     "answers": [
+      "Darije I. Veliki",
       "Darija I. Velikog",
-      "Daria",
-      "Darja",
-      "Dario",
-      "Darijo",
-      "Darijo I. Veliki",
-      "Darijo I. Veliki",
-      "Daria I. Velikog",
-      "Daria I. Velikog",
-      "Darijo Prvi",
-      "Dario Prvi",
-      "Daria Prvog",
-      "Darija Prvog",
-      "Darija Prvog Velikog",
-      "Darijo Prvi Veliki",
-      "Dario Veliki",
-      "Darijo Veliki",
-      "Darija Velikog",
-      "Daria Velikog",
-      "Dario the Great",
-      "Dario d Grejt",
-      "Dario First",
-      "Dario Frst",
-      "Darayavahuš",
-      "Dario 1st"
+      "Perzepolis"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -3160,8 +2610,11 @@
     "topic": "Povijest",
     "question": "Kojim je kodnim nazivom bila poznata velika saveznička operacija iskrcavanja u Normandiji pokrenuta 6. lipnja(juna) 1944.g.?",
     "answers": [
+      "Trafalgar",
+      "Galipolje",
       "Overlord"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3171,9 +2624,11 @@
     "topic": "Povijest",
     "question": "Dok se grčka flota skrivala iza obližnjeg otoka, jedan je Grk ostao pred Trojom i uvjerio stanovnike da je konj sveti dar koji će im donijeti zaštitu. Kako se zvao taj lukavi Grk?",
     "answers": [
+      "Jutland",
       "Sinon",
-      "Sinopos"
+      "Maltu"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -3183,10 +2638,11 @@
     "topic": "Povijest",
     "question": "Napoleon je 1800.g. prešao Alpe preko prijevoja Velikog Svetog Bernarda i u posljednji trenutak preokrenuo bitku protiv Austrijanaca kod kojeg talijanskog mjesta?",
     "answers": [
-      "Marengo",
-      "Marenga",
-      "Marengoa"
+      "Napoleon",
+      "Maratona",
+      "Marengo"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3197,12 +2653,10 @@
     "question": "U kojem je normandijskom gradu Ivana Orleanska 1431.g. nakon crkvenog suđenja pogubljena, da bi gotovo pet stoljeća poslije bila proglašena sveticom Katoličke Crkve?",
     "answers": [
       "Rouen",
-      "Rouenu",
-      "Ruen",
-      "Ruenu",
-      "Rouens",
-      "Ruensu"
+      "Calais",
+      "Kiš"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -3212,11 +2666,11 @@
     "topic": "Povijest",
     "question": "Koji je francuski grad 1429.g. postao mjesto prvog velikog uspjeha Ivane Orleanske u Stogodišnjem ratu, kada je njezin dolazak pomogao prekinuti englesku opsadu i dramatično podići moral gotovo poražene Francuske?",
     "answers": [
+      "Uruk",
       "Orleans",
-      "Orlean",
-      "Orlen",
-      "Orlens"
+      "Galipolje"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -3227,8 +2681,10 @@
     "question": "Kod kojeg je grada 1943.g. vođena golema oklopna bitka nakon što su Nijemci pokušali presjeći veliku sovjetsku izbočinu na Istočnom bojištu?",
     "answers": [
       "Kursk",
-      "Kurska"
+      "Niniva",
+      "Ypres"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -3238,20 +2694,11 @@
     "topic": "Povijest",
     "question": "U drevnom Sumeru, duge vladavine mitskih vladara računale su se u gešima, tj. razdobljima od 60 g., nerovima, tj. razdobljima od 600 g., te sarovima, tj. razdobljima od koliko godina?",
     "answers": [
-      "3600",
-      "Tri tisuće i šesto",
-      "3 600",
-      "Tri hiljade i šesto",
-      "Tri iljade i šesto",
-      "Tri tisuće šesto",
-      "Tri hiljade šesto",
-      "Tri iljade šesto",
-      "Three thousand and six hundred",
-      "Three thousand six hundred",
-      "Tre tausend end siks handred",
-      "Tre tausend siks handred",
-      "MMMDC"
+      "3960",
+      "3240",
+      "3600"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3262,32 +2709,10 @@
     "question": "Perzijska kraljevska cesta koja datira iz vremena 5-og stoljeća pr. Kr bila je vrhunac tadašnje antičke cestogradnje. Sa dužinom od 2700km prolazila je kroz maloazijske pustinje, planine i močvare, Spajala je gradove Suzu i Sard, imala.odmorišta i sigurnosne točke a dao ju je izgraditi koji veliki perzijski vladar?",
     "answers": [
       "Darije I. Veliki",
-      "Daria",
-      "Darja",
-      "Dario",
-      "Darijo",
-      "Darija I. Velikog",
-      "Darijo I. Veliki",
-      "Daria I. Velikog",
-      "Daria I. Velikog",
-      "Darijo Prvi",
-      "Dario Prvi",
-      "Daria Prvog",
-      "Darija Prvog",
-      "Darija Prvog Velikog",
-      "Darijo Prvi Veliki",
-      "Dario Veliki",
-      "Darijo Veliki",
-      "Darija Velikog",
-      "Daria Velikog",
-      "Dario the Great",
-      "Dario d Grejt",
-      "Dario First",
-      "Dario Frst",
-      "Darijo 1st",
-      "Darije 1st",
-      "Darayavahuš"
+      "Perzepolis",
+      "Nil"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -3297,13 +2722,11 @@
     "topic": "Povijest",
     "question": "Što se tiče 7 svjetskih čuda iz antičkog doba, Napoleon je ratovao samo pored jednog, kojeg?",
     "answers": [
-      "Keopsove piramide",
-      "Piramida",
-      "Pyramid",
-      "Ceopses pyramid",
-      "Keopses Piramid",
-      "Keopses Pyramid"
+      "Nabukodonosor II.",
+      "Josepha Bonapartea",
+      "Keopsove piramide"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3314,17 +2737,10 @@
     "question": "Kako se naziva specifični oblik ratovanja koji je nastao tijekom španjolskog otpora Napoleonovoj okupaciji, a čiji naziv na španjolskom jeziku doslovno znači 'mali rat'?",
     "answers": [
       "Gerila",
-      "Gerilsko ratovanje",
-      "Guerrilla",
-      "Guerrila",
-      "Gerilski rat",
-      "Gerila rat",
-      "Guerilla rat",
-      "Guerilla warfare",
-      "Gerila varfer",
-      "Gerilsko",
-      "Gerilski"
+      "Xerkso",
+      "Huriti"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -3335,12 +2751,10 @@
     "question": "Kako se prema grčkoj legendi zove junak koji je od Maratona do Atene pretrčao 42km dug put kako bi Atenjane obavijestio o grčkoj vojnoj pobjedi nad Perzijcima te tako, ni ne sluteći, udario temelje maratonskoj utrci kakvu danas poznajemo?",
     "answers": [
       "Fidipid",
-      "Filipid",
-      "Pheidippides",
-      "Fidipides",
-      "Philippides",
-      "Filipides"
+      "Niniva",
+      "Hektor"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -3350,10 +2764,11 @@
     "topic": "Povijest",
     "question": "Na putu prema Egiptu Napoleonova je flota 1798.g. zauzela koji strateški važan sredozemni otok kojim je tada upravljao Malteški viteški red?",
     "answers": [
+      "Jutland",
       "Maltu",
-      "Malta",
-      "Maltas"
+      "Elba"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -3364,23 +2779,10 @@
     "question": "Kojoj su kartaškoj dinastiji pripadali slavni vojskovođe Hamilkar Barka i njegovi sinovi Hasdrubal, Hanibal i Mago?",
     "answers": [
       "Barkidi",
-      "Barkidskoj",
-      "Barkidska",
-      "Barkid",
-      "Barcids",
-      "Barcides",
-      "Barkids",
-      "Barkides",
-      "Barcidskoj",
-      "Barcidska",
-      "Barcidi",
-      "Barkidijska",
-      "Barkidijskoj",
-      "Barcidijska",
-      "Barcidijskoj",
-      "Barkidijevoj",
-      "Barcidijevoj"
+      "Maurijsko Carstvo",
+      "Međani"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -3390,13 +2792,11 @@
     "topic": "Povijest",
     "question": "Nakon deset godina neuspješne opsade Ahejci su se pretvarali da odlaze, a pred Trojom su ostavili golemi drveni predmet koji su Trojanci unijeli u grad. Unutra su bili skriveni ahejski vojnici a predmet je bio izgrađen u obliku koje životinje?",
     "answers": [
-      "Konja",
-      "Konj",
-      "Horse",
-      "Hors",
-      "Pferd",
-      "Pfead"
+      "Niniva",
+      "Kursk",
+      "Konja"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3406,9 +2806,11 @@
     "topic": "Povijest",
     "question": "Kako se zvao najveći i najpoznatiji grad Civilizacije doline Inda, poznat po naprednom urbanističkom planiranju i kanalizacijskom sustavu, u kojem se nalazi i znameniti veliki bazen za kupanje, jedno od najimpresivnijih građevinskih ostvarenja brončanog doba?",
     "answers": [
+      "Niniva",
       "Mohenjo Daro",
-      "Mohendžo Daro"
+      "Pasargad"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -3419,8 +2821,10 @@
     "question": "Kroz koje su područje Nijemci u prosincu 1944.g. ponovno pokušali iznenaditi Saveznike velikom zimskom ofenzivom, koristeći gotovo isti geografski pravac kao 1940.g.?",
     "answers": [
       "Ardeni",
-      "Ardenis"
+      "Kursk",
+      "Pruska"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -3430,13 +2834,11 @@
     "topic": "Povijest",
     "question": "Koja je francuska djevojka sa sela kao tinejdžerica stigla pred tada budućeg francuskog kralja Karla VII. tvrdeći da ima božansko poslanje i ubrzo postala simbol velikog francuskog preokreta u Stogodišnjem ratu?",
     "answers": [
-      "Ivana Orleanska",
-      "Joana of Arc",
-      "Žoana of Arh",
-      "Orleanska",
-      "Joana of Orleans",
-      "Žoana of Orlean"
+      "Tir",
+      "Xerkso",
+      "Ivana Orleanska"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3446,20 +2848,11 @@
     "topic": "Povijest",
     "question": "Sukob između Eannatuma, vladara Lagaša, i Uša, vladara Umme, ovjekovječen na Steli lešinara, smatra se jednim od najstarijih dokumentiranih ratova u povijesti a kojoj su drevnoj civilizaciji pripadali ti gradovi-države?",
     "answers": [
+      "Poljska",
       "Sumerskoj",
-      "Sumeranskoj",
-      "Summers",
-      "Summerian",
-      "Sumerian",
-      "Sumerijan",
-      "Sumerijans",
-      "Sumers",
-      "Sumerani",
-      "Sumeranima",
-      "Summerans",
-      "Sumeranskoj",
-      "Sumeranska"
+      "Kartaga"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -3469,11 +2862,11 @@
     "topic": "Povijest",
     "question": "Koji je drevni mezopotamski grad najpoznatiji kao dom legendarnog kralja Gilgameša koji je, prema predaji, opasao taj grad veličanstvenim zidinama i čija se epska priča smatra najstarijim sačuvanim književnim djelom u svijetu?",
     "answers": [
-      "Uruk",
-      "Unug",
-      "Ereč",
-      "Varga"
+      "Orleans",
+      "Niniva",
+      "Uruk"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3483,10 +2876,11 @@
     "topic": "Povijest",
     "question": "Koje je mjesto u listopadu 1917.g. postalo sinonim za katastrofalan poraz u talijanskom jeziku nakon što su njemačke i austro-ugarske snage ondje probile talijansko bojište?",
     "answers": [
-      "Caporetto",
-      "Kaporeto",
-      "Ćaporeto"
+      "Kobarid",
+      "Magdeburg",
+      "Caporetto"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3496,19 +2890,11 @@
     "topic": "Povijest",
     "question": "Tko se smatra utemeljiteljem Ahemenidskog Perzijskog Carstva a u Bibliji ima iznimno važnu ulogu kao osloboditelj Židova iz babilonskog sužanjstva? Bog ga je u knjizi proroka Izaije nazvao svojim 'pomazanikom', a izdao je i dekret koji im je omogućio povratak u Jeruzalem i obnovu hrama?",
     "answers": [
+      "Aleksandar Veliki",
       "Kir Veliki",
-      "Kir",
-      "Cir Veliki",
-      "Cir",
-      "Cyrus the Great",
-      "Cyrus d Grejt",
-      "Cyrus",
-      "Kirus",
-      "Kirus Veliki",
-      "Kirus d Grejt",
-      "Kir drugi Veliki",
-      "Kir II. Veliki"
+      "Pasargad"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -3518,10 +2904,11 @@
     "topic": "Povijest",
     "question": "Kada je Jacques Louis David slikao svoje remekdjelo s Napoleonom kako prelazi Alpe, onda je na umu imao i to da je Napoleon stigao u Italiju i austrijance pobijedio u bitci kod kojeg mjesta?",
     "answers": [
-      "Marengo",
-      "Marengoa",
-      "Marenga"
+      "Trafalgar",
+      "Orleans",
+      "Marengo"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3532,9 +2919,10 @@
     "question": "Kod kojeg je njemačkog grada Napoleon 1805. okružio vojsku austrijskog generala Macka i prisilio je na predaju gotovo bez velike odlučujuće bitke?",
     "answers": [
       "Ulma",
-      "Ulm",
-      "Ulms"
+      "Campoformio",
+      "Kursk"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -3544,13 +2932,11 @@
     "topic": "Povijest",
     "question": "Koja je unija sklopljena 1579.g. povezala sjeverne pobunjene provincije Nizozemske u čvršći savez i time postavila jedan od najvažnijih političkih temelja buduće neovisne Nizozemske?",
     "answers": [
+      "Filip II.",
       "Utrechtska Unija",
-      "Utrechtska",
-      "Utrechts",
-      "Utrehts",
-      "Utrehtska",
-      "Utrechts Union"
+      "Vilim I. Oranski"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -3560,9 +2946,11 @@
     "topic": "Povijest",
     "question": "Koji je bogati trgovački grad 1576.g. pretrpio brutalnu pljačku pobunjenih i neplaćenih španjolskih vojnika u događaju koji je u povijesti ostao poznat kao Španjolska furija?",
     "answers": [
+      "Gdanjsk",
       "Antwerpen",
-      "Antverpen"
+      "Lenjingrad"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -3573,10 +2961,10 @@
     "question": "Na samom početku 1. svjetskog rata, koja je neutralna država napadnuta 1914.g. kako bi njemačka vojska mogla zaobići snažnu francusku obranu na granici?",
     "answers": [
       "Belgija",
-      "Bel",
-      "Belgium",
-      "Belgijska"
+      "Velika Britanija",
+      "Italija"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -3586,9 +2974,11 @@
     "topic": "Povijest",
     "question": "Koju je državu Napoleon odlučio okupirati zato što nije dovoljno strogo provodila Kontinentalni sustav protiv Velike Britanije, čime je započeo rat na Pirenejskom poluotoku?",
     "answers": [
+      "Španjolske",
       "Portugal",
-      "Port"
+      "Britanskog"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -3598,8 +2988,11 @@
     "topic": "Povijest",
     "question": "Koji je sovjetski grad gotovo 900 dana bio pod Hitlerovom opsadom, dok su njegovi stanovnici preživljavali jednu od najtežih opsada u modernoj povijesti?",
     "answers": [
+      "Antwerpen",
+      "Calais",
       "Lenjingrad"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3609,12 +3002,11 @@
     "topic": "Povijest",
     "question": "Kojim su nazivom bili poznati japanski piloti koji su u završnim fazama 2. svjetskog rata namjerno usmjeravali zrakoplove prema savezničkim brodovima s ciljem da se zabiju direktno u njih?",
     "answers": [
-      "Kamikaze",
-      "Kamikaza",
-      "Camicase",
-      "Camikaze",
-      "Kamicaze"
+      "Patroklo",
+      "Missouri",
+      "Kamikaze"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3624,10 +3016,11 @@
     "topic": "Povijest",
     "question": "U 1. svjetskom ratu, kako su vojnici nazivali opasan prostor između vlastitih i neprijateljskih rovova, preko kojeg se tijekom napada moralo napredovati gotovo bez ikakva zaklona?",
     "answers": [
-      "Ničija zemlja",
-      "Nobodys land",
-      "Nobodis lend"
+      "Bastogne",
+      "Sile Antante",
+      "Ničija zemlja"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3637,12 +3030,11 @@
     "topic": "Povijest",
     "question": "Nakon smrti Nabopolasara, koji njegov sin dolazi na vlast novobabilonskog carstva gdje s vremenom postaje jedan od najvećih vladara u njihovoj povijesti?",
     "answers": [
-      "Nabukodonosor II.",
-      "Nabukodonosor 2.",
-      "Nabukodonosor drugi",
-      "Nabukodonosor",
-      "Nebukadnezar"
+      "Sargon",
+      "Maurijsko Carstvo",
+      "Nabukodonosor II."
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3652,11 +3044,11 @@
     "topic": "Povijest",
     "question": "Tko je bio ostarjeli kralj Troje i otac Hektora, Parisa i Kasandre?",
     "answers": [
+      "David",
       "Prijam",
-      "Priam",
-      "Priamos",
-      "Podark"
+      "Xerkso"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -3666,12 +3058,11 @@
     "topic": "Povijest",
     "question": "Od staroperzijske riječi za ograđeni kraljevski vrt nastala je koja današnja riječ koja označava mjesto vječnog blagostanja?",
     "answers": [
+      "Tir",
       "Raj",
-      "Paradise",
-      "Paradajz",
-      "Paradiso",
-      "Paradizo"
+      "Nil"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -3682,12 +3073,10 @@
     "question": "U kojem je gradu nekoliko carskih predstavnika 1618.g. preživjelo izbacivanje kroz prozor, dok je politički potres izazvan njihovim padom pomogao pokrenuti sukob koji će trajati sljedećih trideset godina?",
     "answers": [
       "Pragu",
-      "Prag",
-      "Prague",
-      "Praha",
-      "Pragues",
-      "Prahi"
+      "Friedlanda",
+      "Niniva"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -3697,16 +3086,11 @@
     "topic": "Povijest",
     "question": "Westfalskim mirom iz 1648.g. okončan je Tridesetogodišnji i koji još, dugotrajniji rat?",
     "answers": [
-      "Osamdesetogodišnji",
-      "80",
-      "80ogodišnji",
-      "Eighty years war",
-      "Ejti jirs var",
-      "LXXX",
-      "80 godina",
-      "80 years war",
-      "80 jirs var"
+      "Velika Britanija",
+      "Kristijan IV.",
+      "Osamdesetogodišnji"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3717,10 +3101,10 @@
     "question": "Kojim je kodnim nazivom Njemačka nazvala plan invazije na Poljsku pokrenut u rujnu 1939.g.?",
     "answers": [
       "Weiss",
-      "Vajs",
-      "Bijela",
-      "Bijelo"
+      "Gdanjsk",
+      "Overlord"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -3731,10 +3115,10 @@
     "question": "Po kojem nadimku pamtimo Thomasa Edwarda Lawrencea britanskog časnika, arheologa i pisca, koji je imao važnu ulogu u Arapskom ustanku tijekom Prvog svjetskog rata te napisao knjigu Sedam stupova mudrosti? Po njemu je 1962.g. snimljen višestruko nagrađivani film, a sudjelovao je i u iskapanjima drevnog grada Karkemiša na rijeci Eufrat, jednog od najvažnijih antičkih gradova Bliskog istoka?",
     "answers": [
       "Lawrence od Arabije",
-      "Lawrence of Arabia",
-      "Lavrenc of Arabija",
-      "Lavrenc od Arabije"
+      "Galipolje",
+      "Orleans"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -3745,8 +3129,10 @@
     "question": "Kojom su kraticom nazvane australske i novozelandske postrojbe čije su borbe na Galipolju 1915.g. postale toliko važne za nacionalno sjećanje obje zemlje da se 25. travnja i danas obilježava njihov dan?",
     "answers": [
       "ANZAC",
-      "ANZAK"
+      "Šaul",
+      "Merduk"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -3757,10 +3143,10 @@
     "question": "Koji je talijanski otok Saveznicima 1943.g. poslužio kao prva velika odskočna daska za invaziju europskog teritorija pod kontrolom sila Osovine?",
     "answers": [
       "Sicilija",
-      "Sicily",
-      "Sicili",
-      "Sicilia"
+      "Okinawa",
+      "Guadalcanal"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -3770,10 +3156,11 @@
     "topic": "Povijest",
     "question": "Koji je asirski kralj osnovao jednu od najstarijih poznatih kraljevskih knjižnica, u kojoj je pronađen Ep o Gilgamešu?",
     "answers": [
-      "Ašurbanipal",
-      "Aššurbanapli",
-      "Sardanapal"
+      "Breitenfeld",
+      "Akadsko",
+      "Ašurbanipal"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3783,9 +3170,11 @@
     "topic": "Povijest",
     "question": "Kod kojeg su pacifičkog atola Amerikanci u lipnju 1942.g., zahvaljujući i razbijanju japanskih šifri, potopili četiri japanska nosača zrakoplova i teško oslabili japansku pomorsku moć?",
     "answers": [
-      "Midway",
-      "Midvej"
+      "Turing",
+      "Paulus",
+      "Midway"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3795,9 +3184,11 @@
     "topic": "Povijest",
     "question": "Koja je Prijamova kći mogla vidjeti budućnost, ali je bila prokleta tako da joj nitko ne povjeruje kada je upozoravala Trojance na propast?",
     "answers": [
+      "Briseida",
       "Kasandrs",
-      "Cassandra"
+      "Napoleon"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -3807,15 +3198,11 @@
     "topic": "Povijest",
     "question": "Bitka od Eylaua iz 1807.g., vođena u snijegu i gotovo nikakvoj vidljivosti kroz oluju, završila je golemim gubicima na obje strane bez jasnog pobjednika. Na jednoj strani je bila Francuska s Napoleonom a na drugoj Rusija i koja još kraljevina?",
     "answers": [
+      "Niniva",
       "Pruska",
-      "Pruska kraljevina",
-      "Prussia",
-      "Prusija",
-      "Prusi",
-      "Prussian Kingdom",
-      "Prusijan Kingdom",
-      "Prusijan"
+      "Karlo V. Habzburški"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -3826,15 +3213,10 @@
     "question": "U kojoj je bitki 1620.g. nedaleko od Praga carska habzburška vojska brzo slomila češki ustanak i otvorila put snažnom habsburškom obračunu s pobunjenim češkim plemstvom u jeku Tridesetogodišnjeg rata?",
     "answers": [
       "Bitka na Bijeloj Gori",
-      "Bijela Gora",
-      "Biela Hora",
-      "White Mountain",
-      "Battle.of White Mountain",
-      "Batl of Vajt Mountn",
-      "Bila gora",
-      "Bijeloj Gori",
-      "Biloj Gori"
+      "Albrecht von Wallenstein",
+      "Breitenfeld"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -3844,8 +3226,11 @@
     "topic": "Povijest",
     "question": "Koji je grad na Volgi postao mjesto goleme borbe od 1942.g. do 1943.g. nakon koje je cijela njemačka 6. armija završila opkoljena i prisiljena na predaju?",
     "answers": [
-      "Staljingrad"
+      "Konja",
+      "Staljingrad",
+      "Kursk"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -3856,12 +3241,10 @@
     "question": "Koliko je točaka sadržavao mirovni program američkog predsjednika Woodrowa Wilsona, predstavljen početkom 1918.g. kao prijedlog uređenja svijeta nakon završetka 1. svjetskog rata?",
     "answers": [
       "14",
-      "Četrnaest",
-      "Fourteen",
-      "Fortin",
-      "Forteen",
-      "XIV"
+      "13",
+      "19"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -3871,14 +3254,11 @@
     "topic": "Povijest",
     "question": "'Vrata svih naroda' ili Kserksova vrata dao je sagraditi kralj Kserkso I. 475.g. pr. Kr. a predstavaljala su monumentalni ulazni portal u koji drevni perzijski grad?",
     "answers": [
+      "Salomon",
       "Perzepolis",
-      "Persepolis",
-      "Parsa",
-      "Parsu",
-      "Taht-e Džamšid",
-      "Tahsti Džamšid",
-      "Čehel Minar"
+      "Nabukodonosor II."
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -3889,8 +3269,10 @@
     "question": "Kako se zvala božica zemlje i Anšarova družica, majka boga Anua prema mezopotamskoj kozmogoniji?",
     "answers": [
       "Kišar",
-      "Kishar"
+      "Ninhursag",
+      "ANZAC"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -3900,9 +3282,11 @@
     "topic": "Povijest",
     "question": "U kojem je gradu 28. lipnja 1914. atentatom na austro-ugarskog prijestolonasljednika Franju Ferdinanda započeo lanac događaja koji će dovesti do Prvog svjetskog rata?",
     "answers": [
+      "Gdanjsk",
       "Sarajevu",
-      "Sarajevo"
+      "Magdeburg"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -3912,15 +3296,11 @@
     "topic": "Povijest",
     "question": "Koji je kartaški vojskovođa, zet Hamilkara Barke i Hanibalov šurjak, 227.g. pr. Kr. osnovao Qart Hadašt, tj. današnju Cartagenu u Španjolskoj?",
     "answers": [
+      "Aleksandar Veliki",
       "Hasdrubal Lijepi",
-      "Hazdrubal Lijepi",
-      "Hazdrubal",
-      "Hasdrubal",
-      "Hasdrubal the Fair",
-      "Hazdrubal the Fair",
-      "Hazdrubal d fer",
-      "Hazdrubal d feir"
+      "Akadsko"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -3930,11 +3310,11 @@
     "topic": "Povijest",
     "question": "Kraj Kserksove invazije na grčke gradove označila je pobjeda ujedinjenih grčkih polisa protiv perzijske vojske kod kojeg mjesta?",
     "answers": [
+      "Leipzig",
       "Plateja",
-      "Plateje",
-      "Platee",
-      "Platea"
+      "Amiensa"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -3944,16 +3324,11 @@
     "topic": "Povijest",
     "question": "Koja je bogata srednjoeuropska pokrajina puna rudnika, razvijenih gradova i snažne proizvodnje postala glavnim predmetom austrijsko-pruskog suparništva nakon što ju je Fridrik II. preoteo Habsburgovcima?",
     "answers": [
-      "Šleska",
-      "Sleska",
-      "Slezija",
-      "Šlezija",
-      "Slask",
-      "Schleise",
-      "Šlejsen",
-      "Sleszko",
-      "Šlesko"
+      "Feničani",
+      "Berlin",
+      "Šleska"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -3964,22 +3339,10 @@
     "question": "Koji je ruski car osobno bio prisutan kod Austerlitza, gdje je njegova vojska zajedno s Austrijancima pretrpjela težak poraz od Napoleona?",
     "answers": [
       "Aleksandar I.",
-      "Aleksandar",
-      "Alexandar I.",
-      "Alexandar",
-      "Aleksandar 1.",
-      "Alexandar 1.",
-      "Aleksandar prvi",
-      "Alexandar prvi",
-      "Aleksandar I. Pavlovič",
-      "Aleksandar Pavlovič",
-      "Alexandar I. Pavlovič",
-      "Alexandar Pavlovič",
-      "Aleksandar 1. Pavlovič",
-      "Alexandar 1. Pavlovič",
-      "Aleksandar prvi Pavlovič",
-      "Alexandar prvi Pavlovič"
+      "Mir u Tilzitu",
+      "Ašoka Veliki"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -3989,11 +3352,11 @@
     "topic": "Povijest",
     "question": "Koji je savez sklopljen je 20. svibnja(maja) 1882. godine između Njemačke, Austro-Ugarske i Italije? Ovaj tajni obrambeni vojni blok bio je važan uvod u Prvi svjetski rat, a raspao se 1915. godine kada je Italija istupila i prešla na stranu Antante.",
     "answers": [
-      "Trojni pakt",
-      "Trojni savez",
-      "Trojni",
-      "3ojni"
+      "Londonu",
+      "Italija",
+      "Trojni pakt"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4003,15 +3366,11 @@
     "topic": "Povijest",
     "question": "Prema mezopotamskoj mitologiji, Anšar je bio bog neba a Kišar je bila božica čega?",
     "answers": [
+      "Anu",
       "Zemlje",
-      "Zemlja",
-      "Earth",
-      "Ert",
-      "Erth",
-      "Earths",
-      "Erts",
-      "Erths"
+      "Anšar"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -4021,9 +3380,11 @@
     "topic": "Povijest",
     "question": "Koji je trojanski svećenik upozoravao svoje sugrađane da ne vjeruju drvenom konju ostavljenom pred gradskim zidinama?",
     "answers": [
-      "Laokont",
-      "Laokoon"
+      "Perzepolis",
+      "Akre",
+      "Laokont"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4033,9 +3394,11 @@
     "topic": "Povijest",
     "question": "Koji je francuski grad 1916. gotovo deset mjeseci bio središte iscrpljujuće njemačke ofenzive i postao simbol francuskog otpora uz poznatu poruku 'Neće proći'?",
     "answers": [
+      "Gdanjsk",
       "Verdun",
-      "Vairdun"
+      "Magdeburg"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -4046,16 +3409,10 @@
     "question": "Koji je francuski general, jedan od najvećih u prvoj francuskoj revoluciji stigao na bojište kod Marenga u ključnom trenutku, predložio protunapad i pomogao pretvoriti gotovo siguran poraz u pobjedu, ali je u istoj borbi i poginuo?",
     "answers": [
       "Louis Desaix",
-      "Luj Dešo",
-      "Desaix",
-      "Dešo",
-      "Louis Charles Antoine Desaix",
-      "Desaix de Veygoux",
-      "Lui Deze",
-      "Luj Deze",
-      "Lui Dešo",
-      "Deze de Vejgoe"
+      "Borodina",
+      "Henrik V."
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -4065,11 +3422,11 @@
     "topic": "Povijest",
     "question": "Prema babilonskom epu Enuma Eliš, od krvi kojeg je ubijenog božanstva, Enki stvorio ljude da služe bogovima?",
     "answers": [
+      "Merduk",
       "Kingu",
-      "Kingua",
-      "Kingus",
-      "Kinga"
+      "Lahamu"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -4079,8 +3436,11 @@
     "topic": "Povijest",
     "question": "Kada grčka flota zbog nepovoljnog vjetra nije mogla isploviti prema Troji, Agamemnon je prema mitu morao žrtvovati vlastitu kćer. Kako se ona zvala?",
     "answers": [
-      "Ifigenija"
+      "Briseida",
+      "Ifigenija",
+      "Filoktet"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -4090,13 +3450,11 @@
     "topic": "Povijest",
     "question": "Koliko je godina, prema grčkoj predaji, trajala opsada Troje?",
     "answers": [
+      "13",
       "10",
-      "Deset",
-      "Ten",
-      "X",
-      "Cen",
-      "Zen"
+      "12"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -4106,11 +3464,11 @@
     "topic": "Povijest",
     "question": "Koju je božicu Paris izabrao ako mu je Hera obećavala vlast, Atena mudrost i pobjede, a  božica Afrodita ljubav najljepše žene na svijetu?",
     "answers": [
+      "Paris",
       "Afroditu",
-      "Afrodita",
-      "Aphroditu",
-      "Aphrodita"
+      "Tijamat"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -4120,11 +3478,11 @@
     "topic": "Povijest",
     "question": "U kojoj se pariškoj katedrali Napoleon 1804.g. okrunio za francuskog cara, uzevši krunu pred papom Pijem VII. i položivši je na vlastitu glavu?",
     "answers": [
+      "Španjolske",
       "Notre Dame",
-      "Noter dam",
-      "Noterdam",
-      "Notredame"
+      "Napoleon"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -4135,13 +3493,10 @@
     "question": "Od koliko se slova sastojalo feničko pismo, prvo fonetsko pismo na svijetu u kojemu je svaki glas imao svoj znak?",
     "answers": [
       "22",
-      "Dvadeset i dva",
-      "Dvadeset dva",
-      "XXII",
-      "Twenty two",
-      "Tventi tu",
-      "Tventi tvu"
+      "32",
+      "12"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -4151,13 +3506,11 @@
     "topic": "Povijest",
     "question": "Današnji Slavkov kod Brna u Češkoj nekada je bio poprište bitke Napoleonove Francuske protiv Ruskog i Austrijskog carstva a u to vrijeme taj sukob se nazivao bitkom kod kojeg mjesta?",
     "answers": [
+      "Osmanskog",
       "Austerlitza",
-      "Osterlica",
-      "Asterlica",
-      "Osterlic",
-      "Asterlic",
-      "Austerlitz"
+      "Gutejci"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -4167,9 +3520,11 @@
     "topic": "Povijest",
     "question": "Kojim se njemačkim izrazom nazivala taktika brzog prodora tenkova, zrakoplovstva i motoriziranog pješaštva kojom su u prvim godinama 2. svjetskog rata protivničke obrane često bile razbijene prije nego što bi se uspjele organizirati?",
     "answers": [
-      "Blitzkrieg",
-      "Blickrig"
+      "Britanskog",
+      "Italija",
+      "Blitzkrieg"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4179,8 +3534,11 @@
     "topic": "Povijest",
     "question": "Koji je njemački grad 1631.g. gotovo potpuno uništen nakon što su ga zauzele habzburške carske snage, pri čemu je stradanje njegova stanovništva postalo jedan od najmračnijih simbola čitavog Tridesetogodišnjeg rata?",
     "answers": [
+      "Ypres",
+      "Xerkso",
       "Magdeburg"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4191,11 +3549,10 @@
     "question": "Koji je britanski premijer, preuzevši dužnost upravo u svibnju 1940.g.postao simbol britanskog odbijanja da nakon pada Francuske pregovara s Hitlerom?",
     "answers": [
       "Winston Churchill",
-      "Vinston Curčil",
-      "Churchill",
-      "Čurčil",
-      "Črčil"
+      "Mak",
+      "Spitfire"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -4205,8 +3562,11 @@
     "topic": "Povijest",
     "question": "Koji je libijski lučki grad mjesecima odolijevao snagama Osovine i zbog svog strateškog položaja postao jedno od ključnih mjesta sjevernoafričkog bojišta?",
     "answers": [
-      "Tobruk"
+      "Gdanjsk",
+      "Tobruk",
+      "Calais"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -4216,8 +3576,11 @@
     "topic": "Povijest",
     "question": "Kako se zvao glavni grad drevnog Elama, koji je kasnije postao i jedna od prijestolnica Perzijskog Carstva, a čije ime u hrvatskom jeziku često izgovaramo i u tuzi i u radosti?",
     "answers": [
-      "Suza"
+      "Suza",
+      "Pasargad",
+      "Niniva"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -4227,11 +3590,11 @@
     "topic": "Povijest",
     "question": "Koje je prezime nosio njemački zapovjednik Afričkog korpusa Erwin, koji je zbog svojih manevara u sjevernoafričkoj pustinji dobio nadimak 'Pustinjska lisica'?",
     "answers": [
+      "Paulus",
       "Rommel",
-      "Erwin Rommel",
-      "Ervin Romel",
-      "Romel"
+      "Tobruk"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -4242,18 +3605,10 @@
     "question": "Koju je oznaku nosio prvi britanski model tenka koji se 1916. pojavio na Sommi, prepoznatljiv po neobičnom romboidnom obliku i gusjenicama koje su se protezale oko gotovo cijelog vozila?",
     "answers": [
       "Mark I",
-      "Mark 1.",
-      "Mark one",
-      "Mark jedan",
-      "Mark prvi",
-      "Mark",
-      "Marc I",
-      "Marc 1.",
-      "Marc one",
-      "Marc jedan",
-      "Marc prvi",
-      "Marc"
+      "Turing",
+      "Petain"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -4263,14 +3618,11 @@
     "topic": "Povijest",
     "question": "Koliko je godina trajao, simboličnim okruglim brojem nazvan, Stogodišnji rat?",
     "answers": [
+      "104.4",
       "116",
-      "Sto šesnaest",
-      "CXVI",
-      "One hundred sixteen",
-      "Van handred sikstin",
-      "Sto i šesnaest",
-      "Stotinu šesnaest"
+      "110.2"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -4280,8 +3632,11 @@
     "topic": "Povijest",
     "question": "Kako se zvala sestra Lahmua i jedna od prvih božica rođenih iz Apsua i Tijamat prema babilonskom epu o stvaranju svijeta 'Enuma Eliš'?",
     "answers": [
+      "Tijamat",
+      "Kingu",
       "Lahamu"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4292,27 +3647,10 @@
     "question": "Po kojoj su božici ime dobila monumentalna gradska vrata Babilona, obložena plavim glaziranim opekama i ukrašena reljefima lavova, bikova i zmajeva, čija se vjerna rekonstrukcija danas čuva u muzeju u Berlinu?",
     "answers": [
       "Ištar",
-      "Ištara",
-      "Ištarina",
-      "Ištarska",
-      "Ištareva",
-      "Ištarini",
-      "Ištari",
-      "Ištare",
-      "Ishtar",
-      "Ishtari",
-      "Ishtara",
-      "Ishtare",
-      "Ishtars",
-      "Inana",
-      "Inanna",
-      "Inena",
-      "Inene",
-      "Inanini",
-      "Ininas",
-      "Inannas",
-      "Inannini"
+      "Uruk",
+      "Tir"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -4322,11 +3660,11 @@
     "topic": "Povijest",
     "question": "Kojim su njemačkim nazivom, nastalim skraćivanjem riječi za podmornicu, postala poznata plovila kojima je Njemačka pokušavala presjeći britanske pomorske opskrbne pravce?",
     "answers": [
-      "U boot",
-      "U bot",
-      "Uboot",
-      "Ubot"
+      "Xerkso",
+      "Kamikaze",
+      "U boot"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4336,9 +3674,11 @@
     "topic": "Povijest",
     "question": "Prijam je imao mnogo sinova, ali jedan je bio najveći zaštitnik Troje, sposoban zaustaviti čak i najbolje grčke ratnike. Koji je trojanski junak na svojim ramenima nosio sudbinu cijeloga grada?",
     "answers": [
+      "Niniva",
       "Hektor",
-      "Hector"
+      "Kursk"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -4348,15 +3688,11 @@
     "topic": "Povijest",
     "question": "Češki su plemići 1618.g. kroz prozore dvorca izbacili izaslanike carske obitelji Habsburgovaca te tako otpočeli koji krvavi rat?",
     "answers": [
-      "Tridesetogodišnji",
-      "Thirty years war",
-      "Tirti jirs var",
-      "30ogodišnji",
-      "30",
-      "30 godina",
-      "30 years war",
-      "30 jirs var"
+      "Prozore",
+      "Bitka na Bijeloj Gori",
+      "Tridesetogodišnji"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4367,14 +3703,10 @@
     "question": "U kojem je tjesnacu kralj spartanaca Leonida, sa nekolicinom svoje vojske dočekao daleko mnogobrojniju perzijsku vojsku na čelu sa Kserksom I. ?",
     "answers": [
       "Termopil",
-      "Termopilu",
-      "Thermopilae",
-      "Thermopilaeu",
-      "Termopilaju",
-      "Termopilajeu",
-      "Termopilskom",
-      "Termopilski"
+      "Salomon",
+      "Španjolske"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -4384,11 +3716,11 @@
     "topic": "Povijest",
     "question": "Koji je talijanski diktator svrgnut 1943.g. nakon savezničkog iskrcavanja na Siciliji i sve težeg položaja Italije u ratu?",
     "answers": [
-      "Benito Mussolini",
-      "Benito Musolini",
-      "Mussolini",
-      "Musolini"
+      "Velika Britanija",
+      "Aleksandra Velikog",
+      "Benito Mussolini"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4398,9 +3730,11 @@
     "topic": "Povijest",
     "question": "Kroz koje su šumovito i brdovito područje Nijemci 1940.g. izveli neočekivani glavni prodor prema Francuskoj, zaobilazeći najjače dijelove francuske obrane?",
     "answers": [
+      "Marni",
       "Ardeni",
-      "Ardene"
+      "Spitfire"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -4411,12 +3745,10 @@
     "question": "Koji je francuski lučki grad Edvard III. zauzeo 1347.g. nakon gotovo godinu dana opsade i pretvorio u englesko uporište koje će ostati u njihovim rukama više od dva stoljeća?",
     "answers": [
       "Calais",
-      "Kale",
-      "Kalej",
-      "Kalaj",
-      "Kalais",
-      "Kaleis"
+      "Lenjingrad",
+      "Rouen"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -4426,15 +3758,11 @@
     "topic": "Povijest",
     "question": "Tjekom Stogodišnjeg rata, koji je bretonski vojskovođa kao glavni zapovjednik Karla V. Mudrog godinama vodio uspješan rat protiv Engleza i nakon smrti dobio iznimnu čast pokopa u kraljevskoj bazilici Saint-Denis?",
     "answers": [
+      "Ugovor iz Troyesa",
       "Bertrand du Guesclin",
-      "Bertren du Geklan",
-      "Du Guesclin",
-      "Du Geklan",
-      "Geklan",
-      "Guesclin",
-      "Gesklin",
-      "Bertren du Gesklin"
+      "Vilim I. Oranski"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -4444,11 +3772,11 @@
     "topic": "Povijest",
     "question": "Koji je akadski vladar, prema legendi, kao novorođenče bio položen u košaru od trske i pušten niz rijeku, što je jedna od najstarijih poznatih priča te vrste?",
     "answers": [
-      "Sargon",
-      "Šaru Kinu",
-      "Šarukinu",
-      "Šargon"
+      "Konja",
+      "Karkemiš",
+      "Sargon"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4458,13 +3786,11 @@
     "topic": "Povijest",
     "question": "Pokraj kojeg je francuskog grada, u željezničkom vagonu skrivenom u obližnjoj šumi, 11. studenoga(novembra) 1918.g. potpisano primirje koje je zaustavilo borbe 1. svjetskog rata na Zapadnom bojištu?",
     "answers": [
+      "Sarajevu",
       "Compiegne",
-      "Konpjen",
-      "Kompin",
-      "Compiegnea",
-      "Konpjena",
-      "Kompina"
+      "Nurnbergu"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -4474,11 +3800,11 @@
     "topic": "Povijest",
     "question": "Grčki je junak Fidipid pretrčao 42km u komadu kako bi sve u Ateni obavijestio da je Grčka vojska pobijedila Perzijsku u bitci kraj kojeg mjesta?",
     "answers": [
-      "Maratona",
-      "Maraton",
-      "Marathona",
-      "Marathon"
+      "Odisej",
+      "Fidipid",
+      "Maratona"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4489,10 +3815,10 @@
     "question": "'Zlatna lira s bikovom glavom' jedno je od najstarijih sačuvanih žičanih glazbala na svijetu. Stara je oko 4500 g., izradili su je drevni Sumerani, a pronađena je u Kraljevskim grobnicama na arheološkom nalazištu kojeg nekoć slavnog sumerskog grada?",
     "answers": [
       "Ur",
-      "Ura",
-      "Uru",
-      "Urim"
+      "Tir",
+      "Nil"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -4503,9 +3829,10 @@
     "question": "Kako se zvao mladi pripadnik Mlade Bosne koji je izvršio atentat na Franju Ferdinanda?",
     "answers": [
       "Gavrilo Princip",
-      "Gavrilo",
-      "Princip"
+      "Aleksandar Veliki",
+      "Sarajevu"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -4515,12 +3842,11 @@
     "topic": "Povijest",
     "question": "Koja je dinastija težnjom za jačanjem carske i katoličke vlasti izazvala snažan otpor protestantskih staleža te postala glavnom dinastičkom silom protiv koje su se tijekom Tridesetogodišnjeg rata stvarale europske koalicije?",
     "answers": [
+      "Rusko",
       "Habsburgovci",
-      "Habzburška",
-      "Habsburg",
-      "Habzburg",
-      "Habsburgs"
+      "Rajnski Savez"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -4530,11 +3856,11 @@
     "topic": "Povijest",
     "question": "Neslužbeno geslo Američke Poštanske Službe (USPS) koje glasi: 'Niti snijeg, niti kiša, niti vrućina, niti tama noći ne sprečavaju ove pismonoše u brzom obavljanju njihovih zadataka', zapravo je posuđeni antički zapis koji je napisao koji starogrčki povjesničar, koji je ovim riječima opisivao bezprijekorne perzijske pismonoše?",
     "answers": [
+      "Ind",
       "Herodot",
-      "Herodota",
-      "Herodoth",
-      "Herodotus"
+      "Mir u Tilzitu"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -4544,11 +3870,11 @@
     "topic": "Povijest",
     "question": "Koja je država nakon atentata u Sarajevu uputila Srbiji ultimatum čiji su zahtjevi postali jedan od neposrednih povoda za Pevi svjetski rat?",
     "answers": [
-      "Austro Ugarska",
-      "Austrougarska",
-      "Austrija",
-      "Ugarska"
+      "Velika Britanija",
+      "Pearl Harbor",
+      "Austro Ugarska"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4558,8 +3884,11 @@
     "topic": "Povijest",
     "question": "Prvi je bio Šaul, a drugi izraelski kralj je bio tko?",
     "answers": [
-      "David"
+      "Prijam",
+      "David",
+      "Salomon"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -4569,15 +3898,11 @@
     "topic": "Povijest",
     "question": "Koji povijesni naziv koristimo za područje između rijeke Jordan i Sredozemnoga mora, poslije poznatije pod nazivom Palestina?",
     "answers": [
-      "Kanaan",
-      "Kenaan",
-      "Kana an",
-      "Kena an",
-      "Ken an",
-      "Kan an",
-      "Kenan",
-      "Kanan"
+      "Quebec",
+      "Eufrat",
+      "Kanaan"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4588,16 +3913,10 @@
     "question": "Koji je britanski vojskovođa godinama potiskivao Francuze iz Portugala i Španjolske, a poslije postao Napoleonov glavni protivnik kod Waterlooa?",
     "answers": [
       "Duke of Wellington",
-      "Wellington",
-      "Arthur Wellesley",
-      "Artur Velesli",
-      "Djuk of Velington",
-      "Velington",
-      "Artur Velisli",
-      "Artur Vilisli",
-      "Arthur Wellington",
-      "Artur Velington"
+      "Bertrand du Guesclin",
+      "Sir Horatio Nelson"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -4607,13 +3926,11 @@
     "topic": "Povijest",
     "question": "Svi znamo za Hanibala njegov ratni pohod na Rim preko Alpa sa slonovima te žestoke borbe s Rimljanima za vrijeme drugog punskog rata, no kako se zove njegov otac, takoder kartaški vojskovođa koji se s istim neprijateljem borio u prvom punskomq ratu?",
     "answers": [
+      "Mago Barka",
       "Hamilkar Barka",
-      "Hamilkar",
-      "Hamilcar Barca",
-      "Hamilcar",
-      "Barka",
-      "Barca"
+      "Hasdrubal Barka"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -4623,9 +3940,11 @@
     "topic": "Povijest",
     "question": "Uz obalu kojeg je danskog poluotoka 1916. vođen najveći pomorski sukob Prvog svjetskog rata između glavnih britanskih i njemačkih ratnih flota?",
     "answers": [
-      "Jutland",
-      "Jutlanda"
+      "Okinawa",
+      "Iwo Jima",
+      "Jutland"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4635,8 +3954,11 @@
     "topic": "Povijest",
     "question": "Kako se zvala njemačka šifrirna naprava čije su kodove Saveznici tijekom Drugog svjetskog rata uspjeli razbijati, čime su stekli veliku obavještajnu prednost nad Njemačkom?",
     "answers": [
-      "Enigma"
+      "Enigma",
+      "Nurnbergu",
+      "Britanskog"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -4646,9 +3968,11 @@
     "topic": "Povijest",
     "question": "Koji je boljševički vođa, nakon preuzimanja vlasti u Rusiji 1917.g., inzistirao na izlasku zemlje iz rata čak i po cijenu velikih teritorijalnih ustupaka Njemačkoj?",
     "answers": [
+      "Liga Naroda",
       "Vladimir Lenjin",
-      "Lenjin"
+      "Austro Ugarska"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -4658,9 +3982,11 @@
     "topic": "Povijest",
     "question": "U kojem je gradu 1915.g. sklopljen tajni sporazum kojim su sile Antante Italiji obećale teritorijalne dobitke ako uđe u rat protiv Austro-Ugarske?",
     "answers": [
-      "Londonu",
-      "London"
+      "Sarajevu",
+      "Campoformio",
+      "Londonu"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4671,8 +3997,10 @@
     "question": "Kako su se zajedničkim imenom nazivali grčki ratnici koji su pod vodstvom Agamemnona krenuli prema Troji?",
     "answers": [
       "Ahejci",
-      "Aheji"
+      "Inana",
+      "Hetiti"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -4682,32 +4010,11 @@
     "topic": "Povijest",
     "question": "Ime kojeg se perzijskog vladara iz Ahemenidske dinastije sa staroperzijskog prevodi kao 'Dobri Vladar'?",
     "answers": [
+      "Asirsko Carstvo",
       "Darije I. Veliki",
-      "Daria",
-      "Darja",
-      "Dario",
-      "Darijo",
-      "Darija I. Velikog",
-      "Darijo I. Veliki",
-      "Daria I. Velikog",
-      "Daria I. Velikog",
-      "Darijo Prvi",
-      "Dario Prvi",
-      "Daria Prvog",
-      "Darija Prvog",
-      "Darija Prvog Velikog",
-      "Darijo Prvi Veliki",
-      "Dario Veliki",
-      "Darijo Veliki",
-      "Darija Velikog",
-      "Daria Velikog",
-      "Dario the Great",
-      "Dario d Grejt",
-      "Dario First",
-      "Dario Frst",
-      "Darijo 1st",
-      "Darayavahuš"
+      "Karlo V. Habzburški"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -4717,13 +4024,11 @@
     "topic": "Povijest",
     "question": "Kako se nazivao semitski narod koji je početkom 2. tisućljeća pr. Kr. preuzeo vlast u brojnim mezopotamskim gradovima, uključujući Babilon, iz kojeg je potekao i Hamurabi?",
     "answers": [
+      "Feničani",
       "Amorejci",
-      "Amorićani",
-      "Amurrum",
-      "Amoriti",
-      "Amorejski",
-      "Amoritski"
+      "Gdanjsk"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -4734,10 +4039,10 @@
     "question": "Kako se zvao babilonski bog slatkih, podzemnih voda koji je prema epu Enuma Eliš bio Tijamatin prvi suprug?",
     "answers": [
       "Apsu",
-      "Apzu",
-      "Absu",
-      "Abzu"
+      "Enki",
+      "Merduk"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -4748,16 +4053,10 @@
     "question": "Koji je švedski kralj 1630.g. iskrcao svoju discipliniranu vojsku u Njemačkoj, proslavio se modernijom uporabom pješaštva i topništva te zbog svojih pobjeda u Tridesetogodišnjem ratu stekao nadimak Lav sa sjevera?",
     "answers": [
       "Gustav II. Adolf",
-      "Gustav drugi Adolf",
-      "Gustav 2. Adolf",
-      "Gustav 2nd Adolf",
-      "Gustav Second Adolf",
-      "Gustav II.",
-      "Gustav 2.",
-      "Gustav 2nd",
-      "Gustav Second",
-      "Gustav drugi"
+      "Tridesetogodišnjeg",
+      "Xerkso"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -4767,12 +4066,11 @@
     "topic": "Povijest",
     "question": "Koji je kemijski element Njemačka kod Ypresa 1915.g. pustila iz tisuća cilindara stvarajući zelenkasto-žuti otrovni oblak koji je vjetar nosio prema savezničkim rovovima?",
     "answers": [
+      "Ypres",
       "Klor",
-      "Clor",
-      "Clore",
-      "Klore",
-      "Cl"
+      "Peta"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -4783,15 +4081,10 @@
     "question": "Kako se nazivala drevna pomorska i trgovačka civilizacija čiji su najpoznatiji gradovi bili Sidon, Tir i Biblos?",
     "answers": [
       "Fenicija",
-      "Fenička",
-      "Feničani",
-      "Fenics",
-      "Feniks",
-      "Fenic",
-      "Fenik",
-      "Feničanska",
-      "Fenicijska"
+      "Eufrat",
+      "Libanon"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -4802,31 +4095,10 @@
     "question": "Na visokoj stijeni kod Behistuna u današnjem Iranu uklesan je monumentalni natpis na staroperzijskom, elamskom i babilonskom jeziku. U njemu perzijski kralj opisuje svoj dolazak na prijestolje, pobjede nad pobunjenicima i uspostavljanje vlasti, a natpis je poslije imao ključnu ulogu u dešifriranju klinastog pisma. Koji je perzijski vladar dao izraditi Behistunski natpis?",
     "answers": [
       "Darije I. Veliki",
-      "Daria",
-      "Darja",
-      "Dario",
-      "Darijo",
-      "Darija I. Velikog",
-      "Darijo I. Veliki",
-      "Daria I. Velikog",
-      "Daria I. Velikog",
-      "Darijo Prvi",
-      "Dario Prvi",
-      "Daria Prvog",
-      "Darija Prvog",
-      "Darija Prvog Velikog",
-      "Darijo Prvi Veliki",
-      "Dario Veliki",
-      "Darijo Veliki",
-      "Darija Velikog",
-      "Daria Velikog",
-      "Dario the Great",
-      "Dario d Grejt",
-      "Dario First",
-      "Dario Frst",
-      "Darijo 1st",
-      "Darayavahuš"
+      "Kambiz II.",
+      "Perzepolis"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -4836,11 +4108,11 @@
     "topic": "Povijest",
     "question": "Kako se zvao osnivač Akadskog Carstva, koji je ujedinio velik dio Mezopotamije, osnovao prvo veliko carstvo u povijesti i porazio sumerskog vladara Lugalzagesija?",
     "answers": [
+      "Tri",
       "Sargon",
-      "Šaru Kinu",
-      "Šarukinu",
-      "Šargon"
+      "Međani"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -4851,15 +4123,10 @@
     "question": "Kako se zvalo carstvo koje je u 7. stoljeću pr. Kr. obuhvaćalo područje od Egipta do Perzijskog zaljeva, a prijestolnicu imalo u Ninivi?",
     "answers": [
       "Asirsko Carstvo",
-      "Asirija",
-      "Asirsko",
-      "Assyrian",
-      "Asirijan",
-      "Assyr",
-      "Asir",
-      "Assyrs",
-      "Asirs"
+      "Austro Ugarska",
+      "Rajnski Savez"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -4869,9 +4136,11 @@
     "topic": "Povijest",
     "question": "Kako se zvao prvi glavni grad Perzijskog carstva kojeg je ustanovio Kir Veliki, a ostaci mu se danas nalaze blizu modernog grada Širaza u Iranu?",
     "answers": [
-      "Pasargad",
-      "Pasargada"
+      "Suza",
+      "Niniva",
+      "Pasargad"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4882,18 +4151,10 @@
     "question": "Kojeg se starog perzijskog proroka i filozofa smatra osnivačem Mazdaizma?",
     "answers": [
       "Zaratustra",
-      "Zaratustru",
-      "Zaratuštra",
-      "Zaratuštru",
-      "Zoroaster",
-      "Zoroastera",
-      "Zoroastresa",
-      "Zoroastres",
-      "Zartosht",
-      "Zartost",
-      "Zartoshta",
-      "Zartosta"
+      "Kir Veliki",
+      "Čandraguptu"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -4903,13 +4164,11 @@
     "topic": "Povijest",
     "question": "Koja je portugalska princeza, udajom za engleskog kralja Charlesa II., popularizirala ispijanje čaja na engleskom kraljevskom dvoru te pridonijela nastanku britanske tradicije ispijanja čaja?",
     "answers": [
+      "Ugovor iz Troyesa",
       "Katarina od Bragenze",
-      "Katarina Bragenška",
-      "Catharine of Bragenza",
-      "Ketrin of Bragenz",
-      "Catarina de Bragenza",
-      "Katarina de Bragesa"
+      "Josepha Bonapartea"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -4919,8 +4178,11 @@
     "topic": "Povijest",
     "question": "Menelaj je za rat protiv Troje zatražio pomoć svojega moćnog brata, kralja Mikene. Taj je vladar okupio grčke junake i postao vrhovni zapovjednik pohoda na Troju a zvao se kako?",
     "answers": [
+      "Merduk",
+      "Menelaj",
       "Agamemnon"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4930,9 +4192,11 @@
     "topic": "Povijest",
     "question": "Koji je otok na Salomonskom otočju 1942.g. postao mjesto prve velike savezničke kopnene ofenzive protiv Japana na Pacifiku?",
     "answers": [
+      "Okinawa",
       "Guadalcanal",
-      "Gvadakanal"
+      "Portugal"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -4942,14 +4206,11 @@
     "topic": "Povijest",
     "question": "Bitka kod Austerlitza, gdje se Napoleon sukobio sa Austrijskim i Ruskim carstvom ostala je upamćena kao bitka koliko careva?",
     "answers": [
-      "3",
-      "Tri",
-      "Drei",
-      "Draj",
-      "Three",
-      "Tre",
-      "III"
+      "4",
+      "6",
+      "3"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -4960,17 +4221,10 @@
     "question": "Koja je država ušla u rat protiv Njemačke nakon njemačke invazije na neutralnu Belgiju na početku 1. svjetskog rata?",
     "answers": [
       "Velika Britanija",
-      "Britanija",
-      "Brit",
-      "GBR",
-      "VB",
-      "Britanci",
-      "Britons",
-      "Great Britain",
-      "Grejt Britani",
-      "Britannis",
-      "Britani"
+      "Italija",
+      "Belgija"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -4980,8 +4234,11 @@
     "topic": "Povijest",
     "question": "Kako se danas zove slovensko mjesto koje je Talijanima ostalo poznato kao Caporetto, mjesto njihova katastrofalnog poraza 1917. godine protiv Austro Ugarske?",
     "answers": [
-      "Kobarid"
+      "Antipatros",
+      "Kobarid",
+      "Caporetto"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -4992,10 +4249,10 @@
     "question": "Koja je Ahilejeva tjelesna točka postala simbol nečije jedine slabosti?",
     "answers": [
       "Peta",
-      "Ahilova Peta",
-      "Tetiva",
-      "Ahilova tetiva"
+      "Mak",
+      "Tir"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -5005,11 +4262,11 @@
     "topic": "Povijest",
     "question": "Kako se zvala najpoznatija fenička kolonija na sjeveru Afrike, kasniji veliki suparnik Rima?",
     "answers": [
-      "Kartaga",
-      "Carthage",
-      "Kartagina",
-      "Carthagine"
+      "Napoleon",
+      "Kir Veliki",
+      "Kartaga"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -5019,19 +4276,11 @@
     "topic": "Povijest",
     "question": "Kojeg se velikog cara, osnivača Maurijskog kraljevstva smatra i prvim pravim carem gotovo cijelog indijskog poluotoka?",
     "answers": [
-      "Čandraguptu",
-      "Čandragupta",
-      "Čandraguptu Maurya",
-      "Čandraguptu Maurija",
-      "Čandragupta Maurya",
-      "Čandragupta Maurija",
-      "Chandraguptu",
-      "Chandragupta",
-      "Sandrokyptos",
-      "Sandrokottos",
-      "Androcottus",
-      "Sandrokiptos"
+      "Španjolske",
+      "Ašoka Veliki",
+      "Čandraguptu"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -5041,12 +4290,11 @@
     "topic": "Povijest",
     "question": "Na kojoj je francuskoj obali 6. lipnja(juna) 1944.g. započela najveća pomorska invazija u povijesti, kojom je otvoreno veliko zapadno bojište protiv Njemačke?",
     "answers": [
-      "Normandiji",
-      "Normandy",
-      "Normandi",
-      "Normandija",
-      "Normandys"
+      "Nurnbergu",
+      "Sargon",
+      "Normandiji"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -5057,17 +4305,10 @@
     "question": "U kojoj je bitci 1809. Napoleon pretrpio prvi veliki osobni poraz na europskom bojištu, nakon što su Austrijanci ugrozili njegove prijelaze preko Dunava?",
     "answers": [
       "Aspern Essling",
-      "Aspern Esling",
-      "Bitka kod Aspern Essling",
-      "Bitka Aspern Essling",
-      "Battle of Aspern Essling",
-      "Aspern Essling Bitka",
-      "Aspern Essling Battle",
-      "Asperna i Esslinga",
-      "Aspern and Essling",
-      "Bitka kod Asperna i Esslinga",
-      "Battle of Aspern i Essling"
+      "Mir u Tilzitu",
+      "Čandragupta"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -5077,32 +4318,11 @@
     "topic": "Povijest",
     "question": "Koji je perzijski kralj u 5. stoljeću pr. Kr. dao dovršiti približno 80 do 85 kilometara dug kanal koji je preko doline Wadi Tumilat povezivao Nil s Crvenim morem, a svoju je gradnju ovjekovječio kamenim stelama postavljenima duž kanala, među ostalim kod Tell el-Maskhute i Kabreta nedaleko od Sueza, s natpisima na staroperzijskom, elamskom, babilonskom i egipatskom jeziku?",
     "answers": [
-      "Darije I. Veliki",
-      "Daria",
-      "Darja",
-      "Dario",
-      "Darijo",
-      "Darija I. Velikog",
-      "Darijo I. Veliki",
-      "Daria I. Velikog",
-      "Daria I. Velikog",
-      "Darijo Prvi",
-      "Dario Prvi",
-      "Daria Prvog",
-      "Darija Prvog",
-      "Darija Prvog Velikog",
-      "Darijo Prvi Veliki",
-      "Dario Veliki",
-      "Darijo Veliki",
-      "Darija Velikog",
-      "Daria Velikog",
-      "Dario the Great",
-      "Dario d Grejt",
-      "Dario First",
-      "Dario Frst",
-      "Darijo 1st",
-      "Darayavahuš"
+      "Nil",
+      "Perzepolis",
+      "Darije I. Veliki"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -5112,10 +4332,11 @@
     "topic": "Povijest",
     "question": "Na kojem je američkom bojnom brodu 2. rujna 1945. potpisana službena japanska predaja kojom je završen Drugi svjetski rat?",
     "answers": [
+      "Patroklo",
       "Missouri",
-      "Mizuri",
-      "Misouri"
+      "Kamikaze"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -5125,8 +4346,11 @@
     "topic": "Povijest",
     "question": "Koji je trojanski princ trebao odlučiti je li najljepša Hera, Atena ili Afrodita?",
     "answers": [
-      "Paris"
+      "Afroditu",
+      "Paris",
+      "Hektor"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -5136,14 +4360,11 @@
     "topic": "Povijest",
     "question": "Pred zidinama kojeg se grada 1799.g. zaustavio Napoleonov pohod kroz Siriju, nakon što ni osam napada nije uspjelo slomiti obranu koju su pomagali Britanci?",
     "answers": [
+      "Kursk",
       "Akre",
-      "Accra",
-      "Acra",
-      "Akra",
-      "Accre",
-      "Accras",
-      "Akras"
+      "Laokont"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -5153,13 +4374,11 @@
     "topic": "Povijest",
     "question": "Koji je iranski narod, zajedno s Babiloncima, 612.g. pr. Kr. osvojio Ninivu i srušio Asirsko Carstvo?",
     "answers": [
-      "Međani",
-      "Medijci",
-      "Medites",
-      "Mediji",
-      "Medijski",
-      "Medijani"
+      "Sargon",
+      "Kir Veliki",
+      "Međani"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -5169,16 +4388,11 @@
     "topic": "Povijest",
     "question": "U kojoj su bitki 1346.g. engleski strijelci dugim lukovima desetkovali francuske napade i Edvardu III. donijeli jednu od prvih velikih pobjeda u Stogodišnjem ratu?",
     "answers": [
-      "Crecy",
-      "Crecy en Ponthieu",
-      "Cressy",
-      "Kresi",
-      "Kreši",
-      "Creši",
-      "Cresi",
-      "Bitka za Crecy",
-      "Battle of Crecy"
+      "Orleans",
+      "Rusko",
+      "Crecy"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -5188,22 +4402,11 @@
     "topic": "Povijest",
     "question": "Koji je španjolski kralj nastojao bogate nizozemske provincije zadržati pod čvrstom katoličkom i kraljevskom kontrolom, ali je njegova politika represije i centralizacije pomogla izazvati pobunu koja će trajati desetljećima?",
     "answers": [
+      "Darije I. Veliki",
       "Filip II.",
-      "Felipe II.",
-      "Filip 2.",
-      "Felipe 2.",
-      "Filip 2nd",
-      "Felipe 2nd",
-      "Filip drugi",
-      "Felipe drugi",
-      "Filip second",
-      "Felipe second",
-      "Philip II.",
-      "Philip 2.",
-      "Philip 2nd",
-      "Philip drugi",
-      "Philip second"
+      "Karlo VII."
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -5213,11 +4416,11 @@
     "topic": "Povijest",
     "question": "Koji je grad Napoleon zauzeo u rujnu 1812., ali ga je zatekao uglavnom napuštenog i ubrzo zahvaćenog velikim požarima?",
     "answers": [
-      "Moskvu",
-      "Moskva",
-      "Moscow",
-      "Moskov"
+      "Niniva",
+      "Berlin",
+      "Moskvu"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -5227,11 +4430,11 @@
     "topic": "Povijest",
     "question": "Koja je sumerska božica ljubavi, plodnosti i rata kasnije postala poznata pod akadskim imenom Ištar?",
     "answers": [
+      "Tiger",
       "Inana",
-      "Inanna",
-      "Inena",
-      "Inene"
+      "Ahejci"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -5241,10 +4444,11 @@
     "topic": "Povijest",
     "question": "Kako se zvala prijestolnica Asirskog Carstva, čije se ruševine danas nalaze pokraj iračkog grada Mosula?",
     "answers": [
-      "Niniva",
-      "Ninive",
-      "Ninue"
+      "Pasargad",
+      "Suza",
+      "Niniva"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -5254,15 +4458,11 @@
     "topic": "Povijest",
     "question": "U kojoj je bitki 1415.g. blatno tlo usporilo francuske oklopljene ratnike dok su engleski strijelci Henrika V. pomogli ostvariti jednu od najslavnijih pobjeda Stogodišnjeg rata?",
     "answers": [
-      "Agincourt",
-      "Ažinkurta",
-      "Ažinkurt",
-      "Agincourta",
-      "Battle of Agincourt",
-      "Batl of Ažinkurt",
-      "Bitka kod Agincourta",
-      "Bitka kod Ažinkurta"
+      "Henrik V.",
+      "Crecy",
+      "Agincourt"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -5273,8 +4473,10 @@
     "question": "Kojeg drevnog sumerskog kralja po klinopisnim zapisima upoznajemo kao jednu trećinu čovjeka a kao dvije trećine boga?",
     "answers": [
       "Gilgameša",
-      "Gilgameš"
+      "Ivana Orleanska",
+      "Ašurbanipal"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -5284,25 +4486,11 @@
     "topic": "Povijest",
     "question": "'Vojnici! S vrha ovih piramida na vas gleda četrdeset stoljeća.'  Slavna je izreka kojeg vojskovođe nakon pobjede kraj piramida 1978.g.?",
     "answers": [
+      "Ašoka Veliki",
       "Napoleona",
-      "Napoleona Bonapartea",
-      "Bonapartea",
-      "Napoleona I. Bonapartea",
-      "Napoleona 1. Bonapartea",
-      "Napoleona prvog Bonapartea",
-      "Napoleona I.",
-      "Napoleona 1.",
-      "Napoleona prvog",
-      "Napoleon",
-      "Napoleon Bonaparte",
-      "Bonaparte",
-      "Napoleon I. Bonaparte",
-      "Napoleon 1. Bonaparte",
-      "Napoleon prvi Bonaparte",
-      "Napoleon I.",
-      "Napoleon 1.",
-      "Napoleon prvi"
+      "Aleksandra Velikog"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -5312,13 +4500,11 @@
     "topic": "Povijest",
     "question": "Koji je sin Hamilkara Barke, osim Hanibala, također bio jedan od glavnih kartaških vojskovođa u Drugom punskom ratu protiv Rimljana?",
     "answers": [
-      "Mago Barka",
-      "Mago",
-      "Magon Barka",
-      "Mago Barca",
-      "Magon Barca",
-      "Magon"
+      "Nizozemske",
+      "Hasdrubal Lijepi",
+      "Mago Barka"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -5328,41 +4514,11 @@
     "topic": "Povijest",
     "question": "Koji je perzijski kralj poveo svoju vojsku na Leonidu kraj Termopila?",
     "answers": [
+      "Henrik V.",
       "Xerkso",
-      "Kserkso",
-      "Xerxo",
-      "Kserxo",
-      "Xerkso prvi",
-      "Kserkso prvi",
-      "Xerxo prvi",
-      "Kserxo prvi",
-      "Xerkso Veliki",
-      "Kserkso Veliki",
-      "Xerxo Veliki",
-      "Kserxo Veliki",
-      "Xerkso I.",
-      "Kserkso I.",
-      "Xerxo I.",
-      "Kserxo I.",
-      "Xerkso 1.",
-      "Kserkso 1.",
-      "Xerxo 1.",
-      "Kserxo 1.",
-      "Xerkso 1. Veliki",
-      "Kserkso 1. Veliki",
-      "Xerxo 1. Veliki",
-      "Kserxo 1. Veliki",
-      "Xerkso Prvi Veliki",
-      "Kserkso Prvi Veliki",
-      "Xerxo Prvi Veliki",
-      "Kserxo Prvi Veliki",
-      "Xerkso First",
-      "Kserkso First",
-      "Xerxo First",
-      "Xerkso 1st",
-      "Kserkso 1st",
-      "Kserxo First"
+      "Termopil"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -5372,13 +4528,11 @@
     "topic": "Povijest",
     "question": "Sidon, Tir i Biblos tri su najpoznatija drevna fenička grada, koja se danas nalaze na području koje države?",
     "answers": [
+      "Kartaga",
       "Libanon",
-      "Libanona",
-      "Lebanon",
-      "Lebanona",
-      "Lebanese",
-      "Libanis"
+      "Pakistan"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -5388,20 +4542,11 @@
     "topic": "Povijest",
     "question": "Koji je kartaški moreplovac i prvi poznati putopisac u svijetu, tijekom 5. stoljeća pr. Kr. predvodio jedno od najranijih dokumentiranih istraživanja zapadne obale Afrike, vjerojatno sve do područja današnjeg Gabona?",
     "answers": [
+      "Britanskog",
       "Hanon Pomorac",
-      "Hanon",
-      "Hano Pomorac",
-      "Hano",
-      "Hannon Pomorac",
-      "Hannon",
-      "Hannon the Navigator",
-      "Hanon the Navigator",
-      "Hanon Navigator",
-      "Hannon Navigejtor",
-      "Hanon d Navigator",
-      "Hanon",
-      "Hanon Moreplovac"
+      "Vilim I. Oranski"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -5412,16 +4557,10 @@
     "question": "Tijekom kojeg je rata u bitki kod Lutzena poginuo veliki švedski kralj Gustav II. Adolf",
     "answers": [
       "Tridesetogodišnjeg",
-      "Tridesetogodišnji",
-      "Thirty years war",
-      "Tirti jirs var",
-      "30ogodišnji",
-      "30",
-      "30 godina",
-      "30 years war",
-      "30 jirs var",
-      "30ogodišnjeg"
+      "Breitenfeld",
+      "Aleksandar Veliki"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -5432,10 +4571,10 @@
     "question": "Perzijski kralj Kserkso I. pošao je u vojni pohod na Grčku kako bi osvetio poraz svog oca, kralja Darija Velikog koji je bitku protiv Grka izgubio kod kojeg mjesta?",
     "answers": [
       "Maratona",
-      "Maraton",
-      "Marathon",
-      "Marathona"
+      "Perzepolis",
+      "Xerkso"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -5446,9 +4585,10 @@
     "question": "U kojem je egipatskom mjestu britanska pobjeda 1942.g. zaustavila napredovanje snaga Osovine prema Aleksandriji i Sueskom kanalu?",
     "answers": [
       "El Alamain",
-      "El Alamejn",
-      "El Alamen"
+      "Guadalcanal",
+      "Trafalgar"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -5458,8 +4598,11 @@
     "topic": "Povijest",
     "question": "Kako se zvala sumerska božica Zemlje, supruga boga An i majka mnogih mezopotamskih božanstava?",
     "answers": [
-      "Ki"
+      "Ki",
+      "ANZAC",
+      "Ninhursag"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -5470,11 +4613,10 @@
     "question": "Koje je prezime nosio francuski general koji je organiziranjem obrane Verduna 1916.g. stekao status nacionalnog junaka, desetljećima prije svoje mnogo kontroverznije uloge u Drugom svjetskom ratu?",
     "answers": [
       "Petain",
-      "Piten",
-      "Pitan",
-      "Petan",
-      "Petin"
+      "Hindenburg",
+      "Karlo V."
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -5484,12 +4626,11 @@
     "topic": "Povijest",
     "question": "Koji je britanski admiral u Bitci na Nilu kod Abukira uništio gotovo cijelu francusku flotu i praktično odsjekao Napoleonovu vojsku u Egiptu od Francuske?",
     "answers": [
+      "Winston Churchill",
       "Sir Horatio Nelson",
-      "Horatio Nelson",
-      "Nelson",
-      "Horacio Nelson",
-      "Sir Horacio Nelson"
+      "Duke of Wellington"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -5500,23 +4641,10 @@
     "question": "Drugi Salomonov hram spalio je tada budući rimski car Tit, a Prvi Salomonov hram gotovo 7 stoljeća ranije spalio je Nabukodonozor II., tada kralj kojeg kraljevstva?",
     "answers": [
       "Novobabilonskog",
-      "Novobabilonsko",
-      "Novog Babilona",
-      "Novi Babilon",
-      "New Babylon",
-      "Nju Babilon",
-      "Babilon",
-      "Babilonskog",
-      "Babylons",
-      "Babilons",
-      "Babylonian",
-      "Babylonia",
-      "Babylonias",
-      "Babilonija",
-      "Babilonijas",
-      "Babilonije",
-      "Babilonija"
+      "Čandraguptu",
+      "Španjolske"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -5526,14 +4654,11 @@
     "topic": "Povijest",
     "question": "Koji je pruski kralj 1756.g. napadom na Sasku pokušao preduhitriti neprijateljsku koaliciju i tijekom sljedećih sedam godina više puta izbjegao potpuni poraz iako je njegova država bila gotovo okružena snažnijim protivnicima?",
     "answers": [
+      "Karlo V. Habzburški",
       "Fridrik II. Hohenzollern",
-      "Fridrik 2.",
-      "Fridrik drugi",
-      "Fridrik 2nd",
-      "Fridrik second",
-      "Fridrik II.",
-      "Fridrik II. Veliki"
+      "Španjolske"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -5543,10 +4668,11 @@
     "topic": "Povijest",
     "question": "Koji je drevni fenički grad, nekoć smješten na otoku, Aleksandar Veliki osvojio nakon sedmomjesečne opsade izgradivši gotovo 800 metara dug nasip kroz more, koji je s vremenom pretvorio otok u poluotok kakav danas poznajemo?",
     "answers": [
+      "Galipolje",
       "Tir",
-      "Tyrus",
-      "Tzor"
+      "Konja"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -5556,15 +4682,11 @@
     "topic": "Povijest",
     "question": "Kako se nazivao golemi francuski sustav utvrda uz njemačku granicu koji je trebao zaustaviti novu njemačku invaziju, ali ga je glavni napad 1940. uglavnom zaobišao?",
     "answers": [
+      "Karlo V. Habzburški",
       "Maginotova linija",
-      "Mažinoova linija",
-      "Mažinovljeva linija",
-      "Maginotova",
-      "Mažinoova",
-      "Mažino",
-      "Magino",
-      "Mažinovljeva"
+      "Operacija Barbarossa"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -5575,11 +4697,10 @@
     "question": "Koju bi babilonsku božicu svaka beba mogla pozvati prilikom izgovaranja svojih prvih riječi?",
     "answers": [
       "Nintu",
-      "Mama",
-      "Mami",
-      "Mamita",
-      "Mamina"
+      "Crecy",
+      "Niniva"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -5590,8 +4711,10 @@
     "question": "Kako se zvao otac boga Anua i jedan od praiskonskih bogova neba u mezopotamskoj mitologiji?",
     "answers": [
       "Anšar",
-      "Anshar"
+      "Kišar",
+      "Zemlje"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -5602,19 +4725,10 @@
     "question": "Koji je austrijski nadvojvoda zapovijedao vojskom koja je porazila Napoleona kod Aspern-Esslinga 1809.g.?",
     "answers": [
       "Nadvojvoda Charles",
-      "Archduke Charles",
-      "Arčdjuk Čarls",
-      "Nadvojvoda Čarls",
-      "Charles",
-      "Čarls",
-      "Karlo",
-      "Nadvojvoda Karlo",
-      "Duke of Techen",
-      "Djuk of Tehen",
-      "Vojvoda od Techena",
-      "Vojvoda od Tehena",
-      "Charles Louis John Joseph Lawrence"
+      "Aleksandar I.",
+      "Bitka kod Waterlooa"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -5624,11 +4738,11 @@
     "topic": "Povijest",
     "question": "Kako se nazivaju monumentalni stepenasti hramovi koje su gradili drevni Sumerani, a kasnije i drugi narodi Mezopotamije, te su služili kao vjerska središta i smatrani prebivalištem zaštitnog božanstva grada?",
     "answers": [
-      "Zigurat",
-      "Zigurati",
-      "Zigurats",
-      "Sigurats"
+      "Libanon",
+      "Perzepolis",
+      "Zigurat"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -5638,29 +4752,11 @@
     "topic": "Povijest",
     "question": "Nad kojom su se državom u ljeto i jesen 1940.g. vodile velike zračne borbe u kojima Luftwaffe nije uspio steći prevlast potrebnu za planiranu njemačku invaziju?",
     "answers": [
+      "Portugal",
       "Velikom Britanijom",
-      "Britanijom",
-      "Britom",
-      "GBRom",
-      "VBom",
-      "Britancima",
-      "Britonsima",
-      "Great Britains",
-      "Grejt Britanis",
-      "Britannises",
-      "Britanis",
-      "Velika Britanija",
-      "Britanija",
-      "Brit",
-      "GBR",
-      "VB",
-      "Britanci",
-      "Britons",
-      "Great Britain",
-      "Grejt Britani",
-      "Britannis",
-      "Britani"
+      "Perzepolis"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -5670,13 +4766,11 @@
     "topic": "Povijest",
     "question": "Iz kojeg je francuskog lučkog grada 1940.g. evakuirano više od 300.000 britanskih i savezničkih vojnika nakon što ih je njemački prodor potisnuo prema obali La Manchea?",
     "answers": [
-      "Dunkerque",
-      "Dankirk",
-      "Dunkirk",
-      "Dunkerquea",
-      "Dankirka",
-      "Dunkirka"
+      "Compiegne",
+      "Friedlanda",
+      "Dunkerque"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -5686,11 +4780,11 @@
     "topic": "Povijest",
     "question": "Kojim je kodnim nazivom Hitler nazvao golemi napad na Sovjetski Savez pokrenut 22. lipnja(juna) 1941.g., najveću kopnenu invaziju u dotadašnjoj povijesti?",
     "answers": [
-      "Operacija Barbarossa",
-      "Barbarossa",
-      "Barbarosa",
-      "Operation Barbarossa"
+      "Albrecht von Wallenstein",
+      "Karlo V. Habzburški",
+      "Operacija Barbarossa"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -5701,14 +4795,10 @@
     "question": "Koji je američki predsjednik napad na Pearl Harbor opisao kao datum koji će živjeti u sramoti i već sljedećeg dana zatražio objavu rata Japanu?",
     "answers": [
       "Franklin Delano Roosevelt",
-      "FDR",
-      "Roosevelt",
-      "Frenklin Roosevelt",
-      "Ruzvelt",
-      "Frenklin Ruzvelt",
-      "Delano Roosevelt",
-      "Delano Ruzvelt"
+      "Hindenburg",
+      "Wilson"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -5718,9 +4808,11 @@
     "topic": "Povijest",
     "question": "Preko koje je rijeke Napoleonova iscrpljena vojska tijekom povlačenja iz Rusije izgradila improvizirane mostove i pod napadima uspjela izbjeći potpuno uništenje?",
     "answers": [
-      "Berezine",
-      "Berezina"
+      "Quebec",
+      "Eufrat",
+      "Berezine"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -5730,13 +4822,11 @@
     "topic": "Povijest",
     "question": "Koji je vojskovođa češkog podrijetla tijekom Tridesetogodišnjeg rata okupio golemu plaćeničku vojsku, postao gotovo nezamjenjiv caru Ferdinandu II. i zatim toliko moćan da je 1634.g. ubijen nakon optužbi za izdaju?",
     "answers": [
-      "Albrecht von Wallenstein",
-      "Albreht von Valenštajn",
-      "Von Wallenstein",
-      "Von Valenštajn",
-      "Wallenstein",
-      "Valenštajn"
+      "Niniva",
+      "Karlo V. Habzburški",
+      "Albrecht von Wallenstein"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -5747,15 +4837,10 @@
     "question": "Koje se veliko srednjoeuropsko carstvo 1918.g. raspalo zajedno s njemačkim, ruskim i osmanskim imperijalnim sustavima, nakon čega su na njegovu prostoru nastale brojne nove države?",
     "answers": [
       "Austro Ugarska",
-      "Austro Ugarsko",
-      "Austrougarska",
-      "Austrougarsko",
-      "Austrijsko",
-      "Austro",
-      "Ugarsko",
-      "Austrija",
-      "Ugarska"
+      "Rajnski Savez",
+      "Karlo V. Habzburški"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -5766,16 +4851,10 @@
     "question": "Na koje je carstvo Napoleonov pohod, započet s nekoliko stotina tisuća vojnika iz brojnih europskih zemalja, završio katastrofalnim povlačenjem i gubitkom većine Velike armije?",
     "answers": [
       "Rusko",
-      "Rusija",
-      "Rus",
-      "Ruskoga",
-      "Ruski",
-      "Russia",
-      "Russias",
-      "Rusias",
-      "Rusiše",
-      "Rosia"
+      "Tri",
+      "Pragu"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -5785,18 +4864,11 @@
     "topic": "Povijest",
     "question": "Koja je država tijekom većeg dijela 1. svjetskog rata svojom nadmoćnom mornaricom održavala pomorsku blokadu Njemačke i pokušavala joj ograničiti dovoz hrane i sirovina?",
     "answers": [
+      "Belgija",
       "Velika Britanija",
-      "Britanija",
-      "Brit",
-      "GBR",
-      "VB",
-      "Britanci",
-      "Britons",
-      "Great Britain",
-      "Grejt Britani",
-      "Britannis",
-      "Britani"
+      "Britanskog"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -5807,16 +4879,10 @@
     "question": "U kojem je stoljeću završio Stogodišnji rat?",
     "answers": [
       "15.",
-      "Petnaestom",
-      "Petnaest",
-      "15om",
-      "15th",
-      "Fifteenth",
-      "Fifteen",
-      "Fiftin",
-      "Fiftint",
-      "XV."
+      "SAD",
+      "14."
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -5826,12 +4892,11 @@
     "topic": "Povijest",
     "question": "Koji je babilonski kralj 586.g. pr. Kr. osvojio Jeruzalem i spalio Salomonov hram?",
     "answers": [
+      "Novobabilonskog",
       "Nabukodonosor II.",
-      "Nabukodonosor 2.",
-      "Nabukodonosor drugi",
-      "Nabukodonosor",
-      "Nebukadnezar"
+      "David"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -5841,15 +4906,11 @@
     "topic": "Povijest",
     "question": "Koji je drevni narod osnovao Kartagu, jedan od najmoćnijih gradova staroga vijeka?",
     "answers": [
-      "Feničani",
-      "Fenics",
-      "Feniks",
-      "Fenic",
-      "Fenik",
-      "Feničanski",
-      "Fenicija",
-      "Fenicijski"
+      "Karkemiš",
+      "Amorejci",
+      "Feničani"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -5859,13 +4920,11 @@
     "topic": "Povijest",
     "question": "Na kojoj je rijeci u travnju(aprilu) 1945.g. došlo do susreta američkih i sovjetskih vojnika koji su napredovali iz suprotnih smjerova kroz Njemačku?",
     "answers": [
+      "Akre",
       "Elbi",
-      "Elba",
-      "Elb",
-      "Elbu",
-      "Elbas",
-      "Elbs"
+      "Nintu"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -5875,17 +4934,11 @@
     "topic": "Povijest",
     "question": "Koji je danski kralj 1625.g. ušao u Tridesetogodišnji rat želeći pomoći protestantskim snagama i povećati svoj utjecaj u sjevernoj Njemačkoj, ali je nakon niza poraza morao odustati od intervencije?",
     "answers": [
-      "Kristijan IV.",
-      "Christian IV.",
-      "Kristijan 4.",
-      "Christian 4.",
-      "Kristijan 4th",
-      "Christian 4th",
-      "Kristijan četvrti",
-      "Christian četvrti",
-      "Kristijan fourth",
-      "Christian fourth"
+      "Karlo VII.",
+      "Xerkso",
+      "Kristijan IV."
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -5895,9 +4948,11 @@
     "topic": "Povijest",
     "question": "Koja se protestantska vjerska struja posebno snažno proširila sjevernim nizozemskim provincijama i dodatno zaoštrila njihov sukob s izrazito katoličkim kraljem španjolske, Filipom II.?",
     "answers": [
+      "Karlo VII.",
       "Kalvinizam",
-      "Calvinism"
+      "Vilim I. Oranski"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -5908,9 +4963,10 @@
     "question": "Kako se naziva događaj iz 1618.g. u kojem su češki protestantski plemići kroz prozor Praškog dvorca izbacili carske predstavnike i time zapalili iskru rata koji će opustošiti velik dio srednje Europe?",
     "answers": [
       "Praška defenestracija",
-      "Defenestration of Prague",
-      "Defenestrejšn of Prag"
+      "Tridesetogodišnji",
+      "Prozore"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -5920,10 +4976,11 @@
     "topic": "Povijest",
     "question": "Koja se rijeka smatrala najistočnijom granicom Ahemenidskog Perzijskog caratva?",
     "answers": [
-      "Ind",
-      "Indus",
-      "Indes"
+      "Mir u Tilzitu",
+      "Herodot",
+      "Ind"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -5933,9 +4990,11 @@
     "topic": "Povijest",
     "question": "Koji je grad 1939.g. bio podijeljen između njemačkih zahtjeva i poljskog pristupa Baltiku, a pod njemačkim imenom Danzig postao jedan od simbola krize koja je prethodila ratu?",
     "answers": [
+      "Magdeburg",
       "Gdanjsk",
-      "Gdansk"
+      "Sarajevu"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -5946,10 +5005,10 @@
     "question": "Četrdesetogodišnja vladavina koje je kraljice ostala upamćena pod pojmom terezijanizam?",
     "answers": [
       "Marije Terezije",
-      "Marija Terezija",
-      "Maria Theresa",
-      "Marie Therese"
+      "Vilim I. Oranski",
+      "Ivana Orleanska"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -5959,12 +5018,11 @@
     "topic": "Povijest",
     "question": "Koji je belgijski grad postao središte američkog otpora tijekom njemačke ofenzive u Ardenima u 2. svjetskom ratu, kada su opkoljenim braniteljima Nijemci ponudili predaju?",
     "answers": [
-      "Bastogne",
-      "Bastonja",
-      "Bastonj",
-      "Baston",
-      "Bastone"
+      "Gdanjsk",
+      "Orleans",
+      "Bastogne"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -5974,12 +5032,11 @@
     "topic": "Povijest",
     "question": "Kako se zvao novobabilonski kralj koji je obnovio Babilon, dao sagraditi monumentalna Ištarina vrata te se prema predaji smatra graditeljem Semiramidinih visećih vrtova, jednog od sedam svjetskih čuda staroga vijeka?",
     "answers": [
+      "Perzepolis",
       "Nabukodonosor II.",
-      "Nabukodonosor 2.",
-      "Nabukodonosor drugi",
-      "Nabukodonosor",
-      "Nebukadnezar"
+      "Salomon"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -5989,17 +5046,11 @@
     "topic": "Povijest",
     "question": "Koji je narod nakon hetitskog osvajanja Babilona oko 1595.g. pr. Kr. preuzeo vlast i vladao Babilonijom gotovo četiri stoljeća?",
     "answers": [
+      "Hetiti",
       "Kasiti",
-      "Kosejci",
-      "Kasites",
-      "Casites",
-      "Kasijci",
-      "Kasićani",
-      "Kosejci",
-      "Kosejćani",
-      "Kasitski",
-      "Kosejski"
+      "Rouen"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -6009,12 +5060,11 @@
     "topic": "Povijest",
     "question": "Savez Treće koalicije u ratu protiv Napoleonove Francuske su činile Velika Britanija, Švedska, Napuljska Kraljevina, Austrija i koje još carstvo?",
     "answers": [
-      "Rusko",
-      "Rusija",
-      "Rusko Carstvo",
-      "Carska Rusija",
-      "Russia"
+      "Karlo V. Habzburški",
+      "Rajnski Savez",
+      "Rusko"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -6024,13 +5074,11 @@
     "topic": "Povijest",
     "question": "Na kojoj su rijeci Britanci i Francuzi 1916.g. pokrenuli veliku ofenzivu kako bi, između ostalog, smanjili njemački pritisak na Verdun, pretvorivši područje u jedno od najkrvavijih bojišta rata?",
     "answers": [
-      "Somma",
-      "Sommi",
-      "Soma",
-      "Somi",
-      "Somme",
-      "Some"
+      "Enigma",
+      "Soču",
+      "Somma"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -6040,13 +5088,11 @@
     "topic": "Povijest",
     "question": "Koji je grčki junak bio gotovo nepobjediv u borbi, ali je zbog svađe s Agamemnonom odbio sudjelovati u najvažnijim bitkama protiv Troje?",
     "answers": [
-      "Ahilej",
-      "Achilles",
-      "Ahilis",
-      "Achiles",
-      "Ahiles",
-      "Aciles"
+      "Trafalgar",
+      "Orleans",
+      "Ahilej"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -6056,11 +5102,11 @@
     "topic": "Povijest",
     "question": "Kod kojeg su mjesta Nijemci 1914., nakon ruskog prodora u Istočnu Prusku, okružili i gotovo uništili jednu rusku armiju te ostvarili jednu od svojih najvećih pobjeda na Istočnom bojištu?",
     "answers": [
+      "Kursk",
       "Tannenberg",
-      "Tannenberga",
-      "Taneberga",
-      "Taneberg"
+      "Henrik V."
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -6070,9 +5116,11 @@
     "topic": "Povijest",
     "question": "Kako se nazivao mali sredozemni otok na koji je Napoleon prvi put prognan, ali s kojeg je nakon manje od godinu dana pobjegao i vratio se u Francusku?",
     "answers": [
+      "Maltu",
       "Elba",
-      "Elb"
+      "Artemizija"
     ],
+    "correctAnswer": "B",
     "image": null
   },
   {
@@ -6083,11 +5131,10 @@
     "question": "Koji je grčki junak, poznat više po domišljatosti nego po sirovoj snazi, osmislio prijevaru s Trojanskim konjem?",
     "answers": [
       "Odisej",
-      "Odusseus",
-      "Odiseus",
-      "Odisseus",
-      "Odisejus"
+      "Ahilej",
+      "Ajant"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -6097,11 +5144,11 @@
     "topic": "Povijest",
     "question": "Koji je akadski vladar porazio Lugalzagesija, osvojio Ur, Uruk, Kiš i Lagaš te osnovao prvo veliko carstvo u povijesti?",
     "answers": [
-      "Sargon",
-      "Šaru Kinu",
-      "Šarukinu",
-      "Šargon"
+      "Kir Veliki",
+      "Međani",
+      "Sargon"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -6112,9 +5159,10 @@
     "question": "Kako se nazivao savez Francuske, Rusije i Velike Britanije koji je stajao nasuprot Centralnim silama u 1. svjetskom ratu?",
     "answers": [
       "Sile Antante",
-      "Antante",
-      "Antanta"
+      "Amiensu",
+      "Rajnski Savez"
     ],
+    "correctAnswer": "A",
     "image": null
   },
   {
@@ -6124,16 +5172,11 @@
     "topic": "Povijest",
     "question": "Tko je 2. Prosinca (Decembra) 1804.g. pred papom Piom VII. uzeo sam sebi krunu u ruke te se sam okrunio u katedrali Notre Dame i tako pokazao da carska titula i sve zasluge za nju proizlaze iz njega samoga?",
     "answers": [
-      "Napoleon",
-      "Napoleon Bonaparte",
-      "Bonaparte",
-      "Napoleon I. Bonaparte",
-      "Napoleon 1. Bonaparte",
-      "Napoleon prvi Bonaparte",
-      "Napoleon I.",
-      "Napoleon 1.",
-      "Napoleon prvi"
+      "Notre Dame",
+      "Pasargad",
+      "Napoleon"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -6143,16 +5186,11 @@
     "topic": "Povijest",
     "question": "Koji je francuz 1797.g. stavio svoj potpis na dokument prozvan Kamformijskim mirom?",
     "answers": [
-      "Napoleon",
-      "Napoleon Bonaparte",
-      "Bonaparte",
-      "Napoleon I. Bonaparte",
-      "Napoleon 1. Bonaparte",
-      "Napoleon prvi Bonaparte",
-      "Napoleon I.",
-      "Napoleon 1.",
-      "Napoleon prvi"
+      "Campoformio",
+      "Eufrat",
+      "Napoleon"
     ],
+    "correctAnswer": "C",
     "image": null
   },
   {
@@ -6162,15 +5200,11 @@
     "topic": "Povijest",
     "question": "Uz obalu koje rijeke su tijekom 4. tisućljeća pr. Kr. nastali a tijekom 3. tisućljeća pr. Kr. dosegli svoj vrhunac, drevni sumerski gradovi Uruk i Ur?",
     "answers": [
-      "Eufrat",
-      "Euphrates",
-      "Eufrates",
-      "Euphrat",
-      "Eufrata",
-      "Eufratesa",
-      "Euphratesa",
-      "Euphrata"
+      "Quebec",
+      "Berezine",
+      "Eufrat"
     ],
+    "correctAnswer": "C",
     "image": null
   }
 ]
